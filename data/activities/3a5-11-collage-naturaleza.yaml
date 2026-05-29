@@ -1,0 +1,33 @@
+id: "3a5-11"
+orden: 11
+edad: "3-5"
+tipo: arte
+titulo: "Collage de hojas y flores"
+gancho: "Pegar hojas, pétalos y ramitas para crear un cuadro lleno de tesoros de la naturaleza."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Hojas, flores, ramitas y semillas recogidas fuera"
+  - "Una cartulina o trozo de cartón"
+  - "Pegamento en barra o cola blanca"
+  - "Lápices o colores"
+preparacion: >
+  Den un paseo corto por el parque, el jardín o la calle y recojan juntos hojas, pétalos y
+  ramitas que les gusten. En casa, despejen la mesa y pongan el pegamento a mano.
+pasos:
+  - "Vacíen los tesoros recogidos sobre la mesa y obsérvenlos: colores, formas y olores."
+  - "Que el peque elija dónde colocar cada elemento sobre la cartulina."
+  - "Ayúdale a poner pegamento y pegar las hojas y flores una a una."
+  - "Que complete el cuadro con dibujos hechos con sus colores alrededor."
+  - "Dejen secar el collage y pónganle un título inventado entre los dos."
+aprendizaje: >
+  Conecta al peque con la naturaleza y sus formas. Recoger, elegir y pegar trabaja la motricidad
+  fina, la observación y la creatividad al componer una obra propia.
+variantes: >
+  Hagan un collage por estación del año, con los colores típicos de cada una. Ordenen las hojas
+  de la más pequeña a la más grande antes de pegarlas.
+seguridad: >
+  Recojan solo elementos del suelo, sin arrancar plantas, y eviten los que tengan espinas o
+  pinchen. Laven las manos al volver del paseo y al terminar.
+imagen: "3a5-11.png"

@@ -1,0 +1,36 @@
+id: "9a12-07"
+orden: 7
+edad: "9-12"
+tipo: recreativa
+titulo: "Fabrica y aprende malabares"
+gancho: "Hazte tus propias pelotas y domina el arte de los tres lanzamientos."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Globos resistentes (3 por pelota)"
+  - "Arroz, lentejas o legumbres secas"
+  - "Una botella de plástico cortada o un embudo de papel"
+  - "Tijeras"
+  - "Una cuchara"
+preparacion: >
+  Reúne los globos y el relleno sobre una mesa. Prepara un embudo enrollando una hoja de
+  papel o usando el cuello de una botella cortada.
+pasos:
+  - "Llena un globo con unas tres cucharadas de arroz usando el embudo. Quita el aire y haz un nudo bien apretado."
+  - "Corta el cuello de un segundo globo y estíralo por encima del primero para cubrir el nudo. Repite con un tercer globo girado para reforzarlo."
+  - "Fabrica tres pelotas iguales del mismo peso. Pruébalas: deben caber en la palma y no rebotar mucho."
+  - "Empieza practicando con una sola pelota: lánzala de una mano a otra en un arco a la altura de los ojos."
+  - "Pasa a dos pelotas: lanza la primera y, cuando esté en lo alto, lanza la segunda por debajo. Practica el intercambio sin que choquen."
+  - "Cuando domines dos, añade la tercera. Practica por tandas cortas y celebra cada pequeño avance."
+aprendizaje: >
+  Entrena la coordinación entre ambas manos, el seguimiento visual y la paciencia. Aprender
+  malabares es un ejemplo claro de cómo la práctica constante mejora una habilidad difícil,
+  reforzando la mentalidad de esfuerzo.
+variantes: >
+  Inventa trucos: lanzar por debajo de la pierna o por la espalda. Practicad en pareja
+  intercambiando pelotas entre dos personas.
+seguridad: >
+  Usa las tijeras con cuidado al cortar los globos y la botella. Practica lejos de objetos
+  frágiles. Guarda los globos sin usar fuera del alcance de niños pequeños.
+imagen: "9a12-07.png"

@@ -1,0 +1,36 @@
+id: "6a8-05"
+orden: 5
+edad: "6-8"
+tipo: recreativa
+titulo: "Circuito de obstáculos casero"
+gancho: "Convierte el salón o el patio en una pista de saltos, túneles y equilibrio."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Cojines y almohadas"
+  - "Sillas"
+  - "Una manta o sábana"
+  - "Hilo o lana"
+  - "Vasos de plástico o botellas vacías"
+  - "Un cronómetro o reloj"
+preparacion: >
+  Despeja una zona segura y aparta objetos que puedan romperse. Decide junto al niño cuántas
+  estaciones tendrá el circuito y reúne los materiales en un montón para ir armándolas.
+pasos:
+  - "Diseñad juntos el recorrido dibujándolo en un papel: por dónde se empieza y por dónde se acaba."
+  - "Montad un túnel pasando una manta sobre dos sillas para gatear por debajo."
+  - "Colocad cojines en el suelo como islas para saltar de uno a otro sin tocar el piso."
+  - "Tensad un hilo entre dos muebles a poca altura para pasar por debajo sin tocarlo."
+  - "Alinead los vasos para esquivarlos en zigzag corriendo entre ellos."
+  - "Cronometrad cada vuelta e intentad mejorar el tiempo en cada intento."
+aprendizaje: >
+  Desarrolla coordinación, equilibrio y planificación del movimiento. Diseñar el recorrido y
+  superar su propio tiempo fomenta el esfuerzo y la confianza en sí mismo.
+variantes: >
+  Añadid una prueba de puntería lanzando una pelota de calcetín a un cubo al final, o haced
+  el circuito por parejas tomados de la mano.
+seguridad: >
+  Retira esquinas duras y suelos resbaladizos. Mantén el hilo a poca altura para evitar
+  tropiezos peligrosos y supervisa los saltos.
+imagen: "6a8-05.png"

@@ -1,0 +1,36 @@
+id: "9a12-06"
+orden: 6
+edad: "9-12"
+tipo: recreativa
+titulo: "Circuito de retos y equilibrio"
+gancho: "Convierte el patio o el pasillo en una pista de obstáculos que pone a prueba tu cuerpo."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Cuerda o cinta adhesiva de papel para marcar líneas"
+  - "Cojines, sillas o cajas como obstáculos"
+  - "Botellas o latas para esquivar"
+  - "Un cronómetro o reloj"
+  - "Papel y lápiz para anotar tiempos"
+preparacion: >
+  Elige un espacio amplio y despejado, dentro o fuera de casa. Retira objetos frágiles del
+  recorrido. Decide cuántas estaciones tendrá el circuito.
+pasos:
+  - "Diseñad juntos el recorrido con varias estaciones: una línea de equilibrio con la cuerda, un zigzag entre botellas, un salto sobre cojines y un tramo a la pata coja."
+  - "Marcad el inicio y la meta. Probad el circuito una vez despacio para comprobar que es seguro y posible."
+  - "Cronometrad el primer intento de cada participante y anotad el tiempo."
+  - "Repetid varias rondas intentando mejorar vuestra propia marca. Comentad qué estación cuesta más y por qué."
+  - "Añadid un reto extra: hacer el recorrido llevando un objeto en equilibrio sobre la mano o la cabeza."
+  - "Al final, rediseñad una estación entre todos para hacerla más difícil y volved a intentarlo."
+aprendizaje: >
+  Mejora la coordinación, el equilibrio y la planificación motriz. Superar la propia marca
+  enseña perseverancia y autosuperación, y diseñar el circuito fomenta la creatividad y el
+  trabajo en equipo.
+variantes: >
+  Convertidlo en relevos por equipos, o añadid pruebas mentales entre estaciones (una
+  pregunta o un cálculo) para combinar cuerpo y mente.
+seguridad: >
+  Despeja el recorrido de muebles con esquinas y objetos que puedan resbalar. Usa calzado
+  con buena suela y supervisa los saltos para evitar caídas.
+imagen: "9a12-06.png"

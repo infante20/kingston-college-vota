@@ -1,0 +1,37 @@
+id: "6a8-02"
+orden: 2
+edad: "6-8"
+tipo: experimento
+titulo: "Cohete de globo por un hilo"
+gancho: "Construye una pista invisible y haz que un globo salga disparado como un cohete."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Un globo alargado"
+  - "Un trozo largo de hilo o lana (3 a 5 metros)"
+  - "Una pajita o canuto de papel enrollado"
+  - "Cinta adhesiva"
+  - "Una pinza de ropa (opcional)"
+preparacion: >
+  Busca dos puntos separados de la habitación para atar el hilo, por ejemplo el respaldo de
+  una silla y la manija de una puerta. Pasa el hilo por dentro de la pajita antes de atar el
+  segundo extremo, dejándolo bien tenso.
+pasos:
+  - "Infla el globo sin hacer el nudo y mantén la boquilla cerrada con los dedos o una pinza."
+  - "Con la ayuda de un adulto, pega el globo a la pajita con dos trozos de cinta, dejando la boquilla hacia un extremo del hilo."
+  - "Desliza el globo hasta el principio de la pista para que tenga todo el recorrido por delante."
+  - "Cuenta hacia atrás: tres, dos, uno y suelta la boquilla del globo."
+  - "Observa cómo el aire que escapa empuja el globo hacia el otro lado del hilo."
+  - "Repetid cambiando la cantidad de aire o la inclinación del hilo y comparad qué cohete llega más lejos."
+aprendizaje: >
+  Muestra el principio de acción y reacción: el aire sale en una dirección y empuja el globo
+  en la contraria, igual que los cohetes de verdad. El niño experimenta con variables y mide
+  resultados.
+variantes: >
+  Organizad una carrera con dos hilos paralelos y dos globos, o colgad un pequeño peso de
+  papel para ver cuánta carga puede transportar el cohete.
+seguridad: >
+  Un adulto debe inflar y atar el hilo en alturas seguras. Guarda los globos rotos lejos de
+  niños pequeños, ya que son peligrosos si se llevan a la boca.
+imagen: "6a8-02.png"

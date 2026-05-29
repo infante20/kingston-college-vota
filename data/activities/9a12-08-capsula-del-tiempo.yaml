@@ -1,0 +1,32 @@
+id: "9a12-08"
+orden: 8
+edad: "9-12"
+tipo: emocional
+titulo: "Cápsula del tiempo"
+gancho: "Guarda un mensaje para tu yo del futuro y ábrelo dentro de un año."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Una caja con tapa o un bote de cristal con cierre hermético"
+  - "Papel y bolígrafo"
+  - "Fotos impresas, dibujos o pequeños objetos con significado"
+  - "Cinta adhesiva y un rotulador"
+preparacion: >
+  Busca un recipiente que cierre bien y un rincón tranquilo para escribir sin prisas. Decide
+  en familia cuándo abriréis la cápsula: dentro de seis meses, un año o más.
+pasos:
+  - "Escribe una carta a tu yo del futuro. Cuenta cómo eres ahora: lo que te gusta, tus amigos, tus miedos y lo que sueñas conseguir."
+  - "Responde a algunas preguntas para comparar luego: ¿cuál es tu canción favorita?, ¿qué quieres ser de mayor?, ¿qué te hace feliz hoy?"
+  - "Reúne objetos que representen este momento de tu vida: una foto, una entrada, un dibujo o una lista de tus series y libros favoritos."
+  - "Si lo hacéis en familia, cada persona prepara su propia carta y un objeto compartido que represente al grupo."
+  - "Guardad todo en la caja, cerradla bien y escribid por fuera la fecha en que está prohibido abrirla."
+  - "Esconded la cápsula en un lugar seguro y apuntad en un calendario el día de la apertura."
+aprendizaje: >
+  Favorece la introspección, la expresión emocional y la conciencia del paso del tiempo.
+  Comparar quién eras con quién serás ayuda a valorar tu propio crecimiento y a reflexionar
+  sobre lo que de verdad importa.
+variantes: >
+  Convertidla en una tradición anual: cada año una cápsula nueva. O escribid cartas cruzadas,
+  una para cada miembro de la familia, que se leerán juntos el día de la apertura.
+imagen: "9a12-08.png"

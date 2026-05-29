@@ -1,0 +1,35 @@
+id: "6a8-10"
+orden: 10
+edad: "6-8"
+tipo: arte
+titulo: "Títeres de cartón con teatro"
+gancho: "Da vida a unos personajes de cartón y monta tu propia función de marionetas."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Cartón o cartulina"
+  - "Tijeras de punta redonda"
+  - "Palitos, lápices o pajitas para los mangos"
+  - "Témperas o rotuladores"
+  - "Cinta adhesiva o pegamento"
+  - "Una caja grande o una mesa para el escenario"
+preparacion: >
+  Decidid juntos una historia sencilla y qué personajes harán falta: quizá un héroe, un
+  animal y un villano. Cubre la mesa para pintar y reúne el cartón en trozos manejables.
+pasos:
+  - "Dibujad cada personaje en el cartón y recortad las siluetas con ayuda si hace falta."
+  - "Pintad y decorad los personajes con caras, ropa y detalles divertidos."
+  - "Pegad un palito por detrás de cada figura para poder sostenerla y moverla."
+  - "Convertid una caja volcada o el borde de una mesa cubierta con tela en el escenario."
+  - "Ensayad la historia poniendo voces distintas a cada títere."
+  - "Presentad la función al resto de la familia como un verdadero teatro."
+aprendizaje: >
+  Fomenta la creatividad, el lenguaje y la expresión oral. Inventar y representar una historia
+  desarrolla la imaginación, la secuencia narrativa y la confianza al hablar en público.
+variantes: >
+  Haced títeres de sombras recortando siluetas y usando una linterna detrás de una sábana, o
+  grabad la función con audio para escucharla después.
+seguridad: >
+  Que el niño use tijeras de punta redonda y un adulto supervise los cortes más difíciles.
+imagen: "6a8-10.png"

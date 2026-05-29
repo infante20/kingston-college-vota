@@ -1,0 +1,32 @@
+id: "9a12-09"
+orden: 9
+edad: "9-12"
+tipo: emocional
+titulo: "Frasco de grandes conversaciones"
+gancho: "Preguntas para hablar de verdad y descubrir lo que cada uno piensa y siente."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un frasco, taza o caja"
+  - "Papel cortado en tiras"
+  - "Bolígrafos para todos"
+  - "Un espacio cómodo para sentarse en círculo"
+preparacion: >
+  Elegid un momento sin prisas y sin pantallas, por ejemplo después de cenar. Sentaos en
+  círculo para que todos podáis veros la cara.
+pasos:
+  - "Cada persona escribe en secreto tres o cuatro preguntas en las tiras de papel. Pueden ser divertidas, curiosas o profundas."
+  - "Mezclad ejemplos para inspiraros: ¿de qué momento estás más orgulloso?, ¿qué cambiarías del mundo?, ¿cuándo te sentiste valiente?, ¿qué te gustaría que supiéramos de ti?"
+  - "Doblad todas las tiras y metedlas en el frasco. Mezcladlas bien."
+  - "Por turnos, cada persona saca una pregunta y la responde con sinceridad. Después, los demás pueden responder también si quieren."
+  - "Acordad una regla de oro: se escucha sin interrumpir y no se juzga ninguna respuesta. Todo lo que se dice se respeta."
+  - "Al terminar, comentad qué pregunta os ha hecho pensar más y guardad el frasco para repetirlo otro día."
+aprendizaje: >
+  Desarrolla la inteligencia emocional, la escucha activa y la capacidad de expresar ideas
+  complejas. Debatir y compartir sentimientos en un entorno seguro fortalece los vínculos y
+  el pensamiento crítico.
+variantes: >
+  Cread frascos temáticos: uno de recuerdos, otro de dilemas para debatir («¿mentirías para
+  ayudar a un amigo?») y otro de sueños a futuro. Invitad a abuelos o amigos a participar.
+imagen: "9a12-09.png"

@@ -1,0 +1,9 @@
+# Intermedios del build (se regeneran con scripts/build.py)
+dist/book.html
+dist/_cover.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

@@ -1,0 +1,33 @@
+/* Tiempo de Calidad — estilos EPUB (reflujable, Kindle) */
+body{font-family:sans-serif; line-height:1.55; color:#33312E;}
+h1,h2,h3{font-family:serif; line-height:1.2;}
+h1{color:#2E7D5B;}
+h2{color:#2E7D5B; border-bottom:2px solid #F2A03D; padding-bottom:.2em; margin-top:1.4em;}
+h3{color:#3E6E94;}
+img{max-width:100%; height:auto; display:block; margin:1em auto; border-radius:8px;}
+
+.act-type{color:#3E6E94; font-weight:bold; text-transform:uppercase; letter-spacing:.05em; font-size:.85em;}
+.act-hook{font-style:italic; color:#7C7873;}
+.act-age{color:#7C7873; font-size:.85em;}
+
+.act-badges{background:#FBF7F0; padding:.6em .8em; border-left:4px solid #2E7D5B; border-radius:6px; margin:1em 0;}
+.badge{display:inline-block; margin-right:1.4em;}
+.badge-label{font-size:.75em; text-transform:uppercase; color:#7C7873; display:block;}
+
+.dots,.squares{display:inline-flex; gap:3px;}
+.dot{width:10px;height:10px;border-radius:50%;border:1.5px solid #E8744F;display:inline-block;}
+.dot.on{background:#E8744F;}
+.sq{width:10px;height:10px;border-radius:2px;border:1.5px solid #3E6E94;display:inline-block;}
+.sq.on{background:#3E6E94;}
+.ico-clock svg,.act-type-ico svg,.type-ico svg{width:18px;height:18px;vertical-align:middle;}
+
+.act-note{padding:.6em .8em; border-radius:6px; margin:.8em 0; font-size:.95em;}
+.act-learn{background:#EAF3EE; border-left:4px solid #2E7D5B;}
+.act-variant{background:#FDF1E6; border-left:4px solid #F2A03D;}
+.act-safety{background:#FBE9E4; border-left:4px solid #E8744F;}
+
+.legend-block{background:#FBF7F0; padding:.8em 1em; border-radius:8px; margin:1em 0;}
+.type-chip{display:inline-block; border:1.5px solid #999; border-radius:999px; padding:.2em .7em; margin:.2em; font-size:.9em;}
+.cover,.title-page,.credits{text-align:center;}
+.divider-age{font-family:serif; font-size:2em; color:#2E7D5B;}
+.divider-lema{color:#E8744F; font-style:italic;}

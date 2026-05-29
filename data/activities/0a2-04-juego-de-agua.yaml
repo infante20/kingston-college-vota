@@ -1,0 +1,32 @@
+id: "0a2-04"
+orden: 4
+edad: "0-2"
+tipo: sensorial
+titulo: "Trasvases de agua"
+gancho: "Recipientes, cucharas y agua para chapotear, llenar y vaciar una y otra vez."
+duracion: "10-20 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un barreño o palangana baja"
+  - "Agua tibia, poca cantidad"
+  - "Vasos, tazas y cucharas de distintos tamaños"
+  - "Una toalla para el suelo"
+preparacion: >
+  Pon una toalla en el suelo y coloca encima el barreño con un poco de agua tibia. Viste al
+  bebé con ropa que se pueda mojar o déjalo en pañal. Llena solo unos dedos de agua.
+pasos:
+  - "Sienta al bebé frente al barreño, siempre a tu lado y a su alcance."
+  - "Muéstrale cómo llenar un vaso y verterlo de nuevo en el agua."
+  - "Deja que chapotee, meta las manos y traslade agua de un recipiente a otro."
+  - "Acompaña con palabras: «lleno», «vacío», «¡splash!». Disfruta del juego sin prisa."
+aprendizaje: >
+  Trabaja la motricidad fina, la coordinación y los conceptos de lleno y vacío. El agua
+  ofrece una experiencia sensorial calmante y muy atractiva.
+variantes: >
+  Añade juguetes que floten o esponjas para exprimir. En verano, hazlo al aire libre para
+  que pueda mojarse más a gusto.
+seguridad: >
+  Nunca dejes al bebé solo cerca del agua, ni un segundo: bastan pocos centímetros para que
+  haya riesgo. Usa poca agua y seca el suelo para evitar resbalones.
+imagen: "0a2-04.png"

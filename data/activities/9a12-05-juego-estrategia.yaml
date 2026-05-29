@@ -1,0 +1,36 @@
+id: "9a12-05"
+orden: 5
+edad: "9-12"
+tipo: juego
+titulo: "Inventa tu juego de estrategia"
+gancho: "Diseña desde cero un juego de mesa con tablero, reglas y fichas propias."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 2
+materiales:
+  - "Cartón o cartulina para el tablero"
+  - "Regla y lápiz"
+  - "Rotuladores"
+  - "Tapones, monedas o botones como fichas"
+  - "Un dado (o un dado de papel hecho a mano)"
+  - "Papel para anotar las reglas"
+preparacion: >
+  Reúne los materiales sobre una mesa amplia. Decidid en familia cuántos jugadores tendrá el
+  juego, eso influirá en el diseño del tablero.
+pasos:
+  - "Acordad el objetivo del juego: llegar a una meta, conquistar casillas, acumular puntos o eliminar fichas rivales."
+  - "Dibujad el tablero en el cartón: un recorrido de casillas, una cuadrícula o zonas a conquistar. Añadid casillas especiales con efectos."
+  - "Escribid las reglas en una hoja: cómo se mueve cada ficha, qué pasa en las casillas especiales y cómo se gana."
+  - "Repartid las fichas y haced una partida de prueba. Anotad qué normas no funcionan o resultan injustas."
+  - "Ajustad las reglas tras probar: equilibrad la suerte y la estrategia para que ganar dependa de pensar, no solo del dado."
+  - "Jugad la versión final y dadle un nombre. Explicádsela a otra persona para comprobar que las reglas se entienden."
+aprendizaje: >
+  Fomenta el pensamiento estratégico, el diseño de sistemas y la negociación. Equilibrar las
+  reglas enseña a probar, fallar y mejorar (iteración), y a escribir instrucciones claras
+  para los demás.
+variantes: >
+  Añadid cartas de evento que cambien el rumbo de la partida, o un modo cooperativo en el
+  que todos jueguen contra el tablero. Cread una versión exprés de cinco minutos.
+seguridad: >
+  Si recortáis el cartón para el tablero o las fichas, usad las tijeras con cuidado.
+imagen: "9a12-05.png"

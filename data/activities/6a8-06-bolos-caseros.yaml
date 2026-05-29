@@ -1,0 +1,34 @@
+id: "6a8-06"
+orden: 6
+edad: "6-8"
+tipo: recreativa
+titulo: "Bolos caseros con botellas"
+gancho: "Arma tu propia bolera con botellas y lanza para tumbarlas todas."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Seis a diez botellas de plástico vacías iguales"
+  - "Un poco de agua, arena o arroz"
+  - "Una pelota o una bola de calcetines"
+  - "Témperas o papeles de colores para decorar"
+  - "Cinta adhesiva para marcar el suelo"
+  - "Papel y lápiz para la puntuación"
+preparacion: >
+  Lava y seca las botellas. Echa un dedo de agua, arena o arroz en cada una para que se
+  mantengan firmes pero caigan al golpearlas. Decoradlas con pintura o pegando números del 1
+  al 10.
+pasos:
+  - "Colocad las botellas en triángulo, como en una bolera de verdad."
+  - "Marcad con cinta una línea de lanzamiento a unos pasos de distancia."
+  - "Cada jugador lanza la pelota rodando para derribar el mayor número de botellas."
+  - "Sumad los puntos según las botellas caídas o los números que llevan escritos."
+  - "Volved a colocar las botellas y dad un segundo tiro en cada turno."
+  - "Anotad los puntos por rondas y proclamad un campeón al final."
+aprendizaje: >
+  Mejora la puntería, el cálculo al sumar puntos y el respeto de turnos. Construir y decorar
+  los bolos suma creatividad antes de empezar a jugar.
+variantes: >
+  Alejad la línea para subir la dificultad, jugad con los ojos vendados guiados por la voz, o
+  poned dentro de las botellas distintos pesos para ver cuáles cuestan más de tumbar.
+imagen: "6a8-06.png"

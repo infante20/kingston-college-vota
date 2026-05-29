@@ -1,0 +1,35 @@
+id: "3a5-03"
+orden: 3
+edad: "3-5"
+tipo: sensorial
+titulo: "Masa blandita casera"
+gancho: "Una masa suave para amasar, aplastar y modelar mil formas con las propias manos."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Harina (2 tazas)"
+  - "Sal fina (media taza)"
+  - "Agua tibia (poco a poco)"
+  - "Una cucharada de aceite"
+  - "Colorante o jugo (opcional)"
+  - "Un bol grande"
+preparacion: >
+  Mezcla en el bol la harina con la sal. Ten el agua tibia y el aceite a mano. Despeja la mesa
+  y, si quieres, cúbrela con un mantel para amasar con libertad.
+pasos:
+  - "Pide al peque que mezcle con las manos la harina y la sal en el bol."
+  - "Añadan el aceite y, poco a poco, un chorrito de agua mientras amasan juntos."
+  - "Sigan agregando agua de a poco hasta que la masa no se pegue y quede blandita."
+  - "Si quieren color, hagan un huequito, pongan unas gotas de colorante y amasen hasta repartirlo."
+  - "Ahora a jugar: hagan bolitas, churros, animales o aplástenla con las palmas."
+aprendizaje: >
+  Trabaja el tacto y la fuerza de las manos, base para luego sostener el lápiz. Amasar calma,
+  concentra y permite crear sin reglas, valorando el proceso por encima del resultado.
+variantes: >
+  Guarden la masa en un recipiente cerrado para usarla otros días. Escondan dentro botones o
+  bolitas de papel para buscarlos como tesoros.
+seguridad: >
+  Lleva mucha sal, así que no es para comer. Supervisa a los más pequeños para que no se la lleven
+  a la boca y laven las manos al terminar.
+imagen: "3a5-03.png"

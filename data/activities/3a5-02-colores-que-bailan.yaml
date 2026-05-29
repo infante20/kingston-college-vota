@@ -1,0 +1,35 @@
+id: "3a5-02"
+orden: 2
+edad: "3-5"
+tipo: experimento
+titulo: "Los colores que bailan"
+gancho: "Gotas de colorante que se persiguen y se mezclan en un plato de leche, como por arte de magia."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un plato hondo o llano"
+  - "Leche (la suficiente para cubrir el fondo)"
+  - "Colorantes o jugos de varios colores"
+  - "Una gota de jabón lavavajillas"
+  - "Un palillo, hisopo o cuchara"
+preparacion: >
+  Sirve leche en el plato hasta cubrir bien el fondo y deja que repose un momento para que
+  quede quieta. Ten cerca los colorantes y el jabón. Coloca el plato sobre la mesa, a la altura
+  del peque.
+pasos:
+  - "Pidan turnos para dejar caer unas gotas de cada color sobre la leche, separadas entre sí."
+  - "Observen cómo las gotas se quedan flotando sin mezclarse."
+  - "Moja la punta del palillo en una gota de jabón."
+  - "Toca el centro de la leche con el palillo y observen cómo los colores salen disparados y bailan."
+  - "Vuelvan a tocar en otros puntos para crear nuevos remolinos de colores."
+aprendizaje: >
+  Muestra de forma visual que el jabón cambia la manera en que se comporta la leche, creando
+  movimiento. Desarrolla la observación, la paciencia y el asombro por lo que ocurre.
+variantes: >
+  Prueben con leche entera y con agua para comparar qué pasa en cada una. Usen solo dos colores
+  y vean qué color nuevo aparece donde se encuentran.
+seguridad: >
+  El jabón y la leche con colorante no son para beber. Supervisa el uso del palillo para que no
+  se lo lleve a la boca ni se pinche.
+imagen: "3a5-02.png"
