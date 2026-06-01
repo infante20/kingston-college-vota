@@ -2,15 +2,15 @@ id: "9a12-01"
 orden: 1
 edad: "9-12"
 tipo: experimento
-titulo: "Cromatografía con rotuladores"
-gancho: "Descubre que el negro de un rotulador esconde muchos colores ocultos."
+titulo: "Cromatografía con plumones"
+gancho: "Descubre que el negro de un plumón esconde muchos colores ocultos."
 duracion: "45-60 min"
 dif_prep: 1
 dif_materiales: 1
 materiales:
   - "Filtros de café o papel absorbente de cocina"
-  - "Rotuladores lavables de varios colores (sobre todo negro y marrón)"
-  - "Vasos de cristal o tazas"
+  - "Plumones lavables de varios colores (sobre todo negro y café)"
+  - "Vasos de vidrio o tazas"
   - "Agua"
   - "Lápices o palillos para colgar el papel"
   - "Tijeras"
@@ -18,20 +18,20 @@ preparacion: >
   Corta el papel de filtro en tiras de unos 3 cm de ancho y 12 cm de largo. Prepara una tira
   por cada color que quieras investigar. Llena los vasos con un dedo de agua.
 pasos:
-  - "Con cada rotulador, dibuja un punto grueso a unos 2 cm del extremo inferior de una tira. Anota qué color usaste en la parte de arriba con lápiz."
+  - "Con cada plumón, dibuja un punto grueso a unos 2 cm del extremo inferior de una tira. Anota qué color usaste en la parte de arriba con lápiz."
   - "Enrolla el extremo superior de la tira en un lápiz y apóyalo sobre el borde del vaso, de modo que la punta de abajo toque el agua pero el punto de tinta quede por encima."
   - "Observa cómo el agua sube por el papel y arrastra la tinta. Predice antes qué colores crees que aparecerán."
   - "Espera entre 10 y 20 minutos sin mover el vaso y mira cómo cada tinta se separa en bandas de distintos colores."
   - "Saca las tiras, déjalas secar y compáralas. Discute por qué el negro se separó en tantos colores y otros no."
-  - "Investiga en familia: ¿por qué algunos pigmentos suben más que otros? Apunta vuestras hipótesis."
+  - "Investiga en familia: ¿por qué algunos pigmentos suben más que otros? Anota sus hipótesis."
 aprendizaje: >
   Introduce el método científico (predecir, observar, concluir) y la idea de que muchas
   mezclas se pueden separar. Cada pigmento viaja a distinta velocidad según su tamaño y su
   afinidad con el agua, igual que en los laboratorios reales.
 variantes: >
-  Prueba con tinta de bolígrafo no permanente, colorante alimentario o pétalos machacados.
-  Compara rotuladores de distintas marcas para ver cuál tiene más pigmentos.
+  Prueba con tinta de lápiz pasta no permanente, colorante de alimentos o pétalos machacados.
+  Compara plumones de distintas marcas para ver cuál tiene más pigmentos.
 seguridad: >
-  Usa las tijeras con cuidado al cortar el papel. Emplea solo rotuladores lavables, no
-  permanentes ni con disolventes.
+  Usa las tijeras con cuidado al cortar el papel. Usa solo plumones lavables, no
+  permanentes ni con solventes.
 imagen: "9a12-01.png"

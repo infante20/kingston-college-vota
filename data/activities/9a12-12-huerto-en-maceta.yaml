@@ -2,16 +2,16 @@ id: "9a12-12"
 orden: 12
 edad: "9-12"
 tipo: naturaleza
-titulo: "Tu huerto en maceta"
+titulo: "Tu huerto en macetero"
 gancho: "Cultiva tus propias plantas aromáticas y observa cómo crecen día a día."
 duracion: "45-60 min"
 dif_prep: 2
 dif_materiales: 2
 materiales:
-  - "Una maceta, una jardinera o recipientes reciclados con agujeros en el fondo"
+  - "Un macetero, una jardinera o recipientes reciclados con agujeros en el fondo"
   - "Tierra para plantar"
-  - "Semillas o esquejes (albahaca, perejil, lentejas, ajo o hueso de aguacate)"
-  - "Una regadera o una botella con agujeritos en el tapón"
+  - "Semillas o gajos (albahaca, perejil, lentejas, ajo o cuesco de palta)"
+  - "Una regadera o una botella con agujeritos en la tapa"
   - "Un cuaderno y lápiz para tu diario de cultivo"
   - "Etiquetas o palitos para marcar cada planta"
 preparacion: >
@@ -19,8 +19,8 @@ preparacion: >
   lugar con luz natural junto a una ventana o en un balcón. Decide qué quieres cultivar.
 pasos:
   - "Llena el recipiente con tierra casi hasta el borde, dejando un par de dedos libres. Aprieta suavemente la superficie."
-  - "Siembra las semillas a la profundidad que indique el sobre (suele ser dos o tres veces su tamaño) o entierra los esquejes con cuidado."
-  - "Riega despacio hasta que la tierra quede húmeda, pero no encharcada. Coloca la maceta donde reciba luz."
+  - "Siembra las semillas a la profundidad que indique el sobre (suele ser dos o tres veces su tamaño) o entierra los gajos con cuidado."
+  - "Riega despacio hasta que la tierra quede húmeda, pero no anegada. Coloca el macetero donde reciba luz."
   - "Marca cada planta con una etiqueta y empieza un diario de cultivo: anota la fecha de siembra y haz un dibujo del estado inicial."
   - "Cuida tu huerto cada día: comprueba la humedad con el dedo y riega solo cuando la tierra esté seca. Registra los cambios en el diario."
   - "Cuando broten las primeras hojas, mide su altura cada semana y compara. Si plantaste hierbas aromáticas, úsalas en la cocina familiar."
@@ -29,9 +29,9 @@ aprendizaje: >
   cultivo y medir el crecimiento desarrolla la observación científica y el cuidado constante
   de un ser vivo a tu cargo.
 variantes: >
-  Haced un experimento: plantad dos macetas iguales y dejad una sin luz o sin riego para
-  comparar. Cread un pequeño huerto colaborativo en el que cada miembro cuide una planta.
+  Hagan un experimento: planten dos maceteros iguales y dejen uno sin luz o sin riego para
+  comparar. Creen un pequeño huerto colaborativo en el que cada miembro cuide una planta.
 seguridad: >
-  Si tenéis que hacer los agujeros de drenaje en el recipiente, que lo haga una persona
+  Si tienen que hacer los agujeros de drenaje en el recipiente, que lo haga una persona
   adulta. Lávate las manos después de manipular la tierra.
 imagen: "9a12-12.png"

@@ -3,7 +3,7 @@ orden: 5
 edad: "3-5"
 tipo: recreativa
 titulo: "El circuito de cojines"
-gancho: "Un recorrido de saltos, gateos y equilibrios montado con cojines y mantas del salón."
+gancho: "Un recorrido de saltos, gateos y equilibrios armado con cojines y mantas del living."
 duracion: "20-30 min"
 dif_prep: 1
 dif_materiales: 1
@@ -13,7 +13,7 @@ materiales:
   - "Sillas (para pasar por debajo)"
   - "Cinta adhesiva o una cuerda para marcar el suelo (opcional)"
 preparacion: >
-  Despeja una zona del salón. Reúne cojines, mantas y un par de sillas. Aparta cualquier objeto
+  Despeja una zona del living. Reúne cojines, mantas y un par de sillas. Aparta cualquier objeto
   con esquinas duras o que se pueda romper alrededor del recorrido.
 pasos:
   - "Coloquen cojines en el suelo como piedras para saltar de uno a otro sin tocar el suelo."
