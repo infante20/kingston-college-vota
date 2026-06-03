@@ -82,6 +82,15 @@ el mismo nombre base en `assets/images/`:
 El build prefiere `.png`/`.jpg` sobre `.svg`, así que tu imagen tiene prioridad
 automáticamente. Vuelve a ejecutar `python scripts/build.py`.
 
+### Plan de imágenes en Canva
+
+`docs/canva-plan.md` contiene la guía de estilo y un **prompt por cada actividad**,
+portada y separadores, listo para generar las ilustraciones en Canva. Se regenera con
+`python scripts/gen_canva_plan.py` (usa los títulos actuales). Para ejecutar el flujo
+completo de Canva (generar → exportar → descargar a `assets/images/<id>.png`) se
+necesita un entorno con **acceso de red Completo** o **Personalizado** incluyendo
+`*.canva.com`; la política **Confiable** por defecto bloquea la CDN de Canva.
+
 ## Notas para KDP
 
 - **Interior:** sube `dist/Tiempo-de-Calidad.pdf`. Tamaño 8.5×11 in. Ajusta los
