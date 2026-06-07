@@ -1,0 +1,35 @@
+id: "3a5-26"
+orden: 26
+edad: "3-5"
+tipo: experimento
+titulo: "La pimienta que huye del jabón"
+gancho: "La pimienta flota tranquila en el agua y arranca asustada apenas asomas un dedo con jabón."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un plato hondo o una fuente"
+  - "Agua de la llave"
+  - "Pimienta molida"
+  - "Un poco de lavalozas en un pocillo"
+preparacion: >
+  Llena el plato con un dedo de agua de la llave y déjalo quieto sobre la mesa para que el agua se
+  calme. Ten la pimienta y el pocillo con lavalozas a mano. Cubre la mesa por si salpica.
+pasos:
+  - "Pide al peque que espolvoree pimienta sobre toda la superficie del agua."
+  - "Observen cómo la pimienta se queda flotando quietita encima del agua."
+  - "Mojen juntos un dedo solo en agua y tóquenla: casi no pasa nada."
+  - "Ahora mojen la punta del dedo en el lavalozas y vuelvan a tocar el centro del agua."
+  - "Miren cómo la pimienta sale disparada hacia los bordes en un instante."
+  - "Conversen sobre por qué la pimienta arrancó tan rápido cuando llegó el jabón."
+aprendizaje: >
+  Introduce la idea de que el agua tiene una piel invisible en la superficie y que el jabón la
+  rompe, así que la pimienta huye. Estimula la observación, la comparación entre el dedo con y sin
+  jabón, y el asombro ante un cambio repentino.
+variantes: >
+  Prueben con sal o con orégano en lugar de pimienta para ver si se mueven igual. Repitan con agua
+  limpia para descubrir que el truco solo funciona cuando el agua no tiene jabón todavía.
+seguridad: >
+  El agua con lavalozas no se toma ni se lleva a los ojos: laven las manos al terminar. Acompaña al
+  peque durante toda la actividad y sequen el piso si cae agua para evitar resbalones.
+imagen: "3a5-26.png"

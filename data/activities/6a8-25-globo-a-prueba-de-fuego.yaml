@@ -1,0 +1,36 @@
+id: "6a8-25"
+orden: 25
+edad: "6-8"
+tipo: experimento
+titulo: "El globo a prueba de fuego"
+gancho: "Acerca una llama a un globo con agua adentro y descubre por qué no explota como uno con solo aire."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Dos globos del mismo tamaño"
+  - "Agua de la llave"
+  - "Una vela"
+  - "Fósforos o un encendedor (los usa una persona adulta)"
+  - "Un balde con agua cerca, por si acaso"
+  - "Un cuaderno para anotar"
+preparacion: >
+  Hagan esta actividad al aire libre o cerca de una llave, con un balde con agua a mano. Inflen un
+  globo solo con aire y amárrenlo. Al otro globo échenle agua de la llave hasta llenar un puño,
+  luego ínflenlo un poco con aire y amárrenlo. Una persona adulta enciende y sostiene la vela.
+pasos:
+  - "Pregunta al niño qué globo cree que va a explotar primero al acercarlo al fuego, y anoten la predicción."
+  - "La persona adulta acerca con cuidado el globo de solo aire a la llama y observan cómo revienta enseguida."
+  - "Ahora la persona adulta acerca la parte del globo que tiene agua a la llama, sin tocar la llama directamente."
+  - "Observen que ese globo no explota, aunque la llama lo esté calentando por debajo."
+  - "Anoten lo que pasó y comparen el resultado con la predicción del comienzo."
+aprendizaje: >
+  Enseña que el agua absorbe gran parte del calor de la llama y mantiene el caucho del globo más frío,
+  así no se rompe. El globo con solo aire no tiene quién absorba el calor, por eso revienta rápido.
+variantes: >
+  Prueben con más o menos agua dentro del globo para ver cuánto aguanta, o toquen con cuidado la parte
+  mojada después para sentir que sigue tibia y no caliente.
+seguridad: >
+  Solo una persona adulta usa la vela y los fósforos. Mantengan el pelo y la ropa lejos de la llama y
+  tengan el balde con agua cerca para apagar cualquier accidente.
+imagen: "6a8-25.png"

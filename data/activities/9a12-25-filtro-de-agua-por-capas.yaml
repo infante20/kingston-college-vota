@@ -1,0 +1,43 @@
+id: "9a12-25"
+orden: 25
+edad: "9-12"
+tipo: experimento
+titulo: "Filtro de agua casero por capas"
+gancho: "Construye un filtro con capas de piedras y arena y mira cómo el agua sucia sale mucho más limpia."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Una botella plástica grande vacía (un adulto le corta la base)"
+  - "Un trozo de algodón o un paño de cocina viejo"
+  - "Arena limpia"
+  - "Piedras pequeñas o gravilla"
+  - "Carbón vegetal molido (el de parrilla, lo prepara un adulto)"
+  - "Un colador para lavar la arena y las piedras"
+  - "Un frasco o vaso de vidrio transparente para recibir el agua"
+  - "Agua sucia preparada con tierra, hojas y un poco de aceite"
+  - "Cuaderno y lápiz pasta para registrar"
+preparacion: >
+  Un adulto corta la base de la botella para que quede como un embudo y se pueda apoyar boca abajo sobre
+  el frasco de vidrio. Lava bien la arena y las piedras con el colador y la llave hasta que el agua salga
+  clara. Prepara en un balde el agua sucia mezclando agua con un poco de tierra, hojas y unas gotas de aceite.
+pasos:
+  - "Escribe tu hipótesis: ¿saldrá el agua totalmente limpia, un poco más clara o igual de sucia?"
+  - "Pon la botella boca abajo sobre el frasco y coloca primero el algodón o paño en el fondo, junto a la boca."
+  - "Agrega una capa de carbón molido, encima una capa de arena y arriba una capa de piedras pequeñas."
+  - "Observa y dibuja tu filtro armado: anota el orden de las capas, de la más fina abajo a la más gruesa arriba."
+  - "Vierte despacio el agua sucia por arriba y observa cómo baja gota a gota a través de cada capa."
+  - "Compara el agua que cae en el frasco con la del balde y anota qué cambió en el color y en las cosas que flotaban."
+  - "Escribe tu conclusión: ¿qué capa crees que atrapó más suciedad y por qué tu hipótesis se cumplió o no?"
+aprendizaje: >
+  Cada capa atrapa partículas de distinto tamaño: las piedras detienen lo más grande, la arena retiene lo
+  fino y el carbón ayuda a quitar olores y algunas impurezas. Esto se parece a como se limpia el agua en una
+  planta de tratamiento, separando lo que no se disuelve. Aprendes que filtrar mejora el aspecto del agua,
+  pero no la deja segura para beber.
+variantes: >
+  Cambia el orden de las capas o saca una de ellas y registra si el agua sale igual de clara. Prueba con
+  más o menos carbón y compara los resultados haciendo un dibujo de cada intento.
+seguridad: >
+  El agua filtrada nunca se bebe, aunque se vea limpia, porque todavía puede tener microbios. El corte de
+  la botella y la preparación del carbón los hace un adulto. Laven las manos al terminar.
+imagen: "9a12-25.png"

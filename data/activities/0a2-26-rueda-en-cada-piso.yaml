@@ -1,0 +1,35 @@
+id: "0a2-26"
+orden: 26
+edad: "0-2"
+tipo: experimento
+titulo: "Rueda en cada piso"
+gancho: "La misma pelota empujada igual, pero en una toalla apenas avanza y en el piso liso se va lejos."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Una pelota grande y segura que ruede bien"
+  - "Una toalla o manta"
+  - "Una alfombra o trozo de género grueso"
+  - "Un espacio de piso liso, como cerámica o madera"
+preparacion: >
+  Despeja un espacio en el suelo y deja a mano la pelota grande. Extiende cerca la toalla y la
+  alfombra para tener tres superficies distintas: piso liso, toalla y alfombra.
+pasos:
+  - "Sienta al bebé frente a ti sobre el piso liso, a un par de pasos de distancia."
+  - "Empuja la pelota hacia él y observen lo lejos y rápido que llega rodando."
+  - "Repite el mismo empuje sobre la toalla y muéstrale que la pelota avanza mucho menos."
+  - "Prueba ahora sobre la alfombra y nombra lo que pasa: «aquí rueda lento»."
+  - "Deja que el bebé empuje la pelota en cada superficie y descubra la diferencia."
+  - "Celebra su sorpresa y vuelve a probar las veces que él quiera."
+aprendizaje: >
+  Experimenta cómo la superficie cambia el movimiento: en lo liso la pelota rueda fácil y en lo
+  rugoso se frena. Trabaja la causa y efecto, la comparación y la coordinación al empujar y
+  atrapar.
+variantes: >
+  Suma una cuarta superficie, como una bandeja firme, o usa una pelota más pequeña pero igual de
+  grande que su puño para comparar cómo rueda en cada piso.
+seguridad: >
+  Usa solo pelotas grandes, sin piezas pequeñas que se suelten, para evitar atragantamiento.
+  Despeja el espacio de objetos con los que pueda golpearse y acompáñalo durante todo el juego.
+imagen: "0a2-26.png"
