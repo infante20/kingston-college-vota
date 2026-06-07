@@ -1,0 +1,31 @@
+id: "0a2-22"
+orden: 22
+edad: "0-2"
+tipo: juego
+titulo: "Pelota de ida y vuelta"
+gancho: "Una pelota que rueda de tus manos a las del bebé y de vuelta, el primer juego de turnos y de compartir."
+duracion: "5-10 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Una pelota blanda y grande"
+  - "Un espacio despejado en el living o el piso"
+preparacion: >
+  Despeja un espacio en el piso y siéntate frente al bebé con las piernas abiertas para que
+  la pelota no se escape. No necesitas más preparación.
+pasos:
+  - "Siéntate frente al bebé, a poca distancia, con la pelota en tus manos."
+  - "Hazla rodar suavemente hacia él diciendo «¡allá va para ti!»."
+  - "Anímalo a devolverla empujándola con las manos: «¡ahora mándamela a mí!»."
+  - "Celebra cada vez que la pelota va y viene, aunque la empuje torcido."
+  - "Repite el ritmo de turnos varias veces mientras mantenga el interés."
+aprendizaje: >
+  Enseña los turnos, la reciprocidad y la espera, primeras bases sociales. Trabaja la
+  coordinación al empujar y atrapar, y el vínculo a través del juego compartido.
+variantes: >
+  Cuando ya gatee o camine, aléjate un poco más para que tenga que ir a buscar la pelota y
+  traerla de vuelta.
+seguridad: >
+  Usa una pelota blanda y grande para evitar atragantamiento y golpes. Juega en un espacio
+  sin objetos duros alrededor y acompáñalo todo el rato.
+imagen: "0a2-22.png"

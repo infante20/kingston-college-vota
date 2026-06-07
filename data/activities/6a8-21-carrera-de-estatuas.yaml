@@ -1,0 +1,31 @@
+id: "6a8-21"
+orden: 21
+edad: "6-8"
+tipo: juego
+titulo: "La carrera de las estatuas"
+gancho: "Avancen sin que los pillen moviéndose: cuando la música pare, todos quedan congelados como estatuas."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un espacio amplio, dentro o al aire libre"
+  - "Algo para marcar la meta: una cuerda, una tiza o un cojín"
+  - "Música o alguien que cante o aplauda el ritmo"
+preparacion: >
+  Despejen el lugar de objetos con los que se puedan tropezar. Marquen una línea de partida en un
+  extremo y la meta en el otro. Expliquen a todos las reglas antes de empezar.
+pasos:
+  - "Una persona se pone de espaldas en la meta y hace de guardián mientras suena la música."
+  - "Mientras hay música, todos avanzan hacia la meta lo más rápido que puedan."
+  - "Cuando la música para, el guardián se da vuelta y todos deben quedar quietos como estatuas."
+  - "Quien sea sorprendido moviéndose vuelve a la línea de partida."
+  - "Gana quien llegue primero a tocar al guardián sin que lo pillen en movimiento."
+aprendizaje: >
+  Ejercita el control del cuerpo, la atención y la capacidad de detenerse a tiempo. Al jugar en grupo,
+  los niños practican respetar turnos y reglas mientras gastan energía.
+variantes: >
+  Pidan que las estatuas tengan poses divertidas o que imiten animales, o jueguen en parejas tomados
+  de la mano para que avancen coordinados.
+seguridad: >
+  Revisen que el piso esté despejado para que nadie se caiga al frenar de golpe.
+imagen: "6a8-21.png"

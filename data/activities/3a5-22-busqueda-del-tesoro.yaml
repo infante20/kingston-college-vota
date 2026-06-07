@@ -1,0 +1,32 @@
+id: "3a5-22"
+orden: 22
+edad: "3-5"
+tipo: juego
+titulo: "La búsqueda del tesoro en casa"
+gancho: "Seguir pistas por toda la casa hasta encontrar un tesoro escondido al final del camino."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Objetos sencillos para esconder como pistas (juguetes, dibujos)"
+  - "Un tesoro final (una fruta rica, un sticker, un abrazo gigante)"
+  - "Una canasta para guardar lo que encuentren"
+preparacion: >
+  Antes de empezar, esconde por la casa varios objetos o dibujos como pistas: cada uno señala
+  dónde está el siguiente. Deja el tesoro en el último escondite, por ejemplo en el living.
+pasos:
+  - "Cuéntale al peque que hay un tesoro escondido y entrégale la primera pista."
+  - "Den pistas con palabras simples: «busca cerca del refrigerador» o «mira bajo el cojín»."
+  - "Acompáñalo a buscar cada objeto y celebren juntos cada hallazgo."
+  - "Sigan las pistas una tras otra recorriendo la casa."
+  - "Al encontrar el tesoro final, festejen el logro con un aplauso."
+aprendizaje: >
+  Desarrolla la atención, la memoria y la comprensión de instrucciones. Buscar y seguir pistas
+  estimula el lenguaje, la orientación en el espacio y la perseverancia.
+variantes: >
+  Hagan pistas con dibujos para que el peque las lea solo. Escondan el tesoro en el patio para
+  jugar al aire libre.
+seguridad: >
+  Escondan las pistas en lugares seguros, sin sillas para trepar ni cajones altos. Acompaña al
+  peque durante toda la búsqueda.
+imagen: "3a5-22.png"

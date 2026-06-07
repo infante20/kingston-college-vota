@@ -1,0 +1,32 @@
+id: "3a5-18"
+orden: 18
+edad: "3-5"
+tipo: experimento
+titulo: "El imán y sus tesoros escondidos"
+gancho: "Un imán explorador que descubre cuáles objetos de la casa se pegan y cuáles no."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 2
+materiales:
+  - "Un imán (puede ser uno del refrigerador resistente)"
+  - "Una canasta con objetos variados (cuchara de metal, lápiz pasta, palo de madera, llave, juguete plástico)"
+  - "Dos cajas o platos para clasificar"
+preparacion: >
+  Junta en la canasta varios objetos seguros: algunos de metal y otros de madera, plástico o tela.
+  Ten dos platos: uno para los que se pegan y otro para los que no.
+pasos:
+  - "Muéstrale el imán al peque y cuéntenle que va a buscar tesoros que se peguen."
+  - "Tomen un objeto de la canasta y acerquen el imán para ver si se pega."
+  - "Pregúntale: ¿se pegó o no? y pongan el objeto en el plato que corresponde."
+  - "Repitan con todos los objetos hasta clasificarlos en dos grupos."
+  - "Miren juntos los dos platos y conversen sobre qué tenían en común los que se pegaron."
+aprendizaje: >
+  Introduce la idea de que el imán atrae algunos metales y otros materiales no. Estimula la
+  clasificación, la predicción y la observación de las cualidades de los objetos.
+variantes: >
+  Salgan a pasear el imán por la casa buscando superficies donde se pegue, como el refrigerador.
+  Escondan objetos de metal en un balde con arroz y rescátenlos con el imán.
+seguridad: >
+  Los imanes pequeños son peligrosos si se tragan: usen uno grande y vigilen al peque. Eviten
+  acercar el imán a aparatos electrónicos.
+imagen: "3a5-18.png"

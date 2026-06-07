@@ -1,0 +1,34 @@
+id: "3a5-14"
+orden: 14
+edad: "3-5"
+tipo: experimento
+titulo: "Flores blancas que cambian de color"
+gancho: "Una flor blanca que amanece pintada de colores como por arte de magia."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 2
+materiales:
+  - "Una o dos flores blancas (clavel o margarita)"
+  - "Vasos transparentes"
+  - "Agua de la llave"
+  - "Colorante de varios colores"
+  - "Una cuchara"
+preparacion: >
+  Llena cada vaso con agua hasta la mitad y agrega bastante colorante a cada uno, un color por
+  vaso, para que el agua quede bien intensa. Ten las flores listas con el tallo cortado.
+pasos:
+  - "Muestra al peque las flores blancas y pregúntale de qué color creen que se pondrán."
+  - "Pongan una flor en cada vaso de agua de color y déjenlas en un lugar tranquilo."
+  - "Observen la flor un rato: todavía no pasa nada, hay que tener paciencia."
+  - "Al día siguiente, miren juntos cómo los pétalos se tiñeron del color del agua."
+  - "Conversen sobre qué color cambió más y celebren el descubrimiento."
+aprendizaje: >
+  Muestra que las plantas beben agua por el tallo y la llevan hasta los pétalos. Enseña a esperar,
+  observar cambios en el tiempo y hacer predicciones sencillas.
+variantes: >
+  Partan un tallo en dos y pongan cada mitad en un color distinto para ver una flor de dos colores.
+  Usen apio o una hoja blanca de repollo para observar lo mismo.
+seguridad: >
+  El colorante mancha la ropa y las manos: usen delantal. No es para beber. El adulto corta los
+  tallos.
+imagen: "3a5-14.png"

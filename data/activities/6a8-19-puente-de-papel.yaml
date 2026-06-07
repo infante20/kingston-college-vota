@@ -1,0 +1,32 @@
+id: "6a8-19"
+orden: 19
+edad: "6-8"
+tipo: experimento
+titulo: "El puente de papel que aguanta peso"
+gancho: "Descubre cómo una simple hoja de papel doblada puede sostener monedas sin caerse."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Varias hojas de papel iguales"
+  - "Dos libros o cajas del mismo alto"
+  - "Monedas o porotos para usar como peso"
+  - "Un cuaderno para anotar"
+preparacion: >
+  Separen los dos libros sobre la mesa dejando un espacio entre ellos, como las dos orillas de un
+  río. Tengan las monedas o porotos en un montón listos para usar como peso de prueba.
+pasos:
+  - "Apoyen una hoja plana entre los dos libros formando un puente y pongan monedas encima hasta que se hunda."
+  - "Anoten cuántas monedas aguantó el puente plano antes de caer."
+  - "Doblen otra hoja en forma de acordeón, con muchos pliegues, y úsenla como nuevo puente."
+  - "Pongan monedas sobre el puente plegado y cuenten cuántas aguanta ahora."
+  - "Comparen los dos resultados en el cuaderno y comenten por qué uno resistió más."
+aprendizaje: >
+  Introduce una idea de ingeniería: la forma cambia la resistencia de un material, y los pliegues
+  reparten el peso mejor que una hoja plana. El niño construye, prueba y mide para sacar conclusiones.
+variantes: >
+  Prueben otras formas, como enrollar el papel en tubos, o alarguen la distancia entre los libros para
+  ver hasta dónde resiste el puente.
+seguridad: >
+  Usen monedas o porotos como peso, no objetos pesados que puedan caer sobre los pies.
+imagen: "6a8-19.png"

@@ -1,0 +1,33 @@
+id: "0a2-21"
+orden: 21
+edad: "0-2"
+tipo: arte
+titulo: "Sellos de esponja"
+gancho: "Esponjas mojadas en pintura que dejan huellas de colores en el papel con solo apretar."
+duracion: "10-15 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Esponjas grandes cortadas en trozos amplios"
+  - "Pintura para dedos no tóxica"
+  - "Hojas grandes de papel"
+  - "Un plato y un mantel o diario para cubrir la mesa"
+preparacion: >
+  Corta las esponjas en trozos grandes, fáciles de agarrar y que no quepan en la boca. Pon un
+  poco de pintura en un plato y cubre la mesa o el piso con diario.
+pasos:
+  - "Sienta al bebé con ropa que se pueda ensuciar, frente al papel."
+  - "Moja una esponja en la pintura y estámpala tú primero para mostrar la huella."
+  - "Dale una esponja al bebé y guía su mano para que apriete sobre el papel."
+  - "Nombra los colores y celebra cada marca: «¡mira, rojo!», «¡otra huella!»."
+  - "Deja que estampe libremente las veces que quiera, cambiando de color."
+aprendizaje: >
+  Estimula la creatividad, el tacto y la coordinación ojo-mano. El bebé descubre la relación
+  causa-efecto: aprieta la esponja y aparece una marca de color.
+variantes: >
+  Usa esponjas con distintas formas para comparar las huellas, o pinta sobre papel pegado a
+  una pared para que estampe de pie.
+seguridad: >
+  Usa solo pintura no tóxica y esponjas grandes para evitar atragantamiento. Vigila que no se
+  las lleve a la boca y supervisa todo el rato.
+imagen: "0a2-21.png"

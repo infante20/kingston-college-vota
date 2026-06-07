@@ -1,0 +1,32 @@
+id: "6a8-23"
+orden: 23
+edad: "6-8"
+tipo: emocional
+titulo: "El termómetro de las emociones"
+gancho: "Dibuja un termómetro especial para medir cómo te sientes y aprender a calmarte cuando subes mucho."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Una hoja grande o cartulina"
+  - "Lápices de colores"
+  - "Un plumón"
+  - "Una pinza de ropa o una flecha de cartón (opcional)"
+preparacion: >
+  Busquen un lugar tranquilo y cómodo para conversar sin apuro. Dibujen juntos en la hoja un
+  termómetro alto y ancho, con espacio para varios niveles de colores.
+pasos:
+  - "Pinten el termómetro de abajo hacia arriba: verde para la calma, amarillo para la inquietud y rojo para el enojo fuerte."
+  - "Conversen sobre qué siente el cuerpo en cada color, como el corazón rápido o las manos apretadas."
+  - "Pidan al niño que señale con la pinza o el dedo en qué color está hoy."
+  - "Inventen juntos una idea para bajar del rojo o el amarillo al verde, como respirar hondo o tomar agua."
+  - "Cuelguen el termómetro en su pieza para usarlo en otros momentos del día."
+aprendizaje: >
+  Ayuda a reconocer y nombrar las emociones y a notar cómo se sienten en el cuerpo. El niño aprende
+  que enojarse es normal y que existen formas de volver a la calma.
+variantes: >
+  Hagan un termómetro para toda la familia, o agreguen dibujos de caras en cada nivel para los más
+  pequeños.
+seguridad: >
+  Acompañen la conversación con calma y sin retar; el objetivo es que el niño se sienta escuchado.
+imagen: "6a8-23.png"

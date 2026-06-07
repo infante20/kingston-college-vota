@@ -1,0 +1,33 @@
+id: "6a8-18"
+orden: 18
+edad: "6-8"
+tipo: experimento
+titulo: "El reloj de sol del patio"
+gancho: "Construye un reloj con un palo y la sombra, y aprende a decir la hora mirando el cielo."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un palo recto o un lápiz largo"
+  - "Un trozo de cartón o un plato de cartón"
+  - "Plastilina o un poco de tierra para afirmar el palo"
+  - "Un plumón"
+  - "Un reloj para comparar la hora"
+preparacion: >
+  Elijan un día soleado y un lugar del patio o la vereda donde dé el sol toda la mañana y la tarde.
+  Esta actividad necesita volver a mirar el reloj cada hora, así que conviene empezar temprano.
+pasos:
+  - "Claven el palo en el centro del cartón con plastilina para que quede bien parado."
+  - "Pongan el cartón al sol y, en cada hora en punto, marquen con el plumón dónde cae la punta de la sombra."
+  - "Escriban junto a cada marca la hora que indica el reloj de verdad."
+  - "A lo largo del día, observen cómo la sombra se mueve y cambia de largo."
+  - "Al día siguiente, prueben adivinar la hora mirando solo la sombra y comprueben con el reloj."
+aprendizaje: >
+  Muestra que el sol parece moverse por el cielo y que la sombra cambia de posición durante el día,
+  como hacían los relojes antiguos. El niño conecta la observación del cielo con la medida del tiempo.
+variantes: >
+  Comparen las marcas de un día de invierno con uno de verano, o hagan un reloj de sol más grande con
+  tiza directamente en el suelo del patio.
+seguridad: >
+  No miren el sol directamente. Usen gorro y protección si van a estar mucho rato al aire libre.
+imagen: "6a8-18.png"

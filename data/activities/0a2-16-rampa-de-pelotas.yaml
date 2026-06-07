@@ -1,0 +1,32 @@
+id: "0a2-16"
+orden: 16
+edad: "0-2"
+tipo: experimento
+titulo: "Rampa de pelotas"
+gancho: "Una tabla inclinada y pelotas que ruedan solas hacia abajo: la gravedad jugando ante los ojos del bebé."
+duracion: "10-15 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Una tabla, bandeja firme o cartón grueso para hacer la rampa"
+  - "Un cojín o caja baja para apoyar e inclinar la rampa"
+  - "Pelotas grandes y seguras o autos de juguete grandes"
+preparacion: >
+  Apoya un extremo de la tabla sobre un cojín o caja baja para formar una rampa suave. Revisa
+  que quede estable y que las pelotas sean grandes, sin piezas pequeñas.
+pasos:
+  - "Sienta al bebé al final de la rampa, donde llegarán las pelotas."
+  - "Coloca una pelota arriba y suéltala diciendo «¿lista? ¡allá va!»."
+  - "Deja que el bebé vea cómo baja sola y la atrape o la persiga al final."
+  - "Ofrécele una pelota para que la ponga él arriba y descubra que también rueda."
+  - "Cambia objetos: prueba con una pelota y con un auto y observa cuál baja más rápido."
+aprendizaje: >
+  Experimenta la gravedad y el movimiento: los objetos bajan solos por la pendiente. Trabaja
+  la anticipación, el seguimiento visual y la coordinación al atrapar.
+variantes: >
+  Cambia la inclinación de la rampa para que las pelotas bajen más lento o más rápido, o usa
+  una toalla en la base para que frenen suave.
+seguridad: >
+  Usa solo pelotas u objetos grandes para evitar atragantamiento. Asegura bien la rampa para
+  que no se vuelque sobre el bebé y acompáñalo durante todo el juego.
+imagen: "0a2-16.png"

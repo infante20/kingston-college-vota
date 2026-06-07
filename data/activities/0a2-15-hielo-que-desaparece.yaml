@@ -1,0 +1,32 @@
+id: "0a2-15"
+orden: 15
+edad: "0-2"
+tipo: experimento
+titulo: "Hielo que desaparece"
+gancho: "Un cubo de hielo grande que se vuelve agua entre las manos tibias del bebé, frío que se escapa."
+duracion: "5-10 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un cubo de hielo grande (de molde grande, nunca pequeño)"
+  - "Una bandeja o plato hondo"
+  - "Una toalla pequeña"
+preparacion: >
+  Prepara con anticipación un hielo grande usando un molde amplio o un vaso, de modo que sea
+  demasiado grande para llevárselo entero a la boca. Tenlo listo en el congelador.
+pasos:
+  - "Sienta al bebé y pon la bandeja con el hielo a su alcance, con la toalla cerca."
+  - "Toca tú primero el hielo y di «¡qué frío!», haciendo un pequeño gesto de sorpresa."
+  - "Guía la mano del bebé para que toque el hielo solo un instante y observa su reacción."
+  - "Muéstrale cómo el hielo deja agua y se hace más chico mientras pasa el tiempo."
+  - "Sécale las manos con la toalla si las siente muy frías y deja que mire cómo se derrite."
+aprendizaje: >
+  Descubre el frío, una temperatura nueva, y observa un cambio de estado: lo sólido se vuelve
+  líquido. Trabaja el tacto, la atención y la noción de transformación.
+variantes: >
+  Congela dentro del hielo una hoja o una fruta grande visible para que el bebé observe cómo
+  aparece a medida que se derrite.
+seguridad: >
+  No dejes el hielo en contacto con la piel más de unos segundos para evitar quemaduras por
+  frío. Usa siempre hielo grande para evitar atragantamiento y supervisa de cerca.
+imagen: "0a2-15.png"

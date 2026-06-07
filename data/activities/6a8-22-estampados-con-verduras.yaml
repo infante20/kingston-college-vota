@@ -1,0 +1,34 @@
+id: "6a8-22"
+orden: 22
+edad: "6-8"
+tipo: arte
+titulo: "Estampados con verduras"
+gancho: "Convierte una papa o una betarraga en un sello y llena el papel de figuras de colores."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Una papa, una betarraga o medio pimentón"
+  - "Témpera de varios colores"
+  - "Un plato para poner la pintura"
+  - "Hojas de papel"
+  - "Un cuchillo (lo usa una persona adulta)"
+  - "Delantal o ropa que se pueda ensuciar"
+preparacion: >
+  Cubran la mesa y pónganse delantal. Una persona adulta corta la papa por la mitad y, si quiere,
+  talla una figura sencilla en la superficie. Echen un poco de témpera de cada color en el plato.
+pasos:
+  - "Mojen la cara plana de la verdura en la témpera, sin cargarla demasiado."
+  - "Apoyen la verdura sobre el papel apretando suave para dejar el estampado."
+  - "Repitan con distintos colores y verduras para crear muchas figuras."
+  - "Combinen los sellos formando guardas, flores o un dibujo libre."
+  - "Dejen secar el papel antes de colgarlo o regalarlo."
+aprendizaje: >
+  Estimula la creatividad y la motricidad fina, y muestra que las formas de la naturaleza sirven para
+  crear arte. El niño experimenta con texturas, colores y repetición de figuras.
+variantes: >
+  Comparen las marcas que deja cada verdura, o usen la betarraga partida para teñir el papel con su
+  jugo natural sin témpera.
+seguridad: >
+  El cuchillo lo usa solo una persona adulta. No coman las verduras una vez pintadas.
+imagen: "6a8-22.png"

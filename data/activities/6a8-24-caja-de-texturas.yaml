@@ -1,0 +1,32 @@
+id: "6a8-24"
+orden: 24
+edad: "6-8"
+tipo: sensorial
+titulo: "Adivina la textura con los ojos cerrados"
+gancho: "Mete la mano en una caja secreta y descubre solo con el tacto qué objeto estás tocando."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Una caja de cartón con tapa"
+  - "Una venda o pañuelo para los ojos"
+  - "Objetos de distintas texturas: una esponja, una piedra lisa, lana, una palta, una cuchara, una hoja"
+  - "Un cuaderno para anotar"
+preparacion: >
+  Una persona adulta hace un agujero en la caja del tamaño de una mano, o simplemente prepara una
+  bolsa de tela. Junten en secreto varios objetos de texturas muy distintas sin que el niño los vea.
+pasos:
+  - "Pónganle la venda al niño o pídanle que cierre bien los ojos."
+  - "Pongan un objeto dentro de la caja y dejen que meta la mano para tocarlo."
+  - "Pídanle que describa lo que siente: si es suave, áspero, frío, duro o blando."
+  - "Que adivine qué objeto es antes de sacarlo y mirarlo."
+  - "Anoten en el cuaderno cuántos adivinó y conversen sobre cuál fue el más difícil."
+aprendizaje: >
+  Agudiza el sentido del tacto y el vocabulario para describir texturas. El niño se concentra en una
+  sola sensación y practica deducir información sin usar la vista.
+variantes: >
+  Cambien de turno para que el niño esconda los objetos y los adultos adivinen, o usen solo objetos de
+  la naturaleza recogidos en un paseo.
+seguridad: >
+  No usen objetos con punta o filo. Revisen que todo lo que entre a la caja sea seguro de tocar.
+imagen: "6a8-24.png"

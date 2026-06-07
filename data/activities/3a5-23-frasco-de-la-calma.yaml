@@ -1,0 +1,34 @@
+id: "3a5-23"
+orden: 23
+edad: "3-5"
+tipo: emocional
+titulo: "El frasco de la calma"
+gancho: "Un frasco con brillos que se mueven despacio y ayudan a respirar y calmarse cuando uno se enoja."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Un frasco plástico con tapa que cierre bien"
+  - "Agua tibia de la llave"
+  - "Cola fría o glicerina"
+  - "Brillos, lentejuelas o purpurina"
+  - "Colorante (opcional)"
+preparacion: >
+  Ten el frasco limpio y seco. Prepara el agua tibia, la cola fría y los brillos a mano. El adulto
+  cierra y sella bien la tapa al final para que no se abra.
+pasos:
+  - "Ayuda al peque a echar agua tibia en el frasco hasta casi llenarlo."
+  - "Agreguen un chorro de cola fría, los brillos y una gota de colorante."
+  - "El adulto cierra muy bien la tapa y la sella para que quede firme."
+  - "Agiten el frasco juntos y observen cómo los brillos suben y bajan despacio."
+  - "Respiren lento mirando los brillos hasta que se asienten, y conversen sobre cómo se sienten."
+aprendizaje: >
+  Entrega una herramienta para reconocer y calmar emociones fuertes. Mirar los brillos y respirar
+  despacio ayuda al peque a tranquilizarse cuando se enoja o se frustra.
+variantes: >
+  Hagan un frasco para cada emoción con colores distintos. Usen el frasco como reloj de espera:
+  cuando los brillos se asienten, llegó el momento de seguir.
+seguridad: >
+  El adulto sella la tapa para que el frasco no se abra. Usen un frasco plástico, no de vidrio,
+  para evitar que se rompa.
+imagen: "3a5-23.png"

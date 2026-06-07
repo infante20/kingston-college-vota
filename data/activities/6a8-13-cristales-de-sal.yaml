@@ -1,0 +1,37 @@
+id: "6a8-13"
+orden: 13
+edad: "6-8"
+tipo: experimento
+titulo: "Cristales de sal que crecen solos"
+gancho: "Prepara agua muy salada y observa cómo, en pocos días, nacen cristales brillantes de la nada."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Sal de cocina"
+  - "Un frasco de vidrio transparente"
+  - "Agua caliente (la prepara una persona adulta)"
+  - "Una cuchara"
+  - "Un trozo de lana o hilo grueso"
+  - "Un lápiz para apoyar sobre el frasco"
+  - "Un cuaderno para anotar los cambios"
+preparacion: >
+  Una persona adulta calienta el agua y la deja en el frasco. Despejen un lugar tranquilo donde
+  el frasco pueda quedar quieto varios días sin que nadie lo mueva. Tengan listo el cuaderno para
+  registrar lo que pase cada jornada.
+pasos:
+  - "Echen sal en el agua caliente cucharada a cucharada, revolviendo, hasta que ya no se disuelva más."
+  - "Aten el trozo de lana a la mitad del lápiz y apóyenlo sobre la boca del frasco para que la lana cuelgue dentro del agua."
+  - "Dejen el frasco quieto en un lugar donde nadie lo toque ni lo mueva."
+  - "Cada día observen la lana y el fondo, y anoten o dibujen en el cuaderno lo que ven crecer."
+  - "Después de varios días, saquen con cuidado la lana cubierta de cristales y mírenla con atención."
+aprendizaje: >
+  Muestra cómo el agua puede guardar mucha sal disuelta y, al evaporarse poco a poco, la sal vuelve
+  a aparecer formando cristales. El niño practica la paciencia y el registro de un experimento que
+  cambia con el tiempo.
+variantes: >
+  Repitan el experimento con azúcar en otro frasco y comparen la forma de los cristales, o agreguen
+  unas gotas de colorante de comida para conseguir cristales de colores.
+seguridad: >
+  El agua caliente la manipula solo una persona adulta. No prueben los cristales ni el agua salada.
+imagen: "6a8-13.png"

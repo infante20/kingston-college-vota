@@ -1,0 +1,33 @@
+id: "3a5-19"
+orden: 19
+edad: "3-5"
+tipo: experimento
+titulo: "Un arcoíris con agua y espejo"
+gancho: "Atrapar la luz del sol con un espejo dentro del agua y pintar la pared de colores."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un plato hondo o balde con agua"
+  - "Un espejo pequeño de mano"
+  - "Un lugar con luz de sol o una linterna"
+  - "Una pared o cartulina blanca"
+preparacion: >
+  Llena el plato con agua de la llave y ubícalo donde entre la luz del sol, cerca de una pared
+  clara. Si no hay sol, ten lista una linterna para usar en una pieza más oscura.
+pasos:
+  - "Pongan el espejo dentro del agua, apoyado de manera inclinada contra el borde del plato."
+  - "Muevan el plato o el espejo hasta que la luz del sol pegue en el espejo."
+  - "Busquen juntos en la pared el arcoíris de colores que aparece reflejado."
+  - "Nombren los colores que ven y muevan el espejo para que el arcoíris baile."
+  - "Conversen sobre cómo el agua y la luz hicieron aparecer los colores."
+aprendizaje: >
+  Muestra que la luz blanca esconde muchos colores y que el agua los separa para formar un arcoíris.
+  Estimula la observación, el nombre de los colores y la curiosidad por la luz.
+variantes: >
+  Usen una linterna en una pieza oscura para hacer el arcoíris sin sol. Soplen suave el agua para
+  ver cómo el arcoíris se mueve con las ondas.
+seguridad: >
+  Nunca miren el sol directamente ni apunten la luz reflejada a los ojos de alguien. Sequen el piso
+  si se moja para evitar resbalones.
+imagen: "3a5-19.png"

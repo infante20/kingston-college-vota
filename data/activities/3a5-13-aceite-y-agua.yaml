@@ -1,0 +1,34 @@
+id: "3a5-13"
+orden: 13
+edad: "3-5"
+tipo: experimento
+titulo: "El aceite y el agua que no se mezclan"
+gancho: "Dos líquidos que se niegan a juntarse y forman burbujas mágicas dentro del vaso."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un vaso transparente alto"
+  - "Agua de la llave"
+  - "Aceite de cocina (medio vaso)"
+  - "Colorante o unas gotas de jugo de betarraga"
+  - "Una cuchara para revolver"
+preparacion: >
+  Llena el vaso hasta la mitad con agua de la llave y déjalo sobre la mesa. Ten a mano el aceite
+  y el colorante. Cubre la superficie con un mantel o diario por si se derrama algo.
+pasos:
+  - "Pide al peque que mire el agua y agreguen juntos unas gotas de colorante para teñirla."
+  - "Ahora dejen caer despacio el aceite dentro del vaso y observen qué pasa."
+  - "Pregúntale dónde quedó el aceite: ¿arriba o abajo del agua?"
+  - "Revuelvan con la cuchara y miren cómo se forman burbujas que vuelven a separarse."
+  - "Dejen el vaso quieto un rato y observen cómo el aceite sube otra vez a la superficie."
+aprendizaje: >
+  Introduce la idea de que algunos líquidos no se mezclan y que el aceite es más liviano que el
+  agua, así que flota. Estimula la observación, la comparación y el vocabulario sobre lo que ven.
+variantes: >
+  Agreguen una pastilla efervescente partida para ver burbujas que suben y bajan como una lámpara
+  de lava. Prueben con agua tibia y fría para comparar.
+seguridad: >
+  El aceite vuelve resbaloso el piso si cae: limpien de inmediato. No es para beber. Hagan la
+  actividad sentados y sobre una superficie fácil de limpiar.
+imagen: "3a5-13.png"

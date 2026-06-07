@@ -1,0 +1,32 @@
+id: "0a2-18"
+orden: 18
+edad: "0-2"
+tipo: experimento
+titulo: "Papel que cae"
+gancho: "Un papel baja flotando despacio y una pelota cae de golpe: dos formas distintas de caer que sorprenden al bebé."
+duracion: "5-10 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Hojas de papel o pañuelos de papel"
+  - "Un objeto liviano y grande que caiga rápido (una pelota de tela)"
+  - "Un espacio despejado"
+preparacion: >
+  Reúne unas hojas de papel y un objeto grande y seguro. No necesitas más preparación que un
+  espacio libre donde el bebé pueda mirar hacia arriba con comodidad.
+pasos:
+  - "Sienta o recuesta al bebé mirando hacia donde dejarás caer las cosas."
+  - "Suelta una hoja de papel desde arriba y dile «¡mira cómo baja despacito!»."
+  - "Deja caer la pelota de tela y compara: «¡esta cayó rapidito!»."
+  - "Repite alternando papel y pelota para que note la diferencia."
+  - "Entrégale un papel para que él lo suelte y observe cómo flota hasta el suelo."
+aprendizaje: >
+  Compara cómo caen objetos livianos y pesados, una primera aproximación a la gravedad y al
+  aire. Trabaja la observación, la anticipación y el seguimiento visual hacia abajo.
+variantes: >
+  Arruga el papel en una bolita y suéltalo: el bebé verá que ahora el mismo papel cae más
+  rápido que cuando estaba estirado.
+seguridad: >
+  Vigila que el bebé no se lleve el papel a la boca, porque puede atragantarse o ahogarse con
+  él. Retira los trozos pequeños y acompáñalo durante todo el juego.
+imagen: "0a2-18.png"

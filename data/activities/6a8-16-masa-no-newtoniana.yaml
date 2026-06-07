@@ -1,0 +1,34 @@
+id: "6a8-16"
+orden: 16
+edad: "6-8"
+tipo: experimento
+titulo: "La masa que es líquida y sólida a la vez"
+gancho: "Prepara una mezcla de maicena y agua que se endurece si la golpeas y se derrite si la dejas quieta."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Maicena (almidón de maíz)"
+  - "Agua"
+  - "Un bol grande"
+  - "Una cuchara"
+  - "Colorante de comida (opcional)"
+  - "Un cuaderno para anotar"
+preparacion: >
+  Cubran la mesa con papel o un mantel viejo porque esta actividad ensucia. Tengan a mano la
+  maicena y un vaso con agua. Si quieren color, mezclen unas gotas de colorante en el agua.
+pasos:
+  - "Echen dos tazas de maicena en el bol y agreguen el agua de a poco mientras revuelven."
+  - "Sigan agregando agua hasta lograr una mezcla que parezca líquida al moverla suave."
+  - "Golpeen la superficie con la mano rápido y noten que se siente dura como un sólido."
+  - "Tomen un poco, apriétenlo formando una bolita y luego abran la mano para verlo derretirse."
+  - "Anoten en el cuaderno qué pasa cuando la tocan rápido y qué pasa cuando la dejan quieta."
+aprendizaje: >
+  Presenta un material curioso que se comporta como sólido cuando recibe fuerza y como líquido cuando
+  está en reposo. El niño explora con las manos y describe lo que observa con sus propias palabras.
+variantes: >
+  Cambien la cantidad de agua para ver cómo varía la textura, o repartan la masa en porciones de
+  distintos colores y mézclenlas.
+seguridad: >
+  No la coman. Boten la mezcla a la basura, nunca por la llave del agua, porque puede tapar la cañería.
+imagen: "6a8-16.png"

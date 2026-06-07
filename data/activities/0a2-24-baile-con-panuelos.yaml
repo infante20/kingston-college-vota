@@ -1,0 +1,32 @@
+id: "0a2-24"
+orden: 24
+edad: "0-2"
+tipo: recreativa
+titulo: "Baile con pañuelos"
+gancho: "Pañuelos livianos que flotan y giran en el aire mientras bailan juntos al ritmo de la música."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Pañuelos o telas livianas y grandes"
+  - "Música suave y alegre"
+  - "Un espacio despejado en el living"
+preparacion: >
+  Despeja un espacio para moverte con seguridad y elige una música tranquila y alegre. Ten a
+  mano un par de pañuelos grandes y livianos.
+pasos:
+  - "Toma al bebé en brazos o siéntalo frente a ti y pon la música."
+  - "Mueve un pañuelo en el aire para que flote y caiga, y nombra «¡arriba!», «¡abajo!»."
+  - "Pásalo suave por sus brazos y mejillas para que sienta la tela."
+  - "Baila meciéndote al ritmo, subiendo y bajando el pañuelo con la música."
+  - "Entrégale un pañuelo para que lo agite y lo mueva a su manera."
+aprendizaje: >
+  Estimula el ritmo, el movimiento y la coordinación, además del seguimiento visual del
+  pañuelo en el aire. El baile compartido refuerza el vínculo y la alegría.
+variantes: >
+  Alterna música rápida y lenta para que el bebé note el cambio de ritmo en tus movimientos y
+  en el vuelo del pañuelo.
+seguridad: >
+  Nunca dejes que el pañuelo cubra la cara del bebé ni se enrede en su cuello. Usa telas
+  grandes y livianas y supervisa todo el rato.
+imagen: "0a2-24.png"
