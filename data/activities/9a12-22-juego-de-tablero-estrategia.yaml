@@ -1,0 +1,37 @@
+id: "9a12-22"
+orden: 22
+edad: "9-12"
+tipo: juego
+titulo: "Torneo de estrategia con tablero casero"
+gancho: "Diseña y juega un torneo de estrategia donde gana quien piensa mejor sus jugadas."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Una cartulina o cartón para el tablero"
+  - "Plumones y regla"
+  - "Fichas (botones, tapas o piedritas de dos colores)"
+  - "Papel y lápiz pasta para anotar puntajes"
+  - "Un dado (opcional)"
+preparacion: >
+  Junten a dos o más jugadores. Sobre la cartulina, dibujen un tablero de cuadrícula (por ejemplo de 8 por
+  8) o el tablero del juego que quieran. Preparen las fichas de dos colores y una hoja para registrar los
+  resultados del torneo.
+pasos:
+  - "Elijan un juego de estrategia para el tablero, como tres en raya ampliado, damas o un juego de captura que inventen ustedes."
+  - "Escriban juntos las reglas con claridad para que todos jueguen igual, incluyendo cómo se gana."
+  - "Jueguen una primera partida de prueba y ajusten las reglas si algo resulta confuso o desequilibrado."
+  - "Armen un torneo: anoten quién juega contra quién y vayan registrando los puntajes en la hoja."
+  - "Después de cada partida, conversen qué estrategia funcionó mejor y qué harían distinto la próxima vez."
+  - "Al final del torneo sumen los puntos, premien al ganador y propongan una mejora a las reglas para la próxima."
+aprendizaje: >
+  Los juegos de estrategia entrenan el pensamiento lógico, la planificación y la capacidad de anticipar las
+  jugadas del otro. Al crear y ajustar las reglas en equipo, también practican negociar, ser justos y
+  aprender de cada partida.
+variantes: >
+  Inventen un juego totalmente nuevo con sus propias piezas y reglas. Agreguen un dado para sumar azar y
+  observen cómo cambia la estrategia. Organicen un campeonato a lo largo de varios días.
+seguridad: >
+  Recuerden que lo importante es disfrutar y respetar al rival, ganen o pierdan. Si alguien se enoja, hagan
+  una pausa y conversen antes de seguir.
+imagen: "9a12-22.png"

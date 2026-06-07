@@ -176,6 +176,102 @@ Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y mode
 Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #2E7D5B. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un bebé o niño pequeño (0-2 años) acompañado por su madre o padre realizando la actividad «Meter y sacar». Una caja y varios objetos para llenar, vaciar y descubrir el placer de aparecer y desaparecer. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
 ```
 
+#### `0a2-13` — ¿Flota o se hunde?  ·  *Experimento*
+- **Archivo:** `assets/images/0a2-13.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un bebé o niño pequeño (0-2 años) acompañado por su madre o padre realizando la actividad «¿Flota o se hunde?». Un balde con agua y objetos del hogar para descubrir cuáles se quedan arriba y cuáles caen al fondo. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `0a2-14` — Sombras mágicas  ·  *Experimento*
+- **Archivo:** `assets/images/0a2-14.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un bebé o niño pequeño (0-2 años) acompañado por su madre o padre realizando la actividad «Sombras mágicas». Con una linterna y una pared, las manos y los juguetes cobran vida en sombras que aparecen y crecen. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `0a2-15` — Hielo que desaparece  ·  *Experimento*
+- **Archivo:** `assets/images/0a2-15.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un bebé o niño pequeño (0-2 años) acompañado por su madre o padre realizando la actividad «Hielo que desaparece». Un cubo de hielo grande que se vuelve agua entre las manos tibias del bebé, frío que se escapa. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `0a2-16` — Rampa de pelotas  ·  *Experimento*
+- **Archivo:** `assets/images/0a2-16.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un bebé o niño pequeño (0-2 años) acompañado por su madre o padre realizando la actividad «Rampa de pelotas». Una tabla inclinada y pelotas que ruedan solas hacia abajo: la gravedad jugando ante los ojos del bebé. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `0a2-17` — Cazar la luz  ·  *Experimento*
+- **Archivo:** `assets/images/0a2-17.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un bebé o niño pequeño (0-2 años) acompañado por su madre o padre realizando la actividad «Cazar la luz». Un espejito refleja el sol y crea un punto de luz que baila por la pared para que el bebé lo persiga. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `0a2-18` — Papel que cae  ·  *Experimento*
+- **Archivo:** `assets/images/0a2-18.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un bebé o niño pequeño (0-2 años) acompañado por su madre o padre realizando la actividad «Papel que cae». Un papel baja flotando despacio y una pelota cae de golpe: dos formas distintas de caer que sorprenden al bebé. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `0a2-19` — Tesoros del jardín  ·  *Naturaleza*
+- **Archivo:** `assets/images/0a2-19.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #5B9E4A. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un bebé o niño pequeño (0-2 años) acompañado por su madre o padre realizando la actividad «Tesoros del jardín». Un paseo lento por el pasto para tocar hojas, sentir la brisa y descubrir el mundo natural con todos los sentidos. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `0a2-20` — Sembrar una semilla  ·  *Naturaleza*
+- **Archivo:** `assets/images/0a2-20.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #5B9E4A. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un bebé o niño pequeño (0-2 años) acompañado por su madre o padre realizando la actividad «Sembrar una semilla». Llenar un macetero con tierra y poner una semilla para esperar juntos a que la planta despierte. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `0a2-21` — Sellos de esponja  ·  *Arte y manualidades*
+- **Archivo:** `assets/images/0a2-21.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #F2A03D. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un bebé o niño pequeño (0-2 años) acompañado por su madre o padre realizando la actividad «Sellos de esponja». Esponjas mojadas en pintura que dejan huellas de colores en el papel con solo apretar. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `0a2-22` — Pelota de ida y vuelta  ·  *Juego*
+- **Archivo:** `assets/images/0a2-22.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #2E7D5B. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un bebé o niño pequeño (0-2 años) acompañado por su madre o padre realizando la actividad «Pelota de ida y vuelta». Una pelota que rueda de tus manos a las del bebé y de vuelta, el primer juego de turnos y de compartir. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `0a2-23` — Masaje con canción  ·  *Conexión emocional*
+- **Archivo:** `assets/images/0a2-23.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #D24D6E. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un bebé o niño pequeño (0-2 años) acompañado por su madre o padre realizando la actividad «Masaje con canción». Caricias suaves al ritmo de una canción para que el bebé se relaje y sienta tu cariño en la piel. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `0a2-24` — Baile con pañuelos  ·  *Recreativa / Motriz*
+- **Archivo:** `assets/images/0a2-24.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #E8744F. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un bebé o niño pequeño (0-2 años) acompañado por su madre o padre realizando la actividad «Baile con pañuelos». Pañuelos livianos que flotan y giran en el aire mientras bailan juntos al ritmo de la música. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
 
 ### 3 a 5 años
 
@@ -273,6 +369,102 @@ Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y mode
 
 ```text
 Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #5B9E4A. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad preescolar (3-5 años) realizando la actividad «Safari de bichos en el jardín». Salir de exploradores con una lupa de cartón a descubrir los bichitos que viven cerca de casa. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `3a5-13` — El aceite y el agua que no se mezclan  ·  *Experimento*
+- **Archivo:** `assets/images/3a5-13.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad preescolar (3-5 años) realizando la actividad «El aceite y el agua que no se mezclan». Dos líquidos que se niegan a juntarse y forman burbujas mágicas dentro del vaso. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `3a5-14` — Flores blancas que cambian de color  ·  *Experimento*
+- **Archivo:** `assets/images/3a5-14.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad preescolar (3-5 años) realizando la actividad «Flores blancas que cambian de color». Una flor blanca que amanece pintada de colores como por arte de magia. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `3a5-15` — La vela que se apaga bajo el vaso  ·  *Experimento*
+- **Archivo:** `assets/images/3a5-15.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad preescolar (3-5 años) realizando la actividad «La vela que se apaga bajo el vaso». Una vela encendida que se apaga sola cuando le tapamos el aire con un vaso. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `3a5-16` — El globo que se infla solo  ·  *Experimento*
+- **Archivo:** `assets/images/3a5-16.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad preescolar (3-5 años) realizando la actividad «El globo que se infla solo». Un globo que se infla sin soplar, empujado por las burbujas de una mezcla mágica. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `3a5-17` — Semillas que germinan en algodón  ·  *Experimento*
+- **Archivo:** `assets/images/3a5-17.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad preescolar (3-5 años) realizando la actividad «Semillas que germinan en algodón». Plantar porotos en algodón y descubrir cada día cómo les crece una raíz y una hojita. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `3a5-18` — El imán y sus tesoros escondidos  ·  *Experimento*
+- **Archivo:** `assets/images/3a5-18.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad preescolar (3-5 años) realizando la actividad «El imán y sus tesoros escondidos». Un imán explorador que descubre cuáles objetos de la casa se pegan y cuáles no. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `3a5-19` — Un arcoíris con agua y espejo  ·  *Experimento*
+- **Archivo:** `assets/images/3a5-19.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad preescolar (3-5 años) realizando la actividad «Un arcoíris con agua y espejo». Atrapar la luz del sol con un espejo dentro del agua y pintar la pared de colores. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `3a5-20` — Paseo para coleccionar tesoros de la naturaleza  ·  *Naturaleza*
+- **Archivo:** `assets/images/3a5-20.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #5B9E4A. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad preescolar (3-5 años) realizando la actividad «Paseo para coleccionar tesoros de la naturaleza». Salir con una canasta a juntar hojas, piedritas y palitos para armar una colección propia. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `3a5-21` — Pintura suavecita con espuma  ·  *Sensorial*
+- **Archivo:** `assets/images/3a5-21.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #7E57A6. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad preescolar (3-5 años) realizando la actividad «Pintura suavecita con espuma». Pintar con nubes de espuma blandita que se sienten frías y mullidas en las manos. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `3a5-22` — La búsqueda del tesoro en casa  ·  *Juego*
+- **Archivo:** `assets/images/3a5-22.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #2E7D5B. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad preescolar (3-5 años) realizando la actividad «La búsqueda del tesoro en casa». Seguir pistas por toda la casa hasta encontrar un tesoro escondido al final del camino. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `3a5-23` — El frasco de la calma  ·  *Conexión emocional*
+- **Archivo:** `assets/images/3a5-23.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #D24D6E. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad preescolar (3-5 años) realizando la actividad «El frasco de la calma». Un frasco con brillos que se mueven despacio y ayudan a respirar y calmarse cuando uno se enoja. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `3a5-24` — Cuadros con burbujas de colores  ·  *Arte y manualidades*
+- **Archivo:** `assets/images/3a5-24.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #F2A03D. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad preescolar (3-5 años) realizando la actividad «Cuadros con burbujas de colores». Soplar burbujas de colores que estallan sobre el papel y dejan dibujos sorprendentes. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
 ```
 
 
@@ -374,6 +566,102 @@ Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y mode
 Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad escolar (6-8 años) realizando la actividad «El globo con electricidad mágica». Frota un globo en tu pelo y haz que mueva cosas sin tocarlas. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
 ```
 
+#### `6a8-13` — Cristales de sal que crecen solos  ·  *Experimento*
+- **Archivo:** `assets/images/6a8-13.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad escolar (6-8 años) realizando la actividad «Cristales de sal que crecen solos». Prepara agua muy salada y observa cómo, en pocos días, nacen cristales brillantes de la nada. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `6a8-14` — Lámpara de lava casera  ·  *Experimento*
+- **Archivo:** `assets/images/6a8-14.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad escolar (6-8 años) realizando la actividad «Lámpara de lava casera». Mezcla aceite, agua y una pastilla efervescente para ver burbujas de color que suben y bajan como lava. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `6a8-15` — Mensajes secretos con tinta invisible  ·  *Experimento*
+- **Archivo:** `assets/images/6a8-15.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad escolar (6-8 años) realizando la actividad «Mensajes secretos con tinta invisible». Escribe un mensaje con jugo de limón y míralo aparecer como por arte de magia con un poco de calor. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `6a8-16` — La masa que es líquida y sólida a la vez  ·  *Experimento*
+- **Archivo:** `assets/images/6a8-16.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad escolar (6-8 años) realizando la actividad «La masa que es líquida y sólida a la vez». Prepara una mezcla de maicena y agua que se endurece si la golpeas y se derrite si la dejas quieta. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `6a8-17` — Los colores escondidos de los plumones  ·  *Experimento*
+- **Archivo:** `assets/images/6a8-17.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad escolar (6-8 años) realizando la actividad «Los colores escondidos de los plumones». Descubre que un plumón negro guarda varios colores escondidos que el agua puede separar. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `6a8-18` — El reloj de sol del patio  ·  *Experimento*
+- **Archivo:** `assets/images/6a8-18.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad escolar (6-8 años) realizando la actividad «El reloj de sol del patio». Construye un reloj con un palo y la sombra, y aprende a decir la hora mirando el cielo. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `6a8-19` — El puente de papel que aguanta peso  ·  *Experimento*
+- **Archivo:** `assets/images/6a8-19.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad escolar (6-8 años) realizando la actividad «El puente de papel que aguanta peso». Descubre cómo una simple hoja de papel doblada puede sostener monedas sin caerse. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `6a8-20` — La planta que busca la luz  ·  *Naturaleza*
+- **Archivo:** `assets/images/6a8-20.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #5B9E4A. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad escolar (6-8 años) realizando la actividad «La planta que busca la luz». Cultiva un poroto y observa cómo el tallo se inclina solo hacia la ventana para buscar el sol. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `6a8-21` — La carrera de las estatuas  ·  *Juego*
+- **Archivo:** `assets/images/6a8-21.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #2E7D5B. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad escolar (6-8 años) realizando la actividad «La carrera de las estatuas». Avancen sin que los pillen moviéndose: cuando la música pare, todos quedan congelados como estatuas. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `6a8-22` — Estampados con verduras  ·  *Arte y manualidades*
+- **Archivo:** `assets/images/6a8-22.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #F2A03D. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad escolar (6-8 años) realizando la actividad «Estampados con verduras». Convierte una papa o una betarraga en un sello y llena el papel de figuras de colores. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `6a8-23` — El termómetro de las emociones  ·  *Conexión emocional*
+- **Archivo:** `assets/images/6a8-23.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #D24D6E. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad escolar (6-8 años) realizando la actividad «El termómetro de las emociones». Dibuja un termómetro especial para medir cómo te sientes y aprender a calmarte cuando subes mucho. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `6a8-24` — Adivina la textura con los ojos cerrados  ·  *Sensorial*
+- **Archivo:** `assets/images/6a8-24.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #7E57A6. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un niño o niña en edad escolar (6-8 años) realizando la actividad «Adivina la textura con los ojos cerrados». Mete la mano en una caja secreta y descubre solo con el tacto qué objeto estás tocando. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
 
 ### 9 a 12 años
 
@@ -471,5 +759,101 @@ Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y mode
 
 ```text
 Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #5B9E4A. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un preadolescente (9-12 años) realizando la actividad «Tu huerto en macetero». Cultiva tus propias plantas aromáticas y observa cómo crecen día a día. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `9a12-13` — Indicador de pH con repollo morado  ·  *Experimento*
+- **Archivo:** `assets/images/9a12-13.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un preadolescente (9-12 años) realizando la actividad «Indicador de pH con repollo morado». Crea un líquido mágico que cambia de color y te dice si algo es ácido o básico. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `9a12-14` — Extrae el ADN de una frutilla  ·  *Experimento*
+- **Archivo:** `assets/images/9a12-14.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un preadolescente (9-12 años) realizando la actividad «Extrae el ADN de una frutilla». Saca con tus propias manos el hilo de ADN que guarda toda la información de una frutilla. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `9a12-15` — Electroimán casero  ·  *Experimento*
+- **Archivo:** `assets/images/9a12-15.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un preadolescente (9-12 años) realizando la actividad «Electroimán casero». Convierte un clavo en un imán que puedes encender y apagar con una pila. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `9a12-16` — Cohete de vinagre y bicarbonato  ·  *Experimento*
+- **Archivo:** `assets/images/9a12-16.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un preadolescente (9-12 años) realizando la actividad «Cohete de vinagre y bicarbonato». Lanza un cohete al aire usando solo una reacción química y mucha presión. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `9a12-17` — El huevo flotante y la densidad  ·  *Experimento*
+- **Archivo:** `assets/images/9a12-17.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un preadolescente (9-12 años) realizando la actividad «El huevo flotante y la densidad». Haz que un huevo flote en el agua sin tocarlo, solo cambiando el líquido. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `9a12-18` — Circuitos en serie y en paralelo  ·  *Experimento*
+- **Archivo:** `assets/images/9a12-18.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un preadolescente (9-12 años) realizando la actividad «Circuitos en serie y en paralelo». Arma tus propios circuitos y descubre por qué unas ampolletas brillan más que otras. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `9a12-19` — El péndulo y su ritmo secreto  ·  *Experimento*
+- **Archivo:** `assets/images/9a12-19.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un preadolescente (9-12 años) realizando la actividad «El péndulo y su ritmo secreto». Descubre qué hace que un péndulo vaya más rápido o más lento, como un detective de la física. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `9a12-20` — El puente que resiste más peso  ·  *Experimento*
+- **Archivo:** `assets/images/9a12-20.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #3E6E94. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un preadolescente (9-12 años) realizando la actividad «El puente que resiste más peso». Ponte el casco de ingeniero y construye un puente de papel que aguante todo el peso posible. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `9a12-21` — Diario de naturaleza y aves  ·  *Naturaleza*
+- **Archivo:** `assets/images/9a12-21.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #5B9E4A. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un preadolescente (9-12 años) realizando la actividad «Diario de naturaleza y aves». Conviértete en explorador y registra las aves y plantas de tu barrio como un científico de campo. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `9a12-22` — Torneo de estrategia con tablero casero  ·  *Juego*
+- **Archivo:** `assets/images/9a12-22.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #2E7D5B. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un preadolescente (9-12 años) realizando la actividad «Torneo de estrategia con tablero casero». Diseña y juega un torneo de estrategia donde gana quien piensa mejor sus jugadas. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `9a12-23` — Diseña tu identidad visual  ·  *Arte y manualidades*
+- **Archivo:** `assets/images/9a12-23.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #F2A03D. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un preadolescente (9-12 años) realizando la actividad «Diseña tu identidad visual». Crea tu propio logo, colores y tipo de letra como un verdadero diseñador de marcas. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
+```
+
+#### `9a12-24` — Termómetro de emociones  ·  *Conexión emocional*
+- **Archivo:** `assets/images/9a12-24.png`
+- **Prompt:**
+
+```text
+Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. Fondo crema #FBF7F0, color de acento principal #D24D6E. Paleta cálida y natural (verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D). Composición horizontal (banner apaisado) con márgenes generosos. Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, SIN números, SIN logotipos. Tema: un preadolescente (9-12 años) realizando la actividad «Termómetro de emociones». Construye un termómetro para medir y entender lo que sientes, igual que mides la temperatura. Muestra la acción de forma clara y simpática, con los materiales caseros característicos de la actividad.
 ```
 

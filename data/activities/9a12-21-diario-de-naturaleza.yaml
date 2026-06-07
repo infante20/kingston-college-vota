@@ -1,0 +1,38 @@
+id: "9a12-21"
+orden: 21
+edad: "9-12"
+tipo: naturaleza
+titulo: "Diario de naturaleza y aves"
+gancho: "Conviértete en explorador y registra las aves y plantas de tu barrio como un científico de campo."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un cuaderno para el diario de campo"
+  - "Lápiz pasta y lápices de colores"
+  - "Binoculares si tienes (opcional)"
+  - "Una lupa"
+  - "Un reloj para anotar la hora"
+  - "Ropa cómoda y agua"
+preparacion: >
+  Elige un lugar al aire libre para observar: un parque, una plaza, un patio o el camino del colegio.
+  Prepara tu diario poniendo la fecha, la hora y el lugar en la primera página. Si vas a un sitio nuevo,
+  ve siempre acompañado por un adulto.
+pasos:
+  - "Antes de salir, escribe una pregunta para investigar: por ejemplo, ¿qué aves aparecen más temprano en la mañana?"
+  - "Busca un lugar tranquilo, quédate en silencio unos minutos y observa a tu alrededor con calma."
+  - "Anota y dibuja las aves que veas: su tamaño, colores, qué hacían y a qué hora. Usa la lupa para mirar hojas, insectos o semillas."
+  - "Registra también el clima, las plantas y cualquier rastro de animales que encuentres."
+  - "Si puedes, vuelve al mismo lugar otro día a la misma hora y compara qué cambió."
+  - "Al final, revisa tus registros y escribe una conclusión que responda tu pregunta inicial."
+aprendizaje: >
+  Aprendes a observar con atención, a registrar datos en terreno y a comparar observaciones en el tiempo,
+  que es lo que hacen los biólogos. También conoces mejor la naturaleza de tu propio barrio y desarrollas
+  paciencia y respeto por los seres vivos.
+variantes: >
+  Arma una lista de las aves que logres identificar y ponles nombre con ayuda de un libro o de un adulto.
+  Junto a tu equipo, comparen sus diarios y hagan un mapa de dónde vieron cada especie.
+seguridad: >
+  Sal siempre acompañado por un adulto y no te alejes solo. Observa los animales de lejos, sin tocarlos ni
+  perseguirlos. No comas plantas ni frutos que encuentres.
+imagen: "9a12-21.png"

@@ -1,0 +1,39 @@
+id: "9a12-13"
+orden: 13
+edad: "9-12"
+tipo: experimento
+titulo: "Indicador de pH con repollo morado"
+gancho: "Crea un líquido mágico que cambia de color y te dice si algo es ácido o básico."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Medio repollo morado"
+  - "Agua caliente (la prepara un adulto)"
+  - "Un colador y un balde o fuente"
+  - "Vasos de vidrio transparentes"
+  - "Cucharas"
+  - "Sustancias para probar: jugo de limón, vinagre, bicarbonato, lavalozas, agua con jabón, leche"
+  - "Cuaderno y lápiz pasta para registrar"
+preparacion: >
+  Un adulto corta el repollo morado en trozos pequeños, los pone en un balde y agrega agua caliente
+  hasta cubrirlos. Después de 15 minutos el agua queda morada: esa es tu indicador. Cuela el líquido
+  hacia otro recipiente y déjalo entibiar. Prepara una fila de vasos, uno por cada sustancia a probar.
+pasos:
+  - "Antes de empezar, escribe tu hipótesis: ¿cuáles sustancias crees que serán ácidas y cuáles básicas? Anótalo en tu cuaderno."
+  - "Pon un poco de jugo de repollo morado en cada vaso, repartido en partes parecidas."
+  - "Agrega una sustancia distinta a cada vaso (una cucharada de limón, de vinagre, de bicarbonato disuelto, etc.) y revuelve con una cuchara limpia."
+  - "Observa los colores: rojo o rosado indica ácido, verde o amarillo indica básico, y morado indica neutro. Registra cada color en una tabla."
+  - "Compara tus resultados con tu hipótesis inicial. ¿Acertaste? Marca cuáles te sorprendieron."
+  - "Escribe una conclusión: ordena las sustancias de la más ácida a la más básica según el color."
+aprendizaje: >
+  El jugo de repollo morado contiene pigmentos llamados antocianinas que cambian de color según el pH.
+  Practicas el método científico completo: hipótesis, observación, registro de datos y conclusión, igual
+  que en un laboratorio real de química.
+variantes: >
+  Crea una escala de colores en un papel para clasificar nuevas sustancias. Mezcla un vaso ácido con uno
+  básico y observa cómo el color vuelve hacia el morado. Prueba con bebidas como gaseosa o jugos.
+seguridad: >
+  El agua caliente la maneja siempre un adulto. No prueben ni beban ninguna de las mezclas. Laven bien
+  las manos y los vasos al terminar, sobre todo después de usar lavalozas.
+imagen: "9a12-13.png"

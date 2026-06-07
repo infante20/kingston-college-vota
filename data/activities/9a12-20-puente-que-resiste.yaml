@@ -1,0 +1,37 @@
+id: "9a12-20"
+orden: 20
+edad: "9-12"
+tipo: experimento
+titulo: "El puente que resiste más peso"
+gancho: "Ponte el casco de ingeniero y construye un puente de papel que aguante todo el peso posible."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Varias hojas de papel o cartulina"
+  - "Cinta adhesiva"
+  - "Dos libros o cajas del mismo alto para usar como apoyos"
+  - "Un vaso o balde pequeño para colgar peso"
+  - "Monedas, tuercas o piedritas para ir agregando peso"
+  - "Una regla"
+  - "Cuaderno y lápiz pasta para registrar"
+preparacion: >
+  Separa los dos libros o cajas a una distancia fija (por ejemplo 20 cm) para que tu puente siempre cruce
+  el mismo espacio. Prepara una tabla en el cuaderno para anotar el diseño del puente y cuánto peso resistió.
+pasos:
+  - "Escribe tu hipótesis: ¿qué forma de papel crees que aguantará más peso, una hoja plana, una doblada en acordeón o un tubo?"
+  - "Construye un primer puente apoyando una hoja plana entre los dos libros y prueba cuánto peso resiste antes de ceder. Anótalo."
+  - "Diseña un segundo puente doblando el papel en acordeón o enrollándolo en tubos, y crúzalo entre los apoyos."
+  - "Ve agregando peso de a poco sobre el centro del puente y cuenta cuánto resiste antes de doblarse o caer. Registra el resultado."
+  - "Prueba al menos un diseño más, cambiando una sola cosa por vez (más dobleces, más capas, columnas debajo)."
+  - "Compara todos los diseños y escribe tu conclusión sobre qué estructura fue la más resistente y por qué."
+aprendizaje: >
+  La forma de un material cambia mucho su resistencia: el papel doblado o enrollado aguanta mucho más que
+  plano porque distribuye mejor las fuerzas. Practicas el diseño de ingeniería: probar, medir, mejorar y
+  volver a probar, comparando una variable a la vez.
+variantes: >
+  Hagan una competencia en equipo para ver qué puente resiste más con la misma cantidad de papel. Investiga
+  formas reales de puentes (arcos, triángulos) e intenta copiarlas con tu papel.
+seguridad: >
+  Usa la cinta y las tijeras con cuidado. Apila el peso de forma estable para que no caiga sobre los pies.
+imagen: "9a12-20.png"
