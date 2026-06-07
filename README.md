@@ -91,6 +91,24 @@ completo de Canva (generar → exportar → descargar a `assets/images/<id>.png`
 necesita un entorno con **acceso de red Completo** o **Personalizado** incluyendo
 `*.canva.com`; la política **Confiable** por defecto bloquea la CDN de Canva.
 
+### Generar imágenes con Together AI (FLUX)
+
+Alternativa 100% automatizable a Canva: `scripts/gen_images_together.py` genera
+portada, separadores y las 48 ilustraciones llamando a la API de imágenes de
+Together (modelos FLUX) y guardándolas en `assets/images/<id>.png`. Pide las
+imágenes en base64 por `api.together.xyz`, sin depender de CDNs externas.
+
+Requisitos: entorno con acceso de red a `api.together.xyz` (política **Completa**
+o **Custom** con `api.together.xyz`) y la variable **`TOGETHER_API_KEY`**.
+
+```bash
+export TOGETHER_API_KEY=...          # tu clave de Together
+python scripts/gen_images_together.py --build   # genera lo que falte y reconstruye
+# opciones: --force (regenerar todo) · --only portada,0a2-01 · --limit 3 · --model <flux>
+```
+
+Los prompts viven en `scripts/prompts.py` (compartidos con el plan de Canva).
+
 ## Notas para KDP
 
 - **Interior:** sube `dist/Tiempo-de-Calidad.pdf`. Tamaño 8.5×11 in. Ajusta los
