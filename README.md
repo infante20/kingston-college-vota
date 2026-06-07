@@ -107,6 +107,10 @@ python scripts/gen_images_together.py --build   # genera lo que falte y reconstr
 # opciones: --force (regenerar todo) · --only portada,0a2-01 · --limit 3 · --model <flux>
 ```
 
+Modelo por defecto: **`black-forest-labs/FLUX.1.1-pro`** (máxima calidad/detalle).
+Alternativas más económicas con `--model`: `black-forest-labs/FLUX.1-dev` (alta
+calidad) o `black-forest-labs/FLUX.1-schnell` (rápido y barato).
+
 Los prompts viven en `scripts/prompts.py` (compartidos con el plan de Canva).
 
 ## Notas para KDP

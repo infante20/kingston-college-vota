@@ -29,15 +29,21 @@ import prompts  # noqa: E402
 ROOT = prompts.ROOT
 IMG = ROOT / "assets" / "images"
 API_URL = "https://api.together.xyz/v1/images/generations"
-DEFAULT_MODEL = "black-forest-labs/FLUX.1-schnell"
+# Altísima calidad por defecto. Alternativas: black-forest-labs/FLUX.1-dev (alta
+# calidad, más barato) o black-forest-labs/FLUX.1-schnell (rápido y económico).
+DEFAULT_MODEL = "black-forest-labs/FLUX.1.1-pro"
 
 
 def generate_one(key: str, model: str, prompt: str, w: int, h: int,
                  steps: int, retries: int = 5) -> bytes:
-    body = json.dumps({
+    payload = {
         "model": model, "prompt": prompt, "width": w, "height": h,
-        "steps": steps, "n": 1, "response_format": "b64_json",
-    }).encode()
+        "n": 1, "response_format": "b64_json",
+    }
+    # 'steps' solo aplica a modelos abiertos; los endpoints "pro" lo rechazan.
+    if "pro" not in model:
+        payload["steps"] = min(steps, 4) if "schnell" in model else steps
+    body = json.dumps(payload).encode()
     delay = 3.0
     for attempt in range(1, retries + 1):
         req = urllib.request.Request(
@@ -74,7 +80,8 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--key", default=os.environ.get("TOGETHER_API_KEY", ""))
     ap.add_argument("--model", default=DEFAULT_MODEL)
-    ap.add_argument("--steps", type=int, default=4)
+    ap.add_argument("--steps", type=int, default=28,
+                    help="pasos de difusión (solo modelos dev/schnell; 'pro' lo ignora)")
     ap.add_argument("--force", action="store_true", help="regenerar aunque exista el PNG")
     ap.add_argument("--only", default="", help="lista de stems separados por coma")
     ap.add_argument("--limit", type=int, default=0, help="máximo de imágenes a generar")

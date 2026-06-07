@@ -18,9 +18,9 @@ ROOT = Path(__file__).resolve().parent.parent
 PALETA = "verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D"
 CREMA = "#FBF7F0"
 
-# Tamaños (múltiplos de 16, requisito de FLUX)
-SIZE_ACT = (1216, 464)    # banner horizontal de actividad
-SIZE_PAGE = (1088, 1408)  # portada y separadores (vertical ~8.5x11)
+# Tamaños (múltiplos de 16, requisito de FLUX; dentro del límite de FLUX1.1-pro)
+SIZE_ACT = (1440, 560)    # banner horizontal de actividad (alta resolución)
+SIZE_PAGE = (1088, 1440)  # portada y separadores (vertical ~8.5x11, alta resolución)
 
 TIPO_ACENTO = {
     "experimento": "#3E6E94", "sensorial": "#7E57A6", "recreativa": "#E8744F",
