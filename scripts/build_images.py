@@ -322,7 +322,7 @@ def portada_svg() -> str:
 
 def main():
     IMG.mkdir(parents=True, exist_ok=True)
-    acts = [yaml.safe_load(open(f, encoding="utf-8"))
+    acts = [yaml.safe_load(Path(f).read_text(encoding="utf-8"))
             for f in sorted(glob.glob(str(ROOT / "data/activities/*.yaml")))]
     for a in acts:
         (IMG / f"{a['id']}.svg").write_text(hero_svg(a), encoding="utf-8")

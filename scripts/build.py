@@ -64,6 +64,14 @@ def build_html(book: dict, acts: list[dict], icons: dict) -> str:
     )
     tipos = book["tipos"]
 
+    # Validar datos de las actividades antes de renderizar (errores claros)
+    for a in acts:
+        ref = a.get("_file", a.get("id", "actividad"))
+        if a.get("tipo") not in tipos:
+            raise ValueError(f"{ref}: tipo '{a.get('tipo')}' no definido en book.yaml")
+        if a.get("edad") not in EDAD_ORDER:
+            raise ValueError(f"{ref}: rango de edad '{a.get('edad')}' no válido")
+
     # Resolver imágenes de cada actividad (con fallback a None)
     for a in acts:
         a["imagen_src"] = resolve_image(a.get("id", ""))
@@ -128,10 +136,14 @@ def build_epub(book: dict, html_path: Path, out: Path, pdf_path: Path) -> None:
     cover = epub_cover(pdf_path)
     if cover:
         extra.append(f"--epub-cover-image={cover}")
-    pypandoc.convert_file(
-        str(html_path), to="epub3", format="html",
-        outputfile=str(out), extra_args=extra,
-    )
+    try:
+        pypandoc.convert_file(
+            str(html_path), to="epub3", format="html",
+            outputfile=str(out), extra_args=extra,
+        )
+    except OSError as e:
+        print("  (aviso: no se pudo generar el EPUB: falta 'pandoc' en el sistema. "
+              f"Instálalo o usa 'pip install pypandoc-binary'. Detalle: {e})")
 
 
 def main() -> None:

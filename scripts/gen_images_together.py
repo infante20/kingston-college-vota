@@ -10,7 +10,7 @@ prioriza sobre el SVG vectorial.
 
 Requisitos:
   - Entorno con acceso de red a `api.together.xyz` (política Completa o Custom).
-  - Variable de entorno TOGETHER_API_KEY (o pasar --key).
+  - Variable de entorno TOGETHER_API_KEY (no se acepta como argumento CLI por seguridad).
 
 Uso:
   python scripts/gen_images_together.py                 # genera lo que falte
@@ -77,8 +77,14 @@ def generate_one(key: str, model: str, prompt: str, w: int, h: int,
 
 
 def main() -> int:
+    # La clave SOLO se lee de la variable de entorno (no como argumento CLI, que
+    # sería visible para otros procesos vía `ps aux`).
+    api_key = os.environ.get("TOGETHER_API_KEY", "")
+    if not api_key:
+        print("ERROR: falta la variable de entorno TOGETHER_API_KEY.")
+        return 2
+
     ap = argparse.ArgumentParser()
-    ap.add_argument("--key", default=os.environ.get("TOGETHER_API_KEY", ""))
     ap.add_argument("--model", default=DEFAULT_MODEL)
     ap.add_argument("--steps", type=int, default=28,
                     help="pasos de difusión (solo modelos dev/schnell; 'pro' lo ignora)")
@@ -88,10 +94,6 @@ def main() -> int:
     ap.add_argument("--delay", type=float, default=1.0, help="pausa entre llamadas (s)")
     ap.add_argument("--build", action="store_true", help="ejecutar scripts/build.py al final")
     args = ap.parse_args()
-
-    if not args.key:
-        print("ERROR: falta TOGETHER_API_KEY (usa la variable de entorno o --key).")
-        return 2
 
     IMG.mkdir(parents=True, exist_ok=True)
     targets = prompts.all_targets()
@@ -110,13 +112,17 @@ def main() -> int:
         dest = IMG / f"{stem}.png"
         print(f"[{i}/{len(todo)}] {stem}  ({w}x{h})")
         try:
-            png = generate_one(args.key, args.model, prompt, w, h, args.steps)
+            png = generate_one(api_key, args.model, prompt, w, h, args.steps)
             dest.write_bytes(png)
             print(f"    -> {dest}  ({len(png)//1024} KB)")
             ok += 1
         except Exception as e:
             print(f"    FALLO: {e}")
             fail += 1
+            # Errores de autenticación o cuota: no tiene sentido seguir.
+            if any(f"HTTP {c}" in str(e) for c in (401, 402, 403)):
+                print("    [CRÍTICO] autenticación o cuota: abortando.")
+                break
         if i < len(todo) and args.delay:
             time.sleep(args.delay)
 
