@@ -32,6 +32,10 @@ API_URL = "https://api.together.xyz/v1/images/generations"
 # Altísima calidad por defecto. Alternativas: black-forest-labs/FLUX.1-dev (alta
 # calidad, más barato) o black-forest-labs/FLUX.1-schnell (rápido y económico).
 DEFAULT_MODEL = "black-forest-labs/FLUX.1.1-pro"
+# User-Agent de navegador: el proxy de Cloudflare de Together rechaza (HTTP 403,
+# "error code: 1010") la firma por defecto de urllib (Python-urllib/x.y).
+USER_AGENT = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
 
 
 def generate_one(key: str, model: str, prompt: str, w: int, h: int,
@@ -49,7 +53,9 @@ def generate_one(key: str, model: str, prompt: str, w: int, h: int,
         req = urllib.request.Request(
             API_URL, data=body,
             headers={"Authorization": f"Bearer {key}",
-                     "Content-Type": "application/json"},
+                     "Content-Type": "application/json",
+                     "Accept": "application/json",
+                     "User-Agent": USER_AGENT},
             method="POST")
         try:
             with urllib.request.urlopen(req, timeout=180) as r:
@@ -59,7 +65,8 @@ def generate_one(key: str, model: str, prompt: str, w: int, h: int,
                 return base64.b64decode(item["b64_json"])
             # fallback si devolviera URL (mismo host permitido)
             if item.get("url"):
-                with urllib.request.urlopen(item["url"], timeout=180) as ir:
+                ireq = urllib.request.Request(item["url"], headers={"User-Agent": USER_AGENT})
+                with urllib.request.urlopen(ireq, timeout=180) as ir:
                     return ir.read()
             raise RuntimeError(f"respuesta sin imagen: {item.keys()}")
         except urllib.error.HTTPError as e:
