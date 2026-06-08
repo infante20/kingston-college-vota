@@ -42,7 +42,7 @@ dist/                    # SALIDAS: PDF y EPUB
 ## Editar el contenido
 
 - **Título, autor, tamaño de página, textos e introducciones:** `data/book.yaml`
-  (cambia `meta.autor` por tu nombre, `meta.titulo`, etc.).
+  (ajusta `meta.autor`, `meta.titulo`, etc.).
 - **Una actividad:** edita su archivo en `data/activities/`. Esquema:
 
   ```yaml

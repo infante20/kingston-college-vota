@@ -135,6 +135,16 @@ svg{display:inline-block}
 
 .act-cols{display:flex; gap:8mm; margin-bottom:3mm; page-break-inside:avoid}
 .act-left{flex:0 0 38%} .act-right{flex:1}
+
+/* Imagen de materiales (en la columna izquierda) */
+.act-mat-img{display:block; width:100%; max-height:48mm; object-fit:contain; object-position:left top;
+  border-radius:10px; background:var(--crema); margin:1mm 0 5mm;}
+
+/* Viñetas ilustradas de los pasos (fila de 3) */
+.act-steps-imgs{display:flex; gap:5mm; margin:1mm 0 4mm; page-break-inside:avoid}
+.act-step-fig{flex:1; margin:0; text-align:center}
+.act-step-fig img{width:100%; aspect-ratio:1/1; object-fit:cover; border-radius:10px; background:var(--crema);}
+.act-step-fig figcaption{font-size:8.5pt; letter-spacing:.05em; text-transform:uppercase; color:var(--gris); margin-top:1.5mm}
 .act-h3{font-size:13pt; color:var(--azul); margin:0 0 2.5mm; padding-bottom:1.5mm; border-bottom:1px solid var(--linea)}
 .act-materials{margin:0 0 5mm; padding-left:1.1em} .act-materials li{margin-bottom:1.5mm; font-size:10.5pt}
 .act-prep{font-size:10.5pt; color:#534f49}

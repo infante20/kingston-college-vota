@@ -155,6 +155,7 @@
         <div class="act-left">
           <h3 class="act-h3">Materiales</h3>
           <ul class="act-materials">{% for m in a.materiales %}<li>{{ m }}</li>{% endfor %}</ul>
+          {% if a.mat_src %}<img class="act-mat-img" src="{{ a.mat_src }}" alt="Materiales de {{ a.titulo }}">{% endif %}
           {% if a.preparacion %}
             <h3 class="act-h3">Preparación previa</h3>
             <p class="act-prep">{{ a.preparacion }}</p>
@@ -165,6 +166,15 @@
           <ol class="act-steps">{% for s in a.pasos %}<li>{{ s }}</li>{% endfor %}</ol>
         </div>
       </div>
+
+      {% if a.step_srcs %}
+      <div class="act-steps-imgs">
+        {% for s in a.step_srcs %}
+        <figure class="act-step-fig"><img src="{{ s }}" alt="Paso ilustrado">
+          <figcaption>Paso {{ loop.index }}</figcaption></figure>
+        {% endfor %}
+      </div>
+      {% endif %}
 
       {% if a.aprendizaje %}
         <div class="act-note act-learn"><strong>Qué desarrolla:</strong> {{ a.aprendizaje }}</div>

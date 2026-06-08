@@ -66,7 +66,10 @@ def build_html(book: dict, acts: list[dict], icons: dict) -> str:
 
     # Resolver imágenes de cada actividad (con fallback a None)
     for a in acts:
-        a["imagen_src"] = resolve_image(a.get("id", ""))
+        stem = a.get("id", "")
+        a["imagen_src"] = resolve_image(stem)
+        a["mat_src"] = resolve_image(f"{stem}-mat")
+        a["step_srcs"] = [s for s in (resolve_image(f"{stem}-s{n}") for n in (1, 2, 3)) if s]
 
     # Imágenes de portada y separadores de capítulo
     cover_src = resolve_image("portada")
