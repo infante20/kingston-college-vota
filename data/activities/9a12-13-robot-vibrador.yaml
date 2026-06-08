@@ -1,0 +1,27 @@
+id: 9a12-13
+orden: 13
+edad: 9-12
+tipo: experimento
+titulo: Robot vibrador
+gancho: 'Un motorcito, una pila y un vaso: tu primer robot que baila por la mesa.'
+duracion: 30-40 min
+dif_prep: 2
+dif_materiales: 3
+materiales:
+- Un motor pequeño de juguete
+- Una pila AA con portapilas
+- Un vaso de plástico o un cepillo de dientes viejo
+- Plumones, cinta y un peso desigual para el eje
+- Plastilina
+preparacion: Reúne los materiales. Un adulto ayuda a identificar los cables del motor y del portapilas.
+pasos:
+- Pega un trocito de plastilina en el eje del motor, descentrado, para que vibre.
+- Conecta los cables del motor a la pila y comprueba que gira.
+- Fija el motor y la pila sobre el vaso volcado con cinta.
+- Agrega plumones como patas o como lápices para que deje rastro.
+- Enciéndelo sobre una hoja y observen cómo se mueve y dibuja solo.
+aprendizaje: Introduce circuitos eléctricos y la idea de que un peso descentrado produce vibración. Construir
+  y ajustar el robot desarrolla el pensamiento de ingeniería.
+variantes: Compitan a ver qué robot dibuja el recorrido más loco o se mueve más rápido.
+seguridad: Un adulto supervisa las conexiones; no usar enchufes ni pilas dañadas.
+imagen: 9a12-13.png

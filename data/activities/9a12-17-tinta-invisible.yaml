@@ -1,0 +1,26 @@
+id: 9a12-17
+orden: 17
+edad: 9-12
+tipo: experimento
+titulo: Tinta invisible
+gancho: Escribir mensajes secretos que solo aparecen con el calor.
+duracion: 25 min
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Jugo de limón
+- Un pincel, hisopo o palillo
+- Papel blanco
+- Una fuente de calor (lámpara o plancha, manejada por un adulto)
+preparacion: Exprime el limón en un recipiente y reparte hisopos o pinceles finos.
+pasos:
+- Mojen el pincel en jugo de limón y escriban un mensaje en el papel.
+- Dejen secar hasta que el mensaje sea invisible.
+- Intercambien los papeles con otra persona.
+- Con ayuda de un adulto, acerquen el papel a una fuente de calor.
+- Observen cómo el mensaje aparece dorado por el calor.
+aprendizaje: 'Muestra una reacción química: el jugo se oscurece antes que el papel al calentarse. Escribir
+  y revelar mensajes une ciencia, lenguaje y juego.'
+variantes: Prueben con otros «tintas» como leche o jugo de cebolla y comparen los resultados.
+seguridad: La fuente de calor la maneja siempre un adulto para evitar quemaduras.
+imagen: 9a12-17.png

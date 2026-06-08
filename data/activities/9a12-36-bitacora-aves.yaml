@@ -1,0 +1,25 @@
+id: 9a12-36
+orden: 36
+edad: 9-12
+tipo: naturaleza
+titulo: Bitácora de aves
+gancho: Salir a observar pájaros y registrar cada especie como un naturalista.
+duracion: 40 min + observaciones
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Una libreta y lápices
+- Binoculares (opcional)
+- Una guía de aves de la zona o una app
+preparacion: Elijan un lugar con árboles y un horario tranquilo, mejor temprano en la mañana.
+pasos:
+- Caminen en silencio y observen los árboles y el cielo.
+- Cuando vean un ave, fíjense en su tamaño, color y canto.
+- Dibújenla y anoten dónde y cuándo la vieron.
+- Búsquenla en la guía o la app para identificar la especie.
+- Vuelvan otros días y vayan completando su bitácora.
+aprendizaje: Desarrolla la observación, la paciencia y el conocimiento de la fauna local. Registrar y
+  clasificar especies introduce el trabajo del naturalista.
+variantes: Lleven un conteo de cuántas especies distintas logran observar en un mes.
+seguridad: Observen sin molestar a los animales y vayan acompañados a lugares abiertos.
+imagen: 9a12-36.png

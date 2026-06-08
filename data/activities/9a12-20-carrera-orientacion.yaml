@@ -1,0 +1,27 @@
+id: 9a12-20
+orden: 20
+edad: 9-12
+tipo: recreativa
+titulo: Carrera de orientación
+gancho: Pistas y un mapa casero para encontrar puntos escondidos por la casa o el patio.
+duracion: 30-40 min
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Papel para dibujar un mapa
+- Tarjetas con pistas o números
+- Lápices
+- Un cronómetro (opcional)
+preparacion: Un adulto o un equipo dibuja un mapa simple del lugar y esconde tarjetas numeradas en distintos
+  puntos.
+pasos:
+- Entreguen el mapa con los puntos a encontrar marcados.
+- Cada equipo busca las tarjetas en el orden que indique el mapa.
+- En cada punto, anoten la palabra o el código de la tarjeta.
+- Sigan el recorrido hasta reunir todas las pistas.
+- Gana quien complete el circuito o resuelva el mensaje final.
+aprendizaje: Desarrolla la orientación espacial, la lectura de mapas y el trabajo en equipo. Planear la
+  ruta y resolver pistas entrena la lógica y la cooperación.
+variantes: Sumen una brújula real o desafíos físicos en cada punto del recorrido.
+seguridad: Definan bien los límites del juego para que nadie se aleje de zonas seguras.
+imagen: 9a12-20.png

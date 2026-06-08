@@ -1,0 +1,27 @@
+id: 9a12-35
+orden: 35
+edad: 9-12
+tipo: naturaleza
+titulo: Filtro de agua casero
+gancho: Construir un filtro con piedras y arena para ver cómo se limpia el agua sucia.
+duracion: 40 min
+dif_prep: 2
+dif_materiales: 2
+materiales:
+- Una botella de plástico cortada
+- Piedras, arena y carbón vegetal
+- Algodón o un paño
+- Agua con tierra para filtrar
+- Un vaso para recoger
+preparacion: Un adulto corta la botella por la mitad para usarla invertida como embudo.
+pasos:
+- Pongan el algodón en el cuello de la botella invertida.
+- Agreguen capas de carbón, arena fina y piedras, de fina a gruesa.
+- Preparen agua sucia mezclando tierra con agua limpia.
+- Viertan el agua sucia por arriba y recójanla abajo.
+- Comparen el agua antes y después de pasar por el filtro.
+aprendizaje: Muestra cómo distintas capas atrapan las impurezas y de dónde viene el agua potable. Construir
+  y probar el filtro enseña ciencia y cuidado del agua.
+variantes: Prueben distintos órdenes de capas y comparen cuál limpia mejor.
+seguridad: El agua filtrada NO se bebe; el experimento es solo para observar la limpieza física.
+imagen: 9a12-35.png

@@ -1,0 +1,26 @@
+id: 9a12-27
+orden: 27
+edad: 9-12
+tipo: arte
+titulo: Mandalas para relajarse
+gancho: Dibujar patrones que se repiten desde el centro para concentrarse y calmar la mente.
+duracion: 30 min
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Papel
+- Un compás o un vaso para trazar círculos
+- Lápices, plumones o colores
+- Regla
+preparacion: Tracen uno o dos círculos concéntricos como base del mandala.
+pasos:
+- Marquen un punto central y divídanlo en partes iguales como una torta.
+- Dibujen una figura simple en el centro.
+- Repitan el mismo patrón en cada sección hacia afuera.
+- Vayan sumando anillos de formas que se repiten.
+- Coloreen con calma combinando los colores que más les gusten.
+aprendizaje: Fomenta la concentración, la simetría y la calma a través del dibujo repetitivo. Crear patrones
+  une arte, geometría y relajación.
+variantes: Hagan mandalas con elementos naturales en el suelo o con puntos de colores.
+seguridad: Actividad tranquila y segura, ideal para momentos de calma.
+imagen: 9a12-27.png

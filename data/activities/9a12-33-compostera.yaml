@@ -1,0 +1,28 @@
+id: 9a12-33
+orden: 33
+edad: 9-12
+tipo: naturaleza
+titulo: Compostera casera
+gancho: Convertir restos de comida en abono y descubrir cómo la naturaleza recicla.
+duracion: 30 min + semanas de cuidado
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Un balde o caja con tapa
+- Restos de frutas y verduras
+- Hojas secas, papel o cartón
+- Un poco de tierra
+- Una herramienta para remover
+preparacion: Un adulto ayuda a hacer agujeros en el balde para que entre aire. Elijan un lugar al aire
+  libre.
+pasos:
+- Pongan una capa de tierra y hojas secas en el fondo.
+- Agreguen restos de frutas y verduras picados.
+- Cubran con más hojas secas o papel para equilibrar la humedad.
+- Remuevan cada pocos días para airear la mezcla.
+- Observen durante semanas cómo se transforma en abono oscuro.
+aprendizaje: Enseña el ciclo de la materia y el papel de los descomponedores en la naturaleza. Cuidar
+  la compostera fomenta la responsabilidad ambiental.
+variantes: Comparen qué restos se descomponen más rápido o críen lombrices para acelerar el proceso.
+seguridad: No incluyan carnes ni lácteos y lávense las manos después de manipular la compostera.
+imagen: 9a12-33.png

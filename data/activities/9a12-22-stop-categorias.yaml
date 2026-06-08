@@ -1,0 +1,25 @@
+id: 9a12-22
+orden: 22
+edad: 9-12
+tipo: juego
+titulo: Stop de categorías
+gancho: 'Una letra y a llenar categorías a toda velocidad: nombre, animal, color, país…'
+duracion: 20-30 min
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Hojas y lápices para cada jugador
+- Una tabla con categorías
+preparacion: 'Dibujen en cada hoja una tabla con columnas: nombre, animal, comida, color, país, objeto,
+  y una para la puntuación.'
+pasos:
+- Alguien dice el abecedario en voz baja y otro lo detiene con un «¡stop!».
+- La letra donde se detuvo es la de la ronda.
+- Todos escriben una palabra de esa letra en cada categoría.
+- El primero en completar grita «¡stop!» y todos dejan de escribir.
+- Comparen respuestas y sumen puntos según las reglas acordadas.
+aprendizaje: Amplía el vocabulario y la agilidad mental al buscar palabras por categorías. Pensar rápido
+  y bajo presión entrena la memoria y la flexibilidad.
+variantes: 'Cambien las categorías por temas: ciencia, deportes, películas o palabras en inglés.'
+seguridad: Acuerden las reglas de puntaje antes de empezar para evitar discusiones.
+imagen: 9a12-22.png

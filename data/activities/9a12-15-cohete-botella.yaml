@@ -1,0 +1,29 @@
+id: 9a12-15
+orden: 15
+edad: 9-12
+tipo: experimento
+titulo: Cohete de agua y aire
+gancho: Bombear aire en una botella con agua y… ¡despegue al cielo!
+duracion: 30 min
+dif_prep: 3
+dif_materiales: 2
+materiales:
+- Una botella de plástico
+- Un corcho que selle la boca
+- Una bomba de inflar con aguja
+- Agua
+- Un soporte de lanzamiento al aire libre
+preparacion: Un adulto prepara el corcho con la aguja de la bomba atravesada. Realicen la actividad en
+  un espacio abierto.
+pasos:
+- Llenen un tercio de la botella con agua.
+- Sellen la boca con el corcho y la aguja de la bomba.
+- Pongan la botella boca abajo en el soporte, lejos de personas.
+- Bombeen aire y observen cómo la presión sube.
+- Aléjense y vean cómo el cohete despega cuando salta el corcho.
+aprendizaje: 'Muestra la acción y reacción: el agua sale hacia abajo y empuja el cohete hacia arriba.
+  Medir agua y presión convierte el juego en un experimento real.'
+variantes: Prueben distintas cantidades de agua y midan cuál logra el lanzamiento más alto.
+seguridad: Solo al aire libre y lejos de personas; un adulto dirige el lanzamiento y nadie se asoma sobre
+  el cohete.
+imagen: 9a12-15.png

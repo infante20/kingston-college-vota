@@ -1,0 +1,26 @@
+id: 9a12-24
+orden: 24
+edad: 9-12
+tipo: juego
+titulo: Tablero de damas casero
+gancho: Un tablero hecho a mano para aprender a planear jugadas y anticipar al rival.
+duracion: 30 min + partidas
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Cartón o cartulina para el tablero
+- Plumones o pintura
+- Tapas o cartones de dos colores como fichas
+preparacion: Dibujen un tablero de ocho por ocho casillas alternando dos colores. Preparen doce fichas
+  de cada color.
+pasos:
+- Coloquen las fichas en las tres primeras filas de cada lado, en las casillas oscuras.
+- Muevan en diagonal hacia adelante, de a una casilla.
+- Coman las fichas del rival saltando por encima cuando se pueda.
+- Cuando una ficha llega al fondo, se corona y puede ir en ambos sentidos.
+- Gana quien capture todas las fichas del rival o lo deje sin movimientos.
+aprendizaje: Desarrolla la estrategia, la anticipación y la paciencia para planear varias jugadas. Construir
+  su propio tablero suma valor al aprendizaje.
+variantes: Una vez dominado, usen el mismo tablero para aprender los movimientos del ajedrez.
+seguridad: Actividad tranquila; cuiden solo de usar fichas seguras si hay niños pequeños.
+imagen: 9a12-24.png

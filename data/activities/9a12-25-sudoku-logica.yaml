@@ -1,0 +1,25 @@
+id: 9a12-25
+orden: 25
+edad: 9-12
+tipo: juego
+titulo: Retos de lógica
+gancho: Sudokus y acertijos para entrenar la mente como un gimnasio del cerebro.
+duracion: 20-30 min
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Sudokus sencillos impresos o dibujados
+- Acertijos y laberintos
+- Lápiz y goma
+preparacion: Preparen o impriman sudokus fáciles (4x4 o 6x6 para empezar) y un par de acertijos.
+pasos:
+- 'Expliquen la regla del sudoku: no repetir números en fila, columna ni región.'
+- Empiecen por las casillas más fáciles de deducir.
+- Usen lápiz para poder corregir sin frustrarse.
+- Cuando se atasquen, busquen otra fila o columna para avanzar.
+- Al terminar, prueben un acertijo o laberinto como premio.
+aprendizaje: Entrena el razonamiento lógico, la concentración y la perseverancia. Deducir paso a paso
+  y corregir errores fortalece el pensamiento estructurado.
+variantes: Suban poco a poco la dificultad o inventen sus propios acertijos para la familia.
+seguridad: 'Si la frustración aparece, hagan una pausa: el objetivo es disfrutar el reto.'
+imagen: 9a12-25.png

@@ -1,0 +1,29 @@
+id: 9a12-16
+orden: 16
+edad: 9-12
+tipo: experimento
+titulo: Torre de líquidos
+gancho: Apilar líquidos en capas de colores que no se mezclan, como un arcoíris en un vaso.
+duracion: 30 min
+dif_prep: 2
+dif_materiales: 2
+materiales:
+- Un vaso alto y transparente
+- Miel
+- Lavalozas
+- Agua con colorante
+- Aceite
+- Alcohol con colorante
+- Una cuchara
+preparacion: Reúne los líquidos en el orden de densidad, de más pesado a más liviano.
+pasos:
+- Viertan primero la miel en el fondo, al centro del vaso.
+- Agreguen con cuidado el lavalozas, luego el agua de color.
+- Echen el aceite y por último el alcohol de color, muy despacio.
+- Dejen resbalar cada líquido por la cuchara para no mezclarlos.
+- Observen las capas y predigan dónde quedará un objeto que dejen caer.
+aprendizaje: Demuestra que los líquidos tienen distinta densidad y se ordenan por su peso. Verter con
+  cuidado y predecir resultados afina la observación científica.
+variantes: Dejen caer objetos pequeños y vean en qué capa quedan flotando según su densidad.
+seguridad: El alcohol lo maneja un adulto; ningún líquido se bebe.
+imagen: 9a12-16.png

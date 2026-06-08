@@ -1,0 +1,26 @@
+id: 9a12-18
+orden: 18
+edad: 9-12
+tipo: experimento
+titulo: Desafío del puente de papel
+gancho: ¿Cuánto peso aguanta un puente de papel? Diseña, prueba y mejora.
+duracion: 40 min
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Hojas de papel
+- Dos libros o cajas como apoyos
+- Monedas o pesos pequeños para probar
+- Cinta (opcional)
+preparacion: Coloquen dos libros separados como pilares y dejen el papel y los pesos a mano.
+pasos:
+- Apoyen una hoja plana entre los dos libros como primer puente.
+- Pongan monedas encima y cuenten cuántas aguanta antes de caer.
+- 'Modifiquen el papel: dóblenlo en acordeón, hagan un tubo o vigas.'
+- Prueben cada diseño con el mismo método y anoten los resultados.
+- Comparen qué forma resistió más peso y conversen por qué.
+aprendizaje: 'Introduce la ingeniería estructural: la forma del material cambia su resistencia. Diseñar,
+  probar y mejorar es el corazón del método científico.'
+variantes: Hagan un concurso por equipos con la misma cantidad de papel y cinta.
+seguridad: Actividad muy segura; cuiden solo de no dejar caer pesos sobre los pies.
+imagen: 9a12-18.png

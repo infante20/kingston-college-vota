@@ -1,0 +1,27 @@
+id: 9a12-14
+orden: 14
+edad: 9-12
+tipo: experimento
+titulo: Mi primer circuito
+gancho: 'Encender una ampolleta con una pila y un par de cables: la chispa de la electrónica.'
+duracion: 30 min
+dif_prep: 2
+dif_materiales: 2
+materiales:
+- Una pila
+- Una ampolleta pequeña (LED o de linterna)
+- Cables o papel aluminio
+- Cinta
+- Un interruptor casero con un clip (opcional)
+preparacion: Reúne los materiales sobre la mesa. Un adulto revisa que la ampolleta sea de bajo voltaje.
+pasos:
+- Conecten un cable de un polo de la pila a la ampolleta.
+- Conecten otro cable del otro polo para cerrar el circuito.
+- Observen cómo la ampolleta se enciende al cerrar el camino.
+- Agreguen un clip como interruptor para encender y apagar.
+- Prueben qué materiales dejan pasar la corriente y cuáles no.
+aprendizaje: Demuestra que la electricidad necesita un circuito cerrado para fluir. Probar conductores
+  y aislantes enseña a investigar de forma ordenada.
+variantes: 'Hagan un juego de «pulso firme»: un cable con aro que no debe tocar otro sin encender la luz.'
+seguridad: Usen solo pilas y ampolletas de bajo voltaje, nunca la corriente del enchufe.
+imagen: 9a12-14.png

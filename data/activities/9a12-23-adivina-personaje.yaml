@@ -1,0 +1,25 @@
+id: 9a12-23
+orden: 23
+edad: 9-12
+tipo: juego
+titulo: ¿Quién soy?
+gancho: Un personaje pegado en la frente y preguntas de sí o no para adivinarlo.
+duracion: 20 min
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Papelitos o tarjetas
+- Lápices
+- Cinta o una vincha para sujetar la tarjeta
+preparacion: Cada uno escribe en una tarjeta un personaje conocido sin que los demás lo vean.
+pasos:
+- Péguense una tarjeta en la frente sin mirarla.
+- 'Por turnos, hagan preguntas de sí o no: «¿soy real?», «¿soy un animal?».'
+- Usen las respuestas para ir descartando posibilidades.
+- Quien crea saberlo, arriesga una respuesta en su turno.
+- Gana quien adivine su personaje con menos preguntas.
+aprendizaje: Estimula el razonamiento deductivo y la formulación de buenas preguntas. Descartar opciones
+  de forma lógica es una habilidad clave del pensamiento.
+variantes: Limiten las categorías a animales, deportistas o personajes de cuentos.
+seguridad: Elijan personajes conocidos por todos para que el juego sea justo y divertido.
+imagen: 9a12-23.png

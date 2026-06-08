@@ -1,0 +1,27 @@
+id: 9a12-34
+orden: 34
+edad: 9-12
+tipo: naturaleza
+titulo: Observadores de estrellas
+gancho: Un mapa del cielo y una noche despejada para encontrar constelaciones.
+duracion: 40 min
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Un mapa celeste o una app de astronomía
+- Una linterna con papel rojo
+- Una manta para tenderse
+- Abrigo
+preparacion: Elijan una noche despejada y un lugar oscuro, lejos de luces. Cubran la linterna con papel
+  rojo para no encandilarse.
+pasos:
+- Tiéndanse de espaldas y dejen que la vista se acostumbre a la oscuridad.
+- Ubiquen una estrella o constelación brillante de referencia.
+- Usen el mapa o la app para identificar constelaciones.
+- Sigan el recorrido buscando otras figuras en el cielo.
+- Anoten o dibujen lo que encontraron y conversen sobre el universo.
+aprendizaje: Despierta la curiosidad por la astronomía y la orientación con las estrellas. Observar el
+  cielo conecta ciencia, paciencia y asombro por el universo.
+variantes: Investiguen los mitos detrás de las constelaciones o busquen planetas visibles.
+seguridad: Vayan acompañados de un adulto y abríguense bien para la noche al aire libre.
+imagen: 9a12-34.png
