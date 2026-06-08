@@ -39,7 +39,7 @@ USER_AGENT = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
 
 
 def generate_one(key: str, model: str, prompt: str, w: int, h: int,
-                 steps: int, retries: int = 5) -> bytes:
+                 steps: int, retries: int = 6) -> bytes:
     payload = {
         "model": model, "prompt": prompt, "width": w, "height": h,
         "n": 1, "response_format": "b64_json",
@@ -48,7 +48,7 @@ def generate_one(key: str, model: str, prompt: str, w: int, h: int,
     if "pro" not in model:
         payload["steps"] = min(steps, 4) if "schnell" in model else steps
     body = json.dumps(payload).encode()
-    delay = 3.0
+    delay = 5.0
     for attempt in range(1, retries + 1):
         req = urllib.request.Request(
             API_URL, data=body,

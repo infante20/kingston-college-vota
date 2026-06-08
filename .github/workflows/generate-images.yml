@@ -63,10 +63,11 @@ jobs:
         run: |
           python scripts/gen_images_together.py \
             ${{ (github.event_name == 'workflow_dispatch' && inputs.force) && '--force' || '' }} \
-            --delay 0.5
+            --delay 3
 
+      # always() para que, si algunas fallan, igual se guarden las generadas.
       - name: Commitear imágenes generadas
-        if: steps.chk.outputs.has_key == 'true'
+        if: ${{ always() && steps.chk.outputs.has_key == 'true' }}
         run: |
           if [ -n "$(git status --porcelain assets/images)" ]; then
             git config user.name "github-actions[bot]"
