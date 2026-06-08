@@ -1,0 +1,26 @@
+id: 6a8-24
+orden: 24
+edad: 6-8
+tipo: juego
+titulo: Dominó casero
+gancho: Fichas hechas a mano para encadenar puntos y jugar en familia.
+duracion: 30 min
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Cartón firme para las fichas
+- Regla, lápiz y plumones
+- Tijeras
+preparacion: Recorten fichas rectangulares iguales y dibujen en cada mitad de cero a seis puntos, formando
+  todas las combinaciones.
+pasos:
+- Repartan las fichas y dejen el resto en el pozo, boca abajo.
+- Por turnos, encadenen una ficha que coincida en los puntos.
+- Si no pueden jugar, roben una ficha del pozo.
+- Cuenten en voz alta los puntos para encontrar las coincidencias.
+- Gana quien se quede primero sin fichas.
+aprendizaje: Refuerza el reconocimiento de cantidades y la correspondencia uno a uno. Planear las jugadas
+  y esperar el turno desarrolla la lógica y la paciencia.
+variantes: Hagan un dominó de dibujos o de colores para los más pequeños de la casa.
+seguridad: Usen tijeras de punta redonda y un adulto ayuda con los recortes.
+imagen: 6a8-24.png

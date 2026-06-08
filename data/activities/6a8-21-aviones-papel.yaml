@@ -1,0 +1,25 @@
+id: 6a8-21
+orden: 21
+edad: 6-8
+tipo: recreativa
+titulo: Campeonato de aviones de papel
+gancho: 'Plegar, lanzar y medir: ¿qué avión vuela más lejos?'
+duracion: 30 min
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Hojas de papel
+- Una cinta métrica o pasos para medir
+- Lápiz para anotar
+preparacion: Reúne varias hojas y despeja un pasillo o el patio para los lanzamientos.
+pasos:
+- Plieguen distintos modelos de avión de papel.
+- Decoren cada avión para reconocerlo.
+- Por turnos, lancen desde una misma línea de salida.
+- Midan cuánto voló cada avión y anótenlo.
+- Comparen los modelos y descubran cuál vuela mejor y por qué.
+aprendizaje: Introduce nociones de aerodinámica al comparar formas y vuelos. Medir, anotar y comparar
+  resultados es hacer ciencia de forma divertida.
+variantes: Modifiquen un avión (más alas, un clip de peso) y comprueben cómo cambia su vuelo.
+seguridad: Lancen siempre hacia un espacio abierto, nunca hacia la cara de otros.
+imagen: 6a8-21.png

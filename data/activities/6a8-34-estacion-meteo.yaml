@@ -1,0 +1,27 @@
+id: 6a8-34
+orden: 34
+edad: 6-8
+tipo: naturaleza
+titulo: Estación del tiempo
+gancho: Instrumentos caseros para medir la lluvia y el viento como un meteorólogo.
+duracion: 40 min + observación
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Una botella de plástico para el pluviómetro
+- Una regla
+- Cartulina y un palito para la veleta
+- Un calendario para anotar
+preparacion: Con ayuda, corten la botella para hacer un recipiente que mida la lluvia, y armen una veleta
+  que gire con el viento.
+pasos:
+- Coloquen el pluviómetro al aire libre, en un lugar despejado.
+- Marquen una escala en centímetros con la regla.
+- Pongan la veleta donde el viento la haga girar.
+- Cada día, anoten la lluvia caída y la dirección del viento.
+- Al cabo de unas semanas, comparen los datos y busquen patrones.
+aprendizaje: Introduce la observación del clima y el registro de datos a lo largo del tiempo. Medir y
+  comparar enseña constancia y pensamiento científico.
+variantes: Sumen un termómetro y registren también la temperatura de cada día.
+seguridad: Un adulto corta la botella; coloquen los instrumentos en un lugar seguro.
+imagen: 6a8-34.png

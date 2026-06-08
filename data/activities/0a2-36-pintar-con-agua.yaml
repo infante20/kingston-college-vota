@@ -1,0 +1,25 @@
+id: 0a2-36
+orden: 36
+edad: 0-2
+tipo: arte
+titulo: Pintar con agua
+gancho: 'Una brocha, agua y una pared: arte que aparece y se seca sin manchar nada.'
+duracion: 15 min
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Una brocha gruesa o un rodillo pequeño
+- Un balde con un poco de agua
+- Una superficie segura (muro exterior, baldosa, vereda)
+preparacion: Busca un muro o suelo exterior que se pueda mojar sin problema. Llena el balde con poca agua.
+pasos:
+- Moja la brocha en el agua y haz una marca en la pared para mostrarle.
+- Dale la brocha al bebé y anímalo a «pintar» con agua.
+- Observen cómo aparecen las marcas oscuras al mojar.
+- Vean cómo se secan y desaparecen con el sol.
+- Pinten formas grandes, líneas y manchas a su antojo.
+aprendizaje: Ejercita el brazo y la coordinación con el gesto amplio de pintar, sin la frustración de
+  ensuciar. Ver aparecer y secarse el agua introduce la idea de cambio.
+variantes: Usen esponjas, rodillos o las propias manos mojadas para variar las marcas.
+seguridad: Usa poca agua, vigila que el suelo mojado no resbale y mantén el balde a baja altura.
+imagen: 0a2-36.png

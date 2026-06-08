@@ -1,0 +1,26 @@
+id: 0a2-23
+orden: 23
+edad: 0-2
+tipo: recreativa
+titulo: A pasear empujando la caja
+gancho: Una caja con peso se convierte en el primer andador del bebé.
+duracion: 15 min
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Una caja de cartón resistente
+- Algo de peso para poner dentro (libros, botellas)
+- Un suelo firme
+preparacion: Coloca un par de libros o botellas dentro de la caja para darle peso y estabilidad. Despeja
+  un pasillo libre de obstáculos.
+pasos:
+- Pon al bebé de pie detrás de la caja, sujetándola con las manos.
+- Anímalo a empujarla hacia adelante dando pasitos.
+- Camina a su lado para darle seguridad y atajar la caja si va muy rápido.
+- 'Marquen una meta sencilla: «vamos hasta el sillón».'
+- Ajusta el peso si la caja resbala demasiado o cuesta moverla.
+aprendizaje: Refuerza la fuerza de las piernas y el equilibrio en los primeros pasos. Empujar con un objetivo
+  desarrolla la coordinación y la confianza para caminar.
+variantes: Sienta un peluche dentro de la caja para que lo «lleve de paseo».
+seguridad: Acompáñalo siempre; usa la caja solo en suelo firme y plano, lejos de escaleras.
+imagen: 0a2-23.png

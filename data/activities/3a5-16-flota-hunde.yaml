@@ -1,0 +1,25 @@
+id: 3a5-16
+orden: 16
+edad: 3-5
+tipo: experimento
+titulo: ¿Flota o se hunde?
+gancho: Un detective del agua que predice qué objetos nadan y cuáles se van al fondo.
+duracion: 20 min
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Un balde o palangana con agua
+- Objetos variados (corcho, piedra, cuchara, esponja, juguete, tapa)
+- Una toalla
+preparacion: Llena el recipiente con agua y reúne objetos de distintos materiales y pesos.
+pasos:
+- 'Tomen un objeto y pregunten: «¿flotará o se hundirá?».'
+- Que el niño haga su predicción antes de soltarlo.
+- Suéltenlo en el agua y comprueben qué pasó.
+- 'Separen en dos grupos: los que flotan y los que se hunden.'
+- Al final, observen qué tienen en común los que flotan.
+aprendizaje: Explora las nociones de peso, material y flotación a través de la predicción y la comprobación.
+  Clasificar resultados desarrolla el razonamiento.
+variantes: Prueben si un trozo de plastilina se hunde, y luego si flota al darle forma de barquito.
+seguridad: Supervisa siempre el juego con agua y seca el suelo para evitar resbalones.
+imagen: 3a5-16.png

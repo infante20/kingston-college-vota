@@ -1,0 +1,25 @@
+id: 6a8-22
+orden: 22
+edad: 6-8
+tipo: juego
+titulo: Tres en raya gigante
+gancho: El clásico gato, pero en grande y con fichas hechas a mano.
+duracion: 20 min
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Cartulina o cinta para el tablero
+- Tapas, piedras o cartones para las fichas (dos grupos distintos)
+preparacion: Dibujen o armen con cinta un tablero de tres por tres casillas. Preparen cinco fichas de
+  cada tipo.
+pasos:
+- Repartan un grupo de fichas a cada jugador.
+- Por turnos, coloquen una ficha en una casilla vacía.
+- El objetivo es alinear tres fichas propias en fila, columna o diagonal.
+- Bloqueen las jugadas del rival mientras buscan su propia línea.
+- Quien logre tres en raya gana la partida.
+aprendizaje: Desarrolla el pensamiento estratégico y la anticipación de las jugadas del otro. Es un primer
+  juego de lógica ideal para razonar por turnos.
+variantes: Hagan un tres en raya humano usando aros en el patio y a las personas como fichas.
+seguridad: Usen fichas grandes y seguras, sobre todo si hay hermanos pequeños cerca.
+imagen: 6a8-22.png

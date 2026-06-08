@@ -1,0 +1,25 @@
+id: 3a5-23
+orden: 23
+edad: 3-5
+tipo: recreativa
+titulo: Estatuas musicales
+gancho: Bailar mientras suena la música y quedarse congelado cuando para.
+duracion: 15 min
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Música alegre
+- Un aparato para pausarla
+- Espacio para moverse
+preparacion: Elige canciones movidas y despeja un espacio para bailar.
+pasos:
+- Pon la música y bailen libremente por la sala.
+- Cuando pares la música de golpe, todos deben quedar como estatuas.
+- Quien se mueva, descansa un turno o hace una mueca divertida.
+- Vuelve a poner la música y a bailar.
+- 'Cambia el ritmo: bailar lento, rápido o como un animal.'
+aprendizaje: Desarrolla el control del cuerpo, la escucha activa y el autocontrol al detenerse. Bailar
+  libera energía y mejora el ánimo de todos.
+variantes: 'Den instrucciones al congelar: «estatua de cocodrilo» o «en un solo pie».'
+seguridad: Despeja el espacio de objetos y bailen descalzos o con calcetines antideslizantes.
+imagen: 3a5-23.png

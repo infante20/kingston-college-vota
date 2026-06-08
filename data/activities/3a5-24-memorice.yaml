@@ -1,0 +1,25 @@
+id: 3a5-24
+orden: 24
+edad: 3-5
+tipo: juego
+titulo: Memorice casero
+gancho: 'Dar vuelta cartas y encontrar las parejas: un clásico para la memoria.'
+duracion: 15-20 min
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Cartulina o cartón para las cartas
+- Plumones o stickers para los dibujos
+- Tijeras
+preparacion: Recorten pares de cartas iguales y dibujen o peguen una misma imagen en cada pareja.
+pasos:
+- Mezclen las cartas y colóquenlas boca abajo en filas.
+- Por turnos, den vuelta dos cartas a la vista de todos.
+- Si son iguales, se las queda quien las encontró; si no, se vuelven a tapar.
+- Intenten recordar dónde estaba cada dibujo.
+- Gana quien reúna más parejas al terminar.
+aprendizaje: Entrena la memoria visual, la atención y el respeto por los turnos. Recordar posiciones fortalece
+  la concentración de forma divertida.
+variantes: Hagan parejas de un dibujo con su palabra o con el número y su cantidad.
+seguridad: Usen tijeras de punta redonda y un adulto ayuda con los recortes.
+imagen: 3a5-24.png

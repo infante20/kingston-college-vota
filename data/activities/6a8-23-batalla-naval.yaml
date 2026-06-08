@@ -1,0 +1,25 @@
+id: 6a8-23
+orden: 23
+edad: 6-8
+tipo: juego
+titulo: Batalla naval de papel
+gancho: Esconder barcos en una cuadrícula y adivinar dónde está la flota enemiga.
+duracion: 30 min
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Hojas cuadriculadas
+- Lápices
+- Una carpeta o libro para no verse los tableros
+preparacion: Dibujen dos cuadrículas por jugador con filas de letras y columnas de números.
+pasos:
+- Cada uno dibuja en secreto sus barcos en una cuadrícula.
+- 'Por turnos, digan una coordenada para atacar: «B-4».'
+- El rival responde «agua» o «tocado» según corresponda.
+- Marquen los aciertos y fallos en la segunda cuadrícula.
+- Gana quien hunda primero todos los barcos del otro.
+aprendizaje: Trabaja las coordenadas, la memoria y la estrategia de búsqueda. Ubicar puntos en una cuadrícula
+  es una base divertida de la geometría.
+variantes: Usen barcos de distintos tamaños o agreguen un submarino con poderes especiales.
+seguridad: Recuerden no espiar el tablero del rival para que el juego sea justo.
+imagen: 6a8-23.png

@@ -1,0 +1,25 @@
+id: 3a5-14
+orden: 14
+edad: 3-5
+tipo: experimento
+titulo: Flores que cambian de color
+gancho: 'Una flor blanca que amanece azul o roja: la planta bebe colores.'
+duracion: 15 min + espera
+dif_prep: 1
+dif_materiales: 2
+materiales:
+- Flores blancas (clavel) o un tallo de apio con hojas
+- Vasos con agua
+- Colorante de alimentos
+preparacion: Prepara un vaso de agua por cada color y disuelve bastante colorante en cada uno.
+pasos:
+- Pongan colorante en cada vaso y remuevan hasta teñir el agua.
+- Recorten un poco la base del tallo y métanlo en un vaso.
+- Predigan qué color tomará la flor.
+- Dejen reposar varias horas o toda la noche.
+- Observen al día siguiente cómo los pétalos se tiñeron del color del agua.
+aprendizaje: Demuestra cómo las plantas absorben agua por el tallo hasta las hojas y flores. Esperar y
+  observar el cambio enseña paciencia y método científico.
+variantes: Partan el tallo a lo largo y pongan cada mitad en un color distinto para una flor de dos tonos.
+seguridad: Un adulto recorta los tallos; el agua con colorante no se bebe.
+imagen: 3a5-14.png

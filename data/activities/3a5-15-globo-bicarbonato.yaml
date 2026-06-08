@@ -1,0 +1,28 @@
+id: 3a5-15
+orden: 15
+edad: 3-5
+tipo: experimento
+titulo: El globo que se infla solo
+gancho: Mezclar dos ingredientes de la cocina y… ¡el globo se infla como por arte de magia!
+duracion: 15 min
+dif_prep: 2
+dif_materiales: 2
+materiales:
+- Una botella de plástico
+- Vinagre
+- Bicarbonato de sodio
+- Un globo
+- Un embudo o cuchara
+preparacion: Pon un par de dedos de vinagre en la botella. Con el embudo, llena un tercio del globo con
+  bicarbonato.
+pasos:
+- Calza la boca del globo en el cuello de la botella sin que caiga el bicarbonato.
+- Pregunta qué pasará al juntar los dos ingredientes.
+- Levanten el globo para que el bicarbonato caiga dentro del vinagre.
+- Observen la espuma y cómo el globo se infla solo.
+- Cuenten en voz alta mientras el globo crece.
+aprendizaje: 'Introduce las reacciones químicas: el vinagre y el bicarbonato producen un gas que infla
+  el globo. Predecir y comprobar es la esencia de pensar como científico.'
+variantes: Prueben con más o menos bicarbonato y comparen cuánto se infla cada globo.
+seguridad: Un adulto maneja el vinagre y supervisa; no acercar la cara a la botella al reaccionar.
+imagen: 3a5-15.png

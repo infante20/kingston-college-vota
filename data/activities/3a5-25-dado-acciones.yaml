@@ -1,0 +1,26 @@
+id: 3a5-25
+orden: 25
+edad: 3-5
+tipo: juego
+titulo: El dado de las acciones
+gancho: Un dado gigante que manda saltar, girar o hacer el oso en cada tirada.
+duracion: 15 min
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Una caja cuadrada de cartón
+- Papel y plumones
+- Cinta
+preparacion: 'Forra la caja y dibuja una acción en cada cara: saltar, girar, aplaudir, agacharse, correr
+  en el sitio, abrazar.'
+pasos:
+- Repasen juntos qué acción tiene cada cara del dado.
+- Por turnos, lancen el dado al aire o háganlo rodar.
+- Todos hacen la acción que salió, contando hasta diez.
+- Sigan turnándose para lanzar.
+- Inventen acciones nuevas y cámbienlas cuando se aburran.
+aprendizaje: Combina movimiento, lenguaje y nociones de azar. Seguir instrucciones y esperar el turno
+  desarrolla la atención y el autocontrol.
+variantes: 'Hagan un dado de emociones: cada cara, una cara que imitar y nombrar.'
+seguridad: Jueguen en un espacio despejado, sobre todo si las acciones implican saltar.
+imagen: 3a5-25.png

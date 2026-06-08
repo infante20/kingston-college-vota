@@ -1,0 +1,25 @@
+id: 6a8-20
+orden: 20
+edad: 6-8
+tipo: recreativa
+titulo: Juego de puntería
+gancho: 'Lanzar saquitos a una diana de cajas para sumar puntos: pura puntería.'
+duracion: 20 min
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Cajas o recipientes de distintos tamaños
+- Saquitos de tela rellenos de legumbres o calcetines enrollados
+- Cartulina para los números
+preparacion: Coloquen las cajas a distintas distancias y asignen a cada una un puntaje según su dificultad.
+pasos:
+- Marquen una línea de lanzamiento en el suelo.
+- Asignen más puntos a las cajas más lejanas o pequeñas.
+- Por turnos, lancen tres saquitos intentando encestar.
+- Sumen los puntos de cada ronda en una hoja.
+- Gana quien acumule más puntos tras varias rondas.
+aprendizaje: Afina la puntería, el control de la fuerza y el cálculo al sumar los puntajes. Esperar el
+  turno y aceptar el resultado fortalece el juego limpio.
+variantes: Cuelguen aros o cajas a distintas alturas para variar el desafío.
+seguridad: Usen saquitos blandos y jueguen lejos de objetos frágiles.
+imagen: 6a8-20.png

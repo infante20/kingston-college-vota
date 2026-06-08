@@ -1,0 +1,27 @@
+id: 6a8-15
+orden: 15
+edad: 6-8
+tipo: experimento
+titulo: El huevo que flota
+gancho: ¿Un huevo puede flotar? Con el truco del agua salada, sí.
+duracion: 15 min
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Dos vasos altos
+- Agua
+- Sal en abundancia
+- Un huevo (o dos)
+- Una cuchara
+preparacion: Llena los dos vasos con agua. Deja uno con agua normal.
+pasos:
+- Pongan el huevo en el vaso de agua normal y observen que se hunde.
+- En el otro vaso, disuelvan varias cucharadas de sal.
+- Predigan qué pasará al poner el huevo en el agua salada.
+- Coloquen el huevo en el agua salada y vean cómo flota.
+- Prueben agregar más o menos sal y observen los cambios.
+aprendizaje: Demuestra que el agua salada es más densa y puede sostener objetos que en agua normal se
+  hunden. Predecir y comprobar afianza el razonamiento científico.
+variantes: Logren que el huevo quede a media altura mezclando con cuidado agua salada y dulce.
+seguridad: No beban el agua salada y manejen el huevo con cuidado para no romperlo.
+imagen: 6a8-15.png

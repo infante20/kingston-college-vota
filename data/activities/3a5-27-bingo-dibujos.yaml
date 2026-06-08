@@ -1,0 +1,25 @@
+id: 3a5-27
+orden: 27
+edad: 3-5
+tipo: juego
+titulo: Bingo de dibujos
+gancho: Un bingo con dibujos en vez de números para jugar todos juntos.
+duracion: 20 min
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Cartones con cuadrículas de dibujos
+- Fichas o porotos para marcar
+- Tarjetas con los mismos dibujos para sacar
+preparacion: Dibujen cartones con seis imágenes cada uno y un mazo de tarjetas con todas las imágenes.
+pasos:
+- Reparte un cartón y fichas a cada jugador.
+- Saca una tarjeta y nombra el dibujo en voz alta.
+- Quien lo tenga en su cartón, lo marca con una ficha.
+- Sigan sacando tarjetas hasta que alguien complete su cartón.
+- Quien lo llene grita «¡bingo!» y revisan juntos.
+aprendizaje: Desarrolla la atención, el reconocimiento de imágenes y el vocabulario. Esperar el turno
+  y escuchar fortalece habilidades sociales.
+variantes: Cambien los dibujos por letras, colores o sonidos de animales que imitar.
+seguridad: Usen fichas grandes que no sean riesgo para hermanos pequeños.
+imagen: 3a5-27.png

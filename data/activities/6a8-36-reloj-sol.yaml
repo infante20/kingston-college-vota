@@ -1,0 +1,26 @@
+id: 6a8-36
+orden: 36
+edad: 6-8
+tipo: naturaleza
+titulo: Reloj de sol
+gancho: Medir el paso de las horas con la sombra de un palito, como en la antigüedad.
+duracion: 20 min + un día de sol
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Un palito o lápiz
+- Un plato, cartón o un trozo de patio
+- Piedritas o tiza para marcar
+- Un reloj para comparar
+preparacion: Elijan un lugar soleado donde el sol dé todo el día y claven el palito en posición vertical.
+pasos:
+- Claven el palito en el centro de la base, bien derecho.
+- Cada hora, marquen dónde cae la punta de la sombra.
+- Escriban junto a cada marca la hora correspondiente.
+- Al día siguiente, lean la hora mirando la sombra.
+- Comparen su reloj de sol con un reloj normal.
+aprendizaje: Muestra cómo el movimiento del sol marca el paso del tiempo y mueve las sombras. Construir
+  un instrumento antiguo conecta ciencia, historia y observación.
+variantes: Comparen la longitud de la sombra a distintas horas y en distintas estaciones.
+seguridad: No miren directamente al sol y usen protección si están mucho rato al aire libre.
+imagen: 6a8-36.png

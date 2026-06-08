@@ -1,0 +1,25 @@
+id: 6a8-25
+orden: 25
+edad: 6-8
+tipo: juego
+titulo: El juego de la mímica
+gancho: 'Actuar sin hablar para que los demás adivinen: risas garantizadas.'
+duracion: 20-30 min
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Papelitos con palabras o dibujos (animales, oficios, acciones)
+- Un recipiente para sortearlos
+- Un reloj o cronómetro
+preparacion: Escriban o dibujen en papelitos cosas fáciles de actuar y dóblenlos en el recipiente.
+pasos:
+- Por turnos, saquen un papelito sin mostrarlo a nadie.
+- Representen la palabra solo con gestos, sin hablar ni hacer ruidos.
+- Los demás tienen un minuto para adivinar de qué se trata.
+- Quien acierte gana un punto y pasa a actuar.
+- Sigan jugando por rondas hasta que todos hayan actuado.
+aprendizaje: Estimula la expresión corporal, la creatividad y la comunicación no verbal. Interpretar y
+  adivinar gestos desarrolla la empatía y la atención.
+variantes: Jueguen por equipos o limiten las categorías a películas o cuentos conocidos.
+seguridad: Acompañen con paciencia a quien le cueste actuar; lo importante es participar.
+imagen: 6a8-25.png

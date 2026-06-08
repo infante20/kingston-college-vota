@@ -1,0 +1,25 @@
+id: 0a2-35
+orden: 35
+edad: 0-2
+tipo: naturaleza
+titulo: Tesoros de la naturaleza
+gancho: Una canasta con hojas, piñas y piedras grandes para explorar el bosque en casa.
+duracion: 10-15 min
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Elementos naturales seguros y grandes (hojas grandes, piñas, piedras lisas, ramas cortas)
+- Una canasta o bandeja
+preparacion: Recoge en un paseo elementos naturales limpios y lo bastante grandes para no ser un riesgo.
+  Lávalos y ponlos en la canasta.
+pasos:
+- Sienta al bebé frente a la canasta de tesoros naturales.
+- Deja que tome y explore cada elemento a su ritmo.
+- 'Nombra lo que toca: «una hoja», «una piña áspera», «una piedra lisa».'
+- Acompaña describiendo texturas, olores y formas.
+- Guarda la canasta para repetir la exploración otros días.
+aprendizaje: Conecta al bebé con la naturaleza a través de los sentidos y enriquece su vocabulario. Comparar
+  texturas y formas naturales estimula la observación.
+variantes: 'Cambia los tesoros según la estación: hojas secas en otoño, flores en primavera.'
+seguridad: Usa solo elementos grandes y limpios; vigila de cerca para que no se los lleve a la boca.
+imagen: 0a2-35.png

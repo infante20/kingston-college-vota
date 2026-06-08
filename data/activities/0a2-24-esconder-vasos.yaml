@@ -1,0 +1,24 @@
+id: 0a2-24
+orden: 24
+edad: 0-2
+tipo: juego
+titulo: ¿Dónde quedó?
+gancho: Esconder un juguete bajo un vaso para descubrir que las cosas no desaparecen.
+duracion: 10 min
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Dos o tres vasos o tazas opacas
+- Un juguete pequeño que no quepa en la boca
+preparacion: Elige vasos opacos iguales y un objeto que le guste, lo bastante grande para no ser un riesgo.
+pasos:
+- Muéstrale el juguete y déjalo a la vista.
+- Tápalo con un vaso mientras dices «¿dónde está?».
+- 'Anímalo a levantar el vaso y descubrir el juguete: «¡aquí está!».'
+- Cuando lo logre, prueba con dos vasos y esconde el juguete en uno.
+- Mueve despacio los vasos para que siga con la mirada dónde quedó.
+aprendizaje: 'Construye la permanencia del objeto: entender que algo sigue existiendo aunque no se vea.
+  Es un gran paso del desarrollo cognitivo y reduce la angustia de separación.'
+variantes: Esconde el juguete bajo una tela o detrás de tu espalda para variar el desafío.
+seguridad: Usa siempre un objeto grande que no quepa entero en la boca.
+imagen: 0a2-24.png

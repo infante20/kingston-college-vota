@@ -1,0 +1,27 @@
+id: 6a8-17
+orden: 17
+edad: 6-8
+tipo: experimento
+titulo: Brújula casera
+gancho: Una aguja flotante que siempre apunta al norte, como por arte de magia.
+duracion: 20 min
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Una aguja de coser
+- Un imán
+- Un trozo de corcho o una hoja
+- Un bol con agua
+preparacion: Un adulto frota la aguja con el imán siempre en la misma dirección, unas treinta veces, para
+  imantarla.
+pasos:
+- Imanten la aguja frotándola con el imán siempre hacia el mismo lado.
+- Claven la aguja en un trozo de corcho o pónganla sobre una hoja.
+- Hagan flotar el corcho con la aguja en el bol con agua.
+- Observen cómo la aguja gira y se detiene apuntando al norte.
+- Comparen con una brújula real o con el mapa del celular.
+aprendizaje: Muestra que la Tierra es un gran imán y que una aguja imantada se alinea con su campo. Construir
+  un instrumento que funciona es muy motivador.
+variantes: Acerquen otro imán y observen cómo la aguja se desvía de su dirección.
+seguridad: Un adulto maneja la aguja; cuidado con los pinchazos.
+imagen: 6a8-17.png

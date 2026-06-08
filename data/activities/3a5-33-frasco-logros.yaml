@@ -1,0 +1,25 @@
+id: 3a5-33
+orden: 33
+edad: 3-5
+tipo: emocional
+titulo: El frasco de lo bueno
+gancho: Un frasco que guarda los momentos lindos y los logros de cada día.
+duracion: 10 min al día
+dif_prep: 1
+dif_materiales: 1
+materiales:
+- Un frasco transparente
+- Papelitos de colores
+- Un lápiz
+preparacion: Decoren juntos el frasco y déjenlo en un lugar visible con papelitos al lado.
+pasos:
+- Cada día, conversen sobre algo bueno que pasó o que el niño logró.
+- Escríbanlo (o dibújenlo) en un papelito.
+- Doblen el papel y métanlo en el frasco.
+- Vean cómo el frasco se va llenando de momentos felices.
+- Cada cierto tiempo, vacíenlo y lean juntos los recuerdos.
+aprendizaje: Fomenta la gratitud, la autoestima y el hábito de fijarse en lo positivo. Recordar logros
+  refuerza la confianza y el vínculo familiar.
+variantes: Hagan un frasco de gratitud familiar donde todos aporten su momento del día.
+seguridad: 'Valida cualquier logro, por pequeño que sea: lo importante es el reconocimiento.'
+imagen: 3a5-33.png

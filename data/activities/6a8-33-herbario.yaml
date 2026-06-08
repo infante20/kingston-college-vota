@@ -1,0 +1,27 @@
+id: 6a8-33
+orden: 33
+edad: 6-8
+tipo: naturaleza
+titulo: Mi primer herbario
+gancho: Recoger hojas y flores, prensarlas y armar una colección de la naturaleza.
+duracion: 30 min + días de prensado
+dif_prep: 2
+dif_materiales: 1
+materiales:
+- Hojas y flores recogidas en un paseo
+- Libros pesados para prensar
+- Papel absorbente
+- Una libreta o cartulina
+- Pegamento
+preparacion: Salgan a recoger hojas y flores variadas, evitando dañar las plantas.
+pasos:
+- Coloquen cada hoja o flor entre papel absorbente.
+- Pónganlas bajo libros pesados para prensarlas.
+- Esperen varios días hasta que estén planas y secas.
+- Péguenlas en la libreta y escriban dónde y cuándo las encontraron.
+- Comparen formas, bordes y colores de las distintas hojas.
+aprendizaje: Conecta con la naturaleza y enseña a observar y clasificar las plantas. Registrar y comparar
+  desarrolla la observación científica y el cuidado del entorno.
+variantes: Investiguen el nombre de cada planta o agreguen calcos de cortezas de árboles.
+seguridad: Recojan solo del suelo o con permiso, sin arrancar plantas, y eviten las que no conozcan.
+imagen: 6a8-33.png

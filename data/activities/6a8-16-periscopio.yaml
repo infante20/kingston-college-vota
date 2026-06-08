@@ -1,0 +1,26 @@
+id: 6a8-16
+orden: 16
+edad: 6-8
+tipo: experimento
+titulo: Periscopio de cartón
+gancho: Un tubo con espejos para espiar por encima de los muebles, como en un submarino.
+duracion: 30-40 min
+dif_prep: 2
+dif_materiales: 2
+materiales:
+- Una caja de cartón alargada o un envase de leche
+- Dos espejos pequeños iguales
+- Tijeras y cinta
+- Regla y lápiz
+preparacion: Reúne los materiales y, con ayuda, marca dónde irán las aberturas y los espejos en diagonal.
+pasos:
+- Hagan una abertura en la parte de arriba y otra abajo, en lados opuestos.
+- Coloquen un espejo en diagonal frente a cada abertura, mirándose entre sí.
+- Fíjenlos con cinta en un ángulo de 45 grados.
+- Cierren el tubo y miren por la abertura de abajo.
+- Prueben espiar por encima de una mesa o detrás de un mueble.
+aprendizaje: Enseña que la luz rebota en los espejos y cambia de dirección, base de la óptica. Construir
+  y ajustar los ángulos desarrolla la lógica y la motricidad.
+variantes: Decoren el periscopio como un submarino o úsenlo para mirar a la vuelta de una esquina.
+seguridad: Un adulto ayuda con los cortes y maneja los espejos para evitar bordes filosos.
+imagen: 6a8-16.png

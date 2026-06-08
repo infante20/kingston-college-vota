@@ -1,0 +1,27 @@
+id: 3a5-13
+orden: 13
+edad: 3-5
+tipo: experimento
+titulo: Lámpara de lava casera
+gancho: Burbujas de color que suben y bajan como en una lámpara mágica.
+duracion: 20 min
+dif_prep: 1
+dif_materiales: 2
+materiales:
+- Un frasco o botella alto y transparente
+- Aceite vegetal
+- Agua
+- Colorante de alimentos
+- Una pastilla efervescente
+preparacion: Reúne todo sobre una bandeja por si se derrama. Llena el frasco con un tercio de agua.
+pasos:
+- Echa agua hasta un tercio del frasco y agrega unas gotas de colorante.
+- Completa casi hasta arriba con aceite y observen cómo se separan.
+- Pregunta qué creen que pasará antes de seguir.
+- Parte una pastilla efervescente y déjala caer dentro.
+- Observen las burbujas de color subir y bajar; añadan otro trozo para repetir.
+aprendizaje: Muestra de forma visual que el aceite y el agua no se mezclan y que el gas empuja el color
+  hacia arriba. Despierta la curiosidad y el gusto por preguntarse «¿por qué?».
+variantes: Apaguen la luz y alumbren el frasco por detrás con una linterna para un efecto espectacular.
+seguridad: La pastilla efervescente no se come; un adulto la maneja y supervisa todo el experimento.
+imagen: 3a5-13.png

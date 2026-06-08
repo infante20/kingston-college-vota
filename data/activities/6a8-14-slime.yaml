@@ -1,0 +1,27 @@
+id: 6a8-14
+orden: 14
+edad: 6-8
+tipo: experimento
+titulo: Slime casero
+gancho: Una masa viscosa que se estira, se escurre y nunca deja de sorprender.
+duracion: 20 min
+dif_prep: 1
+dif_materiales: 2
+materiales:
+- Cola blanca (pegamento escolar)
+- Bicarbonato de sodio
+- Solución para lentes de contacto (con borato)
+- Colorante o purpurina
+- Un bol y una cuchara
+preparacion: Reúne todo sobre una mesa protegida. Mide media taza de cola blanca en el bol.
+pasos:
+- Viertan la cola en el bol y agreguen color o purpurina al gusto.
+- Añadan una cucharadita de bicarbonato y mezclen bien.
+- Agreguen la solución de a poco, revolviendo sin parar.
+- Sigan hasta que la mezcla se despegue del bol y se vuelva elástica.
+- Amasen con las manos hasta lograr la textura justa.
+aprendizaje: 'Introduce ideas de química: dos líquidos forman una masa elástica al unir sus partículas.
+  Ajustar la receta enseña a observar, medir y corregir.'
+variantes: Prueben slime magnético con limaduras de hierro o uno que brille en la oscuridad.
+seguridad: No se come; lávense las manos al terminar y eviten el contacto con los ojos.
+imagen: 6a8-14.png
