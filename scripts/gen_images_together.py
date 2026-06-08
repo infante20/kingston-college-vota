@@ -108,7 +108,14 @@ def main() -> int:
         want = {s.strip() for s in args.only.split(",") if s.strip()}
         targets = [t for t in targets if t[0] in want]
 
-    todo = [t for t in targets if args.force or not (IMG / f"{t[0]}.png").exists()]
+    def existing(stem: str):
+        for ext in (".png", ".jpg"):
+            p = IMG / f"{stem}{ext}"
+            if p.exists():
+                return p
+        return None
+
+    todo = [t for t in targets if args.force or not existing(t[0])]
     if args.limit:
         todo = todo[:args.limit]
 
@@ -116,12 +123,18 @@ def main() -> int:
           f"(omitidas {len(targets)-len(todo)} ya existentes)")
     ok = fail = 0
     for i, (stem, prompt, (w, h)) in enumerate(todo, 1):
-        dest = IMG / f"{stem}.png"
         print(f"[{i}/{len(todo)}] {stem}  ({w}x{h})")
         try:
-            png = generate_one(api_key, args.model, prompt, w, h, args.steps)
-            dest.write_bytes(png)
-            print(f"    -> {dest}  ({len(png)//1024} KB)")
+            data = generate_one(api_key, args.model, prompt, w, h, args.steps)
+            # FLUX suele devolver JPEG; guarda con la extensión real para que el
+            # EPUB declare el media-type correcto. Elimina el hermano de otra ext.
+            ext = ".png" if data[:8] == b"\x89PNG\r\n\x1a\n" else ".jpg"
+            dest = IMG / f"{stem}{ext}"
+            other = IMG / f"{stem}{'.jpg' if ext == '.png' else '.png'}"
+            if other.exists():
+                other.unlink()
+            dest.write_bytes(data)
+            print(f"    -> {dest}  ({len(data)//1024} KB)")
             ok += 1
         except Exception as e:
             print(f"    FALLO: {e}")

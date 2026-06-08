@@ -68,10 +68,12 @@ def estilo(acento: str, orientacion: str) -> str:
 
 def portada_prompt() -> str:
     return (f"{estilo('#2E7D5B', 'vertical (formato libro)')} Escena de portada: una "
-            f"familia disfrutando tiempo juntos en casa sin pantallas — jugando, leyendo "
-            f"y creando. Ambiente hogareño cálido y luminoso, sensación de cercanía y "
-            f"alegría. Deja espacio libre y despejado en el centro/parte superior para "
-            f"sobreponer el título después. Predomina el verde de la paleta.")
+            f"familia disfrutando tiempo juntos en casa SIN PANTALLAS — leyendo un libro "
+            f"de papel, armando bloques de madera y pintando juntos. ABSOLUTAMENTE NADA de "
+            f"teléfonos, celulares, tablets, computadores, notebooks ni televisores en la "
+            f"escena. Ambiente hogareño cálido y luminoso, cercanía y alegría. Deja la "
+            f"mitad superior despejada y de tono medio para sobreponer el título después. "
+            f"Predomina el verde de la paleta.")
 
 
 def sep_prompt(rango: str) -> str:

@@ -9,7 +9,7 @@
 
 {# ----------------------------- PORTADA ----------------------------- #}
 <section class="cover cover--plain">
-  {% if cover_src %}<img class="cover-bg" src="{{ cover_src }}" alt="">{% endif %}
+  {% if cover_src %}<img class="cover-bg" src="{{ cover_src }}" alt=""><div class="cover-scrim"></div>{% endif %}
   <div class="cover-inner">
     <div class="cover-kicker">Guía para familias</div>
     <h1 class="cover-title" id="portada-titulo">{{ meta.titulo }}</h1>
