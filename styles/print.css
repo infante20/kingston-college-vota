@@ -46,18 +46,15 @@ svg{display:inline-block}
 .page{page-break-before:always; page-break-inside:auto;}
 
 /* ---------- Portada ---------- */
-.cover{page:cover; page-break-after:always; height:279.4mm; position:relative; background:var(--verde); color:#fff; overflow:hidden;}
-.cover-bg{position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:0;}
-.cover--plain{
-  background:radial-gradient(120% 100% at 50% 0%, #3a936b 0%, var(--verde) 55%, #245d44 100%);
-  display:flex; align-items:center; justify-content:center; text-align:center;
-}
-.cover-inner{padding:0 16mm; position:relative; z-index:2;}
-.cover-kicker{font-size:13pt; letter-spacing:.28em; text-transform:uppercase; opacity:.85; margin-bottom:10mm;}
-.cover-title{font-size:62pt; margin:0; color:#fff; text-shadow:0 2px 18px rgba(0,0,0,.18);}
-.cover-sub{font-size:18pt; margin:6mm 0 0; opacity:.95; font-family:"Source Sans 3","DejaVu Sans",sans-serif;}
-.cover-rule{width:60mm; height:3px; background:var(--ambar); margin:14mm auto;}
-.cover-author{font-size:15pt; letter-spacing:.04em;}
+.cover{page:cover; page-break-after:always; height:279.4mm; background:var(--crema); color:var(--tinta);
+  display:flex; flex-direction:column; align-items:center; justify-content:space-between;
+  text-align:center; padding:20mm 16mm; overflow:hidden;}
+.cover-kicker{font-size:13pt; letter-spacing:.28em; text-transform:uppercase; color:var(--verde); margin-bottom:8mm;}
+.cover-title{font-size:58pt; margin:0; color:var(--tinta); line-height:1.05;}
+.cover-sub{font-size:17pt; margin:5mm 0 0; color:var(--gris); font-family:"Source Sans 3","DejaVu Sans",sans-serif;}
+.cover-art{max-width:100%; max-height:155mm; width:auto; height:auto; object-fit:contain;}
+.cover-rule{width:60mm; height:3px; background:var(--ambar); margin:0 auto 6mm;}
+.cover-author{font-size:17pt; letter-spacing:.04em; color:var(--tinta); margin:0;}
 
 /* ---------- Página de título / créditos ---------- */
 .title-page{text-align:center; padding-top:60mm}
@@ -133,7 +130,7 @@ svg{display:inline-block}
 /* Ilustración de actividad: respeta el aspecto nativo (no recorta). Sirve para
    las ilustraciones verticales/cuadradas de Canva y para los SVG apaisados de
    transición por igual: encaja por alto máximo, centrada. */
-.act-img{display:block; margin:0 auto 4mm; max-width:100%; max-height:80mm; width:auto; height:auto;
+.act-img{display:block; margin:0 auto 4mm; max-width:100%; max-height:90mm; width:auto; height:auto;
   border-radius:12px; background:var(--crema);}
 
 .act-cols{display:flex; gap:8mm; margin-bottom:3mm; page-break-inside:avoid}

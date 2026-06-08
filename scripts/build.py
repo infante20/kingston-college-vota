@@ -92,14 +92,11 @@ def build_pdf(html_path: Path, out: Path) -> None:
 
 
 def epub_cover(pdf_path: Path) -> Path | None:
-    """Portada raster para el EPUB (Kindle requiere raster con el título).
+    """Portada raster para el EPUB (Kindle requiere raster CON el título).
 
-    Si el usuario provee assets/images/portada.png se usa tal cual; si no, se
-    rasteriza la PRIMERA página del PDF ya construido (que incluye la escena de
-    portada y el título en la tipografía Fraunces incrustada)."""
-    png = ASSETS / "images" / "portada.png"
-    if png.exists():
-        return png
+    Se rasteriza la PRIMERA página del PDF ya construido —la portada diseñada
+    con título, autor y la ilustración—. Si el PDF no existe, se cae a la
+    ilustración cruda assets/images/portada.png."""
     if pdf_path.exists():
         try:
             import pypdfium2 as pdfium
@@ -109,7 +106,8 @@ def epub_cover(pdf_path: Path) -> Path | None:
             return out
         except Exception as e:
             print(f"  (aviso: no se pudo rasterizar la portada: {e})")
-    return None
+    png = ASSETS / "images" / "portada.png"
+    return png if png.exists() else None
 
 
 def build_epub(book: dict, html_path: Path, out: Path, pdf_path: Path) -> None:
