@@ -15,6 +15,8 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 
+# (re-disparo del workflow de generación de imágenes tras configurar el secreto)
+
 PALETA = "verde #2E7D5B, azul #3E6E94, coral #E8744F, ámbar #F2A03D"
 CREMA = "#FBF7F0"
 
