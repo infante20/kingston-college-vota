@@ -146,6 +146,27 @@ def build_epub(book: dict, html_path: Path, out: Path, pdf_path: Path) -> None:
               f"Instálalo o usa 'pip install pypandoc-binary'. Detalle: {e})")
 
 
+def build_bw(pdf_path: Path, out: Path) -> bool:
+    """Genera una versión en escala de grises (interior B/N para KDP, barato de
+    imprimir) a partir del PDF a color, usando Ghostscript. Devuelve True si OK."""
+    import shutil, subprocess
+    gs = shutil.which("gs") or shutil.which("gswin64c")
+    if not gs:
+        print("  (aviso: Ghostscript no está instalado; no se generó la versión B/N. "
+              "Instálalo con 'apt-get install ghostscript').")
+        return False
+    cmd = [gs, "-dNOPAUSE", "-dBATCH", "-dQUIET", "-sDEVICE=pdfwrite",
+           "-sProcessColorModel=DeviceGray", "-sColorConversionStrategy=Gray",
+           "-dOverrideICC", "-dAutoRotatePages=/None",
+           f"-sOutputFile={out}", str(pdf_path)]
+    try:
+        subprocess.run(cmd, check=True)
+        return True
+    except subprocess.CalledProcessError as e:
+        print(f"  (aviso: falló la conversión a B/N: {e})")
+        return False
+
+
 def main() -> None:
     only_html = "--html" in sys.argv
     DIST.mkdir(exist_ok=True)
@@ -169,6 +190,11 @@ def main() -> None:
     epub_path = DIST / f"{slug}.epub"
     build_epub(book, html_path, epub_path, pdf_path)
     print(f"EPUB -> {epub_path}")
+
+    if "--bw" in sys.argv:
+        bw_path = DIST / f"{slug}-BN.pdf"
+        if build_bw(pdf_path, bw_path):
+            print(f"PDF B/N -> {bw_path}")
 
 
 if __name__ == "__main__":

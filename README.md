@@ -22,6 +22,13 @@ python scripts/build.py                # -> dist/*.pdf y dist/*.epub
 ```
 
 `python scripts/build.py --html` genera solo `dist/book.html` (rápido para iterar la maquetación).
+`python scripts/build.py --bw` genera además `dist/Tiempo-de-Calidad-BN.pdf`, una versión en
+escala de grises del interior (mucho más barata de imprimir en KDP). Requiere Ghostscript
+(`apt-get install ghostscript`).
+
+Documentos de negocio: `docs/analisis-comercial.md` (auditoría comercial) y
+`docs/kdp-publicacion.md` (título, subtítulo, keywords, categorías, descripción y precios
+listos para copiar a KDP).
 
 ## Estructura
 

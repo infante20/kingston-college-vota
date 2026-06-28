@@ -35,6 +35,8 @@
   <p class="credits-note">Ninguna parte de este libro puede reproducirse sin permiso del
   autor, salvo citas breves. Las actividades deben realizarse siempre bajo supervisión de
   un adulto. El autor no se responsabiliza por el uso indebido de los materiales.</p>
+  <p class="credits-note">Las ilustraciones de este libro fueron creadas con asistencia de
+  inteligencia artificial.</p>
 </section>
 
 {# ------------------------------ ÍNDICE ----------------------------- #}
@@ -43,6 +45,7 @@
   <ul class="toc-list">
     <li class="toc-front"><span>{{ textos.intro_titulo }}</span></li>
     <li class="toc-front"><span>{{ textos.como_usar.titulo }}</span></li>
+    <li class="toc-front"><span>{{ textos.seguridad.titulo }}</span></li>
     <li class="toc-front"><span>Leyenda de iconos</span></li>
     {% for e in edades %}
       <li class="toc-chapter"><span>{{ e.titulo }} · {{ e.lema }}</span></li>
@@ -69,6 +72,16 @@
   <ol class="howto">
     {% for p in textos.como_usar.puntos %}<li>{{ p }}</li>{% endfor %}
   </ol>
+</section>
+
+{# --------------------------- SEGURIDAD ----------------------------- #}
+<section class="page prose safety">
+  <h2 class="section-h">{{ textos.seguridad.titulo }}</h2>
+  <p>{{ textos.seguridad.intro }}</p>
+  <ul class="safety-list">
+    {% for p in textos.seguridad.puntos %}<li>{{ p }}</li>{% endfor %}
+  </ul>
+  <p class="disclaimer">{{ textos.seguridad.descargo }}</p>
 </section>
 
 {# --------------------------- LEYENDA ------------------------------- #}

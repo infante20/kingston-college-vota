@@ -5,7 +5,7 @@
 
 meta:
   titulo: "Tiempo de Calidad"
-  subtitulo: "+48 actividades sin pantallas para disfrutar en casa"
+  subtitulo: "+100 actividades y experimentos sin pantallas para niños de 0 a 12 años"
   autor: "[Tu nombre]"
   idioma: "es"
   anio: 2026
@@ -129,3 +129,25 @@ textos:
       No se trata de eliminar las pantallas por completo, sino de equilibrar. Cada rato
       que juegan, exploran o ríen contigo es una semilla. Gracias por elegir estar
       presente. Esos son los momentos que de verdad recordarán.
+
+  # ---- Página de seguridad y descargo de responsabilidad (preliminares) ----
+  seguridad:
+    titulo: "Antes de empezar: seguridad"
+    intro: >
+      Estas actividades están pensadas para disfrutar en familia, pero requieren la
+      supervisión de un adulto en todo momento. Lee esta página antes de comenzar y
+      adapta cada propuesta a la edad y las capacidades de tu hijo o hija.
+    puntos:
+      - "Supervisa siempre. Ninguna actividad debe realizarse sin un adulto presente, en especial con menores de 3 años."
+      - "Piezas pequeñas. Con bebés y niños pequeños, evita objetos que quepan por completo en la boca: hay riesgo de atragantamiento."
+      - "Calor y fuego. Las actividades con velas, fósforos o fuentes de calor las maneja siempre un adulto; mantén lejos cabello, ropa y papeles."
+      - "Imanes. Usa imanes grandes, nunca cerca de la boca; tragarlos es muy peligroso. Mantenlos lejos de aparatos electrónicos."
+      - "Electricidad. Usa solo pilas pequeñas y bajo supervisión; nunca enchufes ni la corriente de la red."
+      - "Alergias y materiales. Revisa posibles alergias (alimentos, látex, témperas) y prefiere materiales no tóxicos."
+      - "Agua. Mantén el agua lejos de enchufes y nunca dejes a un niño solo cerca del agua."
+      - "Limpieza. Lávense las manos al terminar, sobre todo después de los experimentos."
+    descargo: >
+      Aviso legal: la información de este libro se ofrece de buena fe, con fines educativos
+      y recreativos. El autor y la editorial no se responsabilizan por daños, lesiones o
+      pérdidas derivados de la realización de las actividades. Al usar este libro, aceptas
+      hacerlo bajo tu propia responsabilidad y con la debida supervisión de un adulto.

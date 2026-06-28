@@ -69,7 +69,13 @@ svg{display:inline-block}
 .title-author{margin-top:30mm; font-size:13pt}
 .credits{font-size:9.5pt; color:var(--gris); padding-top:120mm}
 .credits p{margin:0 0 .4em}
-.credits-note{margin-top:8mm; line-height:1.45}
+.credits-note{margin-top:6mm; line-height:1.45}
+
+/* ---------- Página de seguridad ---------- */
+.safety-list{margin:4mm 0 0; padding-left:6mm}
+.safety-list li{margin:0 0 2.5mm; line-height:1.45}
+.disclaimer{margin-top:8mm; padding:5mm 6mm; background:var(--crema);
+  border-left:4px solid var(--coral); border-radius:8px; font-size:10pt; color:var(--gris);}
 
 /* ---------- Encabezados de sección ---------- */
 .section-h{
