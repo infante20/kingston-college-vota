@@ -97,12 +97,13 @@ El interior a color es caro de imprimir. Recomendación de catálogo:
       generadas por IA. **Obligatorio**; no declararlo puede causar el retiro del libro o el
       cierre de la cuenta. *(Ya hay una nota de transparencia en la página de créditos.)*
 - [ ] **Revisar las 109 imágenes** una a una por artefactos de IA (manos/caras/texto raros).
-- [ ] **Sangrado del interior**: decide entre (a) interior a sangre a 8.625×11.25 in, o
-      (b) sin sangrado con las imágenes de portada/separadores dentro de márgenes. Hoy el
-      PDF es 8.5×11 exacto con imágenes a sangre → **ajustar antes de subir** (evita rechazo).
+- [x] **Sangrado del interior**: generado con `python scripts/build.py --kdp` →
+      `dist/Tiempo-de-Calidad-KDP.pdf` (8.625×11.25 in). Sube ese archivo (o `-KDP-BN.pdf`),
+      no el de 8.5×11.
 - [x] Página de **copyright** y **descargo de responsabilidad** de seguridad — ya incluidas.
-- [ ] **Portada de venta** profesional (wrap completo con lomo + contraportada con blurb).
-      La ilustración de portada interior NO sirve como portada de tapa blanda por sí sola.
+- [x] **Portada de venta** profesional (wrap completo con lomo + contraportada): genérala con
+      `python scripts/build_cover.py` → `dist/Portada-KDP-tapa-blanda.pdf`. Edita el blurb en
+      `scripts/build_cover.py` (dict `BACK`). El lomo se calcula según el nº de páginas.
 - [ ] Completar **nombre de autor** en `data/book.yaml` (`meta.autor`).
 - [ ] Subir a **Amazon.com, Amazon.com.mx y Amazon.es** (mercados hispanos).
 

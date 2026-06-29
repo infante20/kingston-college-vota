@@ -26,6 +26,16 @@ python scripts/build.py                # -> dist/*.pdf y dist/*.epub
 escala de grises del interior (mucho más barata de imprimir en KDP). Requiere Ghostscript
 (`apt-get install ghostscript`).
 
+`python scripts/build.py --kdp` genera el interior **con sangrado** (8.625×11.25 in) listo para
+imprenta KDP: `dist/Tiempo-de-Calidad-KDP.pdf` (y `-KDP-BN.pdf` si además pasas `--bw`).
+
+`python scripts/build.py --edad=3-5` construye **solo** ese rango (libro independiente de la
+serie). `python scripts/build_series.py` construye los **4 libros por edad + el tomo completo**,
+cada uno con color, EPUB, B/N y KDP.
+
+`python scripts/build_cover.py` genera la **portada de venta** (wrap completo: contraportada +
+lomo calculado por nº de páginas + frente) en `dist/Portada-KDP-tapa-blanda.pdf`.
+
 Documentos de negocio: `docs/analisis-comercial.md` (auditoría comercial) y
 `docs/kdp-publicacion.md` (título, subtítulo, keywords, categorías, descripción y precios
 listos para copiar a KDP).

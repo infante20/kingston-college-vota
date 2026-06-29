@@ -56,7 +56,7 @@ def resolve_image(stem: str) -> str | None:
     return None
 
 
-def build_html(book: dict, acts: list[dict], icons: dict) -> str:
+def build_html(book: dict, acts: list[dict], icons: dict, extra_css: str = "") -> str:
     env = Environment(
         loader=FileSystemLoader(str(TEMPLATES)),
         autoescape=select_autoescape(["html"]),
@@ -83,6 +83,8 @@ def build_html(book: dict, acts: list[dict], icons: dict) -> str:
         e["cover_src"] = resolve_image(f"sep-{e['rango']}")
 
     inline_css = (STYLES / "print.css").read_text(encoding="utf-8")
+    if extra_css:
+        inline_css += "\n/* override */\n" + extra_css
 
     tmpl = env.get_template("book.html.j2")
     return tmpl.render(
@@ -167,14 +169,43 @@ def build_bw(pdf_path: Path, out: Path) -> bool:
         return False
 
 
+# Sangrado KDP: página = trim + sangrado (8.625x11.25). Las secciones a sangre
+# (portada y separadores) crecen para llenar la página completa.
+KDP_BLEED_CSS = "@page{ size:8.625in 11.25in; }\n.cover, .chapter-divider{ height:285.75mm; }"
+
+
+def _arg_value(prefix: str) -> str | None:
+    for a in sys.argv:
+        if a.startswith(prefix):
+            return a.split("=", 1)[1]
+    return None
+
+
 def main() -> None:
     only_html = "--html" in sys.argv
+    kdp = "--kdp" in sys.argv
+    bw = "--bw" in sys.argv
+    edad = _arg_value("--edad=")
     DIST.mkdir(exist_ok=True)
     book = load_yaml(DATA / "book.yaml")
     acts = load_activities()
     icons = load_icons()
-    print(f"Actividades cargadas: {len(acts)}")
 
+    slug = "Tiempo-de-Calidad"
+    # Modo serie: un solo rango de edad -> libro independiente
+    if edad:
+        acts = [a for a in acts if a.get("edad") == edad]
+        book["edades"] = [e for e in book["edades"] if e["rango"] == edad]
+        if not acts or not book["edades"]:
+            raise SystemExit(f"--edad={edad} no coincide con ninguna actividad/rango")
+        banda = book["edades"][0]["titulo"]
+        book["meta"] = dict(book["meta"])
+        book["meta"]["subtitulo"] = (f"+{len(acts)} actividades y experimentos sin "
+                                     f"pantallas para niños de {banda}")
+        slug = f"Tiempo-de-Calidad-{edad}"
+    print(f"Actividades cargadas: {len(acts)}" + (f" (edad {edad})" if edad else ""))
+
+    # HTML de pantalla (8.5x11)
     html = build_html(book, acts, icons)
     html_path = DIST / "book.html"
     html_path.write_text(html, encoding="utf-8")
@@ -182,7 +213,6 @@ def main() -> None:
     if only_html:
         return
 
-    slug = "Tiempo-de-Calidad"
     pdf_path = DIST / f"{slug}.pdf"
     build_pdf(html_path, pdf_path)
     print(f"PDF  -> {pdf_path}")
@@ -191,10 +221,20 @@ def main() -> None:
     build_epub(book, html_path, epub_path, pdf_path)
     print(f"EPUB -> {epub_path}")
 
-    if "--bw" in sys.argv:
-        bw_path = DIST / f"{slug}-BN.pdf"
-        if build_bw(pdf_path, bw_path):
-            print(f"PDF B/N -> {bw_path}")
+    if bw:
+        if build_bw(pdf_path, DIST / f"{slug}-BN.pdf"):
+            print(f"PDF B/N -> {DIST / f'{slug}-BN.pdf'}")
+
+    # Interior listo para imprenta KDP (con sangrado)
+    if kdp:
+        html_kdp = build_html(book, acts, icons, extra_css=KDP_BLEED_CSS)
+        html_kdp_path = DIST / "book-kdp.html"
+        html_kdp_path.write_text(html_kdp, encoding="utf-8")
+        kdp_pdf = DIST / f"{slug}-KDP.pdf"
+        build_pdf(html_kdp_path, kdp_pdf)
+        print(f"PDF KDP (sangrado) -> {kdp_pdf}")
+        if bw and build_bw(kdp_pdf, DIST / f"{slug}-KDP-BN.pdf"):
+            print(f"PDF KDP B/N -> {DIST / f'{slug}-KDP-BN.pdf'}")
 
 
 if __name__ == "__main__":
