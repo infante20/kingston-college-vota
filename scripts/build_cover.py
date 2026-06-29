@@ -58,16 +58,12 @@ def front_src() -> str:
     return ""
 
 
-def build_html(pages: int, paper: str, meta: dict) -> tuple[str, float, float]:
+def build_html(pages, paper, title, subt, author, front, badge):
     spine = round(pages * THICK[paper], 4)
     full_w = round(BLEED + TRIM_W + spine + TRIM_W + BLEED, 4)
     full_h = round(TRIM_H + 2 * BLEED, 4)
     panel_w = round(BLEED + TRIM_W, 4)          # ancho de cada panel (con sangrado exterior)
     spine_text = pages >= 100
-    front = front_src()
-    title = meta.get("titulo", "")
-    subt = meta.get("subtitulo", "")
-    author = meta.get("autor", "")
 
     css = f"""
     @font-face{{font-family:"Fraunces";font-weight:600;src:url("assets/fonts/Fraunces-600.woff2") format("woff2");}}
@@ -104,7 +100,8 @@ def build_html(pages: int, paper: str, meta: dict) -> tuple[str, float, float]:
     .front-bg{{position:absolute; inset:0; width:100%; height:100%; object-fit:cover;}}
     .front-scrim{{position:absolute; inset:0;
       background:linear-gradient(180deg, rgba(20,40,30,.55) 0%, rgba(20,40,30,.18) 42%, rgba(20,40,30,.62) 100%);}}
-    .front-in{{position:absolute; left:0.7in; right:0.55in; top:1.0in; z-index:2; text-align:center; color:#fff;}}
+    .front-in{{position:absolute; left:0.6in; right:0.6in; top:0.95in; z-index:2; text-align:center; color:#fff;
+      background:rgba(18,34,26,.46); border-radius:14px; padding:9mm 7mm;}}
     .f-kicker{{font-size:12pt; letter-spacing:.26em; text-transform:uppercase; opacity:.92;}}
     .f-title{{font-family:"Fraunces",serif; font-size:56pt; line-height:1.02; margin:6mm 0 0;
       text-shadow:0 3px 16px rgba(0,0,0,.55);}}
@@ -138,7 +135,7 @@ def build_html(pages: int, paper: str, meta: dict) -> tuple[str, float, float]:
       <div class="f-kicker">Guía para familias</div>
       <h1 class="f-title">{title}</h1>
       <div class="f-sub">{subt}</div>
-      <span class="f-badge">Edades 0 – 12</span>
+      <span class="f-badge">{badge}</span>
     </div>
     <div class="f-author">{author}</div>
   </div>
@@ -146,23 +143,50 @@ def build_html(pages: int, paper: str, meta: dict) -> tuple[str, float, float]:
     return html, full_w, full_h
 
 
+def _img(stem: str) -> str:
+    for ext in (".jpg", ".png", ".svg"):
+        if (IMG / f"{stem}{ext}").exists():
+            return f"assets/images/{stem}{ext}"
+    return ""
+
+
 def main():
-    import yaml
+    import glob, yaml
     ap = argparse.ArgumentParser()
     ap.add_argument("--pages", type=int, default=0)
     ap.add_argument("--interior", default="")
     ap.add_argument("--paper", choices=list(THICK), default="white")
+    ap.add_argument("--edad", default="", help="rango (0-2, 3-5, 6-8, 9-12) para portada de banda")
     ap.add_argument("--out", default="")
     args = ap.parse_args()
 
-    meta = yaml.safe_load((ROOT / "data/book.yaml").read_text(encoding="utf-8"))["meta"]
+    book = yaml.safe_load((ROOT / "data/book.yaml").read_text(encoding="utf-8"))
+    meta = book["meta"]
+    title, author = meta.get("titulo", ""), meta.get("autor", "")
+
+    if args.edad:
+        e = next((x for x in book["edades"] if x["rango"] == args.edad), None)
+        if not e:
+            raise SystemExit(f"--edad={args.edad} no existe")
+        n = len(glob.glob(str(ROOT / f"data/activities/{args.edad.replace('-', 'a')}-*.yaml")))
+        subt = f"+{n} actividades y experimentos sin pantallas para niños de {e['titulo']}"
+        front = _img(f"sep-{args.edad}") or _img("portada")
+        badge = e["titulo"]
+        if not (args.pages or args.interior):
+            args.interior = str(DIST / f"Tiempo-de-Calidad-{args.edad}-BN.pdf")
+        out = Path(args.out) if args.out else (DIST / f"Portada-KDP-{args.edad}.pdf")
+    else:
+        subt = meta.get("subtitulo", "")
+        front = _img("portada")
+        badge = "Edades 0 – 12"
+        out = Path(args.out) if args.out else (DIST / "Portada-KDP-tapa-blanda.pdf")
+
     pages = page_count(args)
-    html, w, h = build_html(pages, args.paper, meta)
+    html, w, h = build_html(pages, args.paper, title, subt, author, front, badge)
     spine = round(pages * THICK[args.paper], 4)
 
     html_path = DIST / "cover-wrap.html"
     html_path.write_text(html, encoding="utf-8")
-    out = Path(args.out) if args.out else (DIST / "Portada-KDP-tapa-blanda.pdf")
 
     from weasyprint import HTML
     HTML(filename=str(html_path), base_url=str(ROOT)).write_pdf(str(out))
