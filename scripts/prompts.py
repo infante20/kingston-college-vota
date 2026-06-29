@@ -62,8 +62,9 @@ def estilo(acento: str, orientacion: str) -> str:
             f"moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. "
             f"Fondo crema {CREMA}, color de acento principal {acento}. Paleta cálida y "
             f"natural ({PALETA}). Composición {orientacion} con márgenes generosos. "
-            f"Inclusiva y diversa, segura y tierna. SIN texto, SIN palabras, SIN letras, "
-            f"SIN números, SIN logotipos.")
+            f"Inclusiva y diversa, segura y tierna. Rostros y manos bien formados y "
+            f"completos (cinco dedos por mano), anatomía correcta y simple. SIN texto, "
+            f"SIN palabras, SIN letras, SIN números, SIN logotipos, SIN carteles.")
 
 
 def portada_prompt() -> str:
