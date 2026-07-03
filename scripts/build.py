@@ -123,8 +123,15 @@ def epub_cover(pdf_path: Path) -> Path | None:
 
 
 def build_epub(book: dict, html_path: Path, out: Path, pdf_path: Path) -> None:
-    import pypandoc
+    import pypandoc, re
     meta = book["meta"]
+    # Los enlaces internos del índice (#act-...) se rompen al trocear el EPUB en
+    # capítulos (RSC-012); pandoc genera su propio TOC navegable, así que aquí
+    # se desactivan los href dejando el texto intacto.
+    html_txt = html_path.read_text(encoding="utf-8")
+    html_txt = re.sub(r'<a href="#act-[^"]+">', "<a>", html_txt)
+    html_path = html_path.with_name("book-epub.html")
+    html_path.write_text(html_txt, encoding="utf-8")
     extra = [
         f"--metadata=title:{meta['titulo']}",
         f"--metadata=subtitle:{meta['subtitulo']}",
