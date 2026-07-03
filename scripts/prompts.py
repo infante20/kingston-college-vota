@@ -57,40 +57,36 @@ def load_activities() -> list[dict]:
     return acts
 
 
+# El TEMA va primero (los modelos priorizan el inicio del prompt); el estilo después.
 def estilo(acento: str, orientacion: str) -> str:
-    return (f"Ilustración plana (flat vector) estilo libro infantil, cálida, amigable y "
-            f"moderna. Formas redondeadas simples, sombras muy suaves, líneas limpias. "
-            f"Fondo crema {CREMA}, color de acento principal {acento}. Paleta cálida y "
-            f"natural ({PALETA}). Composición {orientacion} con márgenes generosos. "
-            f"Inclusiva y diversa, segura y tierna. Rostros y manos bien formados y "
-            f"completos (cinco dedos por mano), anatomía correcta y simple. SIN texto, "
-            f"SIN palabras, SIN letras, SIN números, SIN logotipos, SIN carteles.")
+    return (f"Estilo: ilustración plana (flat vector) de libro infantil, cálida, amigable "
+            f"y moderna; formas redondeadas, sombras suaves, líneas limpias; fondo crema "
+            f"{CREMA}, acento {acento}, paleta ({PALETA}); composición {orientacion}; "
+            f"manos con cinco dedos. SIN texto, SIN letras, SIN carteles.")
 
 
 def portada_prompt() -> str:
-    return (f"{estilo('#2E7D5B', 'vertical (formato libro)')} Escena de portada: una "
-            f"familia disfrutando tiempo juntos en casa SIN PANTALLAS — leyendo un libro "
-            f"de papel, armando bloques de madera y pintando juntos. ABSOLUTAMENTE NADA de "
-            f"teléfonos, celulares, tablets, computadores, notebooks ni televisores en la "
-            f"escena. Ambiente hogareño cálido y luminoso, cercanía y alegría. Deja la "
-            f"mitad superior despejada y de tono medio para sobreponer el título después. "
-            f"Predomina el verde de la paleta.")
+    return (f"Una familia (madre, padre y un niño pequeño) disfruta en casa SIN PANTALLAS: "
+            f"leen un libro de papel y arman bloques de madera en el living, escena cálida "
+            f"y luminosa. Nada de teléfonos, tablets, computadores ni televisores. Deja la "
+            f"mitad superior despejada para sobreponer un título; predomina el verde. "
+            f"{estilo('#2E7D5B', 'vertical (formato libro)')}")
 
 
 def sep_prompt(rango: str) -> str:
-    return (f"{estilo('#3E6E94', 'vertical (página completa)')} {SEP_ESCENA[rango]}. "
-            f"Composición de página completa, decorativa, con espacio inferior más "
-            f"despejado para sobreponer el título del capítulo.")
+    return (f"{SEP_ESCENA[rango].capitalize()}. Composición de página completa, con la "
+            f"franja inferior más despejada para sobreponer el título del capítulo. "
+            f"{estilo('#3E6E94', 'vertical (página completa)')}")
 
 
 def activity_prompt(a: dict) -> str:
     acento = TIPO_ACENTO[a["tipo"]]
     subj = SUBJ[a["edad"]]
     gancho = (a.get("gancho") or "").strip()
-    return (f"{estilo(acento, 'horizontal (banner apaisado)')} "
-            f"Tema: {subj} realizando la actividad «{a['titulo']}». {gancho} "
-            f"Muestra la acción de forma clara y simpática, con los materiales caseros "
-            f"característicos de la actividad.")
+    return (f"Escena protagonista: {subj} realizando la actividad «{a['titulo']}» — "
+            f"{gancho} Muestra al niño EN ACCIÓN, en primer plano, con los materiales "
+            f"caseros característicos de la actividad. "
+            f"{estilo(acento, 'horizontal (banner apaisado)')}")
 
 
 def all_targets() -> list[tuple[str, str, tuple[int, int]]]:
