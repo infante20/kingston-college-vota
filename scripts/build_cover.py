@@ -204,8 +204,17 @@ def main():
         num = f"+{n}"
         badge_sub, badge_num = "EDADES", args.edad.replace("-", "–")
         otras = [r for r in ("0-2", "3-5", "6-8", "9-12") if r != args.edad]
-        back["kicker"] = (f"MÁS DE {n} ACTIVIDADES · GUÍA PARA FAMILIAS · "
-                          f"{e['titulo'].upper()}")
+        n_exp = 0
+        for f in glob.glob(str(ROOT / f"data/activities/{args.edad.replace('-', 'a')}-*.yaml")):
+            if "tipo: experimento" in Path(f).read_text(encoding="utf-8"):
+                n_exp += 1
+        back["kicker"] = f"{n} ACTIVIDADES · GUÍA PARA FAMILIAS · {e['titulo'].upper()}"
+        back["body"] = (f"¿Tus hijos piden pantalla apenas se aburren? Abre este libro en "
+                        f"cualquier página y en 5 minutos están jugando, mezclando o "
+                        f"construyendo. {n} actividades y experimentos pensados para "
+                        f"niños de {e['titulo'].lower()}, con materiales que ya tienes en casa.")
+        back["bullets"] = ([f"{n_exp} experimentos de ciencia paso a paso, a la medida de su edad"]
+                           + BACK["bullets"][1:])
         back["series"] = ("Completa la colección TIEMPO DE CALIDAD con los otros tomos: "
                           + " · ".join(f"{r} años" for r in otras)
                           + ", o el tomo completo 0–12.")
