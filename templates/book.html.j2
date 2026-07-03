@@ -42,20 +42,25 @@
 {# ------------------------------ ÍNDICE ----------------------------- #}
 <section class="page toc">
   <h2 class="section-h">Índice</h2>
-  <ul class="toc-list">
-    <li class="toc-front"><span>{{ textos.intro_titulo }}</span></li>
-    <li class="toc-front"><span>{{ textos.como_usar.titulo }}</span></li>
-    <li class="toc-front"><span>{{ textos.seguridad.titulo }}</span></li>
-    <li class="toc-front"><span>Leyenda de iconos</span></li>
-    {% for e in edades %}
-      <li class="toc-chapter"><span>{{ e.titulo }} · {{ e.lema }}</span></li>
-      {% for a in actividades if a.edad == e.rango %}
-        <li class="toc-act"><span class="toc-act-title">{{ a.titulo }}</span>
-          <span class="toc-act-type" style="color:{{ tipos[a.tipo].color }}">{{ tipos[a.tipo].label }}</span></li>
-      {% endfor %}
-    {% endfor %}
-    <li class="toc-front"><span>{{ textos.cierre.titulo }}</span></li>
+  <ul class="toc-front-list">
+    <li>{{ textos.intro_titulo }}</li>
+    <li>{{ textos.como_usar.titulo }}</li>
+    <li>{{ textos.seguridad.titulo }}</li>
+    <li>Leyenda de iconos</li>
   </ul>
+  {% for e in edades %}
+  <div class="toc-chapter-block">
+    <h3 class="toc-ch-h">{{ e.titulo }} <span class="toc-ch-lema">· {{ e.lema }}</span></h3>
+    <ul class="toc-cols">
+      {% for a in actividades if a.edad == e.rango %}
+      <li style="--tc:{{ tipos[a.tipo].color }}"><a href="#act-{{ a.id }}"><span class="mini-dot"></span><span class="toc-t">{{ a.titulo }}</span></a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+  <p class="toc-legend">
+    {% for key, t in tipos.items() %}<span class="legend-item"><span class="mini-dot" style="--tc:{{ t.color }}"></span> {{ t.label }}</span> {% endfor %}
+  </p>
 </section>
 
 {# --------------------------- INTRODUCCIÓN -------------------------- #}
@@ -140,15 +145,29 @@
     </div>
   </section>
 
+  {% set band_acts = actividades | selectattr('edad','equalto',e.rango) | list %}
+  {% set n_exp = band_acts | selectattr('tipo','equalto','experimento') | list | length %}
+  {% set n_facil = band_acts | selectattr('dif_prep','equalto',1) | list | length %}
   <section class="page prose chapter-intro">
     <h2 class="section-h">{{ e.titulo }}</h2>
     <p class="chapter-lema">{{ e.lema }}</p>
     <p>{{ e.intro }}</p>
+    <div class="chapter-stats">
+      <div class="stat"><div class="stat-num">{{ band_acts|length }}</div><div class="stat-label">actividades</div></div>
+      <div class="stat"><div class="stat-num">{{ n_exp }}</div><div class="stat-label">experimentos de ciencia</div></div>
+      <div class="stat"><div class="stat-num">{{ n_facil }}</div><div class="stat-label">listas para empezar ya</div></div>
+    </div>
+    <h3 class="minitoc-h">En este capítulo</h3>
+    <ul class="chapter-minitoc">
+      {% for a in band_acts %}
+      <li style="--tc:{{ tipos[a.tipo].color }}"><span class="mini-dot"></span><span class="mini-title">{{ a.titulo }}</span><span class="mini-dur">{{ a.duracion }}</span></li>
+      {% endfor %}
+    </ul>
   </section>
 
   {% for a in actividades if a.edad == e.rango %}
     {% set t = tipos[a.tipo] %}
-    <article class="page activity" style="--c:{{ t.color }}">
+    <article class="page activity" id="act-{{ a.id }}" style="--c:{{ t.color }}">
       <header class="act-head">
         <span class="act-type"><span class="act-type-ico" style="color:{{ t.color }}">{{ icons[t.icon] }}</span>{{ t.label }}</span>
         <span class="act-age">{{ e.titulo }}</span>
@@ -188,15 +207,33 @@
         </div>
       </div>
 
-      {% if a.aprendizaje %}
-        <div class="act-note act-learn"><strong>Qué desarrolla:</strong> {{ a.aprendizaje }}</div>
-      {% endif %}
-      {% if a.variantes %}
-        <div class="act-note act-variant"><strong>Variantes y consejos:</strong> {{ a.variantes }}</div>
-      {% endif %}
+      <div class="act-notes-row">
+        {% if a.aprendizaje %}
+          <div class="act-note act-learn"><strong>Qué desarrolla:</strong> {{ a.aprendizaje }}</div>
+        {% endif %}
+        {% if a.variantes %}
+          <div class="act-note act-variant"><strong>Variantes y consejos:</strong> {{ a.variantes }}</div>
+        {% endif %}
+      </div>
       {% if a.seguridad %}
         <div class="act-note act-safety"><strong>Seguridad:</strong> {{ a.seguridad }}</div>
       {% endif %}
+
+      {% set log_q = "¿Cómo reaccionó? ¿Qué le llamó la atención?" if a.edad == "0-2"
+                     else "¿Qué pasó? ¿Qué fue lo más divertido?" %}
+      <div class="act-log">
+        <div class="log-head">
+          <span class="log-check"></span><span class="log-title">¡La hicimos!</span>
+          <span class="log-date">Fecha: <span class="write-slot"></span></span>
+          <span class="log-stars">☆☆☆☆☆</span>
+        </div>
+        <p class="log-q">{{ log_q }}</p>
+        <div class="write-line"></div><div class="write-line"></div><div class="write-line"></div>
+        <p class="log-q draw-q">{{ "Peguen aquí una foto del momento:" if a.edad == "0-2"
+                                   else "Dibujen lo que pasó:" }}</p>
+        <div class="draw-box"></div>
+      </div>
+      <div class="act-end"></div>
     </article>
   {% endfor %}
 {% endfor %}
@@ -208,7 +245,7 @@
     {% set group = actividades | selectattr('tipo','equalto',key) | list %}
     {% if group %}
       <h3 class="bytype-h" style="color:{{ t.color }}">{{ t.label }}</h3>
-      <ul class="bytype-list">
+      <ul class="bytype-list bytype-cols">
         {% for a in group %}<li>{{ a.titulo }} <span class="bytype-age">({{ a.edad }} años)</span></li>{% endfor %}
       </ul>
     {% endif %}
