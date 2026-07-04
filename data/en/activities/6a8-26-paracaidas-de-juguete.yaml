@@ -1,0 +1,38 @@
+id: "6a8-26"
+orden: 26
+edad: "6-8"
+tipo: experimento
+titulo: "The Toy Parachute"
+gancho: "Build a parachute from a plastic bag and string, and discover how air slows a toy's fall."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "A clean plastic bag"
+  - "Scissors"
+  - "String or yarn"
+  - "Tape"
+  - "A small, lightweight toy to be the parachutist"
+  - "A notebook for writing things down"
+preparacion: >
+  Cut a square about the size of a sheet of paper out of the bag. Cut four pieces of
+  string of equal length. Tape one end of each string to each corner of the square,
+  then gather the other ends and tie them to the toy. Find a safe, high spot, like a
+  sturdy chair.
+pasos:
+  - "Ask your child which will fall faster: the toy alone or the toy with the parachute, and write down the prediction."
+  - "Drop the toy by itself from the chair and count out loud how long it takes to reach the floor."
+  - "Now release the toy with the parachute open from the same height and count again."
+  - "Watch how the parachute fills with air and floats down more slowly than the toy alone."
+  - "Write down both times, compare them, and check whether the prediction from the start came true."
+aprendizaje: >
+  Teaches that air pushes up against the parachute and slows the fall: that force is
+  called air resistance. The bigger the canopy, the more air it catches and the more
+  slowly the toy comes down.
+variantes: >
+  Try parachutes of different sizes, or cut a small hole in the center to see if it
+  falls straighter. You can also compare a plastic bag with a sheet of paper.
+seguridad: >
+  Climb onto the chair carefully or ask an adult for help. Don't launch the toy at
+  anyone's face, and keep plastic bags away from younger children.
+imagen: "6a8-26.png"

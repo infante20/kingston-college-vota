@@ -1,0 +1,38 @@
+id: "6a8-25"
+orden: 25
+edad: "6-8"
+tipo: experimento
+titulo: "The Fireproof Balloon"
+gancho: "Hold a flame near a balloon with water inside and discover why it doesn't pop like one filled with only air."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Two balloons of the same size"
+  - "Tap water"
+  - "A candle"
+  - "Matches or a lighter (for adult use only)"
+  - "A bucket of water nearby, just in case"
+  - "A notebook for writing things down"
+preparacion: >
+  Do this activity outdoors or near a faucet, with a bucket of water on hand. Inflate
+  one balloon with air only and tie it off. Fill the other balloon with tap water until
+  it's about the size of a fist, then add a little air and tie it off. An adult lights
+  and holds the candle.
+pasos:
+  - "Ask your child which balloon they think will pop first when it's brought near the flame, and write down the prediction."
+  - "The adult carefully brings the air-only balloon near the flame, and you'll watch it burst right away."
+  - "Now the adult brings the water-filled part of the other balloon near the flame, without letting it touch the flame directly."
+  - "Notice that this balloon doesn't pop, even though the flame is heating it from below."
+  - "Write down what happened and compare the result with the prediction from the start."
+aprendizaje: >
+  Teaches that water absorbs much of the flame's heat and keeps the balloon's rubber
+  cooler, so it doesn't break. The air-only balloon has nothing to absorb the heat,
+  which is why it pops so fast.
+variantes: >
+  Try more or less water inside the balloon to see how much it can take, or carefully
+  touch the wet part afterward to feel that it's still just warm, not hot.
+seguridad: >
+  Only an adult uses the candle and matches. Keep hair and clothing away from the
+  flame, and keep the bucket of water close by to put out any accident.
+imagen: "6a8-25.png"

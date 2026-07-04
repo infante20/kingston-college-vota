@@ -1,0 +1,36 @@
+id: "6a8-18"
+orden: 18
+edad: "6-8"
+tipo: experimento
+titulo: "The Backyard Sundial"
+gancho: "Build a clock out of a stick and a shadow, and learn to tell time by looking at the sky."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A straight stick or a long pencil"
+  - "A piece of cardboard or a paper plate"
+  - "Modeling clay or a little dirt to hold the stick steady"
+  - "A marker"
+  - "A clock to compare the time"
+preparacion: >
+  Pick a sunny day and a spot in the yard or on the sidewalk that gets sun all morning
+  and afternoon. This activity means checking the clock every hour, so it's best to
+  start early.
+pasos:
+  - "Stand the stick up in the center of the cardboard with modeling clay so it stays firmly upright."
+  - "Set the cardboard in the sun and, at the top of every hour, mark with the marker where the tip of the shadow falls."
+  - "Next to each mark, write the time shown on the real clock."
+  - "Throughout the day, watch how the shadow moves and changes length."
+  - "The next day, try guessing the time by looking only at the shadow, then check against the clock."
+aprendizaje: >
+  Shows that the sun appears to move across the sky and that shadows change position
+  during the day, just like ancient clocks used. Your child connects watching the sky
+  with measuring time.
+variantes: >
+  Compare the marks from a winter day with a summer day, or make a bigger sundial with
+  chalk right on the patio or driveway.
+seguridad: >
+  Never look directly at the sun. Wear a hat and sunscreen if you'll be outside for a
+  long time.
+imagen: "6a8-18.png"

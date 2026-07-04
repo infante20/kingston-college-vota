@@ -1,0 +1,37 @@
+id: "6a8-14"
+orden: 14
+edad: "6-8"
+tipo: experimento
+titulo: "Homemade Lava Lamp"
+gancho: "Mix oil, water, and a fizzy tablet to watch colorful bubbles rise and fall like lava."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 2
+materiales:
+  - "A clear bottle or jar"
+  - "Cooking oil"
+  - "Water"
+  - "Food coloring"
+  - "An effervescent tablet (the kind that fizzes)"
+  - "A notebook for writing things down"
+preparacion: >
+  Clear a table and cover it in case any oil spills. Fill the bottle three-quarters
+  full with oil, and set aside a little water with a few drops of food coloring in a
+  separate cup.
+pasos:
+  - "Ask your child what they think will happen when the water meets the oil, and write down the prediction."
+  - "Pour the colored water into the bottle of oil and watch it separate into two layers."
+  - "Break the fizzy tablet into pieces and drop one into the bottle."
+  - "Watch colorful bubbles rise and fall, turning the bottle into a lava lamp."
+  - "When it calms down, add another piece to repeat the effect, and compare with your prediction."
+aprendizaje: >
+  Teaches that oil and water don't mix because they have different densities, and that
+  the tablet releases a gas that pushes the water upward in bubbles. Your child
+  observes, predicts, and checks.
+variantes: >
+  Try it with warm water and then cold water to see if the bubbles change speed, or
+  use two different food colorings in separate bottles.
+seguridad: >
+  Don't drink what's in the bottle. Oil is slippery and it stains: clean up spills
+  right away.
+imagen: "6a8-14.png"

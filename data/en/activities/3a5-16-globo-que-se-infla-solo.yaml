@@ -1,0 +1,34 @@
+id: "3a5-16"
+orden: 16
+edad: "3-5"
+tipo: experimento
+titulo: "The Balloon That Blows Itself Up"
+gancho: "A balloon that inflates without any blowing, pushed by the bubbles of a magic mixture."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "A balloon"
+  - "A narrow-necked plastic bottle"
+  - "Baking soda (2 tablespoons)"
+  - "Vinegar (half a cup)"
+  - "A funnel or a paper cone"
+preparacion: >
+  Using the funnel, the grown-up pours the vinegar into the bottle. Separately, help your little
+  one spoon the baking soda into the balloon using the same funnel, without letting them mix yet.
+pasos:
+  - "Carefully stretch the mouth of the balloon (with the baking soda inside) over the neck of the bottle."
+  - "Ask your little one what they think will happen when the baking soda falls into the vinegar."
+  - "Count 'three, two, one' and lift the balloon so the baking soda drops in."
+  - "Watch lots of bubbles appear as the balloon starts inflating all by itself."
+  - "When it stops, talk about what you saw and, if you like, repeat it with another balloon."
+aprendizaje: >
+  Shows that mixing baking soda and vinegar creates a gas that takes up space and inflates the
+  balloon. It builds anticipation, observation, and the idea that air takes up room.
+variantes: >
+  Try more or less baking soda to see if the balloon grows bigger. Use bottles of different
+  sizes and compare.
+seguridad: >
+  Vinegar stings if it gets in the eyes: supervise the mixing. It's not for drinking. Do the
+  activity on an easy-to-clean surface.
+imagen: "3a5-16.png"

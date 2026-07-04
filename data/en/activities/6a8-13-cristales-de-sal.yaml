@@ -1,0 +1,37 @@
+id: "6a8-13"
+orden: 13
+edad: "6-8"
+tipo: experimento
+titulo: "Salt Crystals That Grow on Their Own"
+gancho: "Mix up super-salty water and watch shiny crystals appear out of nowhere in just a few days."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Table salt"
+  - "A clear glass jar"
+  - "Hot water (prepared by an adult)"
+  - "A spoon"
+  - "A piece of yarn or thick string"
+  - "A pencil to rest across the jar"
+  - "A notebook for tracking the changes"
+preparacion: >
+  An adult heats the water and pours it into the jar. Clear a quiet spot where the jar
+  can sit undisturbed for several days without anyone moving it. Have the notebook
+  ready to record what happens each day.
+pasos:
+  - "Add salt to the hot water one spoonful at a time, stirring, until no more will dissolve."
+  - "Tie the piece of yarn to the middle of the pencil and rest it across the mouth of the jar so the yarn hangs down into the water."
+  - "Leave the jar still in a spot where no one will touch or move it."
+  - "Each day, check the yarn and the bottom of the jar, and write or draw in the notebook what you see growing."
+  - "After several days, carefully lift out the crystal-covered yarn and take a close look."
+aprendizaje: >
+  Shows how water can hold a lot of dissolved salt and, as it slowly evaporates, the
+  salt comes back out and forms crystals. Your child practices patience and keeps
+  records of an experiment that changes over time.
+variantes: >
+  Repeat the experiment with sugar in another jar and compare the shape of the
+  crystals, or add a few drops of food coloring to grow colored crystals.
+seguridad: >
+  Only an adult handles the hot water. Don't taste the crystals or the salt water.
+imagen: "6a8-13.png"

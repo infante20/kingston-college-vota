@@ -1,0 +1,41 @@
+id: "9a12-14"
+orden: 14
+edad: "9-12"
+tipo: experimento
+titulo: "Extract DNA from a Strawberry"
+gancho: "Pull out with your own hands the strand of DNA that holds all of a strawberry's information."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "2 or 3 ripe strawberries"
+  - "A resealable or sturdy plastic bag"
+  - "Half a teaspoon of salt"
+  - "A tablespoon of dish soap"
+  - "Half a cup of water"
+  - "A fine strainer or cheesecloth"
+  - "A clear glass cup"
+  - "Ice-cold rubbing alcohol (provided by an adult, chilled in the refrigerator beforehand)"
+  - "A skewer stick"
+preparacion: >
+  Put the rubbing alcohol in the refrigerator at least 30 minutes ahead so it gets very cold.
+  Prepare the extraction solution by mixing the half cup of water, the salt, and the dish
+  soap in a cup; stir gently so it doesn't make much foam.
+pasos:
+  - "Put the strawberries in the bag, seal it, and mash them with your hands into a puree. Write your hypothesis: will you be able to see the DNA with the naked eye?"
+  - "Add the water, salt, and dish soap solution to the bag and mix again, mashing gently for a minute."
+  - "Strain the mixture through the fine strainer or cheesecloth into the glass cup, keeping only the pink liquid."
+  - "Tilt the cup and have an adult slowly pour the cold alcohol down the side, forming a layer that floats on top of the liquid."
+  - "Watch the spot where the two layers meet: white, cloudy strands will appear. That is the DNA."
+  - "Carefully wind the strands around the skewer stick and lift them out. Note what you saw and write your conclusion."
+aprendizaje: >
+  The dish soap breaks open the cell membranes, the salt helps the DNA clump together, and
+  the cold alcohol makes the DNA (which doesn't dissolve in alcohol) become visible. You
+  discover that all the information of a living thing fits in strands so tiny we normally can't see them.
+variantes: >
+  Repeat with other soft fruits like banana or kiwi and compare which one gives the most DNA.
+  Try room-temperature alcohol and record whether it works as well as the cold kind.
+seguridad: >
+  An adult always handles the alcohol and keeps it away from flames. Do not taste any
+  mixture. Wash your hands when you finish.
+imagen: "9a12-14.png"

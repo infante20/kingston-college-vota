@@ -1,0 +1,33 @@
+id: "6a8-19"
+orden: 19
+edad: "6-8"
+tipo: experimento
+titulo: "The Paper Bridge That Holds Weight"
+gancho: "Discover how a simple folded sheet of paper can hold up coins without collapsing."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Several identical sheets of paper"
+  - "Two books or boxes of the same height"
+  - "Coins or dried beans to use as weights"
+  - "A notebook for writing things down"
+preparacion: >
+  Set the two books on the table with a gap between them, like the two banks of a
+  river. Have the coins or beans in a pile, ready to use as test weights.
+pasos:
+  - "Lay a flat sheet across the two books to form a bridge, and place coins on it until it sags."
+  - "Write down how many coins the flat bridge held before it fell."
+  - "Fold another sheet into an accordion, with lots of pleats, and use it as the new bridge."
+  - "Place coins on the folded bridge and count how many it holds now."
+  - "Compare the two results in the notebook and talk about why one held up more."
+aprendizaje: >
+  Introduces an engineering idea: shape changes a material's strength, and folds
+  spread the weight better than a flat sheet. Your child builds, tests, and measures
+  to draw conclusions.
+variantes: >
+  Try other shapes, like rolling the paper into tubes, or widen the gap between the
+  books to see how far the bridge can hold out.
+seguridad: >
+  Use coins or beans as weights, not heavy objects that could fall on someone's feet.
+imagen: "6a8-19.png"

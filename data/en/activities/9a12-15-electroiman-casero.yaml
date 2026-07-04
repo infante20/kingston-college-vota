@@ -1,0 +1,39 @@
+id: "9a12-15"
+orden: 15
+edad: "9-12"
+tipo: experimento
+titulo: "DIY Electromagnet"
+gancho: "Turn a nail into a magnet you can switch on and off with a battery."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "A large iron nail"
+  - "Thin enameled copper wire (three feet or more)"
+  - "A large D battery or a 4.5V lantern battery"
+  - "Electrical tape"
+  - "Metal paper clips, pins, or tacks"
+  - "A small piece of sandpaper or a knife (used by an adult)"
+  - "Notebook and ballpoint pen for recording"
+preparacion: >
+  An adult scrapes both ends of the copper wire with the sandpaper to remove the enamel and
+  expose the bare metal, so it can make contact with the battery. Gather several paper clips
+  or pins for the tests.
+pasos:
+  - "Write your hypothesis: how many paper clips do you think the nail will be able to lift? Write it in your notebook."
+  - "Wind the wire around the nail in tight, neat coils, leaving both ends free. Count and record how many turns you made."
+  - "Connect one end of the wire to each terminal of the battery and secure them with electrical tape."
+  - "Bring the tip of the nail close to the paper clips and observe: now the nail attracts them. Count how many it can lift and record it."
+  - "Disconnect one end from the battery and watch the paper clips fall off: the magnetism disappears."
+  - "Change one variable: add more turns of wire and repeat the test. Compare the results and write your conclusion."
+aprendizaje: >
+  When electric current flows through the coiled wire, it creates a magnetic field that turns
+  the nail into a magnet. You discover the link between electricity and magnetism, and that
+  more turns make the electromagnet stronger. It's the same principle behind motors and doorbells.
+variantes: >
+  Compare two nails with different numbers of turns. Try nails of different sizes or a more
+  powerful battery and record the changes in strength.
+seguridad: >
+  Use only batteries, never a wall outlet. The wire and battery can heat up if left connected
+  too long, so disconnect them between tests. An adult does the wire scraping.
+imagen: "9a12-15.png"

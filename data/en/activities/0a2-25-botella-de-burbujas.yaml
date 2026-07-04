@@ -1,0 +1,36 @@
+id: "0a2-25"
+orden: 25
+edad: "0-2"
+tipo: experimento
+titulo: "Bubble Bottle"
+gancho: "A bottle of water with a little air inside that fills with bubbles when you shake it, all rising to the top on their own."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A small clear plastic bottle with a tight-fitting cap"
+  - "Tap water"
+  - "A squirt of dish soap or gentle shampoo"
+  - "Strong tape to seal the cap"
+preparacion: >
+  Fill the bottle with water to about three finger-widths from the top, add a small
+  squirt of soap, and leave some air inside. Close the cap very tightly and seal around
+  it with tape so it can't open or leak.
+pasos:
+  - "Sit the baby with you and show them the bottle, still and clear."
+  - "Shake it slowly and let them watch lots of bubbles appear inside the water."
+  - "Stop and watch together as the bubbles rise to the top on their own and disappear."
+  - "Give the baby the bottle so they can shake it and discover that they can make bubbles too."
+  - "Add words as you go: \"so many bubbles!\" \"look, they're going up,\" \"now they're gone.\""
+aprendizaje: >
+  Discovers cause and effect: shaking the bottle makes the air and soap form bubbles
+  that then rise on their own. Works visual tracking, attention, and the idea that
+  their actions make things happen.
+variantes: >
+  Make another bottle with warm tap water so they notice the temperature, or add a few
+  drops of food coloring so the bubbles show up in color.
+seguridad: >
+  Seal the cap very well with tape so the baby can't open it or drink the soapy water.
+  Use a large bottle with no small parts that could come loose to prevent choking, and
+  stay with them throughout the game.
+imagen: "0a2-25.png"

@@ -1,0 +1,32 @@
+id: "0a2-24"
+orden: 24
+edad: "0-2"
+tipo: recreativa
+titulo: "Scarf Dance"
+gancho: "Featherlight scarves that float and swirl through the air while you dance together to the music."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Scarves or large, lightweight fabrics"
+  - "Soft, cheerful music"
+  - "A clear space in the living room"
+preparacion: >
+  Clear a space so you can move around safely and pick some calm, cheerful music. Keep
+  a couple of large, lightweight scarves within reach.
+pasos:
+  - "Hold the baby in your arms or sit them in front of you and start the music."
+  - "Wave a scarf through the air so it floats and falls, naming \"up!\" and \"down!\""
+  - "Brush it gently over their arms and cheeks so they feel the fabric."
+  - "Dance, swaying to the beat, raising and lowering the scarf with the music."
+  - "Hand them a scarf so they can shake it and wave it their own way."
+aprendizaje: >
+  Stimulates rhythm, movement, and coordination, plus visual tracking of the scarf in
+  the air. Dancing together strengthens bonding and joy.
+variantes: >
+  Alternate fast and slow songs so the baby notices the change of rhythm in your
+  movements and in the scarf's flight.
+seguridad: >
+  Never let the scarf cover the baby's face or wrap around their neck. Use large,
+  lightweight fabrics and supervise the whole time.
+imagen: "0a2-24.png"

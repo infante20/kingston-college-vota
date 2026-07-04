@@ -1,0 +1,32 @@
+id: "9a12-08"
+orden: 8
+edad: "9-12"
+tipo: emocional
+titulo: "Time Capsule"
+gancho: "Save a message for your future self and open it a year from now."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A box with a lid or a glass jar with an airtight seal"
+  - "Paper and a ballpoint pen"
+  - "Printed photos, drawings, or small meaningful objects"
+  - "Tape and a marker"
+preparacion: >
+  Find a container that closes well and a quiet corner where you can write without rushing.
+  Decide as a family when you will open the capsule: in six months, a year, or longer.
+pasos:
+  - "Write a letter to your future self. Describe who you are now: what you like, your friends, your fears, and what you dream of achieving."
+  - "Answer a few questions to compare later: what's your favorite song? What do you want to be when you grow up? What makes you happy today?"
+  - "Gather objects that capture this moment in your life: a photo, a ticket stub, a drawing, or a list of your favorite shows and books."
+  - "If you do it as a family, each person writes their own letter, plus one shared object that represents the group."
+  - "Put everything in the box, seal it well, and write on the outside the date before which it is forbidden to open it."
+  - "Hide the capsule in a safe place and mark the opening day on a calendar."
+aprendizaje: >
+  Encourages introspection, emotional expression, and awareness of the passage of time.
+  Comparing who you were with who you will become helps you appreciate your own growth and
+  reflect on what really matters.
+variantes: >
+  Turn it into a yearly tradition: a new capsule every year. Or write crisscross letters,
+  one for each family member, to be read together on opening day.
+imagen: "9a12-08.png"

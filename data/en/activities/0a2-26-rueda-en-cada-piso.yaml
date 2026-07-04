@@ -1,0 +1,36 @@
+id: "0a2-26"
+orden: 26
+edad: "0-2"
+tipo: experimento
+titulo: "Rolling on Every Surface"
+gancho: "The same ball with the same push: on a towel it barely moves, but on the smooth floor it goes flying."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A large, safe ball that rolls well"
+  - "A towel or blanket"
+  - "A rug or a piece of thick fabric"
+  - "A stretch of smooth floor, like tile or wood"
+preparacion: >
+  Clear a space on the floor and keep the large ball handy. Lay out the towel and the
+  rug nearby so you have three different surfaces: smooth floor, towel, and rug.
+pasos:
+  - "Sit the baby facing you on the smooth floor, a couple of steps away."
+  - "Push the ball toward them and watch together how far and fast it rolls."
+  - "Repeat the same push on the towel and show them how much less the ball travels."
+  - "Now try it on the rug and name what happens: \"it rolls slowly here.\""
+  - "Let the baby push the ball on each surface and discover the difference."
+  - "Celebrate their surprise and try again as many times as they want."
+aprendizaje: >
+  Experiences how the surface changes the motion: on smooth ground the ball rolls
+  easily, and on rough ground it slows down. Works cause and effect, comparison, and
+  the coordination of pushing and catching.
+variantes: >
+  Add a fourth surface, like a sturdy tray, or use a smaller ball, still at least as
+  big as their fist, to compare how it rolls on each surface.
+seguridad: >
+  Use only large balls with no small parts that could come loose, to prevent choking.
+  Clear the space of anything they could bump into and stay with them throughout the
+  game.
+imagen: "0a2-26.png"

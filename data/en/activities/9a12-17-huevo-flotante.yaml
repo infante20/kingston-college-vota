@@ -1,0 +1,39 @@
+id: "9a12-17"
+orden: 17
+edad: "9-12"
+tipo: experimento
+titulo: "The Floating Egg and Density"
+gancho: "Make an egg float in water without touching it, just by changing the liquid."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A raw egg"
+  - "Two tall clear glass cups"
+  - "Salt"
+  - "Water"
+  - "A spoon"
+  - "Food coloring (optional)"
+  - "Notebook and ballpoint pen for recording"
+preparacion: >
+  Fill both cups halfway with water. Leave one with plain water and have the salt ready to
+  prepare the second. Work on a surface that's easy to clean.
+pasos:
+  - "Write your hypothesis: what will happen if you put an egg in plain water, and what will happen in water with a lot of salt?"
+  - "Carefully place the egg in the cup of plain water and observe: it sinks to the bottom. Note it down."
+  - "In the other cup, add salt little by little and stir until a good amount dissolves, counting how many spoonfuls you use."
+  - "Place the egg in the salt water and watch how it now floats. Record how many spoonfuls of salt you needed."
+  - "Extra experiment: with the egg floating, slowly add plain water down the side of the cup to form a layer, and watch the egg float in the middle."
+  - "Write your conclusion explaining why the egg floats in salt water but not in plain water."
+aprendizaje: >
+  Salt water is denser than plain water, so it pushes the egg upward with more force. You
+  learn the concept of density and why it's easier to float in the ocean than in a pool. You
+  practice measuring and recording variables.
+variantes: >
+  Try sugar instead of salt and compare how many spoonfuls you need. Try to form several
+  layers of liquids with different densities (salt water, plain water, oil) and watch how they
+  arrange themselves.
+seguridad: >
+  The egg stays raw, so wash your hands and surfaces well when you finish and don't leave it
+  at room temperature. Do not drink the salt water.
+imagen: "9a12-17.png"

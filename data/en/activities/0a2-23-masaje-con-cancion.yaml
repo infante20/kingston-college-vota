@@ -1,0 +1,33 @@
+id: "0a2-23"
+orden: 23
+edad: "0-2"
+tipo: emocional
+titulo: "Sing-Along Massage"
+gancho: "Gentle strokes in time with a song so the baby relaxes and feels your love right on their skin."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A soft blanket or towel"
+  - "A little baby-safe oil or lotion (optional)"
+  - "A warm, quiet spot"
+preparacion: >
+  Pick a moment when the baby is calm and awake, neither hungry nor sleepy. Warm up the
+  room, wash your hands, and warm a little lotion between your palms.
+pasos:
+  - "Lay the baby on their back on the blanket, facing you."
+  - "Start with the legs, using slow, gentle strokes, always keeping eye contact."
+  - "Pair each movement with a quiet song or your soft voice."
+  - "Move on to the arms, hands, and tummy with delicate strokes."
+  - "Stop if the baby turns their face away or gets fussy; respect their signals."
+aprendizaje: >
+  Strengthens bonding, trust, and emotional regulation through touch. Massage promotes
+  calm, better sleep, and body awareness.
+variantes: >
+  Use the same song every time to build a routine the baby comes to associate with
+  winding down before sleep.
+seguridad: >
+  Test the lotion on a small patch of skin first in case of allergies, and keep it away
+  from the eyes. Don't massage if the baby is sick or has just eaten, and never leave
+  them alone on a high surface.
+imagen: "0a2-23.png"

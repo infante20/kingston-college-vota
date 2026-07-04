@@ -1,0 +1,34 @@
+id: "3a5-21"
+orden: 21
+edad: "3-5"
+tipo: sensorial
+titulo: "Fluffy Foam Painting"
+gancho: "Paint with clouds of squishy foam that feel cool and fluffy in their hands."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Shaving cream or foam whipped up from a little dish soap"
+  - "Tempera paint in several colors"
+  - "A tray or flat dish"
+  - "Spoons and a paintbrush"
+  - "An apron or clothes that can get messy"
+preparacion: >
+  Spread a thick layer of foam on the tray. Have the tempera paint ready in little cups and an
+  apron for your little one. Cover the table with a wipeable tablecloth or newspaper.
+pasos:
+  - "Invite your little one to touch the foam and talk about how it feels: soft, cool, squishy."
+  - "Drip a few drops of colored tempera paint onto the foam."
+  - "Mix with fingers or a spoon and watch new colors appear."
+  - "Draw pictures with a finger in the colorful foam."
+  - "Celebrate every creation and let your little one experiment freely."
+aprendizaje: >
+  Stimulates the sense of touch and free sensory exploration. Mixing colors and drawing with
+  their fingers nurtures creativity and hand coordination.
+variantes: >
+  Press a sheet of paper onto the colored foam and lift it to leave a printed impression. Add a
+  little white glue to the foam so the artwork hardens as it dries.
+seguridad: >
+  The foam isn't for eating or for the eyes: make sure your little one keeps their hands away
+  from their face. Wash hands well when you're done.
+imagen: "3a5-21.png"

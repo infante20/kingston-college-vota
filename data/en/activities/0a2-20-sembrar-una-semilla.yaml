@@ -1,0 +1,33 @@
+id: "0a2-20"
+orden: 20
+edad: "0-2"
+tipo: naturaleza
+titulo: "Plant a Seed"
+gancho: "Fill a flower pot with soil, tuck in a seed, and wait together for the plant to wake up."
+duracion: "10-15 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "A small flower pot or a large cup"
+  - "Potting soil"
+  - "A large, fast-growing seed (a bean or an avocado pit)"
+  - "A little water in a small bucket"
+preparacion: >
+  Have the soil, pot, and seed ready on a tray on an easy-to-clean surface. Work
+  outdoors or somewhere a little mess won't be a problem.
+pasos:
+  - "Sit the baby with you and let them touch the soil with their hands while you fill the pot."
+  - "Guide their hand to make a small hole and place the seed inside."
+  - "Cover it with a little soil together, naming what you're doing."
+  - "Help them pour water carefully, then set the pot next to a sunny window."
+  - "Come back every day to look at it and water it, and watch it sprout over time."
+aprendizaje: >
+  Introduces the idea that plants are born and grow, along with the notions of care and
+  waiting. Contact with soil is a rich sensory experience and a bond with nature.
+variantes: >
+  Plant two seeds and put one by the window and the other in a dark corner, then watch
+  together over time to see which grows better.
+seguridad: >
+  Watch that the baby doesn't put soil or the seed in their mouth, since they could
+  choke. Wash their hands well afterward and supervise closely the whole time.
+imagen: "0a2-20.png"

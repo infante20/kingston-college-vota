@@ -1,0 +1,37 @@
+id: "6a8-12"
+orden: 12
+edad: "6-8"
+tipo: experimento
+titulo: "The Magic Electric Balloon"
+gancho: "Rub a balloon on your hair and make things move without touching them."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "An inflated balloon"
+  - "Tiny scraps of paper"
+  - "A thin thread or a strand of hair"
+  - "A trickle of water from the tap"
+  - "An empty soda can"
+preparacion: >
+  Blow up the balloon and tie the knot. Cut up some very small paper scraps and
+  scatter them on the table. This experiment works better on a dry day than a very
+  humid one.
+pasos:
+  - "Rub the balloon firmly against your hair or a wool sweater for a few seconds."
+  - "Bring the balloon close to the paper scraps without touching them, and watch them jump up toward it."
+  - "Charge the balloon again and hold it near a dangling thread to see it move on its own."
+  - "Turn the tap on just barely, so a thin stream of water forms, and bring the charged balloon close to bend the stream."
+  - "Lay the can on its side on the floor and slowly bring the balloon near to make it roll without touching it."
+  - "Talk about which objects reacted the most and why the balloon loses its charge when it touches other things."
+aprendizaje: >
+  Introduces static electricity: rubbing the balloon charges it so it attracts light
+  objects. Your child discovers an invisible force and learns to test it on different
+  materials.
+variantes: >
+  Try charging two balloons and bringing them together to see how they push each other
+  away, or try sticking the charged balloon to the wall.
+seguridad: >
+  This static electricity is harmless, but remember not to bring the balloon near
+  anyone's eyes, and keep the water away from electrical outlets.
+imagen: "6a8-12.png"

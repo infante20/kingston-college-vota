@@ -1,0 +1,32 @@
+id: "0a2-16"
+orden: 16
+edad: "0-2"
+tipo: experimento
+titulo: "Ball Ramp"
+gancho: "A tilted board and balls that roll down all by themselves: gravity at play right before the baby's eyes."
+duracion: "10-15 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "A board, sturdy tray, or thick cardboard to make the ramp"
+  - "A cushion or low box to prop up and tilt the ramp"
+  - "Large, safe balls or large toy cars"
+preparacion: >
+  Rest one end of the board on a cushion or low box to form a gentle ramp. Check that
+  it's stable and that the balls are large, with no small parts.
+pasos:
+  - "Sit the baby at the bottom of the ramp, where the balls will arrive."
+  - "Place a ball at the top and let it go, saying \"ready? Here it comes!\""
+  - "Let the baby watch it roll down on its own and catch it or chase it at the bottom."
+  - "Hand them a ball so they can place it at the top themselves and discover that it rolls too."
+  - "Switch objects: try a ball and then a car, and see which one gets down faster."
+aprendizaje: >
+  Experiences gravity and motion: objects roll down a slope all on their own. Works
+  anticipation, visual tracking, and the coordination it takes to catch.
+variantes: >
+  Change the ramp's tilt so the balls roll slower or faster, or put a towel at the
+  bottom so they come to a gentle stop.
+seguridad: >
+  Use only large balls and objects to prevent choking. Secure the ramp well so it can't
+  tip over onto the baby, and stay with them throughout the game.
+imagen: "0a2-16.png"

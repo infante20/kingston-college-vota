@@ -1,0 +1,32 @@
+id: "0a2-17"
+orden: 17
+edad: "0-2"
+tipo: experimento
+titulo: "Catch the Light"
+gancho: "A little mirror catches the sun and makes a spot of light dance across the wall for the baby to chase."
+duracion: "5-10 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A small hand mirror or a shiny metal object"
+  - "Sunlight coming through a window"
+  - "A light-colored wall or floor"
+preparacion: >
+  Find a time of day when the sun comes through a window. Position yourself so you can
+  bounce the light with the mirror onto a wall or the floor near the baby.
+pasos:
+  - "Sit the baby somewhere comfortable facing the sunlit wall."
+  - "Tilt the mirror until a spot of light appears on the wall."
+  - "Move the mirror gently so the light travels, and narrate: \"there goes the light!\""
+  - "Let the baby follow the reflection with their eyes and, if they crawl, try to reach it."
+  - "Hold the light still near their hand so they feel like they almost caught it."
+aprendizaje: >
+  Discovers how light reflects and the cause-and-effect link between your movement and
+  the glowing spot. Stimulates visual tracking, attention, and purposeful movement.
+variantes: >
+  Try different shiny objects, like a metal spoon, and compare the reflections each
+  one makes.
+seguridad: >
+  Never aim the reflection at the baby's eyes. Keep the mirror in your own hands and,
+  if it's glass, don't hand it over; supervise at all times.
+imagen: "0a2-17.png"

@@ -1,0 +1,36 @@
+id: "6a8-15"
+orden: 15
+edad: "6-8"
+tipo: experimento
+titulo: "Secret Messages in Invisible Ink"
+gancho: "Write a message in lemon juice and watch it appear like magic with a little heat."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Half a lemon, squeezed into a cup"
+  - "Sheets of white paper"
+  - "A fine paintbrush, a cotton swab, or a toothpick"
+  - "A safe heat source: a lit light bulb or an iron (used by an adult)"
+  - "A notebook for writing things down"
+preparacion: >
+  Squeeze the lemon into a cup and set the juice aside. Clear a well-lit table and lay
+  out several sheets for practice runs. Decide together on a short, secret message to
+  write.
+pasos:
+  - "Dip the brush or cotton swab in the lemon juice and write the message on the paper."
+  - "Let the paper dry completely, until the message is invisible."
+  - "Ask someone else to try to read the blank-looking page; they'll see there's nothing there."
+  - "An adult holds the paper near the heat source, without burning it, until the letters turn brown and appear."
+  - "Read the secret message and note in the notebook how long it took to show up."
+aprendizaje: >
+  Shows that lemon juice darkens with heat before the paper does, which is why the
+  letters become visible. Your child discovers a reaction triggered by heat and gets
+  a first taste of cause and effect.
+variantes: >
+  Try other juices like orange juice, or milk, and compare which one reveals the
+  message best when heated.
+seguridad: >
+  Only an adult handles the heat source, to prevent burns and keep the paper from
+  catching fire.
+imagen: "6a8-15.png"
