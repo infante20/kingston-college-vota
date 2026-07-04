@@ -15,7 +15,7 @@
     <h1 class="cover-title" id="portada-titulo">{{ meta.titulo }}</h1>
     <p class="cover-sub">{{ meta.subtitulo }}</p>
     <div class="cover-rule"></div>
-    <p class="cover-author">{{ meta.autor }}</p>
+    {% if meta.autor %}<p class="cover-author">{{ meta.autor }}</p>{% endif %}
   </div>
 </section>
 
@@ -23,13 +23,13 @@
 <section class="page title-page">
   <h1 id="titulo-libro">{{ meta.titulo }}</h1>
   <p class="title-sub">{{ meta.subtitulo }}</p>
-  <p class="title-author">{{ meta.autor }}</p>
+  {% if meta.autor %}<p class="title-author">{{ meta.autor }}</p>{% endif %}
 </section>
 
 {# ----------------------------- CRÉDITOS --------------------------- #}
 <section class="page credits">
   <p><strong>{{ meta.titulo }}</strong> — {{ meta.subtitulo }}</p>
-  <p>© {{ meta.anio }} {{ meta.autor }}. {{ ui.rights }}</p>
+  <p>© {{ meta.anio }}{% if meta.autor %} {{ meta.autor }}.{% else %}.{% endif %} {{ ui.rights }}</p>
   {% if meta.isbn %}<p>ISBN: {{ meta.isbn }}</p>{% endif %}
   <p>{{ meta.editorial }}</p>
   <p class="credits-note">{{ ui.credits_note }}</p>
@@ -251,7 +251,7 @@
 <section class="page prose closing">
   <h2 class="section-h">{{ textos.cierre.titulo }}</h2>
   <p>{{ textos.cierre.texto }}</p>
-  <p class="closing-sign">— {{ meta.autor }}</p>
+  {% if meta.autor %}<p class="closing-sign">— {{ meta.autor }}</p>{% endif %}
 </section>
 
 </body>

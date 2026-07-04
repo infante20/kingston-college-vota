@@ -169,8 +169,9 @@ def build_html(pages, paper, *, title, author, front, num, badge_num,
     spine_html = (
         f'<div class="spine"><div class="spine-mark"></div>'
         f'<div class="spine-txt"><span class="spine-title">{title}</span>'
-        f'&nbsp;<span class="spine-dot">·</span>&nbsp;'
-        f'<span class="spine-author">{author}</span></div></div>'
+        + (f'&nbsp;<span class="spine-dot">·</span>&nbsp;'
+           f'<span class="spine-author">{author}</span>' if author else "")
+        + '</div></div>'
         if spine_text else f'<div class="spine"><div class="spine-mark"></div></div>')
     bullets = "".join(f"<li>{b}</li>" for b in back["bullets"])
     front_img = f'<img src="{front}" alt="">' if front else ""
@@ -198,7 +199,7 @@ def build_html(pages, paper, *, title, author, front, num, badge_num,
     <div class="f-img">{front_img}</div>
     <div class="f-badge"><span class="f-badge-sub">{badge_sub}</span>
       <span class="f-badge-num">{badge_num}</span></div>
-    <div class="f-foot"><span>{author}</span><span class="sep">·</span>
+    <div class="f-foot">{('<span>' + author + '</span><span class="sep">·</span>') if author else ''}
       <span class="serie">{back['series_label']}</span></div>
   </div>
 </div></body></html>"""
