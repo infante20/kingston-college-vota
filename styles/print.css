@@ -157,7 +157,7 @@ svg{display:inline-block}
 .activity{padding-top:2mm}
 .act-head{display:flex; justify-content:space-between; align-items:center; margin-bottom:3mm}
 .act-type{display:inline-flex; align-items:center; gap:2.5mm; font-size:11pt; font-weight:600; color:var(--c);
-  text-transform:uppercase; letter-spacing:.05em;}
+  text-transform:uppercase; letter-spacing:.05em; hyphens:none; white-space:nowrap;}
 .act-type-ico{width:22px;height:22px} .act-type-ico svg{width:22px;height:22px}
 .act-age{font-size:9.5pt; color:var(--gris); background:var(--crema); padding:1.5mm 3.5mm; border-radius:999px}
 .act-title{font-size:22pt; color:var(--tinta); margin:0 0 2mm; string-set:chaptertitle content();}
