@@ -9,6 +9,11 @@ dist/_cover.png
 dist/*-KDP.pdf
 dist/*-KDP-BN.pdf
 dist/Portada-*.pdf
+dist/Cover-*.pdf
+dist/Quality-Time-0-2*
+dist/Quality-Time-3-5*
+dist/Quality-Time-6-8*
+dist/Quality-Time-9-12*
 dist/Tiempo-de-Calidad-0-2*
 dist/Tiempo-de-Calidad-3-5*
 dist/Tiempo-de-Calidad-6-8*
