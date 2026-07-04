@@ -186,13 +186,14 @@ def build_epub(book: dict, html_path: Path, out: Path, pdf_path: Path) -> None:
     extra = [
         f"--metadata=title:{meta['titulo']}",
         f"--metadata=subtitle:{meta['subtitulo']}",
-        f"--metadata=author:{meta['autor']}",
         f"--metadata=lang:{meta['idioma']}",
         f"--css={STYLES/'epub.css'}",
         f"--resource-path={ROOT}",
         "--split-level=2",
         "--toc", "--toc-depth=2",
     ]
+    if meta.get("autor"):
+        extra.append(f"--metadata=author:{meta['autor']}")
     cover = epub_cover(pdf_path)
     if cover:
         extra.append(f"--epub-cover-image={cover}")
