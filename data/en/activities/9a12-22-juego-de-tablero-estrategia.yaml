@@ -1,0 +1,37 @@
+id: "9a12-22"
+orden: 22
+edad: "9-12"
+tipo: juego
+titulo: "Strategy Tournament with a Homemade Board"
+gancho: "Design and play a strategy tournament where the best thinker wins."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Poster board or cardboard for the board"
+  - "Markers and ruler"
+  - "Game pieces (buttons, caps, or pebbles in two colors)"
+  - "Paper and ballpoint pen to keep score"
+  - "A die (optional)"
+preparacion: >
+  Gather two or more players. On the poster board, draw a grid board (for example 8 by 8) or
+  the board for whatever game you like. Prepare the pieces in two colors and a sheet to record
+  the tournament results.
+pasos:
+  - "Choose a strategy game for the board, like an expanded tic-tac-toe, checkers, or a capture game you invent yourselves."
+  - "Write the rules clearly together so everyone plays the same way, including how to win."
+  - "Play a first test round and adjust the rules if anything feels confusing or unbalanced."
+  - "Set up a tournament: note who plays whom and keep track of the scores on the sheet."
+  - "After each game, talk about which strategy worked best and what you would do differently next time."
+  - "At the end of the tournament, add up the points, reward the winner, and propose an improvement to the rules for next time."
+aprendizaje: >
+  Strategy games train logical thinking, planning, and the ability to anticipate the other
+  player's moves. By creating and adjusting the rules as a team, you also practice negotiating,
+  being fair, and learning from every game.
+variantes: >
+  Invent a completely new game with your own pieces and rules. Add a die for a bit of chance
+  and watch how the strategy changes. Organize a championship over several days.
+seguridad: >
+  Remember that what matters is having fun and respecting your opponent, win or lose. If someone
+  gets upset, take a break and talk it out before continuing.
+imagen: "9a12-22.png"

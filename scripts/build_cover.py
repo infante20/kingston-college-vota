@@ -254,6 +254,10 @@ def main():
         num = "+100"
         badge_sub, badge_num = back["badge_sub"], "0–12"
         front = _img("portada")
+        if not (args.pages or args.interior):
+            cand = DIST / f"{slugbase}-BN.pdf"
+            if cand.exists():
+                args.interior = str(cand)
         out = Path(args.out) if args.out else (DIST / ("Portada-KDP-tapa-blanda.pdf" if args.lang == "es" else "Cover-KDP-paperback.pdf"))
         marker = SERIE_COLOR[""]
 

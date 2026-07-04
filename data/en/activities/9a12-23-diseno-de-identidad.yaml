@@ -1,0 +1,36 @@
+id: "9a12-23"
+orden: 23
+edad: "9-12"
+tipo: arte
+titulo: "Design Your Visual Identity"
+gancho: "Create your own logo, colors, and typeface like a real brand designer."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "White paper and scratch paper"
+  - "Colored pencils, markers, and a ballpoint pen"
+  - "A ruler"
+  - "Scissors and glue"
+  - "Magazines or colored paper to cut from (optional)"
+preparacion: >
+  Think of something you want to create an identity for: your name, a club you invent with your
+  friends, a band, a team, or a project. Gather the materials on a well-lit table.
+pasos:
+  - "Brainstorm: write down words and draw symbols that represent what you want to convey (cheerful, sporty, mysterious, eco-friendly)."
+  - "Choose a palette of three or four colors that go together and test how they look side by side on a draft."
+  - "Design your logo by making several different sketches before deciding; combine a simple image with your name or initials."
+  - "Choose a lettering style by drawing it by hand and check that it reads well both large and small."
+  - "Make a clean copy of your final design on a sheet of paper, minding the colors and the details."
+  - "Apply your identity to something real: an ID card, a poster, a notebook cover, or a badge for your team."
+aprendizaje: >
+  You discover how design communicates ideas and emotions through shapes, colors, and
+  typography. You practice a designer's creative process: exploring many options, choosing, and
+  refining, instead of settling for the first idea.
+variantes: >
+  As a team, design the identity of a shared club, then each person applies the logo to a
+  different object. Make a black-and-white version of your logo and check that it's still
+  recognizable.
+seguridad: >
+  Use the scissors carefully when cutting.
+imagen: "9a12-23.png"

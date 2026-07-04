@@ -1,0 +1,42 @@
+id: "9a12-26"
+orden: 26
+edad: "9-12"
+tipo: experimento
+titulo: "The Yeast That Inflates a Balloon"
+gancho: "Wake up sleeping yeast with sugar and watch it inflate a balloon all on its own."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A packet of dry yeast (the bread-making kind)"
+  - "Three identical small plastic bottles"
+  - "Three balloons"
+  - "Sugar"
+  - "Warm water"
+  - "Cold water"
+  - "A measuring spoon"
+  - "A clock or stopwatch"
+  - "Notebook and ballpoint pen for recording"
+preparacion: >
+  Prepare warm water from the tap, not so hot that it burns, and keep cold water on hand too.
+  Stretch each balloon a bit before starting so it inflates more easily. Number the three
+  bottles with a marker: bottle 1 will have sugar and warm water, bottle 2 no sugar, and bottle 3 sugar but with cold water.
+pasos:
+  - "Write your hypothesis: in which bottle do you think the balloon will inflate the most, and why?"
+  - "In bottle 1, put one spoonful of yeast, two spoonfuls of sugar, and warm water up to a quarter of the bottle; swirl gently."
+  - "In bottle 2, put only yeast and warm water, no sugar. In bottle 3, put yeast, sugar, and cold water."
+  - "Place a balloon over the mouth of each bottle, covering it well so no gas escapes."
+  - "Observe for a few minutes: the yeast eats the sugar and releases carbon dioxide, which inflates the balloon."
+  - "Every five minutes, measure the size of each balloon with a measuring tape and record the data in a table."
+  - "Compare the three bottles and write your conclusion about what the yeast needs to produce more gas."
+aprendizaje: >
+  Yeast is a tiny living fungus. When it has sugar and warmth it wakes up and, as it feeds,
+  releases carbon dioxide in a process called fermentation. That same gas is what forms the
+  bubbles that make bread fluffy. You learn that a microscopic living thing can do work we can see with the naked eye.
+variantes: >
+  Try honey or flour instead of sugar and record whether the yeast produces more or less gas.
+  Repeat by leaving one bottle in a warmer spot and another in the refrigerator to compare the effect of temperature.
+seguridad: >
+  Do not taste any mixture. An adult prepares the warm water so it doesn't burn. If a bottle
+  ends up closed with a lot of gas, open it carefully over the sink. Wash your hands when you finish.
+imagen: "9a12-26.png"

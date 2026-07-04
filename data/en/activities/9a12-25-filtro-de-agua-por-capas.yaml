@@ -1,0 +1,43 @@
+id: "9a12-25"
+orden: 25
+edad: "9-12"
+tipo: experimento
+titulo: "DIY Layered Water Filter"
+gancho: "Build a filter with layers of stones and sand and watch dirty water come out much cleaner."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "A large empty plastic bottle (an adult cuts off the base)"
+  - "A piece of cotton or an old kitchen cloth"
+  - "Clean sand"
+  - "Small stones or gravel"
+  - "Ground charcoal (the grilling kind, prepared by an adult)"
+  - "A strainer for washing the sand and stones"
+  - "A clear glass jar or cup to catch the water"
+  - "Dirty water made with dirt, leaves, and a little oil"
+  - "Notebook and ballpoint pen for recording"
+preparacion: >
+  An adult cuts off the base of the bottle so it works like a funnel and can stand upside down
+  on the glass jar. Wash the sand and stones well with the strainer under the tap until the
+  water runs clear. In a bucket, prepare the dirty water by mixing water with a little dirt, leaves, and a few drops of oil.
+pasos:
+  - "Write your hypothesis: will the water come out totally clean, a little clearer, or just as dirty?"
+  - "Put the bottle upside down on the jar and place the cotton or cloth at the bottom first, next to the mouth."
+  - "Add a layer of ground charcoal, then a layer of sand on top, and a layer of small stones on top of that."
+  - "Observe and draw your assembled filter: note the order of the layers, from the finest at the bottom to the coarsest at the top."
+  - "Slowly pour the dirty water in from the top and watch it drip down through each layer."
+  - "Compare the water that falls into the jar with the water from the bucket and note what changed in the color and in the floating bits."
+  - "Write your conclusion: which layer do you think trapped the most dirt, and why did your hypothesis hold up or not?"
+aprendizaje: >
+  Each layer traps particles of a different size: the stones stop the biggest bits, the sand
+  holds the fine ones, and the charcoal helps remove odors and some impurities. This is similar
+  to how water is cleaned at a treatment plant, separating what doesn't dissolve. You learn that
+  filtering improves the water's appearance but doesn't make it safe to drink.
+variantes: >
+  Change the order of the layers or remove one and record whether the water comes out just as
+  clear. Try more or less charcoal and compare the results by drawing each attempt.
+seguridad: >
+  Never drink the filtered water, even if it looks clean, because it may still have germs. An
+  adult cuts the bottle and prepares the charcoal. Wash your hands when you finish.
+imagen: "9a12-25.png"
