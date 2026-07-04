@@ -1,0 +1,37 @@
+id: "9a12-02"
+orden: 2
+edad: "9-12"
+tipo: experimento
+titulo: "DIY Water Clock"
+gancho: "Measure time like the ancients did, using nothing but water and gravity."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Two identical plastic bottles (or one bottle and a clear cup)"
+  - "A thumbtack or a thin nail"
+  - "Tape"
+  - "Water"
+  - "Permanent marker"
+  - "A clock or stopwatch for calibrating"
+preparacion: >
+  Wash the bottles well and remove the labels. Ask an adult to help make the hole. Keep the
+  clock handy to calibrate your invention at the end.
+pasos:
+  - "Make a small hole in the center of one bottle's cap using the thumbtack. The smaller the hole, the slower the water will drip."
+  - "Fill that bottle with water and screw on the pierced cap. Place it upside down on top of the second, empty bottle and tape the necks together."
+  - "Flip it over so the water starts dripping into the bottom bottle. Watch the stream."
+  - "With the clock beside you, use the marker to mark the water level every minute on the bottle that's filling up."
+  - "Once you have your marks, empty it and repeat: now try to guess the time by looking only at your water clock, without the regular clock."
+  - "Reflect: does it always drip at the same speed? Investigate why it slows down when there is less water left on top."
+aprendizaje: >
+  Explores water pressure and how people measured time before mechanical clocks. Calibrating
+  your own marks builds precision, observation skills, and the idea that pressure drops as
+  the water level goes down.
+variantes: >
+  Build several clocks with holes of different sizes and compare them. Challenge someone to
+  guess when exactly 3 minutes have passed using only your clock.
+seguridad: >
+  Ask an adult for help piercing the cap with the thumbtack or nail, since the point can
+  slip and cause a poke.
+imagen: "9a12-02.png"

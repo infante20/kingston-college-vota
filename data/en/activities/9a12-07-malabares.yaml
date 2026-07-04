@@ -1,0 +1,36 @@
+id: "9a12-07"
+orden: 7
+edad: "9-12"
+tipo: recreativa
+titulo: "Make and Learn to Juggle"
+gancho: "Craft your own juggling balls and master the art of the three-ball toss."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Sturdy balloons (3 per ball)"
+  - "Rice, lentils, or dried beans"
+  - "A cut plastic bottle or a paper funnel"
+  - "Scissors"
+  - "A spoon"
+preparacion: >
+  Gather the balloons and the filling on a table. Make a funnel by rolling up a sheet of
+  paper or using the neck of a cut bottle.
+pasos:
+  - "Fill a balloon with about three spoonfuls of rice using the funnel. Squeeze out the air and tie a tight knot."
+  - "Cut the neck off a second balloon and stretch it over the first one to cover the knot. Repeat with a third balloon turned the other way to reinforce it."
+  - "Make three matching balls of the same weight. Test them: they should fit in your palm and not bounce much."
+  - "Start by practicing with a single ball: toss it from one hand to the other in an arc at eye level."
+  - "Move on to two balls: toss the first, and when it reaches the top, toss the second underneath it. Practice the exchange without letting them collide."
+  - "Once you've mastered two, add the third. Practice in short bursts and celebrate every small win."
+aprendizaje: >
+  Trains hand-to-hand coordination, visual tracking, and patience. Learning to juggle is a
+  clear example of how steady practice improves a difficult skill, reinforcing a growth
+  mindset.
+variantes: >
+  Invent tricks: tossing under your leg or behind your back. Practice in pairs, passing
+  balls back and forth between two people.
+seguridad: >
+  Use the scissors carefully when cutting the balloons and the bottle. Practice away from
+  fragile objects. Keep unused balloons out of reach of young children.
+imagen: "9a12-07.png"

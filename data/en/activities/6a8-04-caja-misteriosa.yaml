@@ -1,0 +1,36 @@
+id: "6a8-04"
+orden: 4
+edad: "6-8"
+tipo: sensorial
+titulo: "The Mystery Touch Box"
+gancho: "Reach in without looking and guess which hidden object you're touching."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "A cardboard box with a lid"
+  - "An old sock or a piece of fabric"
+  - "Scissors"
+  - "Household objects with different textures and shapes (a sponge, a pinecone, a spoon, a ball, a key, a feather)"
+  - "Paper and pencil to keep score"
+preparacion: >
+  An adult cuts a hand-sized hole in one side of the box and tapes the cut-off sock
+  around it, so a hand can reach in but no one can peek inside. Secretly gather
+  several safe objects.
+pasos:
+  - "While one player closes their eyes, another places an object inside the box."
+  - "The player reaches through the hole and feels the object without pulling it out or looking."
+  - "They describe out loud what they feel: whether it's hard or soft, cold, rough, or smooth."
+  - "After describing it, they say their guess and check whether they got it right."
+  - "Score a point for each correct guess, and take turns hiding and guessing."
+  - "At the end, talk about which touch clues were the most helpful."
+aprendizaje: >
+  Sharpens the sense of touch and descriptive vocabulary. Your child learns to reason
+  from clues and to put sensations into words without relying on sight.
+variantes: >
+  Try it with only fruits and vegetables, or add a timer to guess against the clock.
+  You can also use your ears by shaking the box before touching.
+seguridad: >
+  An adult should do the cutting with scissors. Avoid sharp or very small objects
+  inside the box.
+imagen: "6a8-04.png"

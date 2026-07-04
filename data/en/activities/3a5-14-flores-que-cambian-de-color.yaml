@@ -1,0 +1,34 @@
+id: "3a5-14"
+orden: 14
+edad: "3-5"
+tipo: experimento
+titulo: "White Flowers That Change Color"
+gancho: "A white flower that wakes up painted in color, as if by magic."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 2
+materiales:
+  - "One or two white flowers (carnation or daisy)"
+  - "Clear glasses"
+  - "Tap water"
+  - "Food coloring in several colors"
+  - "A spoon"
+preparacion: >
+  Fill each glass halfway with water and add plenty of food coloring to each one, one color per
+  glass, so the water is nice and vivid. Have the flowers ready with their stems trimmed.
+pasos:
+  - "Show your little one the white flowers and ask what color they think they'll turn."
+  - "Place one flower in each glass of colored water and leave them in a quiet spot."
+  - "Watch the flower for a while: nothing happens yet, you have to be patient."
+  - "The next day, look together at how the petals took on the color of the water."
+  - "Talk about which color changed the most and celebrate the discovery."
+aprendizaje: >
+  Shows that plants drink water through their stems and carry it all the way to the petals. It
+  teaches waiting, observing changes over time, and making simple predictions.
+variantes: >
+  Split a stem in two and put each half in a different color to get a two-toned flower. Use
+  celery or a white cabbage leaf to watch the same thing happen.
+seguridad: >
+  Food coloring stains clothes and hands: wear an apron. It's not for drinking. The grown-up
+  cuts the stems.
+imagen: "3a5-14.png"

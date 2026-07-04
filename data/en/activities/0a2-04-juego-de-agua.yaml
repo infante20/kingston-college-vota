@@ -1,0 +1,33 @@
+id: "0a2-04"
+orden: 4
+edad: "0-2"
+tipo: sensorial
+titulo: "Splash and Pour"
+gancho: "Containers, spoons, and water for splashing, filling, and dumping over and over again."
+duracion: "10-20 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A shallow bucket or basin"
+  - "A small amount of warm water"
+  - "Cups, mugs, and spoons in different sizes"
+  - "A towel for the floor"
+preparacion: >
+  Lay a towel on the floor and set the bucket on top with a little warm water. Dress the
+  baby in clothes that can get wet, or just leave them in a diaper. Fill it only a few
+  inches deep.
+pasos:
+  - "Sit the baby in front of the bucket, always right beside you and within arm's reach."
+  - "Show them how to fill a cup and pour it back into the water."
+  - "Let them splash, dip their hands in, and move water from one container to another."
+  - "Add words as you go: \"full,\" \"empty,\" \"splash!\" Enjoy the play without rushing."
+aprendizaje: >
+  Builds fine motor skills, coordination, and the concepts of full and empty. Water
+  offers a calming, wonderfully engaging sensory experience.
+variantes: >
+  Add floating toys or sponges to squeeze. In summer, take it outside so they can get
+  as wet as they like.
+seguridad: >
+  Never leave the baby alone near water, not even for a second: just a couple of inches
+  is enough to pose a risk. Use very little water and dry the floor to prevent slips.
+imagen: "0a2-04.png"

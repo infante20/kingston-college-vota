@@ -1,0 +1,35 @@
+id: "3a5-01"
+orden: 1
+edad: "3-5"
+tipo: experimento
+titulo: "The Baking Soda Volcano"
+gancho: "A homemade volcano that erupts with colorful foam right before your little one's eyes."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "A cup or small bottle"
+  - "Baking soda (2 or 3 tablespoons)"
+  - "Vinegar (half a cup)"
+  - "Food coloring or a few drops of beet juice"
+  - "A deep tray or large plate to catch the overflow"
+preparacion: >
+  Place the cup in the center of the tray to catch the foam. Have the baking soda,
+  vinegar, and food coloring within reach. If you like, shape a mountain around the cup with
+  play dough or crumpled aluminum foil so it looks like a real volcano.
+pasos:
+  - "Ask your little one to put two or three tablespoons of baking soda into the cup."
+  - "Together, add a few drops of food coloring or juice on top of the baking soda."
+  - "Count out loud, 'three, two, one,' and let your little one pour in the vinegar all at once."
+  - "Watch the bubbly foam rise up and spill over like lava."
+  - "Once it settles, offer more vinegar to repeat the eruption as many times as you like."
+aprendizaje: >
+  Introduces the idea that mixing two things together can make something new happen. It builds
+  observation skills, anticipation, and science vocabulary in a fun way.
+variantes: >
+  Try warm and cold vinegar to see if the foam changes. Use several cups with different colors
+  to set off multiple eruptions at once.
+seguridad: >
+  Vinegar can sting if it gets in the eyes: supervise the mixing and keep your little one from
+  touching their face. It's not for drinking. Do this activity on an easy-to-clean surface.
+imagen: "3a5-01.png"

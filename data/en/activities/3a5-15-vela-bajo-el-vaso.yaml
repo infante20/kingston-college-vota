@@ -1,0 +1,34 @@
+id: "3a5-15"
+orden: 15
+edad: "3-5"
+tipo: experimento
+titulo: "The Candle Under the Glass"
+gancho: "A lit candle that goes out all by itself when we trap its air under a glass."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "A small candle on a plate"
+  - "A glass (taller than the candle)"
+  - "Matches or a lighter (grown-up only)"
+  - "A shallow bowl with a little water (optional)"
+preparacion: >
+  Set the candle firmly on the plate, on a cleared table and away from anything that could catch
+  fire. Keep the glass within reach. The grown-up is the only one who lights and handles the flame.
+pasos:
+  - "The grown-up lights the candle while your little one watches the flame from a distance."
+  - "Ask what they think will happen if we cover the candle with the glass."
+  - "The grown-up covers the candle with the glass upside down, and you wait a few seconds together."
+  - "Watch the flame shrink and go out on its own without anyone blowing."
+  - "Talk about what you saw and repeat the experiment if they want to watch it again."
+aprendizaje: >
+  Shows in a very simple way that fire needs air to keep burning. It builds observation,
+  prediction, and respect for fire with a grown-up close by.
+variantes: >
+  Use glasses of different sizes and count how many seconds each takes to snuff out the flame.
+  Set the candle on a plate with water and watch the water rise a little inside the glass.
+seguridad: >
+  This activity involves fire: only the grown-up lights and handles the candle, and your little
+  one watches from a distance. Tie back long hair, move paper away, and keep water nearby.
+  Never leave the candle unattended.
+imagen: "3a5-15.png"

@@ -1,0 +1,29 @@
+id: "0a2-06"
+orden: 6
+edad: "0-2"
+tipo: emocional
+titulo: "Where's Mommy? Peekaboo!"
+gancho: "The classic hide-and-appear game that teaches that what's out of sight is still there."
+duracion: "5-10 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A scarf, a thin cloth, or just your own hands"
+preparacion: >
+  No prep needed. Just pick a moment when the baby is calm and alert, and position
+  yourself in front of them at eye level.
+pasos:
+  - "Cover your face with your hands or a scarf and ask: \"where's Mommy?\""
+  - "Wait a beat, then reveal your face all at once, saying \"peekaboo!\" with a big smile."
+  - "Repeat the game at your own pace, stretching out the pause to build anticipation."
+  - "Once they know the game, drape the cloth over the baby and let them be the one who pops out."
+aprendizaje: >
+  Teaches object permanence: even when something disappears, it still exists. Strengthens
+  bonding, trust, and emotional regulation around separation.
+variantes: >
+  Hide a toy under the cloth and ask where it went, so they can search for it and
+  uncover it themselves.
+seguridad: >
+  Use thin fabrics and never fully cover the baby's face. Stay right in front of them
+  and watch to make sure the cloth doesn't cover their nose or mouth.
+imagen: "0a2-06.png"

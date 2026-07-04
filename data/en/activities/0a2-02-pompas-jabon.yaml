@@ -1,0 +1,32 @@
+id: "0a2-02"
+orden: 2
+edad: "0-2"
+tipo: sensorial
+titulo: "Bubble Chasers"
+gancho: "Soap bubbles that float, shimmer, and vanish at a touch, pure magic in a baby's eyes."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Warm water in a container"
+  - "A squirt of gentle soap (dish soap or hand soap)"
+  - "A straw or a wand made from coated wire"
+preparacion: >
+  Mix the warm water with a little soap in a container. Do this yourself, out of the
+  baby's reach, and keep the mixture well away from their hands so it doesn't end up in
+  their mouth.
+pasos:
+  - "Sit or hold the baby somewhere comfortable, indoors or out in the yard."
+  - "Gently blow bubbles in front of them, without getting too close to their face."
+  - "Narrate what's happening: \"look, it's going up!\" \"pop, it's gone!\" Add your voice and your smile."
+  - "If they're already crawling or walking, let them try to touch the bubbles or follow them with their eyes and hands."
+aprendizaje: >
+  Develops visual tracking, attention, and the idea of things appearing and disappearing.
+  Bubbles invite movement and those first shared giggles.
+variantes: >
+  Blow bigger, slower bubbles for younger babies, or lots of little ones for babies who
+  are already on the move and want to chase them.
+seguridad: >
+  Never let the baby drink or blow into the mixture. Keep the soapy liquid out of their
+  reach and away from their eyes. Supervise at all times.
+imagen: "0a2-02.png"

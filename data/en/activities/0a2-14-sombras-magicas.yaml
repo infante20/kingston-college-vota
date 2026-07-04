@@ -1,0 +1,33 @@
+id: "0a2-14"
+orden: 14
+edad: "0-2"
+tipo: experimento
+titulo: "Magic Shadows"
+gancho: "With a flashlight and a wall, hands and toys come alive as shadows that appear and grow."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A flashlight or a phone's flashlight"
+  - "A light-colored wall or sheet"
+  - "A few toys with recognizable shapes (a stuffed animal, a spoon, a ball)"
+preparacion: >
+  Pick a room you can dim, but not make fully dark, so the baby doesn't get scared.
+  Point the flashlight at a light-colored wall or a hanging sheet.
+pasos:
+  - "Sit or hold the baby facing the wall, with you right beside them."
+  - "Turn on the flashlight and move your hand between the light and the wall to make a shadow."
+  - "Bring your hand closer and farther so the shadow grows and shrinks, and narrate what's happening."
+  - "Hold a toy in front of the light and ask, \"what could that shadow be?\""
+  - "Let the baby touch the wall where the shadow is and discover there's nothing to grab."
+aprendizaje: >
+  Explores the relationship between light, object, and shadow, a first experience of
+  cause and effect and of how distance changes size. Stimulates visual attention and
+  curiosity.
+variantes: >
+  Make simple animal shadows with your hands, or let a baby who's already walking move
+  their own body to watch their shadow dance.
+seguridad: >
+  Don't shine the light directly into the baby's eyes. Keep a soft background light on
+  so the dimness doesn't frighten them, and stay with them the whole time.
+imagen: "0a2-14.png"

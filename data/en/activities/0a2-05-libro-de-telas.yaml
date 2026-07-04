@@ -1,0 +1,32 @@
+id: "0a2-05"
+orden: 5
+edad: "0-2"
+tipo: sensorial
+titulo: "Texture Blanket"
+gancho: "A blanket or panel covered in different fabric scraps to touch, rub, and discover."
+duracion: "10-15 min"
+dif_prep: 3
+dif_materiales: 2
+materiales:
+  - "Scraps of different fabrics (terry cloth, felt, satin, corduroy, wool)"
+  - "A large base fabric or a thin blanket"
+  - "Needle and thread or fabric glue"
+preparacion: >
+  Sew or glue several scraps of different textures firmly onto the base fabric, well
+  attached so they can't peel off. Check that there are no loose edges or long threads.
+  This prep takes a while, but the blanket will last a long time.
+pasos:
+  - "Spread the texture blanket on the floor and lay or sit the baby on top of it."
+  - "Guide their hand across the different fabrics and let them touch freely."
+  - "Describe what they're feeling: \"soft,\" \"rough,\" \"squishy.\" Repeat the words calmly."
+  - "Notice which texture they like best and return to it as often as they want."
+aprendizaje: >
+  Refines the sense of touch and enriches sensory vocabulary. Comparing textures helps
+  the baby's brain organize information about the world.
+variantes: >
+  Add a patch with a piece of crinkly plastic or a little bell sewn inside to bring
+  sound into the experience.
+seguridad: >
+  Make sure every scrap is firmly attached, with no small pieces that could come loose.
+  Avoid loose sequins or buttons. Always supervise.
+imagen: "0a2-05.png"

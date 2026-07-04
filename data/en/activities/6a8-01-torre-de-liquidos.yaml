@@ -1,0 +1,38 @@
+id: "6a8-01"
+orden: 1
+edad: "6-8"
+tipo: experimento
+titulo: "The Magic Tower of Liquids"
+gancho: "Stack honey, water, and oil in a single glass and discover why they never mix."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 2
+materiales:
+  - "A tall, clear glass or jar"
+  - "Honey or syrup"
+  - "Water"
+  - "Cooking oil"
+  - "Food coloring or watered-down tempera paint (optional)"
+  - "A spoon"
+  - "Small objects to test: a cork, a grape, a metal nut, a little piece of cardboard"
+preparacion: >
+  Gather the three liquids on the table. If you want more color, mix a few drops of
+  food coloring into the water. Set the empty glass in the center and let your child
+  measure out equal amounts of each liquid into three small cups.
+pasos:
+  - "Ask your child which liquid they think is the 'heaviest.' Write down the prediction before you start."
+  - "Pour the honey into the bottom of the glass first, slowly and right in the center."
+  - "Add the water by letting it slide down the side of the glass or off the spoon so it lands gently."
+  - "Pour in the oil last the same way, and watch three separate layers form."
+  - "Carefully drop in the small objects and see which layer each one ends up floating in."
+  - "Compare the results with your prediction from the beginning and talk about the surprises."
+aprendizaje: >
+  Introduces the idea of density: denser liquids and objects sink below less dense
+  ones. Your child practices observing, predicting, and testing like a real scientist.
+variantes: >
+  Try adding tinted rubbing alcohol as a fourth floating layer, or dissolve salt
+  into one batch of water to create two water layers of different colors.
+seguridad: >
+  Honey and oil stain: cover the table. Don't taste any of the liquids in the experiment,
+  and wash your hands when you're done.
+imagen: "6a8-01.png"

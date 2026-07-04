@@ -1,0 +1,29 @@
+id: "0a2-10"
+orden: 10
+edad: "0-2"
+tipo: juego
+titulo: "Tumbling Towers"
+gancho: "Stack cups or boxes into a tower, then knock it all down with a single swipe."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Plastic cups, plastic containers, or small lightweight boxes"
+preparacion: >
+  Gather several lightweight cups or little boxes that stack. Check that they have no
+  sharp edges or loose parts and that they're big enough not to fit in the baby's mouth.
+pasos:
+  - "Sit the baby across from you with the cups between the two of you."
+  - "Stack two or three cups into a tower and let them take a good look."
+  - "Encourage them to knock it down with their hand: \"boom, it fell!\""
+  - "Build it again and let them try stacking or toppling it themselves, over and over."
+aprendizaje: >
+  Works fine motor skills, cause and effect, and the idea of balance. Building and
+  knocking down teaches patience and delivers fun that never gets old.
+variantes: >
+  As they grow, offer cups in different sizes so they discover how they nest inside
+  one another.
+seguridad: >
+  Use lightweight, unbreakable materials so nothing hurts them when it falls. Avoid
+  small pieces and always supervise.
+imagen: "0a2-10.png"

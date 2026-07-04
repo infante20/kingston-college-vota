@@ -1,0 +1,37 @@
+id: "6a8-02"
+orden: 2
+edad: "6-8"
+tipo: experimento
+titulo: "Balloon Rocket on a String"
+gancho: "Build an invisible track and send a balloon zooming across the room like a rocket."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "A long balloon"
+  - "A long piece of string or yarn (10 to 15 feet)"
+  - "A straw or a rolled-up paper tube"
+  - "Tape"
+  - "A clothespin (optional)"
+preparacion: >
+  Find two spots across the room to tie the string to, such as the back of a chair
+  and a door handle. Thread the string through the straw before tying the second
+  end, and pull it nice and tight.
+pasos:
+  - "Blow up the balloon without tying it, and pinch the neck closed with your fingers or a clothespin."
+  - "With an adult's help, tape the balloon to the straw with two pieces of tape, pointing the neck toward one end of the string."
+  - "Slide the balloon to the start of the track so it has the whole run ahead of it."
+  - "Count down: three, two, one, and let go of the balloon's neck."
+  - "Watch how the escaping air pushes the balloon to the other end of the string."
+  - "Repeat with different amounts of air or a tilted string, and compare which rocket goes the farthest."
+aprendizaje: >
+  Shows the principle of action and reaction: the air rushes out in one direction and
+  pushes the balloon in the opposite one, just like real rockets. Your child experiments
+  with variables and measures results.
+variantes: >
+  Set up a race with two parallel strings and two balloons, or hang a small paper
+  weight from the rocket to see how much cargo it can carry.
+seguridad: >
+  An adult should inflate the balloon and tie the string at safe heights. Keep broken
+  balloons away from small children, since they're dangerous if put in the mouth.
+imagen: "6a8-02.png"

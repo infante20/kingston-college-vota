@@ -1,0 +1,37 @@
+id: "9a12-01"
+orden: 1
+edad: "9-12"
+tipo: experimento
+titulo: "Marker Chromatography"
+gancho: "Discover the hidden rainbow of colors lurking inside a black marker."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Coffee filters or absorbent paper towels"
+  - "Washable markers in several colors (especially black and brown)"
+  - "Glass cups or mugs"
+  - "Water"
+  - "Pencils or sticks to hang the paper from"
+  - "Scissors"
+preparacion: >
+  Cut the filter paper into strips about 1 inch wide and 5 inches long. Prepare one strip
+  for each color you want to investigate. Fill the cups with about half an inch of water.
+pasos:
+  - "With each marker, draw a thick dot about an inch from the bottom end of a strip. Note which color you used at the top in pencil."
+  - "Roll the top end of the strip around a pencil and rest it on the rim of the cup, so the bottom tip touches the water but the ink dot stays above it."
+  - "Watch how the water climbs up the paper and carries the ink along. Before it happens, predict which colors you think will appear."
+  - "Wait 10 to 20 minutes without moving the cup and watch how each ink separates into bands of different colors."
+  - "Take the strips out, let them dry, and compare them. Discuss why the black separated into so many colors while others did not."
+  - "Investigate as a family: why do some pigments climb higher than others? Write down your hypotheses."
+aprendizaje: >
+  Introduces the scientific method (predict, observe, conclude) and the idea that many
+  mixtures can be separated. Each pigment travels at a different speed depending on its size
+  and how well it bonds with water, just like in real laboratories.
+variantes: >
+  Try ink from a non-permanent ballpoint pen, food coloring, or crushed flower petals.
+  Compare markers from different brands to see which one has the most pigments.
+seguridad: >
+  Use the scissors carefully when cutting the paper. Use only washable markers, not
+  permanent or solvent-based ones.
+imagen: "9a12-01.png"

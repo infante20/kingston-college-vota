@@ -1,0 +1,33 @@
+id: "3a5-05"
+orden: 5
+edad: "3-5"
+tipo: recreativa
+titulo: "The Pillow Obstacle Course"
+gancho: "A course of jumps, crawls, and balancing acts built from living room pillows and blankets."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Cushions and pillows"
+  - "A blanket or sheet"
+  - "Chairs (to crawl under)"
+  - "Tape or a rope to mark the floor (optional)"
+preparacion: >
+  Clear a spot in the living room. Gather pillows, blankets, and a couple of chairs. Move away
+  anything with hard corners or that could break near the course.
+pasos:
+  - "Lay pillows on the floor like stepping stones to jump from one to the next without touching the floor."
+  - "Set up two chairs with a blanket over them to make a tunnel to crawl through."
+  - "Mark a straight line with tape or rope to walk along like a balance beam."
+  - "Make up the order of the course together and show your little one how to go through it slowly."
+  - "Have them repeat it several times, first slow and then a little faster, at their own pace."
+aprendizaje: >
+  Builds balance, coordination, and whole-body strength. Following a course in order works
+  memory and the ability to plan movements.
+variantes: >
+  Time each run and celebrate every lap. Do the course like animals: hop like a frog, crawl
+  like a cat, tiptoe like a ballerina.
+seguridad: >
+  Make sure the floor isn't slippery and there's no furniture with sharp corners nearby. Stay
+  close during the jumps and balancing until your little one gains confidence.
+imagen: "3a5-05.png"

@@ -1,0 +1,35 @@
+id: "3a5-03"
+orden: 3
+edad: "3-5"
+tipo: sensorial
+titulo: "Homemade Squishy Dough"
+gancho: "A soft dough to knead, squish, and shape into a thousand things with their very own hands."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Flour (2 cups)"
+  - "Fine salt (half a cup)"
+  - "Warm water (a little at a time)"
+  - "A tablespoon of oil"
+  - "Food coloring or juice (optional)"
+  - "A large bowl"
+preparacion: >
+  Mix the flour and salt in the bowl. Have the warm water and oil within reach. Clear the table
+  and, if you like, cover it with a tablecloth so you can knead freely.
+pasos:
+  - "Ask your little one to mix the flour and salt in the bowl with their hands."
+  - "Add the oil and, little by little, a splash of water while you knead together."
+  - "Keep adding water a bit at a time until the dough stops sticking and feels nice and soft."
+  - "If you want color, make a little well, add a few drops of food coloring, and knead until it's spread through."
+  - "Now it's playtime: make little balls, snakes, animals, or squash it flat with your palms."
+aprendizaje: >
+  Works the sense of touch and hand strength, the foundation for holding a pencil later on.
+  Kneading calms, focuses, and lets kids create without rules, valuing the process over the result.
+variantes: >
+  Store the dough in a sealed container to use on other days. Hide buttons or little paper balls
+  inside and hunt for them like treasures.
+seguridad: >
+  It has a lot of salt, so it's not for eating. Supervise the littlest ones so they don't put it
+  in their mouths, and wash hands when you're done.
+imagen: "3a5-03.png"

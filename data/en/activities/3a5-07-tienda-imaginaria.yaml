@@ -1,0 +1,34 @@
+id: "3a5-07"
+orden: 7
+edad: "3-5"
+tipo: juego
+titulo: "The Pretend Store"
+gancho: "Set up a little shop at home to buy and sell, with cardboard coins and lots of imagination."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Items from around the house (fruit, empty boxes, toys, books)"
+  - "Cardboard to cut out coins and bills"
+  - "Scissors (for the grown-up)"
+  - "Pencils to draw the prices"
+  - "A table or box as a counter, and a bag for the shopping"
+preparacion: >
+  The grown-up cuts out several round coins and cardboard bills. Choose a few safe items
+  together and set up the counter. Draw simple prices (1, 2, 3) on little slips of paper.
+pasos:
+  - "Arrange the items on the counter with their price next to each one."
+  - "Divide the cardboard coins between the shopper and the shopkeeper."
+  - "Take turns: one plays shopkeeper and says hello, the other picks what to buy."
+  - "Count the coins together to pay and make change."
+  - "Switch roles so your little one gets to be both seller and shopper."
+aprendizaje: >
+  Encourages pretend play and language by acting out real-life situations. Counting coins
+  introduces numbers, and taking turns teaches courtesy and waiting.
+variantes: >
+  Turn the store into a bakery, fruit stand, or toy shop. Add a notepad so the shopkeeper can
+  'write down' the orders with scribbles.
+seguridad: >
+  The grown-up handles the scissors. Use safe foods and avoid small pieces that could go in
+  the mouth during play.
+imagen: "3a5-07.png"

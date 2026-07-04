@@ -1,0 +1,32 @@
+id: "3a5-08"
+orden: 8
+edad: "3-5"
+tipo: juego
+titulo: "The Color Hunt"
+gancho: "A race around the house to find objects of every color and fill up the rainbow basket."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Sheets of paper in several colors (or crayons to draw color blobs)"
+  - "A basket, box, or bag"
+  - "Household objects in different colors"
+preparacion: >
+  Prepare one sheet for each color, or draw big blobs of color on paper. Clear a spot where
+  the found objects can be collected. Explain the rules simply.
+pasos:
+  - "Show them a color card, for example red."
+  - "Ask them to search the house for something that color and bring it to the basket."
+  - "When they find it, name the object and its color together out loud."
+  - "Move on to the next color and repeat until you've gathered one object of each."
+  - "At the end, sort the objects by color and celebrate the rainbow you built."
+aprendizaje: >
+  Reinforces color recognition and sorting. Searching around the house gets the body moving and
+  works visual memory and attention, all while building vocabulary.
+variantes: >
+  Play against the clock to find everything red in one minute. Hunt by shape (round, square)
+  or by size instead of color.
+seguridad: >
+  Agree on which areas and objects are allowed. Keep your little one away from anything fragile,
+  hot, or with small parts during the hunt.
+imagen: "3a5-08.png"
