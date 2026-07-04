@@ -120,3 +120,44 @@ En vez de un solo tomo de 233 páginas, considera **4 libros por edad** (~26 act
 - Cada tomo: su propio subtítulo con la edad ("...para niños de 3 a 5 años").
 
 *(Se puede automatizar dividiendo el build por banda de edad — pídelo y lo implemento.)*
+
+---
+
+# English edition — "Quality Time"
+
+**Title:** `Quality Time`
+**Subtitle:** `100+ Screen-Free Activities and Science Experiments for Kids Ages 0 to 12 — Play, Learn and Connect at Home with Everyday Materials`
+**Build:** `python scripts/build.py --lang=en --bw --kdp` · cover: `python scripts/build_cover.py --lang=en`
+
+**7 keywords (Amazon.com):**
+1. `screen free activities for kids`
+2. `science experiments for kids at home`
+3. `activity book for kids ages 4-8`
+4. `boredom busters for kids`
+5. `family activities book`
+6. `STEM activities for kids`
+7. `things to do with kids at home`
+
+**Categories:** Children's Books › Activities, Crafts & Games · Parenting & Relationships › Family Activities
+
+**Description (listing):**
+```
+Do your kids ask for a screen the moment they're bored? This book is the answer.
+
+Quality Time brings together 100+ SCREEN-FREE activities and experiments to do at
+home with things you already have. Organized BY AGE (0-2, 3-5, 6-8 and 9-12) so
+you'll always find something that fits your child.
+
+Inside you'll find:
+• 43 step-by-step SCIENCE experiments (volcanoes, invisible ink, strawberry DNA,
+  circuits and much more)
+• Games, art, sensory play and nature activities for every day
+• At-a-glance icons for prep, materials and duration — pick in 10 seconds
+• Full-color illustrations, safety notes, and a "We did it!" memory log in every
+  activity
+
+Nothing fancy to buy. No screens. Just quality time together.
+
+Perfect for parents, grandparents, caregivers and teachers. Start your first
+activity today!
+```

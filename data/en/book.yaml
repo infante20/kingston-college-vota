@@ -1,0 +1,152 @@
+# =========================================================================
+#  Quality Time — English edition: metadata and book copy
+#  Content mirror of data/book.yaml (Spanish). Activities in data/en/activities/.
+# =========================================================================
+
+meta:
+  titulo: "Quality Time"
+  subtitulo: "100+ screen-free activities and experiments for kids ages 0 to 12"
+  autor: "[Your name]"
+  idioma: "en"
+  anio: 2026
+  editorial: "Independently published · Kindle Direct Publishing"
+  slug: "Quality-Time"
+  trim_width_in: 8.5
+  trim_height_in: 11
+  isbn: ""
+
+# ---- Palette (same brand as Spanish edition) ----
+palette:
+  verde: "#2E7D5B"
+  azul: "#3E6E94"
+  coral: "#E8744F"
+  ambar: "#F2A03D"
+  crema: "#FBF7F0"
+  tinta: "#33312E"
+  gris: "#7C7873"
+
+# ---- Activity types (same keys; translated labels) ----
+tipos:
+  experimento:  { label: "Experiment",           color: "#3E6E94", icon: "experimento" }
+  sensorial:    { label: "Sensory",              color: "#7E57A6", icon: "sensorial" }
+  recreativa:   { label: "Active play",          color: "#E8744F", icon: "recreativa" }
+  juego:        { label: "Game",                 color: "#2E7D5B", icon: "juego" }
+  emocional:    { label: "Connection",           color: "#D24D6E", icon: "emocional" }
+  arte:         { label: "Arts & crafts",        color: "#F2A03D", icon: "arte" }
+  naturaleza:   { label: "Nature",               color: "#5B9E4A", icon: "naturaleza" }
+
+# ---- Age bands ----
+edades:
+  - rango: "0-2"
+    titulo: "Ages 0–2"
+    lema: "Discovering the world through the senses"
+    intro: >
+      In the first two years, the brain grows faster than at any other time in life.
+      Babies learn by touching, watching, listening and — above all — by feeling
+      accompanied. They don't need screens: they need your voice, your face and your
+      hands. The activities in this chapter are short, safe and designed to share
+      skin to skin. Follow your child's pace: if they get tired or distracted, take a
+      break. The goal isn't to "finish" — it's to be present.
+
+  - rango: "3-5"
+    titulo: "Ages 3–5"
+    lema: "Play is learning"
+    intro: >
+      At this age imagination takes off and everything becomes a game. They want to
+      touch, mix, build and ask "why?" nonstop. Channel that curiosity with simple
+      experiments, pretend play and sensory activities. Give them time to explore
+      their own way, and celebrate attempts more than results. A cardboard box can
+      be a spaceship — all you need to do is join the adventure.
+
+  - rango: "6-8"
+    titulo: "Ages 6–8"
+    lema: "Create, build and discover"
+    intro: >
+      They can read, count and follow multi-step instructions now. They love
+      challenges, projects with a result they can show off, and games with rules.
+      It's the perfect age for bigger experiments, crafts and homemade board games.
+      Let them make decisions and solve problems: getting it wrong is learning too.
+      Your role is guide and teammate.
+
+  - rango: "9-12"
+    titulo: "Ages 9–12"
+    lema: "Think big and work as a team"
+    intro: >
+      On the doorstep of adolescence they crave autonomy, meaning and real
+      challenges. They're motivated by building something useful, investigating,
+      debating and collaborating. The activities in this chapter invite them to
+      think critically, express more complex emotions and lead projects. Trust
+      their abilities, hand them responsibility, and talk: at this age, quality
+      time is also about listening.
+
+# ---- Icon legend (front matter) ----
+leyenda:
+  preparacion:
+    titulo: "Prep ahead"
+    niveles:
+      - "Low — ready to start right away"
+      - "Medium — needs 5 to 15 minutes of prep"
+      - "High — needs 15+ minutes or planning ahead"
+  materiales:
+    titulo: "Materials"
+    niveles:
+      - "Minimal — 1 to 3 things you already have at home"
+      - "A few — 4 to 6 simple materials"
+      - "Several — 7 or more household materials"
+  duracion:
+    titulo: "Duration"
+    texto: "Approximate activity time, shown with the clock. Adjust it to your child's pace."
+
+# ---- Cover / intro / closing copy ----
+textos:
+  intro_titulo: "Fewer screens, more moments"
+  introduccion: >
+    We live surrounded by screens. They're useful — but when they take the place of
+    play, conversation and creative boredom, children lose something precious: the
+    chance to discover the world with their own hands, and to feel truly accompanied.
+    \n\n
+    This book is built on one simple idea: the best "content" for a child is you.
+    You don't need to spend money or be an expert. With things you already have at
+    home — cardboard, water, flour, pencils, a bedsheet — you can create memories no
+    app will ever match.
+    \n\n
+    Inside you'll find more than 100 activities organized by age and by type:
+    experiments, sensory play, active games, homemade board games, connection
+    rituals, art and nature. Each one clearly shows how much prep it needs, what
+    materials you'll use and how long it takes, so you can choose based on the time
+    and energy you have today.
+  como_usar:
+    titulo: "How to use this book"
+    puntos:
+      - "Find your child's age chapter. Activities from nearby ages are easy to adapt."
+      - "Check each activity's icons: they tell you at a glance how much prep it needs, what materials you'll use and how long it takes."
+      - "No need to go in order. Pick based on the day's time and mood."
+      - "Read the steps first, and check the safety note whenever it appears."
+      - "Adapt, repeat and improve. The best activities are the ones that become family traditions."
+  seguridad:
+    titulo: "Before you start: safety"
+    intro: >
+      These activities are designed for family fun, but they always require adult
+      supervision. Read this page before you begin, and adapt every activity to
+      your child's age and abilities.
+    puntos:
+      - "Always supervise. No activity should be done without an adult present, especially with children under 3."
+      - "Small parts. With babies and toddlers, avoid objects that fit entirely in the mouth: they are a choking hazard."
+      - "Heat and fire. Candles, matches and heat sources are always handled by an adult; keep hair, clothing and paper away."
+      - "Magnets. Use large magnets only, never near the mouth; swallowing them is extremely dangerous. Keep them away from electronics."
+      - "Electricity. Use small batteries only, under supervision; never plugs or mains power."
+      - "Allergies and materials. Check for possible allergies (foods, latex, paints) and choose non-toxic materials."
+      - "Water. Keep water away from outlets, and never leave a child alone near water."
+      - "Cleanup. Wash hands when you finish, especially after the experiments."
+    descargo: >
+      Legal notice: the information in this book is provided in good faith, for
+      educational and recreational purposes. The author and publisher accept no
+      liability for damage, injury or loss arising from these activities. By using
+      this book you agree to do so at your own risk and with proper adult
+      supervision.
+  cierre:
+    titulo: "One last thought"
+    texto: >
+      This isn't about eliminating screens completely — it's about balance. Every
+      moment your kids play, explore or laugh with you is a seed. Thank you for
+      choosing to be present. Those are the moments they will truly remember.

@@ -30,6 +30,27 @@ THICK = {"white": 0.002252, "color": 0.002252, "cream": 0.0025}
 SERIE_COLOR = {"": "#F2A03D", "0-2": "#F2A03D", "3-5": "#E8744F",
                "6-8": "#3E6E94", "9-12": "#5B9E4A"}
 
+BACK_EN = {
+    "kicker": "100+ ACTIVITIES · A GUIDE FOR FAMILIES · AGES 0 TO 12",
+    "headline": "The end of “Mom, I'm bored.”",
+    "body": ("Do your kids ask for a screen the moment they're bored? Open this book "
+             "to any page and in 5 minutes they'll be playing, mixing or building. "
+             "100+ activities and experiments organized by age, using things you "
+             "already have at home."),
+    "bullets": [
+        "43 step-by-step science experiments: volcanoes, invisible ink, circuits and more",
+        "Games, art, sensory play and nature: ideas for every day and every mood",
+        "Prep, materials and duration icons: pick an activity in 10 seconds",
+        "Full-color illustrations and safety notes in every activity",
+    ],
+    "series": ("Looking for just your child's age? The QUALITY TIME series also "
+               "comes in age volumes: 0–2 · 3–5 · 6–8 · 9–12."),
+    "footer": "No fancy supplies. No screens. Just family memories.",
+    "descriptor": "screen-free activities & science experiments",
+    "badge_sub": "AGES", "series_label": "Quality Time Series",
+    "barcode": "Reserved for barcode (placed by KDP)",
+}
+
 # Texto de contraportada (validado por marketing)
 BACK = {
     "kicker": "MÁS DE 100 ACTIVIDADES · GUÍA PARA FAMILIAS · 0 A 12 AÑOS",
@@ -47,6 +68,9 @@ BACK = {
     "series": ("¿Buscas solo la edad de tu hijo o hija? La serie TIEMPO DE CALIDAD "
                "también viene en tomos por edad: 0–2 · 3–5 · 6–8 · 9–12 años."),
     "footer": "Sin gastar de más. Sin pantallas. Puros recuerdos en familia.",
+    "descriptor": "actividades y experimentos sin pantallas",
+    "badge_sub": "EDADES", "series_label": "Serie Tiempo de Calidad",
+    "barcode": "Espacio reservado para el código de barras (lo coloca KDP)",
 }
 
 
@@ -150,7 +174,7 @@ def build_html(pages, paper, *, title, author, front, num, badge_num,
         if spine_text else f'<div class="spine"><div class="spine-mark"></div></div>')
     bullets = "".join(f"<li>{b}</li>" for b in back["bullets"])
     front_img = f'<img src="{front}" alt="">' if front else ""
-    title_html = title.replace("Tiempo de ", "Tiempo de<br>")
+    title_html = title.replace("Tiempo de ", "Tiempo de<br>").replace("Quality Time", "Quality<br>Time")
 
     html = f"""<!doctype html><html lang="es"><head><meta charset="utf-8"><style>{css}</style></head>
 <body><div class="wrap">
@@ -162,20 +186,20 @@ def build_html(pages, paper, *, title, author, front, num, badge_num,
     <div class="b-series">{back['series']}</div>
   </div>
   <div class="b-foot">{back['footer']}</div>
-  <div class="barcode">Espacio reservado para el código de barras (lo coloca KDP)</div>
+  <div class="barcode">{back['barcode']}</div>
   </div>
   {spine_html}
   <div class="front">
     <div class="f-band">
       <div class="f-num">{num}</div>
-      <div class="f-num-sub">actividades y experimentos sin pantallas</div>
+      <div class="f-num-sub">{back['descriptor']}</div>
       <h1 class="f-title">{title_html}</h1>
     </div>
     <div class="f-img">{front_img}</div>
     <div class="f-badge"><span class="f-badge-sub">{badge_sub}</span>
       <span class="f-badge-num">{badge_num}</span></div>
     <div class="f-foot"><span>{author}</span><span class="sep">·</span>
-      <span class="serie">Serie Tiempo de Calidad</span></div>
+      <span class="serie">{back['series_label']}</span></div>
   </div>
 </div></body></html>"""
     return html, full_w, full_h
@@ -188,13 +212,16 @@ def main():
     ap.add_argument("--interior", default="")
     ap.add_argument("--paper", choices=list(THICK), default="white")
     ap.add_argument("--edad", default="", help="rango (0-2, 3-5, 6-8, 9-12) para portada de banda")
+    ap.add_argument("--lang", default="es", choices=["es", "en"])
     ap.add_argument("--out", default="")
     args = ap.parse_args()
 
-    book = yaml.safe_load((ROOT / "data/book.yaml").read_text(encoding="utf-8"))
+    src = "data/book.yaml" if args.lang == "es" else f"data/{args.lang}/book.yaml"
+    book = yaml.safe_load((ROOT / src).read_text(encoding="utf-8"))
     meta = book["meta"]
     title, author = meta.get("titulo", ""), meta.get("autor", "")
-    back = dict(BACK)
+    back = dict(BACK if args.lang == "es" else BACK_EN)
+    slugbase = meta.get("slug", "Tiempo-de-Calidad")
 
     if args.edad:
         e = next((x for x in book["edades"] if x["rango"] == args.edad), None)
@@ -202,7 +229,7 @@ def main():
             raise SystemExit(f"--edad={args.edad} no existe")
         n = len(glob.glob(str(ROOT / f"data/activities/{args.edad.replace('-', 'a')}-*.yaml")))
         num = f"+{n}"
-        badge_sub, badge_num = "EDADES", args.edad.replace("-", "–")
+        badge_sub, badge_num = back["badge_sub"], args.edad.replace("-", "–")
         otras = [r for r in ("0-2", "3-5", "6-8", "9-12") if r != args.edad]
         n_exp = 0
         for f in glob.glob(str(ROOT / f"data/activities/{args.edad.replace('-', 'a')}-*.yaml")):
@@ -220,14 +247,14 @@ def main():
                           + ", o el tomo completo 0–12.")
         front = _img(f"sep-{args.edad}") or _img("portada")
         if not (args.pages or args.interior):
-            args.interior = str(DIST / f"Tiempo-de-Calidad-{args.edad}-BN.pdf")
-        out = Path(args.out) if args.out else (DIST / f"Portada-KDP-{args.edad}.pdf")
+            args.interior = str(DIST / f"{slugbase}-{args.edad}-BN.pdf")
+        out = Path(args.out) if args.out else (DIST / (f"Portada-KDP-{args.edad}.pdf" if args.lang == "es" else f"Cover-KDP-{args.edad}.pdf"))
         marker = SERIE_COLOR[args.edad]
     else:
         num = "+100"
-        badge_sub, badge_num = "EDADES", "0–12"
+        badge_sub, badge_num = back["badge_sub"], "0–12"
         front = _img("portada")
-        out = Path(args.out) if args.out else (DIST / "Portada-KDP-tapa-blanda.pdf")
+        out = Path(args.out) if args.out else (DIST / ("Portada-KDP-tapa-blanda.pdf" if args.lang == "es" else "Cover-KDP-paperback.pdf"))
         marker = SERIE_COLOR[""]
 
     pages = page_count(args)

@@ -20,14 +20,64 @@ DIST = ROOT / "dist"
 
 EDAD_ORDER = {"0-2": 0, "3-5": 1, "6-8": 2, "9-12": 3}
 
+# Textos de interfaz del libro por idioma (el contenido vive en data/<lang>/)
+UI = {
+    "es": {
+        "kicker": "Guía para familias", "rights": "Todos los derechos reservados.",
+        "credits_note": ("Ninguna parte de este libro puede reproducirse sin permiso del "
+                         "autor, salvo citas breves. Las actividades deben realizarse siempre "
+                         "bajo supervisión de un adulto. El autor no se responsabiliza por el "
+                         "uso indebido de los materiales."),
+        "ai_note": "Las ilustraciones de este libro fueron creadas con asistencia de inteligencia artificial.",
+        "toc": "Índice", "legend": "Leyenda de iconos",
+        "legend_lead": "Cada actividad muestra estos indicadores para que elijas según tu día:",
+        "types": "Tipos de actividad", "in_chapter": "En este capítulo",
+        "stat_acts": "actividades", "stat_exp": "experimentos de ciencia",
+        "stat_easy": "listas para empezar ya",
+        "materials": "Materiales", "prep": "Preparación previa", "steps": "Paso a paso",
+        "badge_prep": "Preparación", "badge_mat": "Materiales",
+        "learn": "Qué desarrolla:", "variants": "Variantes y consejos:", "safety": "Seguridad:",
+        "log_title": "¡La hicimos!", "log_date": "Fecha:",
+        "log_q": "¿Qué pasó? ¿Qué fue lo más divertido?",
+        "log_q_baby": "¿Cómo reaccionó? ¿Qué le llamó la atención?",
+        "draw_q": "Dibujen lo que pasó:", "draw_q_baby": "Peguen aquí una foto del momento:",
+        "bytype": "Índice por tipo de actividad", "years": "años",
+    },
+    "en": {
+        "kicker": "A guide for families", "rights": "All rights reserved.",
+        "credits_note": ("No part of this book may be reproduced without the author's "
+                         "permission, except for brief quotations. All activities must be "
+                         "done under adult supervision. The author is not responsible for "
+                         "misuse of the materials."),
+        "ai_note": "The illustrations in this book were created with the assistance of artificial intelligence.",
+        "toc": "Contents", "legend": "Icon guide",
+        "legend_lead": "Every activity shows these at-a-glance indicators:",
+        "types": "Activity types", "in_chapter": "In this chapter",
+        "stat_acts": "activities", "stat_exp": "science experiments",
+        "stat_easy": "ready to start now",
+        "materials": "Materials", "prep": "Prep ahead", "steps": "Step by step",
+        "badge_prep": "Prep", "badge_mat": "Materials",
+        "learn": "What it builds:", "variants": "Variations & tips:", "safety": "Safety:",
+        "log_title": "We did it!", "log_date": "Date:",
+        "log_q": "What happened? What was the most fun?",
+        "log_q_baby": "How did they react? What caught their attention?",
+        "draw_q": "Draw what happened:", "draw_q_baby": "Glue a photo of the moment here:",
+        "bytype": "Activities by type", "years": "years",
+    },
+}
+
 
 def load_yaml(path: Path) -> dict:
     return yaml.safe_load(path.read_text(encoding="utf-8"))
 
 
-def load_activities() -> list[dict]:
+def data_dir(lang: str) -> Path:
+    return DATA if lang == "es" else DATA / lang
+
+
+def load_activities(lang: str = "es") -> list[dict]:
     acts = []
-    for p in sorted((DATA / "activities").glob("*.yaml")):
+    for p in sorted((data_dir(lang) / "activities").glob("*.yaml")):
         a = load_yaml(p)
         a["_file"] = p.name
         acts.append(a)
@@ -56,7 +106,8 @@ def resolve_image(stem: str) -> str | None:
     return None
 
 
-def build_html(book: dict, acts: list[dict], icons: dict, extra_css: str = "") -> str:
+def build_html(book: dict, acts: list[dict], icons: dict, extra_css: str = "",
+               lang: str = "es") -> str:
     env = Environment(
         loader=FileSystemLoader(str(TEMPLATES)),
         autoescape=select_autoescape(["html"]),
@@ -90,7 +141,7 @@ def build_html(book: dict, acts: list[dict], icons: dict, extra_css: str = "") -
     return tmpl.render(
         meta=book["meta"], palette=book["palette"], tipos=tipos,
         edades=edades, leyenda=book["leyenda"], textos=book["textos"],
-        actividades=acts, icons=icons,
+        actividades=acts, icons=icons, ui=UI[lang], lang=lang,
         has_cover=bool(cover_src), cover_src=cover_src,
         inline_css=inline_css,
     )
@@ -193,12 +244,15 @@ def main() -> None:
     kdp = "--kdp" in sys.argv
     bw = "--bw" in sys.argv
     edad = _arg_value("--edad=")
+    lang = _arg_value("--lang=") or "es"
+    if lang not in UI:
+        raise SystemExit(f"--lang={lang} no soportado (usa: {', '.join(UI)})")
     DIST.mkdir(exist_ok=True)
-    book = load_yaml(DATA / "book.yaml")
-    acts = load_activities()
+    book = load_yaml(data_dir(lang) / "book.yaml")
+    acts = load_activities(lang)
     icons = load_icons()
 
-    slug = "Tiempo-de-Calidad"
+    slug = book["meta"].get("slug", "Tiempo-de-Calidad")
     # Modo serie: un solo rango de edad -> libro independiente
     if edad:
         acts = [a for a in acts if a.get("edad") == edad]
@@ -207,13 +261,18 @@ def main() -> None:
             raise SystemExit(f"--edad={edad} no coincide con ninguna actividad/rango")
         banda = book["edades"][0]["titulo"]
         book["meta"] = dict(book["meta"])
-        book["meta"]["subtitulo"] = (f"+{len(acts)} actividades y experimentos sin "
-                                     f"pantallas para niños de {banda}")
-        slug = f"Tiempo-de-Calidad-{edad}"
-    print(f"Actividades cargadas: {len(acts)}" + (f" (edad {edad})" if edad else ""))
+        if lang == "en":
+            book["meta"]["subtitulo"] = (f"{len(acts)}+ screen-free activities and "
+                                         f"experiments for kids {banda.lower()}")
+        else:
+            book["meta"]["subtitulo"] = (f"+{len(acts)} actividades y experimentos sin "
+                                         f"pantallas para niños de {banda}")
+        slug = f"{slug}-{edad}"
+    print(f"Actividades cargadas: {len(acts)}" + (f" (edad {edad})" if edad else "")
+          + (f" [lang={lang}]" if lang != "es" else ""))
 
     # HTML de pantalla (8.5x11)
-    html = build_html(book, acts, icons)
+    html = build_html(book, acts, icons, lang=lang)
     html_path = DIST / "book.html"
     html_path.write_text(html, encoding="utf-8")
     print(f"HTML -> {html_path}")
@@ -234,7 +293,7 @@ def main() -> None:
 
     # Interior listo para imprenta KDP (con sangrado)
     if kdp:
-        html_kdp = build_html(book, acts, icons, extra_css=KDP_BLEED_CSS)
+        html_kdp = build_html(book, acts, icons, extra_css=KDP_BLEED_CSS, lang=lang)
         html_kdp_path = DIST / "book-kdp.html"
         html_kdp_path.write_text(html_kdp, encoding="utf-8")
         kdp_pdf = DIST / f"{slug}-KDP.pdf"

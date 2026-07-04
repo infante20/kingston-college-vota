@@ -11,7 +11,7 @@
 <section class="cover cover--plain">
   {% if cover_src %}<img class="cover-bg" src="{{ cover_src }}" alt=""><div class="cover-scrim"></div>{% endif %}
   <div class="cover-inner">
-    <div class="cover-kicker">Guía para familias</div>
+    <div class="cover-kicker">{{ ui.kicker }}</div>
     <h1 class="cover-title" id="portada-titulo">{{ meta.titulo }}</h1>
     <p class="cover-sub">{{ meta.subtitulo }}</p>
     <div class="cover-rule"></div>
@@ -29,24 +29,21 @@
 {# ----------------------------- CRÉDITOS --------------------------- #}
 <section class="page credits">
   <p><strong>{{ meta.titulo }}</strong> — {{ meta.subtitulo }}</p>
-  <p>© {{ meta.anio }} {{ meta.autor }}. Todos los derechos reservados.</p>
+  <p>© {{ meta.anio }} {{ meta.autor }}. {{ ui.rights }}</p>
   {% if meta.isbn %}<p>ISBN: {{ meta.isbn }}</p>{% endif %}
   <p>{{ meta.editorial }}</p>
-  <p class="credits-note">Ninguna parte de este libro puede reproducirse sin permiso del
-  autor, salvo citas breves. Las actividades deben realizarse siempre bajo supervisión de
-  un adulto. El autor no se responsabiliza por el uso indebido de los materiales.</p>
-  <p class="credits-note">Las ilustraciones de este libro fueron creadas con asistencia de
-  inteligencia artificial.</p>
+  <p class="credits-note">{{ ui.credits_note }}</p>
+  <p class="credits-note">{{ ui.ai_note }}</p>
 </section>
 
 {# ------------------------------ ÍNDICE ----------------------------- #}
 <section class="page toc">
-  <h2 class="section-h">Índice</h2>
+  <h2 class="section-h">{{ ui.toc }}</h2>
   <ul class="toc-front-list">
     <li>{{ textos.intro_titulo }}</li>
     <li>{{ textos.como_usar.titulo }}</li>
     <li>{{ textos.seguridad.titulo }}</li>
-    <li>Leyenda de iconos</li>
+    <li>{{ ui.legend }}</li>
   </ul>
   {% for e in edades %}
   <div class="toc-chapter-block">
@@ -91,8 +88,8 @@
 
 {# --------------------------- LEYENDA ------------------------------- #}
 <section class="page legend">
-  <h2 class="section-h">Leyenda de iconos</h2>
-  <p class="legend-lead">Cada actividad muestra estos indicadores para que elijas según tu día:</p>
+  <h2 class="section-h">{{ ui.legend }}</h2>
+  <p class="legend-lead">{{ ui.legend_lead }}</p>
 
   <div class="legend-block">
     <h3>{{ leyenda.preparacion.titulo }}</h3>
@@ -123,7 +120,7 @@
   </div>
 
   <div class="legend-block">
-    <h3>Tipos de actividad</h3>
+    <h3>{{ ui.types }}</h3>
     <div class="legend-types">
       {% for key, t in tipos.items() %}
         <span class="type-chip" style="--c:{{ t.color }}">
@@ -153,11 +150,11 @@
     <p class="chapter-lema">{{ e.lema }}</p>
     <p>{{ e.intro }}</p>
     <div class="chapter-stats">
-      <div class="stat"><div class="stat-num">{{ band_acts|length }}</div><div class="stat-label">actividades</div></div>
-      <div class="stat"><div class="stat-num">{{ n_exp }}</div><div class="stat-label">experimentos de ciencia</div></div>
-      <div class="stat"><div class="stat-num">{{ n_facil }}</div><div class="stat-label">listas para empezar ya</div></div>
+      <div class="stat"><div class="stat-num">{{ band_acts|length }}</div><div class="stat-label">{{ ui.stat_acts }}</div></div>
+      <div class="stat"><div class="stat-num">{{ n_exp }}</div><div class="stat-label">{{ ui.stat_exp }}</div></div>
+      <div class="stat"><div class="stat-num">{{ n_facil }}</div><div class="stat-label">{{ ui.stat_easy }}</div></div>
     </div>
-    <h3 class="minitoc-h">En este capítulo</h3>
+    <h3 class="minitoc-h">{{ ui.in_chapter }}</h3>
     <ul class="chapter-minitoc">
       {% for a in band_acts %}
       <li style="--tc:{{ tipos[a.tipo].color }}"><span class="mini-dot"></span><span class="mini-title">{{ a.titulo }}</span><span class="mini-dur">{{ a.duracion }}</span></li>
@@ -177,11 +174,11 @@
 
       <div class="act-badges">
         <div class="badge">
-          <span class="badge-label">Preparación</span>
+          <span class="badge-label">{{ ui.badge_prep }}</span>
           <span class="dots">{% for i in range(3) %}<span class="dot {{ 'on' if i < a.dif_prep }}"></span>{% endfor %}</span>
         </div>
         <div class="badge">
-          <span class="badge-label">Materiales</span>
+          <span class="badge-label">{{ ui.badge_mat }}</span>
           <span class="squares">{% for i in range(3) %}<span class="sq {{ 'on' if i < a.dif_materiales }}"></span>{% endfor %}</span>
         </div>
         <div class="badge badge-time">
@@ -194,43 +191,41 @@
 
       <div class="act-cols">
         <div class="act-left">
-          <h3 class="act-h3">Materiales</h3>
+          <h3 class="act-h3">{{ ui.materials }}</h3>
           <ul class="act-materials">{% for m in a.materiales %}<li>{{ m }}</li>{% endfor %}</ul>
           {% if a.preparacion %}
-            <h3 class="act-h3">Preparación previa</h3>
+            <h3 class="act-h3">{{ ui.prep }}</h3>
             <p class="act-prep">{{ a.preparacion }}</p>
           {% endif %}
         </div>
         <div class="act-right">
-          <h3 class="act-h3">Paso a paso</h3>
+          <h3 class="act-h3">{{ ui.steps }}</h3>
           <ol class="act-steps">{% for s in a.pasos %}<li>{{ s }}</li>{% endfor %}</ol>
         </div>
       </div>
 
       <div class="act-notes-row">
         {% if a.aprendizaje %}
-          <div class="act-note act-learn"><strong>Qué desarrolla:</strong> {{ a.aprendizaje }}</div>
+          <div class="act-note act-learn"><strong>{{ ui.learn }}</strong> {{ a.aprendizaje }}</div>
         {% endif %}
         {% if a.variantes %}
-          <div class="act-note act-variant"><strong>Variantes y consejos:</strong> {{ a.variantes }}</div>
+          <div class="act-note act-variant"><strong>{{ ui.variants }}</strong> {{ a.variantes }}</div>
         {% endif %}
       </div>
       {% if a.seguridad %}
-        <div class="act-note act-safety"><strong>Seguridad:</strong> {{ a.seguridad }}</div>
+        <div class="act-note act-safety"><strong>{{ ui.safety }}</strong> {{ a.seguridad }}</div>
       {% endif %}
 
-      {% set log_q = "¿Cómo reaccionó? ¿Qué le llamó la atención?" if a.edad == "0-2"
-                     else "¿Qué pasó? ¿Qué fue lo más divertido?" %}
+      {% set log_q = ui.log_q_baby if a.edad == "0-2" else ui.log_q %}
       <div class="act-log">
         <div class="log-head">
-          <span class="log-check"></span><span class="log-title">¡La hicimos!</span>
-          <span class="log-date">Fecha: <span class="write-slot"></span></span>
+          <span class="log-check"></span><span class="log-title">{{ ui.log_title }}</span>
+          <span class="log-date">{{ ui.log_date }} <span class="write-slot"></span></span>
           <span class="log-stars">☆☆☆☆☆</span>
         </div>
         <p class="log-q">{{ log_q }}</p>
         <div class="write-line"></div><div class="write-line"></div><div class="write-line"></div>
-        <p class="log-q draw-q">{{ "Peguen aquí una foto del momento:" if a.edad == "0-2"
-                                   else "Dibujen lo que pasó:" }}</p>
+        <p class="log-q draw-q">{{ ui.draw_q_baby if a.edad == "0-2" else ui.draw_q }}</p>
         <div class="draw-box"></div>
       </div>
       <div class="act-end"></div>
@@ -240,13 +235,13 @@
 
 {# ------------------------------ ÍNDICE POR TIPO -------------------- #}
 <section class="page prose">
-  <h2 class="section-h">Índice por tipo de actividad</h2>
+  <h2 class="section-h">{{ ui.bytype }}</h2>
   {% for key, t in tipos.items() %}
     {% set group = actividades | selectattr('tipo','equalto',key) | list %}
     {% if group %}
       <h3 class="bytype-h" style="color:{{ t.color }}">{{ t.label }}</h3>
       <ul class="bytype-list bytype-cols">
-        {% for a in group %}<li>{{ a.titulo }} <span class="bytype-age">({{ a.edad }} años)</span></li>{% endfor %}
+        {% for a in group %}<li>{{ a.titulo }} <span class="bytype-age">({{ a.edad }} {{ ui.years }})</span></li>{% endfor %}
       </ul>
     {% endif %}
   {% endfor %}
