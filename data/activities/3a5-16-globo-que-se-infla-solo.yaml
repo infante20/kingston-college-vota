@@ -1,0 +1,34 @@
+id: "3a5-16"
+orden: 16
+edad: "3-5"
+tipo: experimento
+titulo: "El globo que se infla solo"
+gancho: "Un globo que se infla sin soplar, empujado por las burbujas de una mezcla mágica."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Un globo"
+  - "Una botella plástica de cuello angosto"
+  - "Bicarbonato (2 cucharadas)"
+  - "Vinagre (medio vaso)"
+  - "Un embudo o un cono de papel"
+preparacion: >
+  Con el embudo, el adulto echa el vinagre dentro de la botella. Aparte, ayuda al peque a meter el
+  bicarbonato dentro del globo usando el mismo embudo, sin dejar que se mezcle todavía.
+pasos:
+  - "Estiren con cuidado la boca del globo (con el bicarbonato adentro) sobre el cuello de la botella."
+  - "Pregunta al peque qué creen que pasará cuando el bicarbonato caiga al vinagre."
+  - "Cuenten «tres, dos, uno» y levanten el globo para que el bicarbonato caiga dentro."
+  - "Observen cómo aparecen muchas burbujas y el globo empieza a inflarse solo."
+  - "Cuando se detenga, conversen sobre lo que vieron y, si quieren, repitan con otro globo."
+aprendizaje: >
+  Muestra que al mezclar bicarbonato y vinagre se forma un gas que ocupa espacio e infla el globo.
+  Estimula la anticipación, la observación y la idea de que el aire ocupa lugar.
+variantes: >
+  Prueben con más o menos bicarbonato para ver si el globo crece más. Usen botellas de distinto
+  tamaño y comparen.
+seguridad: >
+  El vinagre molesta si toca los ojos: supervisa la mezcla. No es para beber. Hagan la actividad
+  sobre una superficie fácil de limpiar.
+imagen: "3a5-16.png"

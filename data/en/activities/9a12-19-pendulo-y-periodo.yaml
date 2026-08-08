@@ -1,0 +1,40 @@
+id: "9a12-19"
+orden: 19
+edad: "9-12"
+tipo: experimento
+titulo: "The Pendulum's Secret Rhythm"
+gancho: "Discover what makes a pendulum swing faster or slower, like a physics detective."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Sturdy string or yarn"
+  - "A nut, an old key, or a small heavy object"
+  - "A ruler or measuring tape"
+  - "A clock or stopwatch (an adult's is fine)"
+  - "A chair or the edge of a table to hang the pendulum from"
+  - "Tape"
+  - "Notebook and ballpoint pen for recording"
+preparacion: >
+  Find a spot where you can hang a string and the weight can swing freely without hitting
+  anything. Tie the heavy object to one end of the string. Prepare a table in your notebook
+  with columns for the string length and the swing time.
+pasos:
+  - "Write your hypothesis: what will make the pendulum go faster, a shorter string or a heavier weight?"
+  - "Hang the pendulum with a known string length (for example 12 inches) and measure it with the ruler."
+  - "Release the weight from one side and count how many complete swings it makes in 15 seconds. Note it down."
+  - "Change only the string length (make it shorter or longer) and repeat the swing count in 15 seconds."
+  - "Now keep the same length but change the weight, and count again. Record everything in your table."
+  - "Compare your data and write your conclusion: what changed the pendulum's rhythm, the length or the weight?"
+aprendizaje: >
+  The time a pendulum takes to swing back and forth depends on the length of the string, not
+  the weight. A shorter string swings faster. You learn to isolate variables, measure
+  carefully, and draw conclusions from data, just like Galileo when he studied pendulums.
+variantes: >
+  Build two pendulums of different lengths and watch them swing together to see how they fall
+  out of sync. Use your pendulum as a stopwatch: adjust the string so each swing lasts about
+  one second.
+seguridad: >
+  Make sure the pendulum won't hit anyone or fragile objects as it swings. Hang the string
+  from a firm support.
+imagen: "9a12-19.png"

@@ -1,0 +1,39 @@
+id: "9a12-13"
+orden: 13
+edad: "9-12"
+tipo: experimento
+titulo: "Red Cabbage pH Indicator"
+gancho: "Create a magic liquid that changes color to tell you whether something is acidic or basic."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Half a red cabbage"
+  - "Hot water (prepared by an adult)"
+  - "A strainer and a bucket or bowl"
+  - "Clear glass cups"
+  - "Spoons"
+  - "Substances to test: lemon juice, vinegar, baking soda, dish soap, soapy water, milk"
+  - "Notebook and ballpoint pen for recording"
+preparacion: >
+  An adult cuts the red cabbage into small pieces, puts them in a bucket, and adds hot water
+  to cover them. After 15 minutes the water turns purple: that is your indicator. Strain the
+  liquid into another container and let it cool. Set up a row of cups, one for each substance to test.
+pasos:
+  - "Before you start, write your hypothesis: which substances do you think will be acidic and which basic? Write it in your notebook."
+  - "Pour a little red cabbage juice into each cup, in roughly equal amounts."
+  - "Add a different substance to each cup (a spoonful of lemon juice, of vinegar, of dissolved baking soda, and so on) and stir with a clean spoon."
+  - "Observe the colors: red or pink means acidic, green or yellow means basic, and purple means neutral. Record each color in a table."
+  - "Compare your results with your original hypothesis. Were you right? Mark the ones that surprised you."
+  - "Write a conclusion: order the substances from most acidic to most basic based on the color."
+aprendizaje: >
+  Red cabbage juice contains pigments called anthocyanins that change color depending on pH.
+  You practice the full scientific method: hypothesis, observation, recording data, and
+  conclusion, just like in a real chemistry lab.
+variantes: >
+  Create a color scale on paper to classify new substances. Mix an acidic cup with a basic
+  one and watch the color shift back toward purple. Try it with drinks like soda or juices.
+seguridad: >
+  An adult always handles the hot water. Do not taste or drink any of the mixtures. Wash your
+  hands and the cups well when you finish, especially after using dish soap.
+imagen: "9a12-13.png"

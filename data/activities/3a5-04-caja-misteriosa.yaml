@@ -1,0 +1,33 @@
+id: "3a5-04"
+orden: 4
+edad: "3-5"
+tipo: sensorial
+titulo: "La caja misteriosa"
+gancho: "Meter la mano sin mirar y adivinar qué objeto se esconde dentro solo con el tacto."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Una caja de cartón con tapa o una bolsa de tela"
+  - "Tijeras (para el adulto)"
+  - "Objetos cotidianos de distintas formas y texturas (cuchara, esponja, pelota, calcetín, pinza)"
+  - "Un calcetín o trapo para tapar el agujero (opcional)"
+preparacion: >
+  El adulto recorta un agujero en un lado de la caja, del tamaño justo para que entre una mano.
+  Reúne varios objetos seguros y conocidos. Mete los objetos sin que el peque los vea.
+pasos:
+  - "Pide al peque que meta la mano por el agujero sin mirar dentro."
+  - "Anímalo a tocar un objeto y describir lo que siente: «es suave», «tiene punta», «es redondo»."
+  - "Que adivine qué es antes de sacarlo y comprobar si acertó."
+  - "Celebren tanto los aciertos como los intentos: lo importante es explorar con las manos."
+  - "Cambien los papeles y dejen que el peque esconda objetos para que el adulto adivine."
+aprendizaje: >
+  Afina el sentido del tacto y la capacidad de describir con palabras. Ejercita la memoria, la
+  imaginación y el lenguaje al poner nombre a lo que se siente sin ver.
+variantes: >
+  Agrupen objetos por temas: solo de cocina, solo juguetes, solo cosas blandas. Pongan dos
+  objetos parecidos y que distinga cuál es cuál solo con el tacto.
+seguridad: >
+  El adulto usa las tijeras y guarda los objetos pequeños fuera del alcance entre turnos. Evita
+  objetos puntiagudos o que puedan dañar la mano dentro de la caja.
+imagen: "3a5-04.png"

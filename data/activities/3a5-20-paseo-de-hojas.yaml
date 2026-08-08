@@ -1,0 +1,33 @@
+id: "3a5-20"
+orden: 20
+edad: "3-5"
+tipo: naturaleza
+titulo: "Paseo para coleccionar tesoros de la naturaleza"
+gancho: "Salir con una canasta a juntar hojas, piedritas y palitos para armar una colección propia."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Una canasta o balde pequeño"
+  - "Bolsas o cajas para separar los tesoros"
+  - "Ropa cómoda para salir"
+  - "Una lupa de juguete (opcional)"
+preparacion: >
+  Elijan un lugar con árboles y plantas: el patio, una plaza o la vereda con árboles. Lleven la
+  canasta y conversen antes de salir sobre qué cosas pueden recolectar.
+pasos:
+  - "Caminen sin apuro mirando el suelo, los árboles y los arbustos."
+  - "Junten en la canasta hojas de distintos tamaños, piedritas, palitos y flores caídas."
+  - "Observen cada tesoro: pregúntale al peque de qué color es y si es liso o áspero."
+  - "De vuelta en casa, ordenen los tesoros por color, tamaño o forma."
+  - "Conversen sobre el paseo y guarden la colección en un rincón especial."
+aprendizaje: >
+  Acerca al peque a la naturaleza y a sus texturas, colores y formas. Recolectar y ordenar
+  desarrolla la observación, la clasificación y el cuidado por el entorno.
+variantes: >
+  Peguen los tesoros en una cartulina para hacer un mural de la naturaleza. Repitan el paseo en
+  otra estación y comparen qué cambió.
+seguridad: >
+  No recolecten plantas con espinas ni toquen bichos que piquen. Laven las manos al volver y no se
+  lleven nada a la boca.
+imagen: "3a5-20.png"

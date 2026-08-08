@@ -1,0 +1,32 @@
+id: "0a2-01"
+orden: 1
+edad: "0-2"
+tipo: sensorial
+titulo: "Canasta de los tesoros"
+gancho: "Una canasta llena de objetos cotidianos para que el bebé explore con todos los sentidos."
+duracion: "10-15 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Una canasta, caja baja o bandeja"
+  - "Objetos seguros de distintas texturas y materiales (cuchara de madera, esponja, taza de metal, retazo de tela, pelota de tela)"
+  - "Una manta para el suelo"
+preparacion: >
+  Elige 6 a 10 objetos seguros de tu casa, de distintos materiales (madera, tela, metal,
+  silicona). Lávalos y revisa que no sean tan pequeños como para caber por completo en la
+  boca del bebé ni que tengan piezas que se desprendan. Colócalos dentro de la canasta.
+pasos:
+  - "Sienta al bebé sobre la manta, con la canasta a su alcance. Si aún no se sienta solo, recuéstalo de lado frente a la canasta."
+  - "Deja que el bebé descubra los objetos a su ritmo. No dirijas: solo acompaña y observa."
+  - "Nombra lo que toma: «la cuchara de madera», «¡qué fría la taza!». Tu voz le da seguridad y vocabulario."
+  - "Cuando se canse de un objeto, deja que elija otro. Retira los que pierdan interés y ofrece nuevos otro día."
+aprendizaje: >
+  Estimula el tacto, la coordinación ojo-mano y el lenguaje. El bebé compara texturas,
+  pesos y temperaturas, base del pensamiento científico y de la concentración.
+variantes: >
+  Cambia los objetos cada semana para mantener la novedad. En verano, añade un objeto frío
+  guardado un rato en el refrigerador para una nueva sensación.
+seguridad: >
+  Supervisa en todo momento. Evita objetos pequeños, puntiagudos, con cuerdas largas o que
+  puedan romperse. Ante la duda, no lo incluyas.
+imagen: "0a2-01.png"

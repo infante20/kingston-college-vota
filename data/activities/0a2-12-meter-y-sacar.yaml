@@ -1,0 +1,32 @@
+id: "0a2-12"
+orden: 12
+edad: "0-2"
+tipo: juego
+titulo: "Meter y sacar"
+gancho: "Una caja y varios objetos para llenar, vaciar y descubrir el placer de aparecer y desaparecer."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Una caja de cartón o un recipiente con boca ancha"
+  - "Pelotas de tela, juguetes blandos o calcetines enrollados"
+  - "Una manta para el suelo"
+preparacion: >
+  Elige una caja o recipiente que el bebé pueda alcanzar con facilidad y reúne varios objetos
+  blandos y seguros, lo bastante grandes para que no quepan enteros en su boca. Coloca todo
+  sobre la manta.
+pasos:
+  - "Sienta al bebé sobre la manta con la caja y los objetos a su alcance."
+  - "Muéstrale cómo meter un objeto en la caja y volver a sacarlo, nombrando «dentro» y «fuera»."
+  - "Anímalo a imitarte y deja que llene y vacíe la caja a su ritmo, una y otra vez."
+  - "Celebra cada acierto: «¡lo metiste!», «¡y ahora lo sacaste!»."
+aprendizaje: >
+  Trabaja la motricidad fina, la coordinación ojo-mano y los conceptos de dentro y fuera.
+  Llenar y vaciar fortalece la concentración y la noción de permanencia de los objetos.
+variantes: >
+  Ofrécele recipientes de distintos tamaños o una caja con una abertura más pequeña para
+  añadir un reto cuando ya domine el juego.
+seguridad: >
+  Usa solo objetos blandos y grandes, sin piezas que se desprendan ni bolsas de plástico al
+  alcance. Supervisa en todo momento para evitar atragantamientos.
+imagen: "0a2-12.png"

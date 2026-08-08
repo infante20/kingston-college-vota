@@ -1,0 +1,34 @@
+id: "0a2-03"
+orden: 3
+edad: "0-2"
+tipo: sensorial
+titulo: "Botella de la calma"
+gancho: "Una botella con agua, brillos y objetos flotantes que hipnotiza y relaja al bebé."
+duracion: "10-15 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Una botella de plástico pequeña con tapón"
+  - "Agua"
+  - "Aceite o un poco de gel transparente (opcional)"
+  - "Objetos pequeños y vistosos (botones de colores, lentejuelas, purpurina, tapitas)"
+  - "Pegamento fuerte o cinta para sellar el tapón"
+preparacion: >
+  Llena la botella con agua y añade los objetos vistosos. Cierra bien el tapón y séllalo con
+  pegamento fuerte o cinta para que no pueda abrirse de ninguna manera. Revisa que queda
+  totalmente cerrada antes de dársela al bebé.
+pasos:
+  - "Muéstrale la botella y agítala suavemente para que vea cómo se mueve todo dentro."
+  - "Déjala rodar despacio frente a él para que la siga con la mirada."
+  - "Dásela para que la sostenga, la gire y la agite a su ritmo."
+  - "Nombra los colores y los movimientos: «mira cómo baja el brillo», «¡todo da vueltas!»."
+aprendizaje: >
+  Estimula el seguimiento visual, la causa-efecto y la concentración. Su movimiento lento
+  ayuda a calmar al bebé en momentos de nervios.
+variantes: >
+  Prepara varias botellas con distintos contenidos: agua con aceite, arroz de colores o
+  pequeños pompones, para variar las sensaciones y los sonidos.
+seguridad: >
+  El sellado del tapón es imprescindible: si la botella se abriera, los objetos pequeños
+  serían un riesgo de asfixia. Revísala antes de cada uso y supervisa siempre.
+imagen: "0a2-03.png"

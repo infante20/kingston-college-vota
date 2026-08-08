@@ -1,0 +1,32 @@
+id: "0a2-17"
+orden: 17
+edad: "0-2"
+tipo: experimento
+titulo: "Cazar la luz"
+gancho: "Un espejito refleja el sol y crea un punto de luz que baila por la pared para que el bebé lo persiga."
+duracion: "5-10 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un espejo pequeño de mano o un objeto metálico brillante"
+  - "Luz de sol entrando por una ventana"
+  - "Una pared o piso claro"
+preparacion: >
+  Busca un momento del día en que entre el sol por una ventana. Ubícate de modo de poder
+  reflejar la luz con el espejo hacia una pared o el piso cerca del bebé.
+pasos:
+  - "Sienta al bebé en un lugar cómodo frente a la pared iluminada."
+  - "Inclina el espejo hasta que aparezca un punto de luz en la pared."
+  - "Mueve suavemente el espejo para que la luz se desplace y nombra «¡ahí va la luz!»."
+  - "Deja que el bebé siga el reflejo con la mirada y, si gatea, que intente alcanzarlo."
+  - "Detén la luz cerca de su mano para que sienta que casi la atrapa."
+aprendizaje: >
+  Descubre la reflexión de la luz y la relación causa-efecto entre tu movimiento y el punto
+  luminoso. Estimula el seguimiento visual, la atención y el movimiento dirigido.
+variantes: >
+  Prueba con distintos objetos brillantes, como una cuchara de metal, y compara qué reflejos
+  produce cada uno.
+seguridad: >
+  Nunca dirijas el reflejo hacia los ojos del bebé. Mantén el espejo en tus manos y, si es de
+  vidrio, no se lo entregues; supervisa en todo momento.
+imagen: "0a2-17.png"

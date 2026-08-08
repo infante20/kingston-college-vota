@@ -1,0 +1,41 @@
+id: "9a12-16"
+orden: 16
+edad: "9-12"
+tipo: experimento
+titulo: "Vinegar and Baking Soda Rocket"
+gancho: "Launch a rocket into the air using only a chemical reaction and a lot of pressure."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "A small plastic bottle with a press-on cap (like a medicine bottle or a sports drink bottle)"
+  - "A cork that fits snugly in the bottle's mouth"
+  - "Vinegar"
+  - "Baking soda"
+  - "A piece of paper towel"
+  - "Three pencils to use as legs (with tape)"
+  - "Tape"
+  - "Notebook and ballpoint pen for recording"
+preparacion: >
+  This activity is done outdoors, in a yard or open space, away from people, windows, and cars.
+  Build the rocket by taping three pencils to the sides of the bottle so it can stand upside
+  down, with the cork facing the ground. Check that the cork seals the mouth with a little pressure.
+pasos:
+  - "Write your hypothesis: how high do you think the rocket will go, and how many seconds until it launches?"
+  - "Put some vinegar in the bottle, filling about a third of it."
+  - "Wrap two spoonfuls of baking soda in a piece of paper towel, forming a packet that fits through the mouth."
+  - "Drop the packet into the bottle, cap it quickly with the cork, set the rocket upside down on its legs, and step several paces back."
+  - "Watch the reaction: gas forms, pressure builds, and the cork shoots out, launching the rocket. Time how long it took."
+  - "Repeat, changing one variable (more baking soda or more vinegar), measure again, and write your conclusion about which amount worked best."
+aprendizaje: >
+  The vinegar and baking soda react and produce carbon dioxide. The gas raises the pressure
+  inside the bottle until the cork gives way and pushes the rocket upward. It's an example of
+  the principle of action and reaction, the same one that powers real rockets.
+variantes: >
+  Decorate your rocket with cardboard fins and record whether it flies straighter. Compare how
+  high it goes with different ingredient ratios and make a simple graph of your measurements.
+seguridad: >
+  Always do it outdoors and with an adult. Never point the cork toward people, animals, or
+  windows. Step back as soon as you put the cork in, because it can shoot out with force. Wear
+  safety goggles if you have them.
+imagen: "9a12-16.png"

@@ -1,0 +1,32 @@
+id: "0a2-15"
+orden: 15
+edad: "0-2"
+tipo: experimento
+titulo: "Disappearing Ice"
+gancho: "A big ice cube that turns to water in the baby's warm hands, cold that slips away."
+duracion: "5-10 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A large ice cube (from a big mold, never a small one)"
+  - "A tray or shallow bowl"
+  - "A small towel"
+preparacion: >
+  Make a large ice cube ahead of time using a wide mold or a cup, so it's far too big
+  to fit whole into the baby's mouth. Have it ready in the freezer.
+pasos:
+  - "Sit the baby down and place the tray with the ice within reach, with the towel nearby."
+  - "Touch the ice first yourself and say \"brrr, so cold!\" with a little gesture of surprise."
+  - "Guide the baby's hand to touch the ice for just a moment and watch their reaction."
+  - "Show them how the ice leaves water behind and gets smaller as time passes."
+  - "Dry their hands with the towel if they feel too cold, and let them watch it melt."
+aprendizaje: >
+  Discovers cold, a brand-new temperature, and witnesses a change of state: solid
+  becoming liquid. Works touch, attention, and the idea of transformation.
+variantes: >
+  Freeze a leaf or a large, visible piece of fruit inside the ice so the baby can watch
+  it appear as the ice melts.
+seguridad: >
+  Don't let the ice stay in contact with skin for more than a few seconds to avoid
+  cold burns. Always use large ice to prevent choking and supervise closely.
+imagen: "0a2-15.png"

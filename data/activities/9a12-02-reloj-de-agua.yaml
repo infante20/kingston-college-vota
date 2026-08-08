@@ -1,0 +1,37 @@
+id: "9a12-02"
+orden: 2
+edad: "9-12"
+tipo: experimento
+titulo: "Reloj de agua casero"
+gancho: "Mide el tiempo como en la antigüedad, solo con agua y gravedad."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Dos botellas de plástico iguales (o una botella y un vaso transparente)"
+  - "Un chinche o un clavo fino"
+  - "Cinta adhesiva"
+  - "Agua"
+  - "Plumón permanente"
+  - "Un reloj o cronómetro para calibrar"
+preparacion: >
+  Lava bien las botellas y quítales las etiquetas. Pide a un adulto que ayude a hacer el
+  agujero. Ten a mano el reloj para calibrar tu invento al final.
+pasos:
+  - "Haz un agujero pequeño en el centro de la tapa de una botella usando el chinche. Cuanto más pequeño, más lento caerá el agua."
+  - "Llena esa botella de agua y enrosca la tapa perforada. Colócala boca abajo sobre la segunda botella vacía y une los cuellos con cinta."
+  - "Dale la vuelta para que el agua empiece a gotear hacia la botella de abajo. Observa el chorro."
+  - "Con el reloj al lado, marca con el plumón el nivel del agua cada minuto en la botella que se llena."
+  - "Cuando tengas las marcas, vacía y repite: ahora intenta adivinar el tiempo mirando solo tu reloj de agua, sin el reloj normal."
+  - "Reflexiona: ¿gotea siempre a la misma velocidad? Investiga por qué se ralentiza cuando queda menos agua arriba."
+aprendizaje: >
+  Explora la presión del agua y la medición del tiempo antes de los relojes mecánicos. Al
+  calibrar tus propias marcas practicas la precisión, la observación y la idea de que la
+  presión disminuye cuando baja el nivel del agua.
+variantes: >
+  Construye varios relojes con agujeros de distinto tamaño y compáralos. Reta a alguien a
+  adivinar cuándo han pasado exactamente 3 minutos usando solo tu reloj.
+seguridad: >
+  Pide ayuda de un adulto para perforar la tapa con el chinche o el clavo, ya que la
+  punta puede resbalar y pinchar.
+imagen: "9a12-02.png"

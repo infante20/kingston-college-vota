@@ -1,0 +1,38 @@
+id: "9a12-21"
+orden: 21
+edad: "9-12"
+tipo: naturaleza
+titulo: "Nature and Bird Journal"
+gancho: "Become an explorer and record the birds and plants in your neighborhood like a field scientist."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A notebook for your field journal"
+  - "Ballpoint pen and colored pencils"
+  - "Binoculars if you have them (optional)"
+  - "A magnifying glass"
+  - "A watch to note the time"
+  - "Comfortable clothes and water"
+preparacion: >
+  Choose an outdoor spot to observe: a park, a plaza, a yard, or the walk to school. Set up
+  your journal by writing the date, time, and place on the first page. If you go somewhere
+  new, always go with an adult.
+pasos:
+  - "Before heading out, write a question to investigate: for example, which birds show up earliest in the morning?"
+  - "Find a quiet spot, stay silent for a few minutes, and calmly observe your surroundings."
+  - "Note and draw the birds you see: their size, colors, what they were doing, and at what time. Use the magnifying glass to look at leaves, insects, or seeds."
+  - "Also record the weather, the plants, and any animal tracks you find."
+  - "If you can, return to the same spot another day at the same time and compare what changed."
+  - "At the end, review your records and write a conclusion that answers your original question."
+aprendizaje: >
+  You learn to observe closely, record data in the field, and compare observations over time,
+  which is what biologists do. You also get to know the nature of your own neighborhood better
+  and develop patience and respect for living things.
+variantes: >
+  Make a list of the birds you manage to identify and name them with help from a book or an
+  adult. With your team, compare your journals and make a map of where you saw each species.
+seguridad: >
+  Always go out with an adult and don't wander off alone. Watch the animals from a distance,
+  without touching or chasing them. Don't eat any plants or berries you find.
+imagen: "9a12-21.png"

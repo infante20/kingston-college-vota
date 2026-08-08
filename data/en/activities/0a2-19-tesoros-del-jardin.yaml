@@ -1,0 +1,32 @@
+id: "0a2-19"
+orden: 19
+edad: "0-2"
+tipo: naturaleza
+titulo: "Backyard Treasures"
+gancho: "A slow stroll through the grass to touch leaves, feel the breeze, and discover the natural world with every sense."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A blanket for the ground"
+  - "A backyard, a park, or a flower pot with plants"
+  - "Comfortable clothes for the weather"
+preparacion: >
+  Choose a safe outdoor spot in the shade. Check the area first and clear away small
+  stones, litter, or plants the baby might put in their mouth.
+pasos:
+  - "Spread the blanket on the grass and sit or lay the baby on top."
+  - "Carefully bring a big leaf or a flower close so they can touch it and look at it."
+  - "Name what they discover: \"this is a leaf, it's soft,\" \"listen to the wind!\""
+  - "Let them feel the grass under their bare hands or feet if the weather allows."
+  - "Stay by their side, watching the birds and taking in the sounds of the place together."
+aprendizaje: >
+  Connects the baby with nature and multiplies their sensory experiences: textures,
+  smells, sounds, and temperature. Encourages calm, curiosity, and attention.
+variantes: >
+  Gather a few large, safe leaves in a basket yourself so the baby can explore them
+  sitting on the blanket without wandering off.
+seguridad: >
+  Watch that they don't put dirt, leaves, flowers, or small stones in their mouth,
+  since they could choke or the plants could be toxic. Use sunscreen and shade.
+imagen: "0a2-19.png"

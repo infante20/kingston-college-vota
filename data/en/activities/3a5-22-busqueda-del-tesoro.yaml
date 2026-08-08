@@ -1,0 +1,33 @@
+id: "3a5-22"
+orden: 22
+edad: "3-5"
+tipo: juego
+titulo: "The At-Home Treasure Hunt"
+gancho: "Follow clues all around the house until you find a hidden treasure at the end of the trail."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Simple objects to hide as clues (toys, drawings)"
+  - "A final treasure (a yummy piece of fruit, a sticker, a giant hug)"
+  - "A basket to hold what they find"
+preparacion: >
+  Before you start, hide several objects or drawings around the house as clues: each one points
+  to where the next one is. Leave the treasure in the last hiding spot, for example in the
+  living room.
+pasos:
+  - "Tell your little one there's a hidden treasure and hand them the first clue."
+  - "Give clues in simple words: 'look near the fridge' or 'check under the pillow.'"
+  - "Go along as they search for each object and celebrate every find together."
+  - "Follow the clues one after another all around the house."
+  - "When they find the final treasure, cheer the victory with a round of applause."
+aprendizaje: >
+  Builds attention, memory, and the ability to follow directions. Searching and following clues
+  encourages language, a sense of space, and perseverance.
+variantes: >
+  Make picture clues so your little one can read them on their own. Hide the treasure in the
+  yard for an outdoor version.
+seguridad: >
+  Hide the clues in safe spots, with no climbing on chairs or reaching into high drawers. Stay
+  with your little one for the whole hunt.
+imagen: "3a5-22.png"

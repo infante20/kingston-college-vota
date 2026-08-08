@@ -1,0 +1,34 @@
+id: "3a5-12"
+orden: 12
+edad: "3-5"
+tipo: naturaleza
+titulo: "Backyard Bug Safari"
+gancho: "Head out as explorers with a cardboard magnifying glass to discover the little bugs living near home."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A clear cup or jar for observing (no closed lid)"
+  - "Cardboard to make a toy magnifying glass"
+  - "Scissors (for the grown-up)"
+  - "Paper and pencils to draw what you find"
+preparacion: >
+  The grown-up cuts a magnifying glass shape out of cardboard for pretend exploring. Pick a
+  spot with dirt, plants, or flower pots, in the yard, the park, or on the balcony. Bring the
+  cup and the paper.
+pasos:
+  - "Walk slowly, checking the ground, leaves, and cracks with the cardboard magnifying glass."
+  - "When you spot a bug, watch it calmly without touching it: an ant, a ladybug, a snail."
+  - "If you want a closer look, cover it with the cup for a moment and then set it free."
+  - "Count how many legs it has, what color it is, and where it's headed."
+  - "Back home, draw the favorite bug from the outing and give it a name."
+aprendizaje: >
+  Sparks curiosity about living things and respect for nature. Watching and describing bugs
+  builds attention, language, and first ideas about animals.
+variantes: >
+  Make a list of the bugs you found and look for them on another outing. Observe plants, rocks,
+  or clouds too, to widen the exploration.
+seguridad: >
+  The grown-up handles the scissors. Don't touch bugs that sting or plants with thorns; observe
+  without harming them and always put them back where they were. Wash hands when you're done.
+imagen: "3a5-12.png"

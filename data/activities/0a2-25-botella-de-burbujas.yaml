@@ -1,0 +1,36 @@
+id: "0a2-25"
+orden: 25
+edad: "0-2"
+tipo: experimento
+titulo: "Botella de burbujas"
+gancho: "Una botella con agua y un poco de aire que, al moverla, se llena de burbujas que suben solas hacia arriba."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Una botella de plástico transparente pequeña con tapa que cierre firme"
+  - "Agua de la llave"
+  - "Un chorrito de jabón lavavajillas o champú suave"
+  - "Cinta adhesiva fuerte para sellar la tapa"
+preparacion: >
+  Llena la botella con agua hasta unos tres dedos del borde, agrega un chorrito pequeño de
+  jabón y deja aire dentro. Cierra muy bien la tapa y sella el contorno con cinta para que no
+  se abra ni se derrame.
+pasos:
+  - "Sienta al bebé contigo y muéstrale la botella quieta y transparente."
+  - "Agítala despacio y deja que vea cómo aparecen muchas burbujas dentro del agua."
+  - "Detente y observen juntos cómo las burbujas suben solas hasta arriba y desaparecen."
+  - "Dale la botella al bebé para que la mueva y descubra que él también hace burbujas."
+  - "Acompaña con palabras: «¡muchas burbujas!», «mira, suben», «ahora se fueron»."
+aprendizaje: >
+  Descubre la causa y efecto: cuando agita la botella, el aire y el jabón forman burbujas que
+  luego suben solas. Trabaja el seguimiento visual, la atención y la idea de que sus acciones
+  producen cambios.
+variantes: >
+  Prepara otra botella con agua tibia de la llave para que note la temperatura, o agrega unas
+  gotas de colorante de comida para que las burbujas se vean de color.
+seguridad: >
+  Sella muy bien la tapa con cinta para que el bebé no pueda abrirla ni beber el agua con
+  jabón. Usa una botella grande sin piezas pequeñas que se suelten para evitar atragantamiento
+  y acompáñalo durante todo el juego.
+imagen: "0a2-25.png"

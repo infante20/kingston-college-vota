@@ -1,0 +1,30 @@
+id: "3a5-06"
+orden: 6
+edad: "3-5"
+tipo: recreativa
+titulo: "Bolos con botellas"
+gancho: "Una bolera casera con botellas para derribar lanzando una pelota de calcetines."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Seis botellas de plástico vacías"
+  - "Un par de calcetines (para hacer la pelota)"
+  - "Agua o un poco de arena para dar peso a las botellas (opcional)"
+  - "Cinta adhesiva para marcar la línea de lanzamiento (opcional)"
+preparacion: >
+  Reúne seis botellas iguales. Si quieres que se mantengan mejor en pie, ponles un dedo de agua
+  o de arena. Haz una pelota metiendo un calcetín dentro de otro y formando una bola blanda.
+pasos:
+  - "Coloquen las botellas juntas formando un triángulo, como en una bolera."
+  - "Marquen con cinta o un cojín la línea desde donde se lanza."
+  - "Por turnos, lancen la pelota de calcetines rodando para derribar botellas."
+  - "Cuenten juntos cuántas cayeron en cada tiro."
+  - "Vuelvan a colocar los bolos y jueguen varias rondas turnándose."
+aprendizaje: >
+  Mejora la puntería, la coordinación ojo-mano y la fuerza al lanzar. Contar los bolos derribados
+  practica los números y esperar el turno enseña paciencia.
+variantes: >
+  Pinten o numeren las botellas y sumen los puntos de las que caigan. Alejen la línea poco a poco
+  para que el reto crezca con la habilidad del peque.
+imagen: "3a5-06.png"

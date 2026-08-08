@@ -1,0 +1,33 @@
+id: "0a2-20"
+orden: 20
+edad: "0-2"
+tipo: naturaleza
+titulo: "Sembrar una semilla"
+gancho: "Llenar un macetero con tierra y poner una semilla para esperar juntos a que la planta despierte."
+duracion: "10-15 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Un macetero pequeño o un vaso grande"
+  - "Tierra para macetas"
+  - "Una semilla grande de rápido crecimiento (poroto o palta)"
+  - "Un poco de agua en un balde pequeño"
+preparacion: >
+  Ten lista la tierra, el macetero y la semilla en una bandeja sobre una superficie fácil de
+  limpiar. Trabaja al aire libre o en un lugar donde el desorden no sea problema.
+pasos:
+  - "Sienta al bebé contigo y deja que toque la tierra con sus manos mientras la pones en el macetero."
+  - "Guía su mano para hacer un hoyo pequeño y poner la semilla dentro."
+  - "Cúbranla juntos con un poco de tierra y nombra lo que hacen."
+  - "Ayúdalo a echar agua con cuidado y pongan el macetero junto a una ventana con luz."
+  - "Vuelvan cada día a mirarla y regarla para ver, con el tiempo, cómo brota."
+aprendizaje: >
+  Introduce la idea de que las plantas nacen y crecen, y la noción de cuidado y espera. El
+  contacto con la tierra es una rica experiencia sensorial y un vínculo con la naturaleza.
+variantes: >
+  Siembra dos semillas y deja una junto a la ventana y otra en un rincón oscuro para observar
+  juntos, con el tiempo, cuál crece mejor.
+seguridad: >
+  Vigila que el bebé no se lleve a la boca tierra ni la semilla, porque puede atragantarse.
+  Lávale bien las manos al terminar y supervisa de cerca todo el rato.
+imagen: "0a2-20.png"

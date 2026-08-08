@@ -1,0 +1,39 @@
+id: "9a12-19"
+orden: 19
+edad: "9-12"
+tipo: experimento
+titulo: "El péndulo y su ritmo secreto"
+gancho: "Descubre qué hace que un péndulo vaya más rápido o más lento, como un detective de la física."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Hilo o lana resistente"
+  - "Una tuerca, una llave vieja o un objeto pequeño con peso"
+  - "Una regla o huincha de medir"
+  - "Un reloj o cronómetro (puede ser de un adulto)"
+  - "Una silla o el borde de una mesa para colgar el péndulo"
+  - "Cinta adhesiva"
+  - "Cuaderno y lápiz pasta para registrar"
+preparacion: >
+  Busca un lugar donde puedas colgar un hilo y que el peso oscile libre sin chocar con nada. Ata el objeto
+  con peso a un extremo del hilo. Prepara una tabla en tu cuaderno con columnas para el largo del hilo y el
+  tiempo de las oscilaciones.
+pasos:
+  - "Escribe tu hipótesis: ¿qué hará que el péndulo vaya más rápido, un hilo más corto o un peso más grande?"
+  - "Cuelga el péndulo con un largo de hilo conocido (por ejemplo 30 cm) y mídelo con la regla."
+  - "Suelta el peso desde un costado y cuenta cuántas oscilaciones completas hace en 15 segundos. Anótalo."
+  - "Cambia solo el largo del hilo (hazlo más corto o más largo) y repite la cuenta de oscilaciones en 15 segundos."
+  - "Ahora deja el mismo largo pero cambia el peso, y vuelve a contar. Registra todo en tu tabla."
+  - "Compara tus datos y escribe tu conclusión: ¿qué cambió el ritmo del péndulo, el largo o el peso?"
+aprendizaje: >
+  El tiempo que tarda un péndulo en ir y volver depende del largo del hilo, no del peso. Un hilo más corto
+  oscila más rápido. Aprendes a aislar variables, a medir con cuidado y a sacar conclusiones a partir de
+  datos, igual que Galileo cuando estudió los péndulos.
+variantes: >
+  Construye dos péndulos de distinto largo y obsérvalos oscilar juntos para ver cómo se desincronizan.
+  Usa tu péndulo como cronómetro: ajusta el hilo para que cada oscilación dure casi un segundo.
+seguridad: >
+  Asegúrate de que el péndulo no golpee a nadie ni objetos frágiles al balancearse. Cuelga el hilo de un
+  apoyo firme.
+imagen: "9a12-19.png"

@@ -1,0 +1,34 @@
+id: "3a5-10"
+orden: 10
+edad: "3-5"
+tipo: arte
+titulo: "Sellos de papa y verduras"
+gancho: "Estampar figuras una y otra vez con sellos hechos de papas, corchos y verduras."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Una papa, una zanahoria o un trozo de apio"
+  - "Témpera o pintura casera (agua, harina y colorante)"
+  - "Un plato para la pintura"
+  - "Hojas de papel"
+  - "Cuchillo (solo para el adulto)"
+preparacion: >
+  El adulto corta la papa por la mitad y, si quiere, talla una forma sencilla en la superficie
+  (un corazón, una estrella). Pon un poco de pintura en el plato y prepara las hojas de papel.
+pasos:
+  - "Muéstrale cómo mojar el sello en la pintura del plato."
+  - "Que apoye el sello sobre el papel y lo levante con cuidado para ver la figura."
+  - "Repitan con distintos sellos y colores para llenar la hoja de estampas."
+  - "Animen a combinar formas y colores libremente, sin buscar un dibujo perfecto."
+  - "Dejen secar la obra y cuélguenla donde el peque pueda verla."
+aprendizaje: >
+  Desarrolla la motricidad fina y la coordinación al presionar y levantar. Estampar invita a
+  experimentar con patrones, colores y ritmo, valorando la creación libre.
+variantes: >
+  Usen corchos, tapas o piezas con relieve como sellos. Estampen una secuencia repetida para
+  decorar una tarjeta o papel de regalo casero.
+seguridad: >
+  Solo el adulto corta o talla las verduras con el cuchillo. Usa pintura no tóxica y supervisa
+  para que el peque no se la lleve a la boca; protejan la mesa y la ropa.
+imagen: "3a5-10.png"

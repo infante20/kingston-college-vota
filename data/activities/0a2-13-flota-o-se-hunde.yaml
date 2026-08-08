@@ -1,0 +1,33 @@
+id: "0a2-13"
+orden: 13
+edad: "0-2"
+tipo: experimento
+titulo: "¿Flota o se hunde?"
+gancho: "Un balde con agua y objetos del hogar para descubrir cuáles se quedan arriba y cuáles caen al fondo."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un balde o recipiente grande transparente con agua"
+  - "Objetos seguros y grandes que floten (esponja, pelota de plástico, tapa de olla de plástico)"
+  - "Objetos seguros y grandes que se hundan (cuchara de metal, taza de loza pequeña)"
+  - "Una toalla para el suelo"
+preparacion: >
+  Llena el balde con agua tibia hasta la mitad y ponlo sobre una toalla en el piso. Reúne
+  unos pocos objetos grandes y seguros, lavados, que no quepan enteros en la boca del bebé.
+pasos:
+  - "Sienta al bebé frente al balde, en un lugar donde se pueda mojar sin problema."
+  - "Toma un objeto y déjalo caer al agua mientras dices «¡mira, flota!» o «¡se hundió!»."
+  - "Ofrécele un objeto al bebé y deja que sea él quien lo suelte y observe qué pasa."
+  - "Nombra cada vez lo que ocurre y celebra su sorpresa: «¡la cuchara se fue al fondo!»."
+  - "Deja que repita con los mismos objetos las veces que quiera; la repetición es parte del aprendizaje."
+aprendizaje: >
+  Introduce la relación causa-efecto y las primeras nociones de peso y materiales. El bebé
+  predice, comprueba y se asombra, base del pensamiento científico.
+variantes: >
+  Agrega un objeto frío sacado del refrigerador para sumar la sensación de temperatura, o
+  usa un solo tipo de objeto para que note el patrón.
+seguridad: >
+  Nunca dejes al bebé solo cerca del agua, ni siquiera un instante. Usa solo objetos grandes
+  para evitar atragantamiento y mantén el piso seco alrededor para que no resbale.
+imagen: "0a2-13.png"

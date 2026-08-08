@@ -1,0 +1,35 @@
+id: "3a5-01"
+orden: 1
+edad: "3-5"
+tipo: experimento
+titulo: "El volcán de bicarbonato"
+gancho: "Un volcán casero que entra en erupción con espuma de colores ante los ojos del peque."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Un vaso o botella pequeña"
+  - "Bicarbonato (2 o 3 cucharadas)"
+  - "Vinagre (medio vaso)"
+  - "Colorante o unas gotas de jugo de betarraga"
+  - "Una bandeja honda o plato grande para contener el desborde"
+preparacion: >
+  Coloca el vaso en el centro de la bandeja para recoger la espuma. Pon a mano el bicarbonato,
+  el vinagre y el colorante. Si quieres, modela una montaña alrededor del vaso con plastilina o
+  papel de aluminio arrugado para que parezca un volcán de verdad.
+pasos:
+  - "Pide al peque que ponga dos o tres cucharadas de bicarbonato dentro del vaso."
+  - "Añadan juntos unas gotas de colorante o de jugo sobre el bicarbonato."
+  - "Cuenten en voz alta «tres, dos, uno» y dejen que el peque vierta el vinagre de golpe."
+  - "Observen cómo sube la espuma burbujeante y se desborda como lava."
+  - "Cuando baje, ofrezcan más vinagre para repetir la erupción tantas veces como quieran."
+aprendizaje: >
+  Introduce la idea de que al mezclar dos cosas puede pasar algo nuevo. Estimula la observación,
+  la anticipación y el vocabulario científico de forma divertida.
+variantes: >
+  Prueben con vinagre tibio y frío para ver si la espuma cambia. Usen varios vasos con colores
+  distintos para tener varias erupciones a la vez.
+seguridad: >
+  El vinagre puede molestar si toca los ojos: supervisa la mezcla y evita que el peque se lleve
+  las manos a la cara. No es para beber. Hagan la actividad sobre una superficie fácil de limpiar.
+imagen: "3a5-01.png"

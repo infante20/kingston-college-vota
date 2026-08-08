@@ -1,0 +1,29 @@
+id: "0a2-06"
+orden: 6
+edad: "0-2"
+tipo: emocional
+titulo: "¿Dónde está mamá? ¡Cucú-tras!"
+gancho: "El clásico juego de esconderse y aparecer que enseña que lo que no se ve sigue ahí."
+duracion: "5-10 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un pañuelo, una tela fina o tus propias manos"
+preparacion: >
+  No necesitas preparación. Solo elige un momento en que el bebé esté tranquilo y atento, y
+  ponte frente a él a la altura de sus ojos.
+pasos:
+  - "Tápate la cara con las manos o con un pañuelo y pregunta: «¿dónde está mamá?»."
+  - "Espera un instante y descúbrete de golpe diciendo «¡cucú-tras!» con una gran sonrisa."
+  - "Repite el juego con tu ritmo, alargando la pausa para crear expectación."
+  - "Cuando ya lo conozca, tapa al bebé con la tela y deja que sea él quien aparezca."
+aprendizaje: >
+  Enseña la permanencia del objeto: aunque algo desaparezca, sigue existiendo. Refuerza el
+  vínculo, la confianza y la regulación emocional ante la ausencia.
+variantes: >
+  Esconde un juguete bajo la tela y pregúntale dónde está, para que lo busque y lo destape
+  él mismo.
+seguridad: >
+  Usa telas finas y nunca cubras del todo la cara del bebé. Mantente siempre frente a él y
+  supervisa para que el pañuelo no tape la nariz ni la boca.
+imagen: "0a2-06.png"

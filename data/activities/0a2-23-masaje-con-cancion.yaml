@@ -1,0 +1,32 @@
+id: "0a2-23"
+orden: 23
+edad: "0-2"
+tipo: emocional
+titulo: "Masaje con canción"
+gancho: "Caricias suaves al ritmo de una canción para que el bebé se relaje y sienta tu cariño en la piel."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Una manta o toalla suave"
+  - "Un poco de aceite o crema apta para bebés (opcional)"
+  - "Un lugar tibio y tranquilo"
+preparacion: >
+  Elige un momento en que el bebé esté tranquilo y despierto, ni con hambre ni con sueño.
+  Calienta la habitación, lávate las manos y entibia un poco de crema entre tus palmas.
+pasos:
+  - "Recuesta al bebé boca arriba sobre la manta, frente a ti."
+  - "Empieza por las piernas con caricias suaves y lentas, siempre mirándolo."
+  - "Acompaña cada movimiento con una canción tranquila o tu voz suave."
+  - "Sigue por los brazos, las manos y la pancita con movimientos delicados."
+  - "Detente si el bebé gira la cara o se inquieta; respeta sus señales."
+aprendizaje: >
+  Fortalece el vínculo, la confianza y la regulación emocional a través del contacto. El
+  masaje favorece la calma, mejora el sueño y la conciencia del propio cuerpo.
+variantes: >
+  Usa siempre la misma canción para crear una rutina que el bebé asocie con la calma antes de
+  dormir.
+seguridad: >
+  Prueba la crema antes en una zona pequeña por si hay alergia y evita los ojos. No masajees
+  si el bebé está enfermo o recién comió, y nunca lo dejes solo sobre una superficie alta.
+imagen: "0a2-23.png"

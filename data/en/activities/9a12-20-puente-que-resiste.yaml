@@ -1,0 +1,39 @@
+id: "9a12-20"
+orden: 20
+edad: "9-12"
+tipo: experimento
+titulo: "The Bridge That Holds the Most Weight"
+gancho: "Put on your engineer's hard hat and build a paper bridge that holds as much weight as possible."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Several sheets of paper or poster board"
+  - "Tape"
+  - "Two books or boxes of the same height to use as supports"
+  - "A cup or small bucket to hang weight from"
+  - "Coins, nuts, or pebbles to add as weight"
+  - "A ruler"
+  - "Notebook and ballpoint pen for recording"
+preparacion: >
+  Separate the two books or boxes by a fixed distance (for example 8 inches) so your bridge
+  always spans the same gap. Prepare a table in your notebook to note the bridge design and
+  how much weight it held.
+pasos:
+  - "Write your hypothesis: which paper shape do you think will hold the most weight, a flat sheet, one folded like an accordion, or a tube?"
+  - "Build a first bridge by resting a flat sheet between the two books and test how much weight it holds before it gives way. Note it down."
+  - "Design a second bridge by folding the paper into an accordion or rolling it into tubes, and span it between the supports."
+  - "Add weight little by little on the center of the bridge and count how much it holds before it bends or falls. Record the result."
+  - "Test at least one more design, changing only one thing at a time (more folds, more layers, columns underneath)."
+  - "Compare all the designs and write your conclusion about which structure was the strongest and why."
+aprendizaje: >
+  The shape of a material changes its strength a lot: folded or rolled paper holds much more
+  than flat because it distributes forces better. You practice engineering design: test,
+  measure, improve, and test again, comparing one variable at a time.
+variantes: >
+  Hold a team competition to see whose bridge holds the most with the same amount of paper.
+  Research real bridge shapes (arches, triangles) and try to copy them with your paper.
+seguridad: >
+  Use the tape and scissors carefully. Stack the weight steadily so it doesn't fall on your
+  feet.
+imagen: "9a12-20.png"

@@ -1,0 +1,153 @@
+# =========================================================================
+#  Tiempo de Calidad — metadatos y textos del libro
+#  Edita libremente este archivo: título, autor, trim size, introducciones.
+# =========================================================================
+
+meta:
+  titulo: "Tiempo de Calidad"
+  subtitulo: "+100 actividades y experimentos sin pantallas para niños de 0 a 12 años"
+  autor: ""
+  idioma: "es"
+  anio: 2026
+  editorial: "Edición independiente · Kindle Direct Publishing"
+  # Tamaño de página para KDP (tapa blanda). 8.5 x 11 in = formato workbook.
+  trim_width_in: 8.5
+  trim_height_in: 11
+  isbn: ""   # opcional
+
+# ---- Paleta (estilo "Esperanza Natural") ----
+palette:
+  verde: "#2E7D5B"
+  azul: "#3E6E94"
+  coral: "#E8744F"
+  ambar: "#F2A03D"
+  crema: "#FBF7F0"
+  tinta: "#33312E"
+  gris: "#7C7873"
+
+# ---- Tipos de actividad (etiqueta + color + icono) ----
+tipos:
+  experimento:  { label: "Experimento",          color: "#3E6E94", icon: "experimento" }
+  sensorial:    { label: "Sensorial",            color: "#7E57A6", icon: "sensorial" }
+  recreativa:   { label: "Recreativa / Motriz",  color: "#E8744F", icon: "recreativa" }
+  juego:        { label: "Juego",                color: "#2E7D5B", icon: "juego" }
+  emocional:    { label: "Conexión emocional",   color: "#D24D6E", icon: "emocional" }
+  arte:         { label: "Arte y manualidades",  color: "#F2A03D", icon: "arte" }
+  naturaleza:   { label: "Naturaleza",           color: "#5B9E4A", icon: "naturaleza" }
+
+# ---- Rangos de edad (orden y textos de apertura de capítulo) ----
+edades:
+  - rango: "0-2"
+    titulo: "0 a 2 años"
+    lema: "Descubrir el mundo con los sentidos"
+    intro: >
+      En los primeros dos años el cerebro crece más rápido que en cualquier otra
+      etapa de la vida. El bebé aprende tocando, mirando, escuchando y, sobre todo,
+      sintiéndose acompañado. No necesita pantallas: necesita tu voz, tu rostro y
+      tus manos. Las actividades de esta sección son cortas, seguras y pensadas para
+      compartir piel con piel. Sigue el ritmo de tu hijo o hija: si se cansa o se
+      distrae, haz una pausa. Lo importante no es "terminar", sino estar presentes.
+
+  - rango: "3-5"
+    titulo: "3 a 5 años"
+    lema: "Jugar es aprender"
+    intro: >
+      A esta edad la imaginación se dispara y todo se convierte en juego. Quieren
+      tocar, mezclar, construir y preguntar "¿por qué?" sin parar. Aprovecha esa
+      curiosidad con experimentos sencillos, juegos de roles y actividades sensoriales.
+      Dales tiempo para explorar a su manera y celebra los intentos más que los
+      resultados. Una caja de cartón puede ser una nave espacial: tú solo necesitas
+      acompañar la aventura.
+
+  - rango: "6-8"
+    titulo: "6 a 8 años"
+    lema: "Crear, construir y descubrir"
+    intro: >
+      Ya leen, cuentan y siguen instrucciones de varios pasos. Disfrutan de los retos,
+      de los proyectos que dejan un resultado y de las reglas de los juegos. Es una
+      edad ideal para experimentos más elaborados, manualidades y juegos de mesa
+      caseros. Déjales tomar decisiones y resolver problemas: equivocarse también es
+      aprender. Tu papel es el de guía y compañero de equipo.
+
+  - rango: "9-12"
+    titulo: "9 a 12 años"
+    lema: "Pensar en grande y trabajar en equipo"
+    intro: >
+      En la antesala de la adolescencia buscan autonomía, sentido y desafíos reales.
+      Les motiva crear algo útil, investigar, debatir y colaborar. Las actividades de
+      esta sección los invitan a pensar de forma crítica, a expresar emociones más
+      complejas y a liderar proyectos. Confía en sus capacidades, dales responsabilidades
+      y conversen: a esta edad, el tiempo de calidad también es escuchar.
+
+# ---- Leyenda de iconos (preliminares) ----
+leyenda:
+  preparacion:
+    titulo: "Preparación previa"
+    niveles:
+      - "Baja — lista para empezar al instante"
+      - "Media — necesita 5 a 15 minutos de preparación"
+      - "Alta — requiere más de 15 minutos o preparar con antelación"
+  materiales:
+    titulo: "Materiales"
+    niveles:
+      - "Mínimos — 1 a 3 cosas que ya tienes en casa"
+      - "Pocos — 4 a 6 materiales sencillos"
+      - "Varios — 7 o más materiales del hogar"
+  duracion:
+    titulo: "Duración"
+    texto: "Tiempo aproximado de la actividad, indicado con el reloj. Ajústalo al ritmo de tu hijo o hija."
+
+# ---- Textos de portada / introducción / cierre ----
+textos:
+  intro_titulo: "Menos pantallas, más momentos"
+  introduccion: >
+    Vivimos rodeados de pantallas. Son útiles, pero cuando ocupan el lugar del juego,
+    de la conversación y del aburrimiento creativo, los niños pierden algo valioso:
+    la oportunidad de descubrir el mundo con sus propias manos y de sentirse acompañados.
+    \n\n
+    Este libro nace de una idea sencilla: el mejor "contenido" para un niño eres tú.
+    No hace falta gastar dinero ni ser un experto. Con materiales que ya tienes en casa
+    —cartón, agua, harina, lápices, una sábana— puedes crear recuerdos que ninguna app
+    podrá igualar.
+    \n\n
+    Encontrarás más de 100 actividades organizadas por edad y por tipo: experimentos,
+    juegos sensoriales, actividades recreativas, juegos de mesa caseros, propuestas de
+    conexión emocional, arte y naturaleza. Cada una indica con claridad cuánta preparación
+    necesita, qué materiales usarás y cuánto dura, para que elijas según el tiempo y la
+    energía que tengas hoy.
+  como_usar:
+    titulo: "Cómo usar este libro"
+    puntos:
+      - "Busca el capítulo de la edad de tu hijo o hija. Las actividades de edades cercanas también pueden adaptarse."
+      - "Mira los iconos de cada actividad: te dicen de un vistazo cuánta preparación necesita, qué materiales usarás y cuánto dura."
+      - "No hace falta seguir un orden. Elige según el tiempo y el ánimo del día."
+      - "Lee primero los pasos y revisa la nota de seguridad cuando aparezca."
+      - "Adapta, repite y mejora. Las mejores actividades son las que se vuelven tradición en casa."
+  cierre:
+    titulo: "Una última idea"
+    texto: >
+      No se trata de eliminar las pantallas por completo, sino de equilibrar. Cada rato
+      que juegan, exploran o ríen contigo es una semilla. Gracias por elegir estar
+      presente. Esos son los momentos que de verdad recordarán.
+
+  # ---- Página de seguridad y descargo de responsabilidad (preliminares) ----
+  seguridad:
+    titulo: "Antes de empezar: seguridad"
+    intro: >
+      Estas actividades están pensadas para disfrutar en familia, pero requieren la
+      supervisión de un adulto en todo momento. Lee esta página antes de comenzar y
+      adapta cada propuesta a la edad y las capacidades de tu hijo o hija.
+    puntos:
+      - "Supervisa siempre. Ninguna actividad debe realizarse sin un adulto presente, en especial con menores de 3 años."
+      - "Piezas pequeñas. Con bebés y niños pequeños, evita objetos que quepan por completo en la boca: hay riesgo de atragantamiento."
+      - "Calor y fuego. Las actividades con velas, fósforos o fuentes de calor las maneja siempre un adulto; mantén lejos cabello, ropa y papeles."
+      - "Imanes. Usa imanes grandes, nunca cerca de la boca; tragarlos es muy peligroso. Mantenlos lejos de aparatos electrónicos."
+      - "Electricidad. Usa solo pilas pequeñas y bajo supervisión; nunca enchufes ni la corriente de la red."
+      - "Alergias y materiales. Revisa posibles alergias (alimentos, látex, témperas) y prefiere materiales no tóxicos."
+      - "Agua. Mantén el agua lejos de enchufes y nunca dejes a un niño solo cerca del agua."
+      - "Limpieza. Lávense las manos al terminar, sobre todo después de los experimentos."
+    descargo: >
+      Aviso legal: la información de este libro se ofrece de buena fe, con fines educativos
+      y recreativos. El autor y la editorial no se responsabilizan por daños, lesiones o
+      pérdidas derivados de la realización de las actividades. Al usar este libro, aceptas
+      hacerlo bajo tu propia responsabilidad y con la debida supervisión de un adulto.

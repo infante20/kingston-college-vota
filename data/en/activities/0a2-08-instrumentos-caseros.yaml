@@ -1,0 +1,31 @@
+id: "0a2-08"
+orden: 8
+edad: "0-2"
+tipo: recreativa
+titulo: "Little Kitchen Band"
+gancho: "Pots, spoons, and jars turn into drums and maracas for making music together."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 2
+materiales:
+  - "Pots, pans, or plastic containers"
+  - "Wooden spoons"
+  - "A tightly sealed jar with a little rice or dried beans inside (maraca)"
+preparacion: >
+  Gather a few kitchen utensils and a homemade maraca made from a well-sealed jar.
+  Make sure the maraca can't be opened so the grains stay inside.
+pasos:
+  - "Sit the baby on the floor and arrange the utensils around them."
+  - "Show them how to gently tap a pot with the spoon and shake the maraca."
+  - "Sing a simple song and keep the beat together."
+  - "Let them experiment with the different sounds and volumes in their own way."
+aprendizaje: >
+  Develops a sense of rhythm, coordination, and cause and effect. Making music together
+  stimulates language and family fun.
+variantes: >
+  Alternate loud and soft moments, fast and slow, so they discover the contrast between
+  sounds.
+seguridad: >
+  Check that the maraca is perfectly sealed to prevent a choking hazard from the grains.
+  Use utensils without sharp edges and always supervise.
+imagen: "0a2-08.png"

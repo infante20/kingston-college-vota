@@ -1,0 +1,33 @@
+id: "3a5-04"
+orden: 4
+edad: "3-5"
+tipo: sensorial
+titulo: "The Mystery Box"
+gancho: "Reach in without peeking and guess what's hiding inside using only your sense of touch."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "A cardboard box with a lid or a fabric bag"
+  - "Scissors (for the grown-up)"
+  - "Everyday objects with different shapes and textures (spoon, sponge, ball, sock, clothespin)"
+  - "A sock or cloth to cover the hole (optional)"
+preparacion: >
+  The grown-up cuts a hole in one side of the box, just big enough for a hand to fit through.
+  Gather several safe, familiar objects. Put the objects inside without letting your little one see.
+pasos:
+  - "Ask your little one to reach through the hole without looking inside."
+  - "Encourage them to touch an object and describe what they feel: 'it's soft,' 'it's pointy,' 'it's round.'"
+  - "Have them guess what it is before pulling it out to see if they got it right."
+  - "Celebrate the right answers and the tries alike: what matters is exploring with their hands."
+  - "Switch roles and let your little one hide objects for the grown-up to guess."
+aprendizaje: >
+  Sharpens the sense of touch and the ability to describe things with words. It exercises memory,
+  imagination, and language by naming what they feel without seeing it.
+variantes: >
+  Group objects by theme: only kitchen things, only toys, only soft things. Put in two similar
+  objects and have them tell which is which by touch alone.
+seguridad: >
+  The grown-up uses the scissors and keeps small objects out of reach between turns. Avoid
+  pointy objects or anything that could hurt a hand inside the box.
+imagen: "3a5-04.png"

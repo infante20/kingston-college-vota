@@ -1,0 +1,46 @@
+name: Descargar imágenes de Higgsfield
+
+# Descarga las imágenes generadas en Higgsfield (URLs en assets/hf_urls.json)
+# desde un runner con internet y las commitea a la rama.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["claude/kdp-screentime-activities-ebook-TNDdN"]
+    paths:
+      - "assets/hf_urls.json"
+      - "scripts/fetch_hf_images.py"
+      - ".github/workflows/fetch-hf.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-hf-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    if: ${{ !contains(github.event.head_commit.message, '[img-bot]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet pillow
+      - run: python scripts/fetch_hf_images.py
+      - name: Commitear imágenes
+        run: |
+          if [ -n "$(git status --porcelain assets/images)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/images
+            git commit -m "Descargar imágenes regeneradas (Higgsfield/Recraft) [img-bot]"
+            git push origin "HEAD:${{ github.ref_name }}"
+            echo "Imágenes commiteadas."
+          else
+            echo "Sin cambios en assets/images."
+          fi

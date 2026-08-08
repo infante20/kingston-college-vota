@@ -1,0 +1,34 @@
+id: "6a8-03"
+orden: 3
+edad: "6-8"
+tipo: arte
+titulo: "Mandala de sal de colores"
+gancho: "Pinta la sal con tiza y crea un mosaico de colores que cabe en la palma de la mano."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Sal de mesa"
+  - "Tizas de colores"
+  - "Varios vasos o platos pequeños"
+  - "Una hoja de cartón o cartulina"
+  - "Pegamento líquido"
+  - "Un lápiz"
+preparacion: >
+  Reparte un poco de sal en cada vaso. Cubre la mesa con papel de periódico, porque la sal
+  de colores vuela con facilidad. Dibuja con el niño un mandala sencillo a lápiz sobre el
+  cartón: círculos, pétalos y rayas.
+pasos:
+  - "Frota una tiza de color contra la sal de un vaso hasta que la sal se tiña por completo."
+  - "Repite con otros colores en los demás vasos para tener una pequeña paleta de sal."
+  - "Aplica pegamento con el dedo o un pincel sobre una zona del dibujo cada vez."
+  - "Espolvorea la sal de color sobre el pegamento y sacude el sobrante sobre el periódico."
+  - "Continúa zona por zona, cambiando de color, hasta completar todo el mandala."
+  - "Deja secar el mandala plano durante un rato y luego míralo a contraluz."
+aprendizaje: >
+  Trabaja la motricidad fina, la mezcla de colores y la paciencia. Diseñar un patrón
+  simétrico ayuda a planificar y a concentrarse en un proyecto con resultado final.
+variantes: >
+  Usen arena en lugar de sal, o guarden la sal de colores en un frasco transparente por
+  capas para hacer un recuerdo decorativo.
+imagen: "6a8-03.png"

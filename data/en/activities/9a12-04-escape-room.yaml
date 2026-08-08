@@ -1,0 +1,32 @@
+id: "9a12-04"
+orden: 4
+edad: "9-12"
+tipo: juego
+titulo: "DIY Escape Room"
+gancho: "Design a puzzle room at home and challenge your family to escape."
+duracion: "45-60 min"
+dif_prep: 3
+dif_materiales: 1
+materiales:
+  - "Paper and pencil"
+  - "Envelopes or boxes to hide clues in"
+  - "A combination lock if you have one (optional)"
+  - "Household objects to hide and use as clues"
+  - "A stopwatch or clock"
+preparacion: >
+  Choose who designs the room and who will solve it; you can swap roles afterward. The
+  designer secretly plans the chain of clues in a safe room.
+pasos:
+  - "Decide on a simple story: for example, you must find the key to open a chest before time runs out."
+  - "Design a chain of puzzles: each solved clue should lead to the next. Start from the end (the prize) and plan backwards."
+  - "Create a variety of puzzles: a math problem whose answer is a lock combination, a coded message, a hidden object, a riddle."
+  - "Hide the clues around the room inside envelopes, boxes, or under objects. Test the chain yourself from start to finish to make sure it works."
+  - "Welcome the players, explain the story and the rules, and start the timer (for example, 15 minutes)."
+  - "Stay close and offer a hint if they get stuck. When it's over, talk about which puzzle was the hardest and why."
+aprendizaje: >
+  Develops planning, logical thinking, and creativity. Designing for others forces you to
+  anticipate how the players will reason, which builds empathy and project leadership.
+variantes: >
+  Raise the difficulty with clues that require several people to cooperate at once. Give it
+  a theme: detectives, pirates, or a spaceship.
+imagen: "9a12-04.png"

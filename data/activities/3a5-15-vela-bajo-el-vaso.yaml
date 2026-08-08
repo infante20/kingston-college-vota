@@ -1,0 +1,33 @@
+id: "3a5-15"
+orden: 15
+edad: "3-5"
+tipo: experimento
+titulo: "La vela que se apaga bajo el vaso"
+gancho: "Una vela encendida que se apaga sola cuando le tapamos el aire con un vaso."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Una vela pequeña sobre un plato"
+  - "Un vaso de vidrio (más alto que la vela)"
+  - "Fósforos o encendedor (solo para el adulto)"
+  - "Un plato hondo con un poco de agua (opcional)"
+preparacion: >
+  Coloca la vela firme sobre el plato, en una mesa despejada y lejos de cosas que puedan quemarse.
+  Ten el vaso a mano. El adulto es el único que enciende y maneja el fuego.
+pasos:
+  - "El adulto enciende la vela mientras el peque observa la llamita desde lejos."
+  - "Pregúntale qué creen que pasará si tapamos la vela con el vaso."
+  - "El adulto cubre la vela con el vaso boca abajo y esperan juntos unos segundos."
+  - "Observen cómo la llama se hace pequeña y se apaga sola sin soplar."
+  - "Conversen sobre lo que vieron y repitan el experimento si quieren mirarlo otra vez."
+aprendizaje: >
+  Muestra de forma muy simple que el fuego necesita aire para seguir encendido. Estimula la
+  observación, la predicción y el respeto frente al fuego con un adulto cerca.
+variantes: >
+  Usen vasos de distintos tamaños y cuenten cuántos segundos tarda en apagarse cada uno. Pongan la
+  vela sobre un plato con agua y observen cómo el agua sube un poco bajo el vaso.
+seguridad: >
+  Actividad con fuego: solo el adulto enciende y manipula la vela, y el peque mira a distancia.
+  Aten el pelo largo, alejen el papel y tengan agua cerca. Nunca dejen la vela sola.
+imagen: "3a5-15.png"

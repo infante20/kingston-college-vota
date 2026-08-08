@@ -1,0 +1,36 @@
+id: "6a8-04"
+orden: 4
+edad: "6-8"
+tipo: sensorial
+titulo: "La caja misteriosa al tacto"
+gancho: "Mete la mano sin mirar y adivina qué objeto escondido estás tocando."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Una caja de cartón con tapa"
+  - "Un calcetín viejo o una tela"
+  - "Tijeras"
+  - "Objetos de casa de distintas texturas y formas (esponja, piña, cuchara, pelota, llave, pluma)"
+  - "Papel y lápiz para apuntar puntos"
+preparacion: >
+  Un adulto recorta un agujero del tamaño de una mano en un lado de la caja y pega alrededor
+  el calcetín cortado, para que la mano entre pero no se pueda mirar dentro. Reúne en secreto
+  varios objetos seguros.
+pasos:
+  - "Mientras un jugador cierra los ojos, otro coloca un objeto dentro de la caja."
+  - "El jugador mete la mano por el agujero y palpa el objeto sin sacarlo ni mirar."
+  - "Describe en voz alta lo que siente: si es duro o blando, frío, rugoso o liso."
+  - "Después de describirlo, dice su adivinanza y comprueba si acertó."
+  - "Anota un punto por cada acierto y túrnense para esconder y adivinar."
+  - "Al final, hablen de qué pistas del tacto fueron las más útiles."
+aprendizaje: >
+  Agudiza el sentido del tacto y el vocabulario descriptivo. El niño aprende a deducir a
+  partir de pistas y a poner en palabras sensaciones, sin depender de la vista.
+variantes: >
+  Prueben solo con frutas y verduras, o con un cronómetro para adivinar contra reloj. También
+  pueden usar el oído agitando la caja antes de tocar.
+seguridad: >
+  Un adulto debe hacer el corte de la caja con tijeras. Eviten objetos puntiagudos o muy
+  pequeños dentro de la caja.
+imagen: "6a8-04.png"

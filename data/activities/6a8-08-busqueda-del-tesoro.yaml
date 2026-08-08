@@ -1,0 +1,32 @@
+id: "6a8-08"
+orden: 8
+edad: "6-8"
+tipo: juego
+titulo: "Búsqueda del tesoro con pistas"
+gancho: "Sigue un rastro de acertijos por la casa hasta encontrar el tesoro escondido."
+duracion: "30-45 min"
+dif_prep: 3
+dif_materiales: 1
+materiales:
+  - "Papel y lápiz para escribir las pistas"
+  - "Un sobre o caja para el tesoro"
+  - "Un pequeño premio: una golosina, un dibujo o una manualidad"
+  - "Cinta adhesiva para esconder las pistas"
+preparacion: >
+  Mientras el niño no mira, un adulto escribe entre cinco y ocho pistas. Cada pista es una
+  adivinanza que lleva al siguiente escondite: «Donde se guarda lo que está frío» señala el
+  refrigerador. Esconde el tesoro al final del recorrido y reparte las pistas en orden inverso.
+pasos:
+  - "Entrega al niño la primera pista y lee con él la adivinanza si hace falta."
+  - "Deja que piense a qué lugar de la casa se refiere antes de correr a buscar."
+  - "En cada escondite encontrará la siguiente pista escondida con cinta."
+  - "Anímalo a leer en voz alta y a razonar cada acertijo por su cuenta."
+  - "Pista tras pista, el niño avanza hasta el escondite final del tesoro."
+  - "Al encontrar el tesoro, celebren y repasen cuál pista fue la más difícil."
+aprendizaje: >
+  Refuerza la lectura comprensiva, la lógica y la orientación espacial. Resolver acertijos
+  encadenados desarrolla la perseverancia y la satisfacción de lograr una meta paso a paso.
+variantes: >
+  Hagan las pistas con dibujos en lugar de texto para los que leen menos, o escondan el tesoro
+  afuera, en el jardín o el parque, para una versión de exterior.
+imagen: "6a8-08.png"

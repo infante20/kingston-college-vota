@@ -1,0 +1,34 @@
+id: "6a8-20"
+orden: 20
+edad: "6-8"
+tipo: naturaleza
+titulo: "La planta que busca la luz"
+gancho: "Cultiva un poroto y observa cómo el tallo se inclina solo hacia la ventana para buscar el sol."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Un poroto seco o una semilla de rápido crecimiento"
+  - "Un frasco o vaso transparente"
+  - "Algodón o servilletas de papel"
+  - "Agua"
+  - "Un lugar cerca de una ventana"
+  - "Un cuaderno para anotar"
+preparacion: >
+  Mojen el algodón con agua, sin que quede chorreando, y pónganlo dentro del frasco. Elijan un lugar
+  junto a una ventana donde entre buena luz durante el día. Tengan el cuaderno listo para el registro.
+pasos:
+  - "Pongan el poroto entre el algodón y el vidrio del frasco para poder verlo crecer."
+  - "Coloquen el frasco cerca de la ventana y mantengan el algodón siempre húmedo."
+  - "Cada día observen y dibujen en el cuaderno cómo aparecen la raíz y el tallo."
+  - "Cuando el tallo ya esté crecido, giren el frasco para que mire hacia el lado contrario de la luz."
+  - "Sigan observando durante unos días cómo el tallo vuelve a inclinarse hacia la ventana."
+aprendizaje: >
+  Muestra el fototropismo: las plantas crecen buscando la luz que necesitan para vivir. El niño cuida
+  un ser vivo, registra sus cambios y descubre que las plantas reaccionan a su entorno.
+variantes: >
+  Pongan otro poroto dentro de una caja oscura con un solo agujero de luz y comparen hacia dónde crece,
+  o siembren el poroto en un macetero con tierra cuando ya tenga raíces.
+seguridad: >
+  Laven las manos después de manipular la tierra y el algodón húmedo. No se lleven las semillas a la boca.
+imagen: "6a8-20.png"

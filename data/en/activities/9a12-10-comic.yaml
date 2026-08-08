@@ -1,0 +1,35 @@
+id: "9a12-10"
+orden: 10
+edad: "9-12"
+tipo: arte
+titulo: "Create Your Own Comic"
+gancho: "Invent a story with panels, speech bubbles, and a hero made just for you."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Sheets of paper"
+  - "Ruler and pencil"
+  - "Eraser"
+  - "Markers or colored pencils"
+  - "Black ballpoint pen for inking"
+preparacion: >
+  Gather the materials on a well-lit table. First think of a simple idea: a character, a
+  problem they must solve, and an ending.
+pasos:
+  - "Define your main character: what they're like, what they want, and their biggest challenge. Draw several faces until you find their expression."
+  - "Write the script in a few sentences divided into beginning, middle, and end. Decide how many panels you need to tell it."
+  - "Using the ruler, draw the panels on the page. Vary their size: important scenes can get a bigger panel."
+  - "Sketch each scene in pencil and add the speech bubbles and text boxes. Check that the reading order is clear."
+  - "Trace over the final lines with the black ballpoint pen, erase the pencil, and color it in. Add sound effects like 'BOOM!' or 'WHAM!' for extra punch."
+  - "Give it a title and a cover. Read it to your family and ask for their feedback to make the next story even better."
+aprendizaje: >
+  Combines visual storytelling, writing, and drawing. Structuring a story in panels builds
+  summarizing skills, time sequencing, and creativity, and communicating with image and text
+  together develops visual language.
+variantes: >
+  Create a collaborative comic where each person draws one panel without fully seeing the
+  previous one. Or turn a real family story into a comic.
+seguridad: >
+  If you cut the pages to bind the comic, use the scissors carefully.
+imagen: "9a12-10.png"

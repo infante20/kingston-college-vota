@@ -1,0 +1,33 @@
+id: "3a5-20"
+orden: 20
+edad: "3-5"
+tipo: naturaleza
+titulo: "Nature Treasure Walk"
+gancho: "Head out with a basket to gather leaves, pebbles, and sticks and build a collection all their own."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A basket or small bucket"
+  - "Bags or boxes to sort the treasures"
+  - "Comfy clothes for going out"
+  - "A toy magnifying glass (optional)"
+preparacion: >
+  Pick a spot with trees and plants: the backyard, a park, or a tree-lined sidewalk. Bring the
+  basket and, before heading out, chat about what kinds of things you can collect.
+pasos:
+  - "Walk without hurrying, looking at the ground, the trees, and the bushes."
+  - "Gather leaves of different sizes, pebbles, sticks, and fallen flowers in the basket."
+  - "Look at each treasure: ask your little one what color it is and whether it's smooth or rough."
+  - "Back home, sort the treasures by color, size, or shape."
+  - "Talk about the walk and keep the collection in a special spot."
+aprendizaje: >
+  Brings your little one closer to nature and its textures, colors, and shapes. Collecting and
+  sorting builds observation, classification, and care for the world around them.
+variantes: >
+  Glue the treasures onto poster board to make a nature mural. Repeat the walk in another season
+  and compare what changed.
+seguridad: >
+  Don't collect plants with thorns or touch bugs that sting. Wash hands when you get back, and
+  nothing goes in the mouth.
+imagen: "3a5-20.png"

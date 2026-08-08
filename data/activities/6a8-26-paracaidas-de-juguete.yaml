@@ -1,0 +1,36 @@
+id: "6a8-26"
+orden: 26
+edad: "6-8"
+tipo: experimento
+titulo: "El paracaídas de juguete"
+gancho: "Construye un paracaídas con una bolsa e hilo y descubre cómo el aire frena la caída de un muñeco."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Una bolsa de plástico limpia"
+  - "Tijeras"
+  - "Hilo o lana"
+  - "Cinta adhesiva"
+  - "Un juguete pequeño y liviano que sirva de paracaidista"
+  - "Un cuaderno para anotar"
+preparacion: >
+  Recorten de la bolsa un cuadrado del tamaño de una hoja. Corten cuatro trozos de hilo del mismo
+  largo. Peguen con cinta una punta de cada hilo en cada esquina del cuadrado y junten las otras
+  puntas para amarrarlas al juguete. Busquen un lugar seguro y alto, como una silla firme.
+pasos:
+  - "Pregunta al niño qué caerá más rápido: el juguete solo o el juguete con paracaídas, y anoten la predicción."
+  - "Dejen caer el juguete solo desde la silla y cuenten en voz alta cuánto demora en llegar al suelo."
+  - "Ahora suelten el juguete con el paracaídas abierto desde la misma altura y vuelvan a contar."
+  - "Observen cómo el paracaídas se llena de aire y baja flotando más lento que el juguete solo."
+  - "Anoten los dos tiempos, compárenlos y revisen si la predicción del comienzo se cumplió."
+aprendizaje: >
+  Enseña que el aire empuja hacia arriba contra el paracaídas y frena la caída: a esa fuerza se le
+  llama resistencia del aire. Mientras más grande la tela, más aire atrapa y más lento baja el juguete.
+variantes: >
+  Prueben con paracaídas de distintos tamaños o hagan un agujero pequeño en el centro para ver si baja
+  más derecho. También pueden comparar una bolsa con una hoja de papel.
+seguridad: >
+  Suban a la silla con cuidado o pidan ayuda a una persona adulta. No lancen el juguete hacia la cara
+  de nadie y guarden las bolsas lejos de los niños más pequeños.
+imagen: "6a8-26.png"

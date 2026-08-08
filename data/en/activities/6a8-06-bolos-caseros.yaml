@@ -1,0 +1,35 @@
+id: "6a8-06"
+orden: 6
+edad: "6-8"
+tipo: recreativa
+titulo: "Homemade Bottle Bowling"
+gancho: "Build your own bowling alley out of bottles and roll to knock them all down."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Six to ten matching empty plastic bottles"
+  - "A little water, sand, or rice"
+  - "A ball or a ball of rolled-up socks"
+  - "Tempera paint or colored paper for decorating"
+  - "Tape to mark the floor"
+  - "Paper and pencil for keeping score"
+preparacion: >
+  Wash and dry the bottles. Pour an inch of water, sand, or rice into each one so they
+  stand steady but still fall when hit. Decorate them with paint or by gluing on the
+  numbers 1 through 10.
+pasos:
+  - "Set the bottles up in a triangle, just like in a real bowling alley."
+  - "Mark a throwing line with tape a few steps away."
+  - "Each player rolls the ball to knock down as many bottles as they can."
+  - "Add up points based on the bottles knocked down or the numbers written on them."
+  - "Set the bottles back up and take a second roll each turn."
+  - "Keep score by rounds and crown a champion at the end."
+aprendizaje: >
+  Improves aim, mental math from adding points, and turn-taking. Building and
+  decorating the pins adds creativity before the game even begins.
+variantes: >
+  Move the line farther back to raise the difficulty, play blindfolded guided by
+  someone's voice, or put different weights in the bottles to see which ones are
+  hardest to knock over.
+imagen: "6a8-06.png"

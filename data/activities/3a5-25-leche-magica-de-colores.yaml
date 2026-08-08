@@ -1,0 +1,37 @@
+id: "3a5-25"
+orden: 25
+edad: "3-5"
+tipo: experimento
+titulo: "La leche mágica de colores"
+gancho: "Los colores salen disparados y bailan solos sobre la leche apenas la tocas con jabón."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Un plato hondo o fuente blanca"
+  - "Leche entera (la que tienes en el refrigerador)"
+  - "Colorantes de comida de varios colores"
+  - "Lavalozas en un pocillo aparte"
+  - "Una bombilla o un cotonito"
+preparacion: >
+  Saca la leche del refrigerador y vierte una capa que cubra el fondo del plato. Deja que se
+  asiente sin moverla. Pon unas gotas de colorante de cada color en distintas partes de la leche.
+  Ten el lavalozas en un pocillo al lado y cubre la mesa por si se derrama.
+pasos:
+  - "Pide al peque que observe los puntitos de colores quietos sobre la leche."
+  - "Mojen juntos la punta de la bombilla o el cotonito en el lavalozas."
+  - "Toquen con la punta el centro de la leche, sin revolver, y miren qué pasa."
+  - "Observen cómo los colores arrancan hacia los bordes y se mezclan haciendo remolinos."
+  - "Prueben tocar otros puntos de la leche para crear nuevos movimientos de color."
+  - "Conversen sobre qué color les gustó más y hacia dónde escaparon."
+aprendizaje: >
+  Introduce la idea de que el jabón empuja la grasa de la leche y por eso los colores se mueven
+  solos. Estimula la observación, la anticipación de lo que va a pasar y el vocabulario de
+  movimiento como empujar, escapar y girar.
+variantes: >
+  Prueben con leche descremada para comparar si los colores se mueven igual o menos. Usen una hoja
+  blanca apoyada encima al final para guardar una huella de los colores mezclados.
+seguridad: >
+  La leche con lavalozas no se toma: es solo para mirar. Acompaña al peque todo el tiempo y laven
+  las manos al terminar. Limpien de inmediato si cae algo al piso para que no quede resbaloso.
+imagen: "3a5-25.png"

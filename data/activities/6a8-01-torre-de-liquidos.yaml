@@ -1,0 +1,38 @@
+id: "6a8-01"
+orden: 1
+edad: "6-8"
+tipo: experimento
+titulo: "La torre de líquidos mágica"
+gancho: "Apila miel, agua y aceite en un mismo vaso y descubre por qué nunca se mezclan."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 2
+materiales:
+  - "Un vaso o frasco alto y transparente"
+  - "Miel o jarabe"
+  - "Agua"
+  - "Aceite de cocina"
+  - "Colorante de comida o témpera diluida (opcional)"
+  - "Una cuchara"
+  - "Objetos pequeños para probar: un corcho, una uva, una tuerca, un trocito de cartón"
+preparacion: >
+  Reúne los tres líquidos sobre la mesa. Si quieres más color, mezcla unas gotas de
+  colorante en el agua. Coloca el vaso vacío en el centro y deja que el niño prepare
+  cantidades iguales de cada líquido en tres vasos pequeños.
+pasos:
+  - "Pregunta al niño cuál cree que es el líquido «más pesado». Anoten la predicción antes de empezar."
+  - "Vierte primero la miel en el fondo del vaso, despacio y justo en el centro."
+  - "Agrega el agua dejándola resbalar por el borde o por la cuchara para que caiga suave."
+  - "Vierte por último el aceite de la misma forma y observa cómo se forman tres capas separadas."
+  - "Deja caer con cuidado los objetos pequeños y miren en qué capa se queda flotando cada uno."
+  - "Comparen el resultado con la predicción del principio y comenten las sorpresas."
+aprendizaje: >
+  Introduce la idea de densidad: los líquidos y objetos más densos se hunden bajo los menos
+  densos. El niño practica observar, predecir y comprobar como un científico de verdad.
+variantes: >
+  Prueben a agregar alcohol de farmacia teñido como cuarta capa flotante, o usen sal disuelta
+  en una de las aguas para crear dos capas de agua de distinto color.
+seguridad: >
+  La miel y el aceite manchan: cubre la mesa. No prueben ningún líquido del experimento y
+  lávense las manos al terminar.
+imagen: "6a8-01.png"

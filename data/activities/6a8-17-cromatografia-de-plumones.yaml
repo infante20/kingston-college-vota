@@ -1,0 +1,33 @@
+id: "6a8-17"
+orden: 17
+edad: "6-8"
+tipo: experimento
+titulo: "Los colores escondidos de los plumones"
+gancho: "Descubre que un plumón negro guarda varios colores escondidos que el agua puede separar."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Plumones de varios colores (que sean lavables)"
+  - "Filtros de café o servilletas de papel"
+  - "Un vaso con un poco de agua"
+  - "Tijeras"
+  - "Un cuaderno para anotar"
+preparacion: >
+  Corten los filtros de café en tiras de un dedo de ancho. Pongan un poco de agua en el vaso, solo
+  el fondo. Despejen la mesa y tengan listos los plumones para elegir cuáles probar.
+pasos:
+  - "Dibujen un punto grueso de plumón en cada tira, a dos dedos de uno de los extremos."
+  - "Pregunta al niño qué colores cree que esconde cada plumón, y anoten las predicciones."
+  - "Cuelguen la tira dentro del vaso de modo que solo el extremo de abajo toque el agua, sin mojar el punto de color."
+  - "Esperen y observen cómo el agua sube por el papel y arrastra los colores separándolos."
+  - "Comparen los colores que aparecieron con lo que habían predicho y peguen las tiras en el cuaderno."
+aprendizaje: >
+  Introduce la cromatografía: muchos colores están hechos de mezclas de otros, y el agua los separa
+  porque cada uno viaja a distinta velocidad por el papel. El niño predice, observa y compara.
+variantes: >
+  Prueben con plumones de la misma marca pero distinto color, o comparen un plumón nuevo con uno casi
+  gastado para ver si cambian los colores.
+seguridad: >
+  Usen plumones lavables. No beban el agua de los vasos y laven las manos al terminar.
+imagen: "6a8-17.png"

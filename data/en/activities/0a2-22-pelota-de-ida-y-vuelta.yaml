@@ -1,0 +1,32 @@
+id: "0a2-22"
+orden: 22
+edad: "0-2"
+tipo: juego
+titulo: "Roll It Back and Forth"
+gancho: "A ball that rolls from your hands to the baby's and back again, the very first game of taking turns and sharing."
+duracion: "5-10 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A soft, large ball"
+  - "A clear spot in the living room or on the floor"
+preparacion: >
+  Clear a spot on the floor and sit facing the baby with your legs spread wide so the
+  ball can't get away. That's all the prep you need.
+pasos:
+  - "Sit facing the baby, just a short distance apart, with the ball in your hands."
+  - "Roll it gently toward them, saying \"here it comes, for you!\""
+  - "Encourage them to send it back by pushing it with their hands: \"now roll it to me!\""
+  - "Celebrate every time the ball goes back and forth, even if the push goes sideways."
+  - "Repeat the turn-taking rhythm as many times as their interest lasts."
+aprendizaje: >
+  Teaches turn-taking, give-and-take, and waiting, the first social building blocks.
+  Works coordination through pushing and catching, and deepens your bond through
+  shared play.
+variantes: >
+  Once they're crawling or walking, move a little farther away so they have to go get
+  the ball and bring it back.
+seguridad: >
+  Use a soft, large ball to avoid choking hazards and bumps. Play in a space free of
+  hard objects and stay with them the whole time.
+imagen: "0a2-22.png"

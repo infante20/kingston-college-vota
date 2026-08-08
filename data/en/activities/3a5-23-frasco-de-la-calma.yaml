@@ -1,0 +1,34 @@
+id: "3a5-23"
+orden: 23
+edad: "3-5"
+tipo: emocional
+titulo: "The Calm-Down Jar"
+gancho: "A jar of glitter that drifts down slowly and helps you breathe and settle when you're upset."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "A plastic jar with a tight-fitting lid"
+  - "Warm tap water"
+  - "White glue or glycerin"
+  - "Glitter, sequins, or sparkles"
+  - "Food coloring (optional)"
+preparacion: >
+  Have the jar clean and dry. Get the warm water, white glue, and glitter within reach. The
+  grown-up closes and seals the lid tightly at the end so it can't come open.
+pasos:
+  - "Help your little one pour warm water into the jar until it's almost full."
+  - "Add a squeeze of white glue, the glitter, and a drop of food coloring."
+  - "The grown-up closes the lid very tightly and seals it so it holds firm."
+  - "Shake the jar together and watch the glitter swirl up and drift slowly down."
+  - "Breathe slowly while watching the glitter settle, and talk about how you're feeling."
+aprendizaje: >
+  Gives kids a tool for recognizing and calming big emotions. Watching the glitter and breathing
+  slowly helps your little one settle down when they're angry or frustrated.
+variantes: >
+  Make a jar for each emotion in different colors. Use the jar as a waiting timer: when the
+  glitter settles, it's time to move on.
+seguridad: >
+  The grown-up seals the lid so the jar can't open. Use a plastic jar, not glass, so it won't
+  break.
+imagen: "3a5-23.png"

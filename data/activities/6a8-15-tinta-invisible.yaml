@@ -1,0 +1,35 @@
+id: "6a8-15"
+orden: 15
+edad: "6-8"
+tipo: experimento
+titulo: "Mensajes secretos con tinta invisible"
+gancho: "Escribe un mensaje con jugo de limón y míralo aparecer como por arte de magia con un poco de calor."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Medio limón exprimido en un vaso"
+  - "Hojas de papel blanco"
+  - "Un pincel fino, un cotonito o un palillo"
+  - "Una fuente de calor segura: una ampolleta encendida o una plancha (usadas por una persona adulta)"
+  - "Un cuaderno para anotar"
+preparacion: >
+  Expriman el limón en un vaso y reserven el jugo. Despejen una mesa bien iluminada y preparen
+  varias hojas para hacer pruebas. Decidan juntos un mensaje corto y secreto para escribir.
+pasos:
+  - "Mojen el pincel o el cotonito en el jugo de limón y escriban el mensaje en la hoja."
+  - "Dejen secar el papel por completo hasta que el mensaje quede invisible."
+  - "Pidan a otra persona que intente leer la hoja en blanco; comprobarán que no se ve nada."
+  - "Una persona adulta acerca el papel a la fuente de calor, sin quemarlo, hasta que las letras aparezcan en color café."
+  - "Lean el mensaje secreto y anoten en el cuaderno cuánto demoró en aparecer."
+aprendizaje: >
+  Muestra que el jugo de limón se oscurece con el calor antes que el papel, y por eso las letras se
+  vuelven visibles. El niño descubre una reacción provocada por el calor y se inicia en la idea de
+  causa y efecto.
+variantes: >
+  Prueben con otros jugos como el de naranja o con leche, y comparen cuál revela mejor el mensaje al
+  calentarse.
+seguridad: >
+  La fuente de calor la maneja siempre una persona adulta para evitar quemaduras y que el papel se
+  prenda.
+imagen: "6a8-15.png"

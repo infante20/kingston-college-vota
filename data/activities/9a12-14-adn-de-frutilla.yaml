@@ -1,0 +1,41 @@
+id: "9a12-14"
+orden: 14
+edad: "9-12"
+tipo: experimento
+titulo: "Extrae el ADN de una frutilla"
+gancho: "Saca con tus propias manos el hilo de ADN que guarda toda la información de una frutilla."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "2 o 3 frutillas maduras"
+  - "Una bolsa plástica con cierre o resistente"
+  - "Media cucharadita de sal"
+  - "Una cucharada de lavalozas"
+  - "Medio vaso de agua"
+  - "Un colador fino o gasa"
+  - "Un vaso de vidrio transparente"
+  - "Alcohol bien frío (lo entrega un adulto, guardado antes en el refrigerador)"
+  - "Un palito de brocheta"
+preparacion: >
+  Guarda el alcohol en el refrigerador al menos 30 minutos antes para que esté muy frío. Prepara la
+  solución de extracción mezclando en un vaso el medio vaso de agua, la sal y el lavalozas; revuelve
+  suave para que no haga mucha espuma.
+pasos:
+  - "Pon las frutillas dentro de la bolsa, ciérrala y aplástalas con las manos hasta formar un puré. Escribe tu hipótesis: ¿podrás ver el ADN a simple vista?"
+  - "Agrega la solución de agua, sal y lavalozas a la bolsa y vuelve a mezclar aplastando suavemente durante un minuto."
+  - "Cuela la mezcla con el colador fino o la gasa hacia el vaso de vidrio, dejando solo el líquido rosado."
+  - "Inclina el vaso y un adulto vierte despacio el alcohol frío por la pared, hasta formar una capa que flote sobre el líquido."
+  - "Observa la zona donde se juntan ambas capas: aparecerán hebras blancas y nubosas. Eso es el ADN."
+  - "Con el palito de brocheta enrolla con cuidado las hebras y sácalas. Anota qué viste y escribe tu conclusión."
+aprendizaje: >
+  El lavalozas rompe las membranas de las células, la sal ayuda a que el ADN se junte y el alcohol frío
+  hace que el ADN, que no se disuelve en alcohol, se vuelva visible. Descubres que toda la información de
+  un ser vivo cabe en hebras tan pequeñas que normalmente no podemos ver.
+variantes: >
+  Repite con otras frutas blandas como plátano o kiwi y compara cuál entrega más ADN. Prueba con alcohol
+  a temperatura ambiente y registra si funciona igual de bien que el frío.
+seguridad: >
+  El alcohol lo maneja siempre un adulto y se mantiene lejos de llamas. No prueben ninguna mezcla. Laven
+  las manos al terminar.
+imagen: "9a12-14.png"

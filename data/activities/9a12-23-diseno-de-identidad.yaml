@@ -1,0 +1,35 @@
+id: "9a12-23"
+orden: 23
+edad: "9-12"
+tipo: arte
+titulo: "Diseña tu identidad visual"
+gancho: "Crea tu propio logo, colores y tipo de letra como un verdadero diseñador de marcas."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Hojas blancas y de borrador"
+  - "Lápices de colores, plumones y lápiz pasta"
+  - "Una regla"
+  - "Tijeras y pegamento"
+  - "Revistas o papeles de colores para recortar (opcional)"
+preparacion: >
+  Piensa en algo a lo que quieras crear una identidad: tu nombre, un club que inventes con tus amigos, una
+  banda, un equipo o un proyecto. Reúne los materiales sobre una mesa con buena luz.
+pasos:
+  - "Haz una lluvia de ideas: escribe palabras y dibuja símbolos que representen lo que quieres mostrar (alegre, deportivo, misterioso, ecológico)."
+  - "Elige una paleta de tres o cuatro colores que combinen y prueba cómo se ven juntos en un borrador."
+  - "Diseña tu logo haciendo varios bocetos distintos antes de decidir; combina una imagen simple con tu nombre o iniciales."
+  - "Elige un estilo de letra dibujándolo a mano y prueba que se lea bien tanto grande como pequeño."
+  - "Pasa a limpio tu diseño final en una hoja, cuidando los colores y los detalles."
+  - "Aplica tu identidad en algo real: un carnet, un afiche, una portada de cuaderno o una credencial para tu equipo."
+aprendizaje: >
+  Descubres cómo el diseño comunica ideas y emociones a través de las formas, los colores y la tipografía.
+  Practicas el proceso creativo de un diseñador: explorar muchas opciones, elegir y refinar, en lugar de
+  quedarte con la primera idea.
+variantes: >
+  Diseñen en equipo la identidad de un club común y luego cada uno aplica el logo a un objeto distinto.
+  Crea una versión de tu logo en blanco y negro y comprueba que se siga reconociendo.
+seguridad: >
+  Usa las tijeras con cuidado al recortar.
+imagen: "9a12-23.png"

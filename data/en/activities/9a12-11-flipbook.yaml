@@ -1,0 +1,35 @@
+id: "9a12-11"
+orden: 11
+edad: "9-12"
+tipo: arte
+titulo: "Flipbook: Screen-Free Animation"
+gancho: "Bring your drawings to life with a pocket-sized movie that moves as you flip the pages."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A pad of sticky notes or lots of identical small sheets"
+  - "Pencil and eraser"
+  - "Black ballpoint pen"
+  - "A binder clip or paper clip to hold the sheets"
+  - "Scissors (if you cut the sheets)"
+preparacion: >
+  Get a thick pad of identical small sheets, or cut paper to the same size and clip it
+  together along one side. Think of a simple movement to animate.
+pasos:
+  - "Choose a simple animation: a bouncing ball, a growing flower, or a face that slowly breaks into a smile."
+  - "Start on the last page of the pad and draw the first moment of the movement, near the free edge."
+  - "On the page above it, repeat the drawing with just a tiny change. Use the previous page as a guide by looking through the paper against the light."
+  - "Keep going page by page with minimal changes. The more drawings you make and the less each one varies, the smoother the animation will be."
+  - "Trace over all the drawings with the black ballpoint pen so they show up well, and erase the pencil marks."
+  - "Hold the pad on one side and flip the pages with your thumb at a good speed. Your drawings come to life! Adjust anything that doesn't flow well."
+aprendizaje: >
+  Shows how animation and persistence of vision work: many still images that, seen quickly,
+  look like motion. It demands planning, persistence, and frame-by-frame attention to
+  detail.
+variantes: >
+  Make longer flipbooks with complete stories, or combine two different animations. Try
+  swapping them with friends to guess what movement each person drew.
+seguridad: >
+  If you cut the paper to make the sheets even, handle the scissors carefully.
+imagen: "9a12-11.png"

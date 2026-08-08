@@ -1,0 +1,36 @@
+id: "3a5-26"
+orden: 26
+edad: "3-5"
+tipo: experimento
+titulo: "The Pepper That Runs Away"
+gancho: "Pepper floats peacefully on the water, then scatters in a flash the second a soapy finger comes near."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A shallow bowl or dish"
+  - "Tap water"
+  - "Ground pepper"
+  - "A little dish soap in a small bowl"
+preparacion: >
+  Fill the dish with about an inch of tap water and leave it still on the table so the water
+  settles. Keep the pepper and the small bowl of dish soap within reach. Cover the table in
+  case of splashes.
+pasos:
+  - "Ask your little one to sprinkle pepper across the whole surface of the water."
+  - "Watch how the pepper floats quietly on top of the water."
+  - "Together, dip a finger in plain water and touch it: almost nothing happens."
+  - "Now dip a fingertip in the dish soap and touch the center of the water again."
+  - "Watch the pepper shoot off toward the edges in an instant."
+  - "Talk about why the pepper ran away so fast when the soap showed up."
+aprendizaje: >
+  Introduces the idea that water has an invisible skin on its surface and that soap breaks it,
+  making the pepper flee. It builds observation, comparing the finger with and without soap,
+  and wonder at a sudden change.
+variantes: >
+  Try salt or oregano instead of pepper to see if they move the same way. Repeat with clean
+  water to discover the trick only works when the water has no soap in it yet.
+seguridad: >
+  Soapy water is not for drinking or for the eyes: wash hands when you're done. Stay with your
+  little one for the whole activity and dry the floor if water spills to avoid slips.
+imagen: "3a5-26.png"

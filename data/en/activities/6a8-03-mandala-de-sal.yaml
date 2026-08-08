@@ -1,0 +1,34 @@
+id: "6a8-03"
+orden: 3
+edad: "6-8"
+tipo: arte
+titulo: "Rainbow Salt Mandala"
+gancho: "Color salt with chalk and create a colorful mosaic that fits in the palm of your hand."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Table salt"
+  - "Colored chalk"
+  - "Several small cups or plates"
+  - "A sheet of cardboard or poster board"
+  - "Liquid glue"
+  - "A pencil"
+preparacion: >
+  Divide a little salt into each cup. Cover the table with newspaper, because colored
+  salt scatters easily. Together with your child, draw a simple mandala in pencil on
+  the cardboard: circles, petals, and stripes.
+pasos:
+  - "Rub a piece of colored chalk against the salt in one cup until the salt is completely tinted."
+  - "Repeat with other colors in the remaining cups so you have a little palette of salt."
+  - "Spread glue with your finger or a brush over one section of the drawing at a time."
+  - "Sprinkle the colored salt over the glue and shake the extra off onto the newspaper."
+  - "Keep going section by section, switching colors, until the whole mandala is complete."
+  - "Let the mandala dry flat for a while, then hold it up to the light."
+aprendizaje: >
+  Builds fine motor skills, color mixing, and patience. Designing a symmetrical
+  pattern helps kids plan ahead and stay focused on a project with a finished result.
+variantes: >
+  Use sand instead of salt, or layer the colored salt in a clear jar to make a
+  decorative keepsake.
+imagen: "6a8-03.png"

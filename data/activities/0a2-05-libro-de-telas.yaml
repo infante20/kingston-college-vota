@@ -1,0 +1,32 @@
+id: "0a2-05"
+orden: 5
+edad: "0-2"
+tipo: sensorial
+titulo: "Mantita de texturas"
+gancho: "Una manta o panel con retazos de telas distintas para tocar, frotar y descubrir."
+duracion: "10-15 min"
+dif_prep: 3
+dif_materiales: 2
+materiales:
+  - "Retazos de telas distintas (toalla, fieltro, raso, pana, lana)"
+  - "Una tela base grande o una manta fina"
+  - "Aguja e hilo o pegamento textil"
+preparacion: >
+  Cose o pega con firmeza varios retazos de distintas texturas sobre la tela base, bien
+  sujetos para que no se despeguen. Revisa que no queden bordes sueltos ni hilos largos.
+  Esta preparación lleva un rato, pero la manta dura mucho tiempo.
+pasos:
+  - "Extiende la manta de texturas en el suelo y recuesta o sienta al bebé sobre ella."
+  - "Guía su mano sobre las distintas telas y deja que las toque libremente."
+  - "Describe lo que siente: «suave», «áspero», «esponjoso». Repite las palabras con calma."
+  - "Observa cuál textura prefiere y vuelve a ella las veces que quiera."
+aprendizaje: >
+  Refina el sentido del tacto y enriquece el vocabulario sensorial. Comparar texturas ayuda
+  al cerebro del bebé a organizar la información del mundo.
+variantes: >
+  Añade una zona con un trozo de plástico que cruja o un cascabel cosido por dentro para
+  sumar sonido a la experiencia.
+seguridad: >
+  Asegúrate de que todos los retazos están firmemente sujetos y sin piezas pequeñas que se
+  desprendan. Evita lentejuelas o botones sueltos. Supervisa siempre.
+imagen: "0a2-05.png"

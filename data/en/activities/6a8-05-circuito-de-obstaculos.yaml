@@ -1,0 +1,37 @@
+id: "6a8-05"
+orden: 5
+edad: "6-8"
+tipo: recreativa
+titulo: "Homemade Obstacle Course"
+gancho: "Turn the living room or backyard into a course of jumps, tunnels, and balancing acts."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Cushions and pillows"
+  - "Chairs"
+  - "A blanket or sheet"
+  - "String or yarn"
+  - "Plastic cups or empty bottles"
+  - "A stopwatch or clock"
+preparacion: >
+  Clear a safe area and move anything breakable out of the way. Decide with your child
+  how many stations the course will have, and gather the materials in one spot so you
+  can build them together.
+pasos:
+  - "Design the route together by drawing it on paper: where it starts and where it ends."
+  - "Build a tunnel by draping a blanket over two chairs to crawl under."
+  - "Place cushions on the floor as islands to jump from one to the next without touching the ground."
+  - "Stretch a string between two pieces of furniture at a low height to duck under without touching it."
+  - "Line up the cups to weave around in a zigzag as you run between them."
+  - "Time each lap and try to beat your time on every attempt."
+aprendizaje: >
+  Develops coordination, balance, and movement planning. Designing the course and
+  beating their own time builds effort and self-confidence.
+variantes: >
+  Add an aiming challenge by tossing a sock ball into a bucket at the end, or run
+  the course in pairs holding hands.
+seguridad: >
+  Keep hard corners and slippery floors out of the course. Keep the string low to
+  avoid dangerous trips, and supervise the jumps.
+imagen: "6a8-05.png"

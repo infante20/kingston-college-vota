@@ -1,0 +1,33 @@
+id: "0a2-13"
+orden: 13
+edad: "0-2"
+tipo: experimento
+titulo: "Sink or Float?"
+gancho: "A bucket of water and household objects to discover which ones stay on top and which drop to the bottom."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A large clear bucket or container with water"
+  - "Safe, large objects that float (a sponge, a plastic ball, a plastic pot lid)"
+  - "Safe, large objects that sink (a metal spoon, a small ceramic cup)"
+  - "A towel for the floor"
+preparacion: >
+  Fill the bucket halfway with warm water and set it on a towel on the floor. Gather a
+  few large, safe, freshly washed objects that can't fit entirely in the baby's mouth.
+pasos:
+  - "Sit the baby in front of the bucket, somewhere it's fine to get wet."
+  - "Take an object and drop it into the water while you say \"look, it floats!\" or \"it sank!\""
+  - "Hand the baby an object and let them be the one to drop it and watch what happens."
+  - "Name what happens every time and celebrate their surprise: \"the spoon went all the way down!\""
+  - "Let them repeat with the same objects as many times as they like; repetition is part of the learning."
+aprendizaje: >
+  Introduces cause and effect and first notions of weight and materials. The baby
+  predicts, tests, and marvels, the foundation of scientific thinking.
+variantes: >
+  Add a cold object straight from the fridge to bring temperature into the mix, or use
+  just one type of object so they notice the pattern.
+seguridad: >
+  Never leave the baby alone near water, not even for an instant. Use only large
+  objects to prevent choking and keep the floor around you dry so nobody slips.
+imagen: "0a2-13.png"

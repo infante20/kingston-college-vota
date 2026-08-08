@@ -1,0 +1,29 @@
+id: "3a5-09"
+orden: 9
+edad: "3-5"
+tipo: emocional
+titulo: "Las caras de las emociones"
+gancho: "Dibujar y poner cara a la alegría, el enfado o el miedo para aprender a nombrar lo que se siente."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Hojas de papel o platos de cartón"
+  - "Lápices o colores"
+  - "Un espejo (opcional)"
+preparacion: >
+  Reúne papel y colores en la mesa. Si tienes un espejo a mano, ponlo cerca para que el peque vea
+  su propia cara. Elige un momento tranquilo, sin prisas.
+pasos:
+  - "Dibujen juntos varias caras: una contenta, una enfadada, una triste, una asustada."
+  - "Pongan nombre a cada emoción mientras la dibujan: «esta cara está alegre»."
+  - "Por turnos, elijan una cara y pongan esa misma expresión frente al espejo."
+  - "Cuéntale al peque una vez en que tú sentiste esa emoción y pregúntale por la suya."
+  - "Dejen las caras a la vista para señalarlas otros días y decir «hoy me siento así»."
+aprendizaje: >
+  Ayuda a reconocer y nombrar las emociones, primer paso para gestionarlas. Hablar de los
+  sentimientos con calma da seguridad y fortalece el vínculo entre adulto y peque.
+variantes: >
+  Reciten cuentos y pausen para adivinar cómo se siente cada personaje. Hagan una «cara del día»
+  cada mañana para empezar la jornada conversando sobre el ánimo.
+imagen: "3a5-09.png"

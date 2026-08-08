@@ -1,0 +1,29 @@
+# Intermedios del build (se regeneran con scripts/build.py)
+dist/book.html
+dist/book-kdp.html
+dist/book-epub.html
+dist/cover-wrap.html
+dist/_cover.png
+
+# Variantes y serie (pesadas; se regeneran con --kdp / build_series.py / build_cover.py)
+dist/*-KDP.pdf
+dist/*-KDP-BN.pdf
+dist/Portada-*.pdf
+dist/Cover-*.pdf
+dist/Quality-Time-0-2*
+dist/Quality-Time-3-5*
+dist/Quality-Time-6-8*
+dist/Quality-Time-9-12*
+dist/Tiempo-de-Calidad-0-2*
+dist/Tiempo-de-Calidad-3-5*
+dist/Tiempo-de-Calidad-6-8*
+dist/Tiempo-de-Calidad-9-12*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Paquete KDP (regenerable)
+dist/*.zip

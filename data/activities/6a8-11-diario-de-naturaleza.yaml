@@ -1,0 +1,36 @@
+id: "6a8-11"
+orden: 11
+edad: "6-8"
+tipo: naturaleza
+titulo: "Diario de exploradores de la naturaleza"
+gancho: "Sal a la calle con lupa y cuaderno y conviértete en un explorador de la naturaleza."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un cuaderno o varias hojas grapadas"
+  - "Lápiz y lápices de colores"
+  - "Una lupa (opcional)"
+  - "Una bolsa pequeña para recoger tesoros"
+  - "Cinta adhesiva para pegar hallazgos"
+preparacion: >
+  Preparen el cuaderno escribiendo en la portada «Diario de explorador» y la fecha. Elijan un
+  lugar cercano con plantas: un parque, el jardín o la vereda con árboles. Vístanse para estar
+  cómodos al aire libre.
+pasos:
+  - "Caminen despacio observando hojas, insectos, piedras y flores con calma."
+  - "Usen la lupa para mirar de cerca las venas de una hoja o las patas de un bicho."
+  - "Dibujen en el cuaderno tres cosas que les llamen la atención durante el paseo."
+  - "Recojan hojas o flores caídas del suelo, sin arrancar nada de las plantas vivas."
+  - "Peguen los hallazgos en el cuaderno y escriban al lado dónde y cuándo los encontraron."
+  - "De vuelta a casa, cuenten cuántas especies distintas anotaron."
+aprendizaje: >
+  Despierta la curiosidad científica y la observación detallada. Registrar y clasificar lo que
+  ve, el niño aprende a fijarse, comparar y respetar la naturaleza.
+variantes: >
+  Repitan el paseo en distintas estaciones para comparar los cambios, o dediquen cada día una
+  página a un único elemento, como solo hojas o solo piedras.
+seguridad: >
+  No toquen plantas con espinas, hongos ni animales desconocidos, y lávense las manos al volver
+  a casa.
+imagen: "6a8-11.png"

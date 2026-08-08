@@ -1,0 +1,29 @@
+id: "3a5-09"
+orden: 9
+edad: "3-5"
+tipo: emocional
+titulo: "The Faces of Feelings"
+gancho: "Draw and act out happy, angry, and scared faces to learn to name what you're feeling."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Sheets of paper or paper plates"
+  - "Pencils or crayons"
+  - "A mirror (optional)"
+preparacion: >
+  Gather paper and crayons on the table. If you have a mirror handy, set it nearby so your
+  little one can see their own face. Pick a calm moment, with no rush.
+pasos:
+  - "Draw several faces together: a happy one, an angry one, a sad one, a scared one."
+  - "Name each emotion as you draw it: 'this face is happy.'"
+  - "Take turns picking a face and making that same expression in the mirror."
+  - "Tell your little one about a time you felt that emotion, and ask about theirs."
+  - "Keep the faces where you can see them, so on other days you can point and say 'this is how I feel today.'"
+aprendizaje: >
+  Helps kids recognize and name their emotions, the first step to managing them. Talking calmly
+  about feelings builds security and strengthens the bond between grown-up and child.
+variantes: >
+  Read stories together and pause to guess how each character feels. Make a 'face of the day'
+  every morning to start the day chatting about moods.
+imagen: "3a5-09.png"

@@ -1,0 +1,38 @@
+id: "9a12-24"
+orden: 24
+edad: "9-12"
+tipo: emocional
+titulo: "Emotions Thermometer"
+gancho: "Build a thermometer to measure and understand what you feel, just like you measure temperature."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Poster board or cardboard"
+  - "Colored markers"
+  - "A ruler"
+  - "Scissors"
+  - "A piece of yarn or a paper strip for the movable pointer"
+  - "A notebook for tracking emotions"
+  - "Ballpoint pen"
+preparacion: >
+  Find a quiet spot. First talk with an adult about the idea that all emotions are normal and
+  serve a purpose. Get the poster board and markers ready to build the thermometer.
+pasos:
+  - "On the poster board, draw a large vertical thermometer divided into levels from 1 (very calm) to 10 (very intense emotion)."
+  - "Color the levels with shades that go from cool to warm and write example emotions next to each zone (calm, happy, nervous, angry)."
+  - "Cut out an arrow or strip that you can move along the thermometer to mark how you feel."
+  - "Each day for a week, mark what level you're at during different moments and note it in your notebook with the date and what happened."
+  - "When you reach a high level, try a strategy to lower the intensity: take a deep breath, drink water, or walk around a bit, and record whether it worked."
+  - "At the end of the week, review your records and talk with an adult: which situations raise your thermometer and what helps you bring it down?"
+aprendizaje: >
+  You learn to recognize and name your emotions and to notice their intensity before you react.
+  Keeping a record helps you spot patterns and choose strategies to calm down when you get
+  angry or very nervous. It's the foundation of emotional intelligence.
+variantes: >
+  Make a family or team thermometer where everyone marks how they feel when they get home.
+  Create a personal list of things that help you come down a level and keep it handy.
+seguridad: >
+  Remember that there are no bad emotions and that you can always ask a trusted adult for help
+  if a feeling feels too strong or hard to handle.
+imagen: "9a12-24.png"

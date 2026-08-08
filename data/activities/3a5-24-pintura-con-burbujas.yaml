@@ -1,0 +1,34 @@
+id: "3a5-24"
+orden: 24
+edad: "3-5"
+tipo: arte
+titulo: "Cuadros con burbujas de colores"
+gancho: "Soplar burbujas de colores que estallan sobre el papel y dejan dibujos sorprendentes."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Un vaso por color"
+  - "Lavalozas y un poco de agua"
+  - "Témpera de varios colores"
+  - "Bombillas (una por color)"
+  - "Hojas de papel grueso"
+preparacion: >
+  En cada vaso mezcla un poco de agua, un chorrito de lavalozas y bastante témpera de un color.
+  Pon una bombilla en cada vaso. Cubre la mesa y pon delantal al peque.
+pasos:
+  - "Muéstrale cómo soplar suave con la bombilla dentro del vaso hasta que suban muchas burbujas."
+  - "Recuérdale soplar, nunca aspirar, para no tomar la mezcla."
+  - "Cuando las burbujas rebalsen el vaso, apoyen la hoja encima para que estallen sobre el papel."
+  - "Repitan con otros colores en distintas partes de la hoja."
+  - "Dejen secar el cuadro y celebren los dibujos redonditos que quedaron."
+aprendizaje: >
+  Estimula la creatividad y el control de la respiración al soplar. Ver cómo las burbujas dejan
+  formas en el papel despierta el asombro y el gusto por crear arte.
+variantes: >
+  Mezclen dos colores en una misma hoja para descubrir colores nuevos. Recorten las formas
+  redondas y armen un collage.
+seguridad: >
+  El peque debe soplar, nunca aspirar la mezcla con lavalozas. Acompáñalo todo el tiempo y laven
+  las manos al terminar.
+imagen: "3a5-24.png"

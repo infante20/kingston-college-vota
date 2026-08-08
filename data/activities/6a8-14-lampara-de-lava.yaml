@@ -1,0 +1,34 @@
+id: "6a8-14"
+orden: 14
+edad: "6-8"
+tipo: experimento
+titulo: "Lámpara de lava casera"
+gancho: "Mezcla aceite, agua y una pastilla efervescente para ver burbujas de color que suben y bajan como lava."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 2
+materiales:
+  - "Una botella o frasco transparente"
+  - "Aceite de cocina"
+  - "Agua"
+  - "Colorante de comida"
+  - "Una pastilla efervescente (de las que hacen burbujas)"
+  - "Un cuaderno para anotar"
+preparacion: >
+  Despejen una mesa y cúbranla por si se derrama aceite. Llenen la botella con tres cuartos de
+  aceite y reserven un poco de agua con unas gotas de colorante en un vaso aparte.
+pasos:
+  - "Pregunta al niño qué cree que pasará al juntar el agua con el aceite, y anoten la predicción."
+  - "Echen el agua con colorante dentro de la botella con aceite y observen cómo se separan en dos capas."
+  - "Partan la pastilla efervescente en trozos y dejen caer uno dentro de la botella."
+  - "Observen cómo suben y bajan burbujas de color formando una lámpara de lava."
+  - "Cuando se calme, agreguen otro trozo para repetir el efecto y comparen con la predicción."
+aprendizaje: >
+  Enseña que el aceite y el agua no se mezclan porque tienen densidades distintas, y que la pastilla
+  libera un gas que empuja el agua hacia arriba en burbujas. El niño observa, predice y comprueba.
+variantes: >
+  Prueben con agua tibia y luego con agua fría para ver si las burbujas cambian de velocidad, o usen
+  dos colorantes distintos en botellas separadas.
+seguridad: >
+  No beban el contenido de la botella. El aceite resbala y mancha: limpien de inmediato si se derrama.
+imagen: "6a8-14.png"

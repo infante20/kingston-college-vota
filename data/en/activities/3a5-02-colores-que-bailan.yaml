@@ -1,0 +1,35 @@
+id: "3a5-02"
+orden: 2
+edad: "3-5"
+tipo: experimento
+titulo: "The Dancing Colors"
+gancho: "Drops of food coloring that chase and swirl into each other in a plate of milk, like magic."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A shallow bowl or plate"
+  - "Milk (enough to cover the bottom)"
+  - "Food coloring or juices in several colors"
+  - "A drop of dish soap"
+  - "A toothpick, cotton swab, or spoon"
+preparacion: >
+  Pour milk into the plate until the bottom is well covered and let it sit for a moment so
+  it's completely still. Keep the food coloring and soap nearby. Set the plate on the table,
+  at your little one's height.
+pasos:
+  - "Take turns dropping a few drops of each color onto the milk, spaced apart from each other."
+  - "Watch how the drops float there without mixing."
+  - "Dip the tip of the toothpick into a drop of soap."
+  - "Touch the center of the milk with the toothpick and watch the colors shoot away and dance."
+  - "Touch other spots to create new swirls of color."
+aprendizaje: >
+  Shows in a visual way that soap changes how the milk behaves, creating movement. It builds
+  observation skills, patience, and a sense of wonder about what's happening.
+variantes: >
+  Try it with whole milk and with water to compare what happens in each. Use just two colors
+  and see what new color appears where they meet.
+seguridad: >
+  The soap and the colored milk are not for drinking. Supervise the toothpick so your little one
+  doesn't put it in their mouth or poke themselves.
+imagen: "3a5-02.png"

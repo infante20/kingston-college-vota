@@ -1,0 +1,32 @@
+id: "0a2-01"
+orden: 1
+edad: "0-2"
+tipo: sensorial
+titulo: "Treasure Basket"
+gancho: "A basket full of everyday objects for the baby to explore with all their senses."
+duracion: "10-15 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "A basket, shallow box, or tray"
+  - "Safe objects with different textures and materials (wooden spoon, sponge, metal cup, fabric scrap, cloth ball)"
+  - "A blanket for the floor"
+preparacion: >
+  Choose 6 to 10 safe objects from around your house, made of different materials (wood,
+  fabric, metal, silicone). Wash them and make sure none are small enough to fit entirely
+  in the baby's mouth or have parts that could come loose. Place them in the basket.
+pasos:
+  - "Sit the baby on the blanket with the basket within reach. If they can't sit up on their own yet, lay them on their side facing the basket."
+  - "Let the baby discover the objects at their own pace. Don't direct the play: just stay close and watch."
+  - "Name whatever they pick up: \"the wooden spoon,\" \"ooh, the cup is cold!\" Your voice gives them reassurance and vocabulary."
+  - "When they tire of one object, let them choose another. Remove the ones that lose their appeal and offer new ones another day."
+aprendizaje: >
+  Stimulates touch, hand-eye coordination, and language. The baby compares textures,
+  weights, and temperatures, building the foundation for scientific thinking and focus.
+variantes: >
+  Swap out the objects every week to keep things fresh. In summer, add a cold object
+  that has spent a little while in the fridge for a brand-new sensation.
+seguridad: >
+  Supervise at all times. Avoid objects that are small, pointy, have long strings, or
+  could break. When in doubt, leave it out.
+imagen: "0a2-01.png"

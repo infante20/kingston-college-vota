@@ -1,0 +1,33 @@
+id: "0a2-11"
+orden: 11
+edad: "0-2"
+tipo: arte
+titulo: "Yogurt Finger Paint"
+gancho: "Finger painting with colorful yogurt, a work of art that's perfectly safe to taste."
+duracion: "10-15 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Plain yogurt"
+  - "A little food coloring or fruit puree for color"
+  - "Thick paper or a tray"
+  - "A towel or large bib"
+preparacion: >
+  Divide the yogurt into small bowls and tint it with a little food coloring or fruit
+  puree. Cover the table or floor, dress the baby in clothes that can get messy, and
+  keep a towel handy.
+pasos:
+  - "Sit the baby in front of the paper or tray with the bowls of colored yogurt."
+  - "Dip your own finger first and make a mark to show them the idea."
+  - "Let them touch, smear, and mix the colors freely with their hands."
+  - "Stay close without correcting: the goal is to explore, not to make a pretty picture."
+aprendizaje: >
+  Stimulates touch, creativity, and coordination. Because it's edible, it lets them
+  explore with all their senses, worry-free.
+variantes: >
+  Use two or three colors and let them discover what happens when they mix. You can
+  also paint right on the high chair tray.
+seguridad: >
+  Use only edible ingredients and food coloring, since everything will end up in their
+  mouth. Check for yogurt allergies first and always supervise.
+imagen: "0a2-11.png"

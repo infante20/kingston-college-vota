@@ -1,0 +1,32 @@
+id: "0a2-18"
+orden: 18
+edad: "0-2"
+tipo: experimento
+titulo: "Falling Paper"
+gancho: "A sheet of paper drifts down slowly while a ball drops in a flash: two very different ways of falling that surprise the baby."
+duracion: "5-10 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Sheets of paper or tissues"
+  - "A light, large object that falls fast (a cloth ball)"
+  - "A clear, open space"
+preparacion: >
+  Gather a few sheets of paper and one large, safe object. All you need beyond that is
+  an open space where the baby can comfortably look up.
+pasos:
+  - "Sit or lay the baby facing the spot where you'll drop things."
+  - "Release a sheet of paper from up high and say, \"look how slowly it floats down!\""
+  - "Drop the cloth ball and compare: \"that one fell fast!\""
+  - "Repeat, alternating paper and ball, so they notice the difference."
+  - "Hand them a sheet of paper to let go themselves and watch it float to the floor."
+aprendizaje: >
+  Compares how light and heavy objects fall, a first taste of gravity and air. Works
+  observation, anticipation, and downward visual tracking.
+variantes: >
+  Crumple the paper into a little ball and drop it: the baby will see that the very
+  same paper now falls faster than when it was flat.
+seguridad: >
+  Watch that the baby doesn't put the paper in their mouth, since it can be a choking
+  hazard. Pick up any small pieces and stay with them throughout the game.
+imagen: "0a2-18.png"

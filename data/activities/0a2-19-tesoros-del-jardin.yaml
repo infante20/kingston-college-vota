@@ -1,0 +1,32 @@
+id: "0a2-19"
+orden: 19
+edad: "0-2"
+tipo: naturaleza
+titulo: "Tesoros del jardín"
+gancho: "Un paseo lento por el pasto para tocar hojas, sentir la brisa y descubrir el mundo natural con todos los sentidos."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Una manta para el suelo"
+  - "Un jardín, plaza o un macetero con plantas"
+  - "Ropa cómoda según el clima"
+preparacion: >
+  Elige un lugar al aire libre seguro y a la sombra. Revisa antes la zona y retira piedras
+  pequeñas, basura o plantas que el bebé pudiera llevarse a la boca.
+pasos:
+  - "Extiende la manta sobre el pasto y sienta o recuesta al bebé encima."
+  - "Acerca con cuidado una hoja grande o una flor para que la toque y la mire."
+  - "Nombra lo que descubre: «esto es una hoja, es suave», «¡escucha el viento!»."
+  - "Deja que sienta el pasto bajo sus manos o pies descalzos si el clima lo permite."
+  - "Quédate a su lado observando los pájaros y los sonidos del lugar juntos."
+aprendizaje: >
+  Conecta al bebé con la naturaleza y multiplica sus experiencias sensoriales: texturas,
+  olores, sonidos y temperatura. Estimula la calma, la curiosidad y la atención.
+variantes: >
+  Junta tú unas hojas grandes y seguras en una canasta para que el bebé las explore sentado
+  en la manta sin alejarse.
+seguridad: >
+  Vigila que no se lleve a la boca tierra, hojas, flores ni piedras pequeñas, ya que puede
+  atragantarse o tratarse de plantas tóxicas. Usa protección solar y sombra.
+imagen: "0a2-19.png"

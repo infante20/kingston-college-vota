@@ -1,0 +1,31 @@
+id: "0a2-09"
+orden: 9
+edad: "0-2"
+tipo: recreativa
+titulo: "Circuito de cojines"
+gancho: "Una pista de almohadas y mantas para gatear, trepar y rodar sin peligro."
+duracion: "10-20 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Cojines y almohadas de distintos tamaños"
+  - "Mantas o edredones"
+  - "Cajas de cartón abiertas (opcional)"
+preparacion: >
+  Despeja una zona blanda del suelo y crea pequeñas montañas, rampas y un túnel con cojines,
+  mantas y, si quieres, una caja de cartón. Mantén todo lejos de muebles con esquinas duras.
+pasos:
+  - "Coloca al bebé al inicio del circuito y anímalo a avanzar hacia ti."
+  - "Acompáñalo a trepar sobre un cojín o pasar por debajo de una manta como túnel."
+  - "Celebra cada logro: «¡muy bien!», «¡ya llegaste!»."
+  - "Deja que repita y explore el recorrido a su ritmo, cambiando los obstáculos."
+aprendizaje: >
+  Estimula la motricidad gruesa, el equilibrio y la confianza en su propio cuerpo. Superar
+  pequeños retos refuerza la autoestima.
+variantes: >
+  Esconde un juguete al final del circuito como meta, o recuéstate tú al otro lado para que
+  llegue hasta ti.
+seguridad: >
+  Acolcha bien toda la zona y aleja muebles, esquinas y objetos duros. No dejes cojines que
+  puedan cubrir la cara de un bebé pequeño y supervisa siempre.
+imagen: "0a2-09.png"

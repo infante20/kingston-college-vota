@@ -1,0 +1,38 @@
+id: "9a12-17"
+orden: 17
+edad: "9-12"
+tipo: experimento
+titulo: "El huevo flotante y la densidad"
+gancho: "Haz que un huevo flote en el agua sin tocarlo, solo cambiando el líquido."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un huevo crudo"
+  - "Dos vasos altos de vidrio transparente"
+  - "Sal"
+  - "Agua"
+  - "Una cuchara"
+  - "Colorante de alimentos (opcional)"
+  - "Cuaderno y lápiz pasta para registrar"
+preparacion: >
+  Llena los dos vasos con agua hasta la mitad. Deja uno con agua común y ten la sal lista para preparar
+  el segundo. Trabaja sobre una superficie fácil de limpiar.
+pasos:
+  - "Escribe tu hipótesis: ¿qué pasará si pones un huevo en agua común y qué pasará en agua con mucha sal?"
+  - "Pon con cuidado el huevo en el vaso de agua común y observa: se va al fondo. Anótalo."
+  - "En el otro vaso, agrega sal de a poco y revuelve hasta disolver bastante, contando cuántas cucharadas usaste."
+  - "Coloca el huevo en el agua salada y observa cómo ahora flota. Registra cuántas cucharadas de sal necesitaste."
+  - "Experimento extra: con el huevo flotando, agrega agua común muy despacio por la pared del vaso para formar una capa, y observa cómo el huevo queda flotando en el medio."
+  - "Escribe tu conclusión explicando por qué el huevo flota en agua salada y no en agua común."
+aprendizaje: >
+  El agua salada es más densa que el agua común, por eso empuja al huevo hacia arriba con más fuerza. Aprendes
+  el concepto de densidad y por qué es más fácil flotar en el mar que en una piscina. Practicas medir y
+  registrar variables.
+variantes: >
+  Prueba con azúcar en lugar de sal y compara cuántas cucharadas necesitas. Intenta formar varias capas de
+  líquidos de distinta densidad (agua salada, agua común, aceite) y observa cómo se ordenan.
+seguridad: >
+  El huevo queda crudo, así que lava bien las manos y las superficies al terminar y no lo dejes a temperatura
+  ambiente. No bebas el agua salada.
+imagen: "9a12-17.png"

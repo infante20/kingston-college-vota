@@ -1,0 +1,36 @@
+id: "9a12-06"
+orden: 6
+edad: "9-12"
+tipo: recreativa
+titulo: "Balance and Challenge Course"
+gancho: "Turn the yard or hallway into an obstacle course that puts your body to the test."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Rope or masking tape to mark lines"
+  - "Cushions, chairs, or boxes as obstacles"
+  - "Bottles or cans to weave around"
+  - "A stopwatch or clock"
+  - "Paper and pencil to record times"
+preparacion: >
+  Choose a wide, clear space, indoors or outside. Remove fragile objects from the route.
+  Decide how many stations the course will have.
+pasos:
+  - "Design the course together with several stations: a balance line made of rope, a zigzag between bottles, a jump over cushions, and a one-foot hopping stretch."
+  - "Mark the start and finish. Walk the course slowly once to check that it's safe and doable."
+  - "Time each participant's first attempt and write down the times."
+  - "Repeat several rounds trying to beat your own record. Talk about which station is hardest and why."
+  - "Add an extra challenge: run the course while balancing an object on your hand or head."
+  - "At the end, redesign one station together to make it harder and try again."
+aprendizaje: >
+  Improves coordination, balance, and motor planning. Beating your own record teaches
+  perseverance and self-improvement, and designing the course builds creativity and
+  teamwork.
+variantes: >
+  Turn it into a team relay race, or add mental challenges between stations (a question or a
+  math problem) to combine body and mind.
+seguridad: >
+  Clear the route of furniture with sharp corners and objects that could slip. Wear shoes
+  with good grip and supervise the jumps to prevent falls.
+imagen: "9a12-06.png"

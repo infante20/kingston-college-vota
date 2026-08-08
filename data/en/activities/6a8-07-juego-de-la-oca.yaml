@@ -1,0 +1,33 @@
+id: "6a8-07"
+orden: 7
+edad: "6-8"
+tipo: juego
+titulo: "Invent Your Own Board Game"
+gancho: "Draw a game board with your own rules and race to be the first one to the finish."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A large piece of poster board or cardboard"
+  - "Colored pencils or markers"
+  - "A die (or a handmade paper one)"
+  - "Game pieces: buttons, bottle caps, or different coins"
+  - "Slips of paper for writing challenges and prizes"
+preparacion: >
+  Sit down together with the poster board on the table. Agree on the game's theme
+  before you start: a jungle, outer space, a castle. That will spark more ideas for
+  inventing the squares.
+pasos:
+  - "Draw a zigzag path of squares from a starting point to a finish line."
+  - "Number the squares and color a few special ones: move ahead, move back, or lose a turn."
+  - "Write fun challenges on slips of paper for certain squares, like jumping three times."
+  - "Each player picks a game piece and places it at the start."
+  - "Take turns rolling the die, moving the number of squares shown, and doing whatever each square says."
+  - "Whoever reaches the finish first while following all the invented rules wins."
+aprendizaje: >
+  Sparks creativity, number reading, and cause-and-effect thinking through designing
+  fair rules. Taking turns teaches kids to wait, win, and lose with good sportsmanship.
+variantes: >
+  Create surprise cards to draw when landing on certain squares, or make two paths
+  that cross to add traps and shortcuts.
+imagen: "6a8-07.png"

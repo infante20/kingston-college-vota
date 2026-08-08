@@ -1,0 +1,34 @@
+id: "3a5-17"
+orden: 17
+edad: "3-5"
+tipo: experimento
+titulo: "Semillas que germinan en algodón"
+gancho: "Plantar porotos en algodón y descubrir cada día cómo les crece una raíz y una hojita."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un frasco o vaso transparente"
+  - "Algodón"
+  - "Porotos o lentejas secas"
+  - "Agua de la llave"
+  - "Una etiqueta o papel para marcar la fecha"
+preparacion: >
+  Pon una buena capa de algodón dentro del frasco y humedécelo con un poco de agua de la llave,
+  que quede mojado pero no inundado. Ten las semillas listas en un platito.
+pasos:
+  - "Pide al peque que ponga unas semillas entre el algodón y el vidrio, para poder verlas."
+  - "Mojen el algodón con un poco de agua y dejen el frasco cerca de una ventana con luz."
+  - "Cada día revisen el frasco y agreguen agua si el algodón se ve seco."
+  - "Observen cómo aparece primero una raíz blanca y después un tallito con hojas."
+  - "Conversen sobre cómo creció la planta y celebren cada cambio nuevo."
+aprendizaje: >
+  Muestra que una semilla necesita agua y luz para germinar y convertirse en planta. Enseña a
+  cuidar, observar con paciencia y notar cambios día a día.
+variantes: >
+  Pongan un frasco al sol y otro en un lugar oscuro para comparar. Cuando la planta esté grande,
+  trasplántenla a un macetero con tierra.
+seguridad: >
+  Las semillas crudas no son para comer; cuiden que el peque no se las lleve a la boca. Laven las
+  manos al terminar.
+imagen: "3a5-17.png"

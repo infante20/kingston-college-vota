@@ -1,0 +1,32 @@
+id: "6a8-08"
+orden: 8
+edad: "6-8"
+tipo: juego
+titulo: "Treasure Hunt with Clues"
+gancho: "Follow a trail of riddles through the house until you find the hidden treasure."
+duracion: "30-45 min"
+dif_prep: 3
+dif_materiales: 1
+materiales:
+  - "Paper and pencil for writing the clues"
+  - "An envelope or box for the treasure"
+  - "A small prize: a treat, a drawing, or a craft"
+  - "Tape for hiding the clues"
+preparacion: >
+  While your child isn't looking, an adult writes five to eight clues. Each clue is a
+  riddle that leads to the next hiding spot: 'Where cold things are kept' points to the
+  fridge. Hide the treasure at the end of the trail and place the clues in reverse order.
+pasos:
+  - "Hand your child the first clue and read the riddle together if needed."
+  - "Let them think about which spot in the house it means before running off to search."
+  - "At each hiding spot they'll find the next clue taped in place."
+  - "Encourage them to read out loud and reason through each riddle on their own."
+  - "Clue by clue, your child moves along until the treasure's final hiding spot."
+  - "When they find the treasure, celebrate and talk about which clue was the hardest."
+aprendizaje: >
+  Strengthens reading comprehension, logic, and spatial awareness. Solving a chain of
+  riddles builds perseverance and the satisfaction of reaching a goal step by step.
+variantes: >
+  Make picture clues instead of written ones for early readers, or hide the treasure
+  outside, in the yard or at the park, for an outdoor version.
+imagen: "6a8-08.png"

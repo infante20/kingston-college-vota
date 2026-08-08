@@ -1,0 +1,33 @@
+id: "3a5-05"
+orden: 5
+edad: "3-5"
+tipo: recreativa
+titulo: "El circuito de cojines"
+gancho: "Un recorrido de saltos, gateos y equilibrios armado con cojines y mantas del living."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Cojines y almohadas"
+  - "Una manta o sábana"
+  - "Sillas (para pasar por debajo)"
+  - "Cinta adhesiva o una cuerda para marcar el suelo (opcional)"
+preparacion: >
+  Despeja una zona del living. Reúne cojines, mantas y un par de sillas. Aparta cualquier objeto
+  con esquinas duras o que se pueda romper alrededor del recorrido.
+pasos:
+  - "Coloquen cojines en el suelo como piedras para saltar de uno a otro sin tocar el suelo."
+  - "Pongan dos sillas con una manta encima para hacer un túnel por el que gatear."
+  - "Marquen con cinta o cuerda una línea recta para caminar haciendo equilibrio."
+  - "Inventen juntos el orden del circuito y muéstrenle al peque cómo recorrerlo despacio."
+  - "Que lo repita varias veces, primero lento y luego un poco más rápido, a su ritmo."
+aprendizaje: >
+  Desarrolla el equilibrio, la coordinación y la fuerza del cuerpo. Seguir un recorrido en orden
+  trabaja la memoria y la capacidad de planificar movimientos.
+variantes: >
+  Cronometren cuánto tarda y celebren cada vuelta. Hagan el circuito como animales: saltar como
+  rana, gatear como gato, caminar de puntillas como bailarina.
+seguridad: >
+  Vigila que el suelo no resbale y que no haya muebles con esquinas cerca. Acompaña al peque en
+  los saltos y en el equilibrio hasta que gane confianza.
+imagen: "3a5-05.png"

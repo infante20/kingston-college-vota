@@ -1,0 +1,37 @@
+id: "6a8-16"
+orden: 16
+edad: "6-8"
+tipo: experimento
+titulo: "The Goo That's Liquid and Solid at Once"
+gancho: "Mix up cornstarch and water into a goo that hardens when you hit it and melts when you let it rest."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Cornstarch"
+  - "Water"
+  - "A large bowl"
+  - "A spoon"
+  - "Food coloring (optional)"
+  - "A notebook for writing things down"
+preparacion: >
+  Cover the table with paper or an old tablecloth, because this activity gets messy.
+  Have the cornstarch and a cup of water within reach. If you want color, mix a few
+  drops of food coloring into the water.
+pasos:
+  - "Pour two cups of cornstarch into the bowl and add the water a little at a time while stirring."
+  - "Keep adding water until you get a mixture that looks liquid when you stir it gently."
+  - "Slap the surface quickly with your hand and notice how it feels hard, like a solid."
+  - "Grab some, squeeze it into a ball, then open your hand and watch it melt away."
+  - "Write in the notebook what happens when you touch it fast and what happens when you leave it still."
+aprendizaje: >
+  Introduces a curious material that behaves like a solid when force is applied and
+  like a liquid when it's at rest. Your child explores with their hands and describes
+  what they observe in their own words.
+variantes: >
+  Change the amount of water to see how the texture varies, or split the goo into
+  portions of different colors and mix them together.
+seguridad: >
+  Don't eat it. Throw the mixture in the trash, never down the drain, because it can
+  clog the pipes.
+imagen: "6a8-16.png"

@@ -1,0 +1,30 @@
+id: "3a5-06"
+orden: 6
+edad: "3-5"
+tipo: recreativa
+titulo: "Bottle Bowling"
+gancho: "A homemade bowling alley with bottles to knock down by rolling a sock ball."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Six empty plastic bottles"
+  - "A pair of socks (to make the ball)"
+  - "Water or a little sand to weigh down the bottles (optional)"
+  - "Tape to mark the throwing line (optional)"
+preparacion: >
+  Gather six matching bottles. If you want them to stand up better, add an inch of water
+  or sand. Make a ball by stuffing one sock inside another and shaping it into a soft ball.
+pasos:
+  - "Set up the bottles together in a triangle, like at a bowling alley."
+  - "Mark the throwing line with tape or a pillow."
+  - "Take turns rolling the sock ball to knock down the bottles."
+  - "Count together how many fell with each roll."
+  - "Set the pins back up and play several rounds, taking turns."
+aprendizaje: >
+  Improves aim, hand-eye coordination, and throwing strength. Counting the fallen pins practices
+  numbers, and waiting for a turn teaches patience.
+variantes: >
+  Paint or number the bottles and add up the points for the ones that fall. Move the line back
+  little by little so the challenge grows with your little one's skill.
+imagen: "3a5-06.png"

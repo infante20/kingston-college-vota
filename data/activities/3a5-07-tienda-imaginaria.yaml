@@ -1,0 +1,34 @@
+id: "3a5-07"
+orden: 7
+edad: "3-5"
+tipo: juego
+titulo: "La tienda imaginaria"
+gancho: "Montar una tiendita en casa para comprar y vender, con monedas de cartón y mucha imaginación."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "Productos de casa (frutas, cajas vacías, juguetes, libros)"
+  - "Cartón para recortar monedas y billetes"
+  - "Tijeras (para el adulto)"
+  - "Lápices para dibujar precios"
+  - "Una mesa o caja como mostrador, y una bolsa para las compras"
+preparacion: >
+  El adulto recorta varias monedas redondas y billetes de cartón. Elijan juntos unos cuantos
+  productos seguros y coloquen el mostrador. Dibujen precios sencillos (1, 2, 3) en trocitos de papel.
+pasos:
+  - "Coloquen los productos en el mostrador con su precio al lado."
+  - "Repartan las monedas de cartón entre quien compra y quien vende."
+  - "Túrnense: uno hace de tendero y saluda, el otro elige qué comprar."
+  - "Cuenten juntos las monedas para pagar y dar el cambio."
+  - "Cambien de papel para que el peque sea vendedor y comprador por igual."
+aprendizaje: >
+  Fomenta el juego simbólico y el lenguaje al representar situaciones reales. Contar monedas
+  introduce los números y los turnos enseñan cortesía y a esperar.
+variantes: >
+  Conviertan la tienda en panadería, frutería o juguetería. Añadan una libreta para que el
+  tendero «apunte» los pedidos garabateando.
+seguridad: >
+  El adulto maneja las tijeras. Usen alimentos seguros y eviten piezas pequeñas que puedan
+  llevarse a la boca durante el juego.
+imagen: "3a5-07.png"

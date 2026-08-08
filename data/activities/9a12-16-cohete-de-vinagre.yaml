@@ -1,0 +1,41 @@
+id: "9a12-16"
+orden: 16
+edad: "9-12"
+tipo: experimento
+titulo: "Cohete de vinagre y bicarbonato"
+gancho: "Lanza un cohete al aire usando solo una reacción química y mucha presión."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Una botella plástica pequeña con tapa a presión (tipo envase de remedio o de bebida deportiva)"
+  - "Un corcho que entre justo en la boca de la botella"
+  - "Vinagre"
+  - "Bicarbonato"
+  - "Un trozo de papel absorbente de cocina"
+  - "Tres lápices para usar como patas (con cinta)"
+  - "Cinta adhesiva"
+  - "Cuaderno y lápiz pasta para registrar"
+preparacion: >
+  Esta actividad se hace al aire libre, en un patio o plaza, lejos de personas, ventanas y autos.
+  Arma el cohete pegando tres lápices a los lados de la botella para que se apoye boca abajo, con el
+  corcho hacia el suelo. Comprueba que el corcho cierre la boca con un poco de presión.
+pasos:
+  - "Escribe tu hipótesis: ¿cuánto crees que subirá el cohete y cuántos segundos tardará en salir disparado?"
+  - "Pon un poco de vinagre dentro de la botella, llenando como un tercio."
+  - "Envuelve dos cucharadas de bicarbonato en un trozo de papel absorbente formando un paquete que quepa por la boca."
+  - "Coloca el paquete dentro de la botella, tapa rápido con el corcho, deja el cohete boca abajo sobre sus patas y alejate varios pasos."
+  - "Observa la reacción: se forma gas, sube la presión y el corcho sale disparado lanzando el cohete. Cronometra cuánto tardó."
+  - "Repite cambiando una variable (más bicarbonato o más vinagre), mide de nuevo y escribe tu conclusión sobre qué cantidad funcionó mejor."
+aprendizaje: >
+  El vinagre y el bicarbonato reaccionan y producen dióxido de carbono. El gas aumenta la presión dentro
+  de la botella hasta que el corcho cede y empuja el cohete hacia arriba. Es un ejemplo del principio de
+  acción y reacción, el mismo de los cohetes reales.
+variantes: >
+  Decora tu cohete con aletas de cartón y registra si vuela más derecho. Compara cuánto sube con distintas
+  proporciones de ingredientes y haz un gráfico simple con tus mediciones.
+seguridad: >
+  Hazlo siempre al aire libre y con un adulto. Nunca apuntes el corcho hacia personas, animales ni
+  ventanas. Aléjate apenas pongas el corcho, porque puede salir disparado con fuerza. Usa lentes de
+  protección si tienes.
+imagen: "9a12-16.png"

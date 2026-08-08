@@ -1,0 +1,31 @@
+id: "0a2-02"
+orden: 2
+edad: "0-2"
+tipo: sensorial
+titulo: "Cazadores de pompas"
+gancho: "Pompas de jabón que flotan, brillan y desaparecen al tocarlas, pura magia para los ojos del bebé."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Agua tibia en un recipiente"
+  - "Un chorrito de jabón suave (lavalozas o jabón de manos)"
+  - "Una bombilla o un aro hecho con alambre forrado"
+preparacion: >
+  Mezcla el agua tibia con un poco de jabón en un recipiente. Hazlo tú, fuera del alcance
+  del bebé, y guarda la mezcla lejos de sus manos para que no la lleve a la boca.
+pasos:
+  - "Sienta o sostén al bebé en un lugar cómodo, en interior o en el jardín."
+  - "Sopla pompas suavemente delante de él, sin acercarlas demasiado a su cara."
+  - "Nombra lo que ocurre: «¡mira, sube!», «¡pop, se fue!». Acompaña con tu voz y tu sonrisa."
+  - "Si ya gatea o camina, deja que intente tocar o seguir las pompas con la mirada y las manos."
+aprendizaje: >
+  Desarrolla el seguimiento visual, la atención y la noción de permanencia y desaparición.
+  Las pompas invitan al movimiento y a las primeras risas compartidas.
+variantes: >
+  Sopla pompas más grandes y lentas para bebés pequeños, o muchas pequeñas para los que ya
+  se mueven y quieren perseguirlas.
+seguridad: >
+  Nunca dejes que el bebé beba ni sople la mezcla. Mantén el líquido jabonoso fuera de su
+  alcance y evita que entre en los ojos. Supervisa en todo momento.
+imagen: "0a2-02.png"

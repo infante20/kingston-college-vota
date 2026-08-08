@@ -1,0 +1,38 @@
+id: "9a12-15"
+orden: 15
+edad: "9-12"
+tipo: experimento
+titulo: "Electroimán casero"
+gancho: "Convierte un clavo en un imán que puedes encender y apagar con una pila."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Un clavo grande de hierro"
+  - "Alambre de cobre esmaltado fino (un metro o más)"
+  - "Una pila grande tipo D o una pila de petaca de 4,5 V"
+  - "Cinta aislante"
+  - "Clips, alfileres o tachuelas de metal"
+  - "Una lija pequeña o un cuchillo (lo usa un adulto)"
+  - "Cuaderno y lápiz pasta para registrar"
+preparacion: >
+  Un adulto raspa con la lija los dos extremos del alambre de cobre para quitar el esmalte y dejar el
+  metal a la vista, así podrá hacer contacto con la pila. Reúne varios clips o alfileres para las pruebas.
+pasos:
+  - "Escribe tu hipótesis: ¿cuántos clips crees que podrá levantar el clavo? Anótalo en tu cuaderno."
+  - "Enrolla el alambre alrededor del clavo en vueltas juntas y ordenadas, dejando libres los dos extremos. Cuenta y anota cuántas vueltas diste."
+  - "Conecta un extremo del alambre a cada polo de la pila y fíjalos con cinta aislante."
+  - "Acerca la punta del clavo a los clips y observa: ahora el clavo los atrae. Cuenta cuántos puede levantar y regístralo."
+  - "Desconecta un extremo de la pila y observa cómo los clips se sueltan: el magnetismo desaparece."
+  - "Cambia una variable: agrega más vueltas de alambre y repite la prueba. Compara los resultados y escribe tu conclusión."
+aprendizaje: >
+  Cuando la corriente eléctrica pasa por el alambre enrollado crea un campo magnético que convierte al
+  clavo en imán. Descubres la relación entre electricidad y magnetismo, y que con más vueltas el
+  electroimán es más fuerte. Es el mismo principio de los motores y los timbres.
+variantes: >
+  Compara dos clavos con distinta cantidad de vueltas. Prueba con clavos de distinto tamaño o con una
+  pila más potente y registra los cambios en la fuerza.
+seguridad: >
+  Usa solo pilas, nunca el enchufe de la pared. El alambre y la pila pueden calentarse si quedan
+  conectados mucho rato, así que desconéctalos entre prueba y prueba. El raspado del alambre lo hace un adulto.
+imagen: "9a12-15.png"

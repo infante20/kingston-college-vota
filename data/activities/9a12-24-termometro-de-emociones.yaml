@@ -1,0 +1,38 @@
+id: "9a12-24"
+orden: 24
+edad: "9-12"
+tipo: emocional
+titulo: "Termómetro de emociones"
+gancho: "Construye un termómetro para medir y entender lo que sientes, igual que mides la temperatura."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Una cartulina o cartón"
+  - "Plumones de colores"
+  - "Una regla"
+  - "Tijeras"
+  - "Un trozo de lana o una tira de papel para la flecha móvil"
+  - "Un cuaderno para el registro de emociones"
+  - "Lápiz pasta"
+preparacion: >
+  Busca un lugar tranquilo. Conversa antes con un adulto sobre la idea de que todas las emociones son
+  normales y sirven para algo. Prepara la cartulina y los plumones para construir el termómetro.
+pasos:
+  - "Dibuja en la cartulina un termómetro vertical grande, dividido en niveles del 1 (muy tranquilo) al 10 (emoción muy intensa)."
+  - "Pinta los niveles con colores que vayan del frío al cálido y escribe junto a cada zona emociones de ejemplo (tranquilo, contento, nervioso, enojado)."
+  - "Recorta una flecha o tira que puedas mover por el termómetro para marcar cómo te sientes."
+  - "Cada día, durante una semana, marca en qué nivel estás en distintos momentos y anótalo en tu cuaderno con la fecha y qué pasó."
+  - "Cuando llegues a un nivel alto, prueba una estrategia para bajar la intensidad: respirar hondo, tomar agua o caminar un poco, y registra si funcionó."
+  - "Al final de la semana revisa tus registros y conversa con un adulto: ¿qué situaciones suben tu termómetro y qué te ayuda a bajarlo?"
+aprendizaje: >
+  Aprendes a reconocer y nombrar tus emociones y a notar su intensidad antes de reaccionar. Llevar un
+  registro te ayuda a descubrir patrones y a elegir estrategias para calmarte cuando te enojas o te
+  pones muy nervioso. Es la base de la inteligencia emocional.
+variantes: >
+  Hagan un termómetro familiar o de equipo donde cada uno marque cómo está al llegar a casa. Crea una lista
+  personal de cosas que te ayudan a bajar de nivel y tenla a mano.
+seguridad: >
+  Recuerda que no hay emociones malas y que siempre puedes pedir ayuda a un adulto de confianza si una
+  emoción se siente demasiado fuerte o te cuesta manejarla.
+imagen: "9a12-24.png"

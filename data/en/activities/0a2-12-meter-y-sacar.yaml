@@ -1,0 +1,32 @@
+id: "0a2-12"
+orden: 12
+edad: "0-2"
+tipo: juego
+titulo: "In and Out"
+gancho: "A box and a handful of objects for filling, emptying, and discovering the joy of things appearing and disappearing."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A cardboard box or a wide-mouthed container"
+  - "Cloth balls, soft toys, or rolled-up socks"
+  - "A blanket for the floor"
+preparacion: >
+  Choose a box or container the baby can easily reach into and gather several soft, safe
+  objects, big enough that they can't fit entirely in the baby's mouth. Set everything
+  out on the blanket.
+pasos:
+  - "Sit the baby on the blanket with the box and objects within reach."
+  - "Show them how to put an object into the box and take it back out, naming \"in\" and \"out.\""
+  - "Encourage them to copy you and let them fill and empty the box at their own pace, again and again."
+  - "Celebrate every success: \"you put it in!\" \"and now you took it out!\""
+aprendizaje: >
+  Works fine motor skills, hand-eye coordination, and the concepts of in and out.
+  Filling and emptying strengthens concentration and the idea of object permanence.
+variantes: >
+  Offer containers in different sizes, or a box with a smaller opening to add a
+  challenge once they've mastered the game.
+seguridad: >
+  Use only soft, large objects with no parts that could come loose, and keep plastic
+  bags out of reach. Supervise at all times to prevent choking.
+imagen: "0a2-12.png"

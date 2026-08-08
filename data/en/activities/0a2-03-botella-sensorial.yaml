@@ -1,0 +1,34 @@
+id: "0a2-03"
+orden: 3
+edad: "0-2"
+tipo: sensorial
+titulo: "Calm-Down Bottle"
+gancho: "A bottle filled with water, sparkles, and floating objects that mesmerizes and soothes the baby."
+duracion: "10-15 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "A small plastic bottle with a cap"
+  - "Water"
+  - "Oil or a little clear gel (optional)"
+  - "Small, eye-catching objects (colorful buttons, sequins, glitter, bottle caps)"
+  - "Strong glue or tape to seal the cap"
+preparacion: >
+  Fill the bottle with water and add the eye-catching objects. Close the cap tightly and
+  seal it with strong glue or tape so it can't be opened under any circumstances. Check
+  that it's completely sealed before handing it to the baby.
+pasos:
+  - "Show the baby the bottle and shake it gently so they can see everything moving inside."
+  - "Roll it slowly in front of them so they follow it with their eyes."
+  - "Hand it over so they can hold it, turn it, and shake it at their own pace."
+  - "Name the colors and the movements: \"watch the glitter drift down,\" \"everything's spinning!\""
+aprendizaje: >
+  Stimulates visual tracking, cause and effect, and concentration. Its slow-moving
+  contents help calm the baby during fussy moments.
+variantes: >
+  Make several bottles with different fillings: water and oil, colored rice, or little
+  pom-poms, to vary the sights and sounds.
+seguridad: >
+  Sealing the cap is essential: if the bottle ever opened, the small objects would be a
+  choking hazard. Check it before every use and always supervise.
+imagen: "0a2-03.png"

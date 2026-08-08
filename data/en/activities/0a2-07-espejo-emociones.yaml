@@ -1,0 +1,30 @@
+id: "0a2-07"
+orden: 7
+edad: "0-2"
+tipo: emocional
+titulo: "Faces in the Mirror"
+gancho: "Together at the mirror, discovering smiles, silly faces, and their very own reflection."
+duracion: "5-10 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A safe mirror (wall-mounted or shatterproof)"
+preparacion: >
+  Choose a mirror that's securely mounted to the wall or a shatterproof one with no
+  sharp edges. Position yourself with the baby at a comfortable distance where you can
+  both see yourselves clearly.
+pasos:
+  - "Hold the baby in front of the mirror and let them study the reflections."
+  - "Point and name: \"that's the baby,\" \"that's Mommy,\" gently touching their reflection."
+  - "Make happy faces, surprised faces, or blow a kiss, and watch how they imitate or react."
+  - "Put the emotions into words: \"so happy!\" \"what a surprise!\""
+aprendizaje: >
+  Supports self-recognition, emotional connection, and imitation, the foundation of
+  empathy and social learning.
+variantes: >
+  Move a toy behind the baby so it appears in the mirror, and let them discover where
+  it's coming from when they turn around.
+seguridad: >
+  Check that the mirror is firmly secured and can't fall or break. Avoid glass mirrors
+  within the baby's reach without supervision.
+imagen: "0a2-07.png"

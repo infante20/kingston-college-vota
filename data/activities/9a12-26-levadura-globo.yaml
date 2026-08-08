@@ -1,0 +1,42 @@
+id: "9a12-26"
+orden: 26
+edad: "9-12"
+tipo: experimento
+titulo: "Levadura que infla un globo"
+gancho: "Despierta a una levadura dormida con azucar y mira como infla un globo ella sola."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un sobre de levadura seca (la de hacer pan)"
+  - "Tres botellas plásticas pequeñas iguales"
+  - "Tres globos"
+  - "Azucar"
+  - "Agua tibia"
+  - "Agua fria"
+  - "Una cuchara para medir"
+  - "Un reloj o cronometro"
+  - "Cuaderno y lapiz pasta para registrar"
+preparacion: >
+  Prepara agua tibia con la llave, sin que queme, y ten también agua fria a mano. Estira un poco cada globo
+  antes de empezar para que sea mas facil que se inflen. Numera las tres botellas con un plumon: la 1 sera
+  con azucar y agua tibia, la 2 sin azucar y la 3 con azucar pero con agua fria.
+pasos:
+  - "Escribe tu hipótesis: ¿en cual botella crees que el globo se inflara mas y por que?"
+  - "En la botella 1 pon una cucharada de levadura, dos cucharadas de azucar y agua tibia hasta un cuarto de la botella; agita suave."
+  - "En la botella 2 pon solo levadura y agua tibia, sin azucar. En la botella 3 pon levadura, azucar y agua fria."
+  - "Coloca un globo en la boca de cada botella, cubriendo bien para que no escape el gas."
+  - "Observa durante unos minutos: la levadura come el azucar y libera dioxido de carbono, que infla el globo."
+  - "Cada cinco minutos mide el tamaño de cada globo con una huincha y anota los datos en una tabla."
+  - "Compara las tres botellas y escribe tu conclusión sobre que necesita la levadura para producir mas gas."
+aprendizaje: >
+  La levadura es un hongo vivo y diminuto. Cuando tiene azucar y calor se activa y, al alimentarse, libera
+  dioxido de carbono en un proceso llamado fermentacion. Ese mismo gas es el que forma las burbujas que
+  hacen esponjoso el pan. Aprendes que un ser vivo microscopico puede hacer un trabajo que vemos a simple vista.
+variantes: >
+  Prueba con miel o con harina en lugar de azucar y registra si la levadura produce mas o menos gas. Repite
+  dejando una botella en un lugar mas calido y otra en el refrigerador para comparar el efecto de la temperatura.
+seguridad: >
+  No se prueba ninguna mezcla. El agua tibia la prepara un adulto para que no queme. Si una botella queda
+  cerrada con mucho gas, abrela con cuidado sobre el lavaplatos. Laven las manos al terminar.
+imagen: "9a12-26.png"

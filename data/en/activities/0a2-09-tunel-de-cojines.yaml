@@ -1,0 +1,32 @@
+id: "0a2-09"
+orden: 9
+edad: "0-2"
+tipo: recreativa
+titulo: "Pillow Obstacle Course"
+gancho: "A trail of pillows and blankets for crawling, climbing, and rolling without any danger."
+duracion: "10-20 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Cushions and pillows in different sizes"
+  - "Blankets or comforters"
+  - "Open cardboard boxes (optional)"
+preparacion: >
+  Clear a soft area of the floor and build little mountains, ramps, and a tunnel with
+  cushions, blankets, and, if you like, a cardboard box. Keep everything away from
+  furniture with hard corners.
+pasos:
+  - "Place the baby at the start of the course and encourage them to make their way toward you."
+  - "Help them climb over a cushion or crawl under a blanket tunnel."
+  - "Celebrate every milestone: \"way to go!\" \"you made it!\""
+  - "Let them repeat and explore the course at their own pace, switching up the obstacles."
+aprendizaje: >
+  Stimulates gross motor skills, balance, and confidence in their own body. Conquering
+  little challenges builds self-esteem.
+variantes: >
+  Hide a toy at the end of the course as the finish line, or lie down at the other end
+  yourself so they crawl all the way to you.
+seguridad: >
+  Pad the whole area well and move furniture, corners, and hard objects out of the way.
+  Don't leave cushions that could cover a young baby's face, and always supervise.
+imagen: "0a2-09.png"

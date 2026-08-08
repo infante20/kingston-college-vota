@@ -1,0 +1,31 @@
+id: "0a2-08"
+orden: 8
+edad: "0-2"
+tipo: recreativa
+titulo: "Pequeña orquesta casera"
+gancho: "Ollas, cucharas y botes se convierten en tambores y maracas para hacer música juntos."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 2
+materiales:
+  - "Ollas, cacerolas o recipientes de plástico"
+  - "Cucharas de madera"
+  - "Un frasco bien cerrado con un poco de arroz o legumbres dentro (maraca)"
+preparacion: >
+  Reúne algunos utensilios de cocina y una maraca casera hecha con un frasco bien sellado.
+  Asegúrate de que la maraca no pueda abrirse para que no salgan los granos.
+pasos:
+  - "Sienta al bebé en el suelo y coloca los utensilios a su alrededor."
+  - "Muéstrale cómo golpear suavemente una olla con la cuchara y agitar la maraca."
+  - "Canta una canción sencilla y marca el ritmo con él."
+  - "Deja que experimente con los distintos sonidos y volúmenes a su manera."
+aprendizaje: >
+  Desarrolla el sentido del ritmo, la coordinación y la causa-efecto. La música compartida
+  estimula el lenguaje y el disfrute en familia.
+variantes: >
+  Alterna momentos fuertes y suaves, rápidos y lentos, para que descubra el contraste de
+  sonidos.
+seguridad: >
+  Revisa que la maraca esté perfectamente sellada para evitar el riesgo de asfixia con
+  los granos. Usa utensilios sin bordes filosos y supervisa siempre.
+imagen: "0a2-08.png"

@@ -1,0 +1,33 @@
+id: "0a2-21"
+orden: 21
+edad: "0-2"
+tipo: arte
+titulo: "Sponge Stamps"
+gancho: "Sponges dipped in paint leave colorful prints on the paper with just a squeeze."
+duracion: "10-15 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Large sponges cut into big chunks"
+  - "Non-toxic finger paint"
+  - "Large sheets of paper"
+  - "A plate and a tablecloth or newspaper to cover the table"
+preparacion: >
+  Cut the sponges into big pieces, easy to grip and too large to fit in the baby's
+  mouth. Pour a little paint onto a plate and cover the table or floor with newspaper.
+pasos:
+  - "Sit the baby, dressed in clothes that can get messy, in front of the paper."
+  - "Dip a sponge in the paint and stamp it yourself first to show the print."
+  - "Give the baby a sponge and guide their hand to press it onto the paper."
+  - "Name the colors and celebrate every mark: \"look, red!\" \"another print!\""
+  - "Let them stamp freely as many times as they like, switching colors."
+aprendizaje: >
+  Stimulates creativity, touch, and hand-eye coordination. The baby discovers cause and
+  effect: squeeze the sponge and a splash of color appears.
+variantes: >
+  Use sponges in different shapes to compare the prints, or tape paper to a wall so
+  they can stamp standing up.
+seguridad: >
+  Use only non-toxic paint and large sponges to prevent choking. Watch that they don't
+  put the sponges in their mouth and supervise the whole time.
+imagen: "0a2-21.png"

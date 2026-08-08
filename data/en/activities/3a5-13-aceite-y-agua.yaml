@@ -1,0 +1,34 @@
+id: "3a5-13"
+orden: 13
+edad: "3-5"
+tipo: experimento
+titulo: "Oil and Water Won't Mix"
+gancho: "Two liquids that refuse to blend and form magical bubbles inside the glass."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A tall clear glass"
+  - "Tap water"
+  - "Cooking oil (half a cup)"
+  - "Food coloring or a few drops of beet juice"
+  - "A spoon for stirring"
+preparacion: >
+  Fill the glass halfway with tap water and set it on the table. Keep the oil and food coloring
+  within reach. Cover the surface with a tablecloth or newspaper in case anything spills.
+pasos:
+  - "Ask your little one to look at the water, then add a few drops of food coloring together to tint it."
+  - "Now slowly pour the oil into the glass and watch what happens."
+  - "Ask them where the oil ended up: on top of the water or underneath?"
+  - "Stir with the spoon and watch bubbles form and then separate again."
+  - "Let the glass sit still for a while and watch the oil rise back to the top."
+aprendizaje: >
+  Introduces the idea that some liquids don't mix and that oil is lighter than water, so it
+  floats. It builds observation, comparison, and vocabulary for describing what they see.
+variantes: >
+  Add half an effervescent tablet to see bubbles rise and fall like a lava lamp. Try it with
+  warm and cold water to compare.
+seguridad: >
+  Oil makes the floor slippery if it spills: clean it up right away. It's not for drinking. Do
+  the activity sitting down and on an easy-to-clean surface.
+imagen: "3a5-13.png"

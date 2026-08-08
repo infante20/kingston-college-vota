@@ -1,0 +1,32 @@
+id: "3a5-08"
+orden: 8
+edad: "3-5"
+tipo: juego
+titulo: "Búsqueda de colores"
+gancho: "Una carrera por la casa para encontrar objetos de cada color y llenar la canasta del arcoíris."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Hojas de papel de varios colores (o lápices para pintar manchas de color)"
+  - "Una canasta, caja o bolsa"
+  - "Objetos de la casa de distintos colores"
+preparacion: >
+  Prepara una hoja para cada color o pinta manchas grandes de colores en papeles. Despeja un
+  espacio donde ir dejando los objetos encontrados. Explica las reglas de forma sencilla.
+pasos:
+  - "Muéstrale una tarjeta de color, por ejemplo el rojo."
+  - "Pídele que busque por la casa un objeto de ese color y lo traiga a la canasta."
+  - "Cuando lo encuentre, nombren juntos el objeto y su color en voz alta."
+  - "Pasen al siguiente color y repitan hasta reunir un objeto de cada uno."
+  - "Al final, ordenen los objetos por color y celebren el arcoíris que armaron."
+aprendizaje: >
+  Refuerza el reconocimiento de colores y la clasificación. Buscar por la casa activa el cuerpo,
+  la memoria visual y la atención, mientras se amplía el vocabulario.
+variantes: >
+  Jueguen contra el reloj para buscar todo lo rojo en un minuto. Busquen por formas (redondo,
+  cuadrado) o por tamaños en vez de colores.
+seguridad: >
+  Acuerden qué zonas y objetos están permitidos. Evita que el peque tome cosas frágiles, calientes
+  o con piezas pequeñas durante la búsqueda.
+imagen: "3a5-08.png"

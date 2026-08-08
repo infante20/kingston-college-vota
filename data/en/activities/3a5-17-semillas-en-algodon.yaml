@@ -1,0 +1,34 @@
+id: "3a5-17"
+orden: 17
+edad: "3-5"
+tipo: experimento
+titulo: "Seeds Sprouting in Cotton"
+gancho: "Plant beans in cotton and discover, day by day, how they grow a root and a tiny leaf."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A clear jar or cup"
+  - "Cotton balls"
+  - "Dried beans or lentils"
+  - "Tap water"
+  - "A label or slip of paper to mark the date"
+preparacion: >
+  Put a nice layer of cotton inside the jar and moisten it with a little tap water, so it's damp
+  but not flooded. Have the seeds ready on a small plate.
+pasos:
+  - "Ask your little one to tuck a few seeds between the cotton and the glass, so you can see them."
+  - "Dampen the cotton with a little water and set the jar near a bright window."
+  - "Check the jar every day and add water if the cotton looks dry."
+  - "Watch how a white root appears first, and then a little stem with leaves."
+  - "Talk about how the plant grew and celebrate every new change."
+aprendizaje: >
+  Shows that a seed needs water and light to sprout and become a plant. It teaches caring for
+  something, observing patiently, and noticing changes day by day.
+variantes: >
+  Put one jar in the sun and another in a dark spot to compare. When the plant gets big,
+  transplant it into a flower pot with soil.
+seguridad: >
+  Raw seeds are not for eating; make sure your little one doesn't put them in their mouth. Wash
+  hands when you're done.
+imagen: "3a5-17.png"

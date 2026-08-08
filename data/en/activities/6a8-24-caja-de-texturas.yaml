@@ -1,0 +1,34 @@
+id: "6a8-24"
+orden: 24
+edad: "6-8"
+tipo: sensorial
+titulo: "Guess the Texture with Your Eyes Closed"
+gancho: "Reach into a secret box and figure out what object you're touching using only your sense of touch."
+duracion: "30-45 min"
+dif_prep: 2
+dif_materiales: 1
+materiales:
+  - "A cardboard box with a lid"
+  - "A blindfold or scarf"
+  - "Objects with different textures: a sponge, a smooth stone, yarn, an avocado, a spoon, a leaf"
+  - "A notebook for writing things down"
+preparacion: >
+  An adult cuts a hand-sized hole in the box, or simply gets a cloth bag ready.
+  Secretly gather several objects with very different textures without letting your
+  child see them.
+pasos:
+  - "Put the blindfold on your child, or ask them to keep their eyes shut tight."
+  - "Place an object inside the box and let them reach in to feel it."
+  - "Ask them to describe what they feel: whether it's soft, rough, cold, hard, or squishy."
+  - "Have them guess what the object is before pulling it out to look."
+  - "Write down in the notebook how many they guessed right, and talk about which one was the hardest."
+aprendizaje: >
+  Sharpens the sense of touch and the vocabulary for describing textures. Your child
+  focuses on a single sensation and practices figuring things out without using sight.
+variantes: >
+  Switch roles so your child hides the objects and the adults guess, or use only
+  natural objects collected on a walk.
+seguridad: >
+  Don't use anything pointy or sharp. Check that everything going into the box is safe
+  to touch.
+imagen: "6a8-24.png"

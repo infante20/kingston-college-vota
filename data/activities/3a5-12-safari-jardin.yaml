@@ -1,0 +1,33 @@
+id: "3a5-12"
+orden: 12
+edad: "3-5"
+tipo: naturaleza
+titulo: "Safari de bichos en el jardín"
+gancho: "Salir de exploradores con una lupa de cartón a descubrir los bichitos que viven cerca de casa."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Un vaso transparente o frasco para observar (sin tapa cerrada)"
+  - "Cartón para hacer una lupa de juguete"
+  - "Tijeras (para el adulto)"
+  - "Papel y lápices para dibujar lo que encuentren"
+preparacion: >
+  El adulto recorta en cartón el contorno de una lupa para jugar a explorar. Elijan un rincón
+  con tierra, plantas o maceteros, en el jardín, el parque o el balcón. Lleven el vaso y el papel.
+pasos:
+  - "Caminen despacio observando el suelo, las hojas y las grietas con la lupa de cartón."
+  - "Cuando vean un bicho, obsérvenlo con calma sin tocarlo: una hormiga, una chinita, un caracol."
+  - "Si quieren mirarlo de cerca, cúbranlo un momento con el vaso y luego déjenlo libre."
+  - "Cuenten cuántas patas tiene, de qué color es y hacia dónde camina."
+  - "De vuelta en casa, dibujen el bicho favorito del paseo y pónganle un nombre."
+aprendizaje: >
+  Despierta la curiosidad por los seres vivos y el respeto por la naturaleza. Observar y describir
+  bichos desarrolla la atención, el lenguaje y las primeras ideas sobre los animales.
+variantes: >
+  Hagan una lista de los bichos encontrados y búsquenlos en otro paseo. Observen también plantas,
+  piedras o nubes para ampliar la exploración.
+seguridad: >
+  El adulto maneja las tijeras. No toquen bichos que piquen ni plantas con espinas, observen sin
+  dañarlos y siempre devuélvanlos a su sitio. Laven las manos al terminar.
+imagen: "3a5-12.png"

@@ -1,0 +1,33 @@
+id: "3a5-19"
+orden: 19
+edad: "3-5"
+tipo: experimento
+titulo: "A Rainbow from Water and a Mirror"
+gancho: "Catch sunlight with a mirror underwater and paint the wall with colors."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A deep dish or bucket of water"
+  - "A small hand mirror"
+  - "A sunny spot or a flashlight"
+  - "A wall or white poster board"
+preparacion: >
+  Fill the dish with tap water and place it where sunlight comes in, near a light-colored wall.
+  If there's no sun, have a flashlight ready to use in a darker room.
+pasos:
+  - "Place the mirror in the water, leaning at an angle against the edge of the dish."
+  - "Move the dish or the mirror until sunlight hits the mirror."
+  - "Look together for the rainbow of colors reflected on the wall."
+  - "Name the colors you see and move the mirror to make the rainbow dance."
+  - "Talk about how the water and light made the colors appear."
+aprendizaje: >
+  Shows that white light hides many colors and that water separates them to form a rainbow. It
+  encourages observation, naming colors, and curiosity about light.
+variantes: >
+  Use a flashlight in a dark room to make the rainbow without sun. Blow gently on the water to
+  watch the rainbow ripple and sway.
+seguridad: >
+  Never look directly at the sun or point the reflected light at anyone's eyes. Dry the floor
+  if it gets wet to avoid slips.
+imagen: "3a5-19.png"

@@ -1,0 +1,37 @@
+id: "9a12-12"
+orden: 12
+edad: "9-12"
+tipo: naturaleza
+titulo: "Your Flower Pot Garden"
+gancho: "Grow your own herbs and watch them get bigger day by day."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "A flower pot, a planter box, or recycled containers with holes in the bottom"
+  - "Potting soil"
+  - "Seeds or cuttings (basil, parsley, lentils, garlic, or an avocado pit)"
+  - "A watering can or a bottle with small holes in the cap"
+  - "A notebook and pencil for your growing journal"
+  - "Labels or sticks to mark each plant"
+preparacion: >
+  Choose a container with drainage holes in the bottom (or ask for help making them) and a
+  spot with natural light by a window or on a balcony. Decide what you want to grow.
+pasos:
+  - "Fill the container with soil almost to the rim, leaving an inch or two free. Gently press down the surface."
+  - "Plant the seeds at the depth the packet indicates (usually two or three times their size) or carefully bury the cuttings."
+  - "Water slowly until the soil is moist but not soggy. Place the flower pot where it will get light."
+  - "Mark each plant with a label and start a growing journal: write down the planting date and draw a picture of how it looks at the start."
+  - "Tend your garden every day: check the moisture with your finger and water only when the soil is dry. Record the changes in your journal."
+  - "When the first leaves sprout, measure their height every week and compare. If you planted herbs, use them in the family kitchen."
+aprendizaje: >
+  Teaches responsibility, patience, and the life cycle of plants. Keeping a growing journal
+  and measuring growth develops scientific observation and the steady care of a living thing
+  under your watch.
+variantes: >
+  Run an experiment: plant two identical flower pots and leave one without light or without
+  water to compare. Create a small shared garden where each family member cares for one plant.
+seguridad: >
+  If you need to make the drainage holes in the container, have an adult do it. Wash your
+  hands after handling the soil.
+imagen: "9a12-12.png"

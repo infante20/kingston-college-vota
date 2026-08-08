@@ -1,0 +1,34 @@
+id: "3a5-21"
+orden: 21
+edad: "3-5"
+tipo: sensorial
+titulo: "Pintura suavecita con espuma"
+gancho: "Pintar con nubes de espuma blandita que se sienten frías y mullidas en las manos."
+duracion: "20-30 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Crema de afeitar o espuma de un poco de lavalozas batido"
+  - "Témpera de varios colores"
+  - "Una bandeja o fuente plana"
+  - "Cucharas y un pincel"
+  - "Delantal o ropa que se pueda ensuciar"
+preparacion: >
+  Pon una capa gruesa de espuma sobre la bandeja. Ten lista la témpera en potes y un delantal para
+  el peque. Cubre la mesa con un mantel o diario que se pueda limpiar fácil.
+pasos:
+  - "Invita al peque a tocar la espuma y conversen sobre cómo se siente: suave, fría, blandita."
+  - "Dejen caer unas gotas de témpera de colores sobre la espuma."
+  - "Mezclen con los dedos o una cuchara y miren cómo aparecen colores nuevos."
+  - "Hagan dibujos con el dedo sobre la espuma de colores."
+  - "Celebren cada creación y dejen que el peque experimente libremente."
+aprendizaje: >
+  Estimula el sentido del tacto y la exploración sensorial libre. Mezclar colores y dibujar con los
+  dedos favorece la creatividad y la coordinación de las manos.
+variantes: >
+  Apoyen una hoja sobre la espuma de colores y levántenla para dejar una huella estampada. Agreguen
+  un poco de cola fría a la espuma para que la obra quede dura al secar.
+seguridad: >
+  La espuma no es para comer ni para los ojos: vigila que el peque no se lleve las manos a la cara.
+  Laven bien las manos al terminar.
+imagen: "3a5-21.png"

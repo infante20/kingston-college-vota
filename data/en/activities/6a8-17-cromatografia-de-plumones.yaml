@@ -1,0 +1,36 @@
+id: "6a8-17"
+orden: 17
+edad: "6-8"
+tipo: experimento
+titulo: "The Hidden Colors Inside Markers"
+gancho: "Discover that a black marker hides several secret colors that water can pull apart."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Markers in several colors (make sure they're washable)"
+  - "Coffee filters or paper napkins"
+  - "A glass with a little water"
+  - "Scissors"
+  - "A notebook for writing things down"
+preparacion: >
+  Cut the coffee filters into strips about a finger wide. Put a little water in the
+  glass, just enough to cover the bottom. Clear the table and lay out the markers so
+  you can choose which ones to test.
+pasos:
+  - "Draw a thick marker dot on each strip, about two finger-widths from one end."
+  - "Ask your child which colors they think each marker is hiding, and write down the predictions."
+  - "Hang the strip inside the glass so only the bottom end touches the water, without wetting the colored dot."
+  - "Wait and watch as the water climbs up the paper and carries the colors along, separating them."
+  - "Compare the colors that appeared with what you predicted, and tape the strips into the notebook."
+aprendizaje: >
+  Introduces chromatography: many colors are actually mixtures of others, and water
+  separates them because each one travels up the paper at a different speed. Your
+  child predicts, observes, and compares.
+variantes: >
+  Test markers of the same brand but different colors, or compare a brand-new marker
+  with an almost worn-out one to see if the colors change.
+seguridad: >
+  Use washable markers. Don't drink the water in the glasses, and wash your hands
+  when you're done.
+imagen: "6a8-17.png"

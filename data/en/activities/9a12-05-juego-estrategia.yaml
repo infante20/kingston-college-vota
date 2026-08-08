@@ -1,0 +1,35 @@
+id: "9a12-05"
+orden: 5
+edad: "9-12"
+tipo: juego
+titulo: "Invent Your Own Strategy Game"
+gancho: "Design a board game from scratch with your own board, rules, and pieces."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 2
+materiales:
+  - "Cardboard or poster board for the board"
+  - "Ruler and pencil"
+  - "Markers"
+  - "Bottle caps, coins, or buttons as game pieces"
+  - "A die (or a handmade paper die)"
+  - "Paper for writing down the rules"
+preparacion: >
+  Gather the materials on a large table. Decide as a family how many players the game will
+  have; that will shape the design of the board.
+pasos:
+  - "Agree on the goal of the game: reaching a finish line, conquering squares, collecting points, or capturing rival pieces."
+  - "Draw the board on the cardboard: a path of squares, a grid, or zones to conquer. Add special squares with effects."
+  - "Write the rules on a sheet of paper: how each piece moves, what happens on the special squares, and how you win."
+  - "Hand out the pieces and play a test round. Note which rules don't work or feel unfair."
+  - "Adjust the rules after testing: balance luck and strategy so that winning depends on thinking, not just the die."
+  - "Play the final version and give it a name. Explain it to someone else to check that the rules make sense."
+aprendizaje: >
+  Builds strategic thinking, systems design, and negotiation. Balancing the rules teaches
+  you to test, fail, and improve (iteration), and to write clear instructions for others.
+variantes: >
+  Add event cards that change the course of the game, or a cooperative mode where everyone
+  plays against the board. Create a five-minute express version.
+seguridad: >
+  If you cut cardboard for the board or the pieces, use the scissors carefully.
+imagen: "9a12-05.png"

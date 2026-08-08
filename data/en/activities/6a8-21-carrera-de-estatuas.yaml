@@ -1,0 +1,31 @@
+id: "6a8-21"
+orden: 21
+edad: "6-8"
+tipo: juego
+titulo: "The Freeze-Statue Race"
+gancho: "Sneak forward without getting caught moving: when the music stops, everyone freezes like statues."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A wide-open space, indoors or outside"
+  - "Something to mark the finish line: a rope, chalk, or a cushion"
+  - "Music, or someone to sing or clap a beat"
+preparacion: >
+  Clear the area of anything players could trip over. Mark a starting line at one end
+  and the finish line at the other. Explain the rules to everyone before you begin.
+pasos:
+  - "One person stands at the finish line with their back turned, playing the guard while the music plays."
+  - "While the music is on, everyone races toward the finish line as fast as they can."
+  - "When the music stops, the guard spins around and everyone must freeze like statues."
+  - "Anyone caught moving goes back to the starting line."
+  - "The first one to tag the guard without being caught moving wins."
+aprendizaje: >
+  Exercises body control, attention, and the ability to stop on cue. Playing in a
+  group, kids practice taking turns and following rules while burning off energy.
+variantes: >
+  Have the statues strike funny poses or imitate animals, or play in pairs holding
+  hands so they have to move in sync.
+seguridad: >
+  Check that the floor is clear so no one falls when stopping short.
+imagen: "6a8-21.png"

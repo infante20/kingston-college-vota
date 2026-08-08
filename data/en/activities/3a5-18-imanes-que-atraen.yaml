@@ -1,0 +1,32 @@
+id: "3a5-18"
+orden: 18
+edad: "3-5"
+tipo: experimento
+titulo: "The Magnet and Its Hidden Treasures"
+gancho: "An explorer magnet that discovers which things around the house stick to it and which don't."
+duracion: "20-30 min"
+dif_prep: 1
+dif_materiales: 2
+materiales:
+  - "A magnet (a strong fridge magnet works)"
+  - "A basket of assorted objects (metal spoon, ballpoint pen, wooden stick, key, plastic toy)"
+  - "Two boxes or plates for sorting"
+preparacion: >
+  Gather several safe objects in the basket: some metal and others wood, plastic, or fabric.
+  Set out two plates: one for the things that stick and one for the things that don't.
+pasos:
+  - "Show your little one the magnet and tell them it's going hunting for treasures that stick."
+  - "Take an object from the basket and bring the magnet close to see if it sticks."
+  - "Ask: did it stick or not? Then put the object on the matching plate."
+  - "Repeat with all the objects until they're sorted into two groups."
+  - "Look at the two plates together and talk about what the sticky ones had in common."
+aprendizaje: >
+  Introduces the idea that magnets attract some metals and not other materials. It encourages
+  sorting, predicting, and observing the qualities of objects.
+variantes: >
+  Take the magnet on a walk around the house looking for surfaces it sticks to, like the fridge.
+  Hide metal objects in a bucket of rice and rescue them with the magnet.
+seguridad: >
+  Small magnets are dangerous if swallowed: use a big one and keep an eye on your little one.
+  Keep the magnet away from electronics.
+imagen: "3a5-18.png"

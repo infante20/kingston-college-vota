@@ -1,0 +1,36 @@
+id: "6a8-11"
+orden: 11
+edad: "6-8"
+tipo: naturaleza
+titulo: "Nature Explorer's Journal"
+gancho: "Head outside with a magnifying glass and a notebook and become a nature explorer."
+duracion: "30-45 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "A notebook or several sheets of paper stapled together"
+  - "A pencil and colored pencils"
+  - "A magnifying glass (optional)"
+  - "A small bag for collecting treasures"
+  - "Tape for attaching finds"
+preparacion: >
+  Get the notebook ready by writing 'Explorer's Journal' and the date on the cover.
+  Pick a nearby spot with plants: a park, the yard, or a sidewalk lined with trees.
+  Dress comfortably for being outdoors.
+pasos:
+  - "Walk slowly, taking your time to observe leaves, insects, rocks, and flowers."
+  - "Use the magnifying glass to look up close at the veins of a leaf or the legs of a bug."
+  - "Draw three things in the notebook that catch your eye during the walk."
+  - "Collect leaves or flowers that have fallen to the ground, without picking anything from living plants."
+  - "Tape the finds into the notebook and write next to them where and when you found them."
+  - "Back home, count how many different species you recorded."
+aprendizaje: >
+  Awakens scientific curiosity and careful observation. By recording and sorting what
+  they see, your child learns to notice details, compare, and respect nature.
+variantes: >
+  Repeat the walk in different seasons to compare the changes, or devote each day's
+  page to a single thing, like only leaves or only rocks.
+seguridad: >
+  Don't touch thorny plants, mushrooms, or unfamiliar animals, and wash your hands
+  when you get back home.
+imagen: "6a8-11.png"

@@ -1,0 +1,33 @@
+id: "9a12-04"
+orden: 4
+edad: "9-12"
+tipo: juego
+titulo: "Escape room casero"
+gancho: "Diseña una sala de enigmas en casa y reta a tu familia a escapar."
+duracion: "45-60 min"
+dif_prep: 3
+dif_materiales: 1
+materiales:
+  - "Papel y lápiz"
+  - "Sobres o cajas para esconder pistas"
+  - "Un candado con clave numérica si lo tienen (opcional)"
+  - "Objetos de casa para esconder y usar como pistas"
+  - "Un cronómetro o reloj"
+preparacion: >
+  Elige quién diseña la sala y quién la resolverá; luego pueden cambiar los papeles. El
+  diseñador planea en secreto la cadena de pistas en una pieza segura.
+pasos:
+  - "Decide una historia sencilla: por ejemplo, hay que encontrar la llave para abrir un cofre antes de que se acabe el tiempo."
+  - "Diseña una cadena de enigmas: cada pista resuelta debe llevar a la siguiente. Empieza por el final (el premio) y planifica hacia atrás."
+  - "Crea acertijos variados: una suma cuyo resultado sea un número de candado, un mensaje en código, un objeto escondido, una adivinanza."
+  - "Esconde las pistas por la pieza dentro de sobres, cajas o debajo de objetos. Comprueba tú mismo que la cadena funciona de principio a fin."
+  - "Da la bienvenida a los jugadores, explica la historia y las reglas, y pon el cronómetro en marcha (por ejemplo, 15 minutos)."
+  - "Acompaña dando alguna pista si se atascan. Al terminar, comenten qué enigma fue el más difícil y por qué."
+aprendizaje: >
+  Desarrolla la planificación, el pensamiento lógico y la creatividad. Diseñar para otros
+  obliga a anticipar cómo razonarán los jugadores, lo que fomenta la empatía y el liderazgo
+  del proyecto.
+variantes: >
+  Aumenten la dificultad con pistas que requieran cooperar entre varias personas a la vez.
+  Ambiéntenlo con una temática: detectives, piratas o nave espacial.
+imagen: "9a12-04.png"

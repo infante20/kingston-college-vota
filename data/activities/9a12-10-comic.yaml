@@ -1,0 +1,35 @@
+id: "9a12-10"
+orden: 10
+edad: "9-12"
+tipo: arte
+titulo: "Crea tu propio cómic"
+gancho: "Inventa una historia con viñetas, globos de diálogo y un héroe a tu medida."
+duracion: "45-60 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Hojas de papel"
+  - "Regla y lápiz"
+  - "Goma de borrar"
+  - "Plumones o lápices de colores"
+  - "Lápiz pasta negro para repasar"
+preparacion: >
+  Reúne el material en una mesa con buena luz. Piensa antes en una idea sencilla: un
+  personaje, un problema que debe resolver y un final.
+pasos:
+  - "Define a tu protagonista: cómo es, qué quiere y cuál es su mayor reto. Dibuja varias caras hasta dar con su expresión."
+  - "Escribe el guion en pocas frases dividido en inicio, nudo y desenlace. Decide cuántas viñetas necesitas para contarlo."
+  - "Con la regla, dibuja las viñetas en la hoja. Varía su tamaño: las escenas importantes pueden ocupar una viñeta más grande."
+  - "Boceta a lápiz cada escena y agrega los globos de diálogo y los cuadros de texto. Comprueba que se entiende el orden de lectura."
+  - "Repasa los trazos definitivos con el lápiz pasta negro, borra el lápiz y colorea. Agrega onomatopeyas como «¡BUM!» o «¡ZAS!» para dar fuerza."
+  - "Ponle título y portada. Léelo a tu familia y pídeles su opinión para mejorar la próxima historia."
+aprendizaje: >
+  Une narrativa visual, escritura y dibujo. Estructurar una historia en viñetas entrena la
+  síntesis, la secuencia temporal y la creatividad, y comunicar con imagen y texto a la vez
+  desarrolla el lenguaje visual.
+variantes: >
+  Creen un cómic colaborativo en el que cada persona dibuja una viñeta sin ver del todo la
+  anterior. O conviertan en cómic una anécdota real de su familia.
+seguridad: >
+  Si recortas las hojas para encuadernar el cómic, usa las tijeras con cuidado.
+imagen: "9a12-10.png"

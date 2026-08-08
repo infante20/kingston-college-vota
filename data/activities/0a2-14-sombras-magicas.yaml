@@ -1,0 +1,32 @@
+id: "0a2-14"
+orden: 14
+edad: "0-2"
+tipo: experimento
+titulo: "Sombras mágicas"
+gancho: "Con una linterna y una pared, las manos y los juguetes cobran vida en sombras que aparecen y crecen."
+duracion: "10-15 min"
+dif_prep: 1
+dif_materiales: 1
+materiales:
+  - "Una linterna o la linterna de un teléfono"
+  - "Una pared o sábana clara"
+  - "Algunos juguetes con forma reconocible (un peluche, una cuchara, una pelota)"
+preparacion: >
+  Elige una habitación que puedas dejar en penumbra, sin oscuridad total para que el bebé no
+  se asuste. Apunta la linterna hacia una pared clara o una sábana colgada.
+pasos:
+  - "Sienta o sostén al bebé frente a la pared, contigo a su lado."
+  - "Enciende la linterna y mueve tu mano entre la luz y la pared para crear una sombra."
+  - "Acerca y aleja la mano para que la sombra crezca y se achique, y nombra lo que pasa."
+  - "Pon un juguete frente a la luz y pregunta «¿qué será esa sombra?»."
+  - "Deja que el bebé toque la pared donde está la sombra y descubra que no hay nada que agarrar."
+aprendizaje: >
+  Explora la relación entre luz, objeto y sombra, una primera experiencia de causa-efecto y
+  de cómo la distancia cambia el tamaño. Estimula la atención visual y la curiosidad.
+variantes: >
+  Haz sombras de animales sencillos con las manos, o deja que el bebé que ya camina mueva su
+  propio cuerpo para ver bailar su sombra.
+seguridad: >
+  No apuntes la luz directo a los ojos del bebé. Mantén una luz tenue de fondo para que la
+  penumbra no le genere miedo y acompáñalo en todo momento.
+imagen: "0a2-14.png"

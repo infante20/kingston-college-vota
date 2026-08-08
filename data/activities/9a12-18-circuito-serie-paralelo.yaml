@@ -1,0 +1,37 @@
+id: "9a12-18"
+orden: 18
+edad: "9-12"
+tipo: experimento
+titulo: "Circuitos en serie y en paralelo"
+gancho: "Arma tus propios circuitos y descubre por qué unas ampolletas brillan más que otras."
+duracion: "45-60 min"
+dif_prep: 2
+dif_materiales: 2
+materiales:
+  - "Dos o tres ampolletas pequeñas de linterna con su portalámparas (o ampolletas LED de baja tensión)"
+  - "Una pila grande o una pila de petaca de 4,5 V"
+  - "Cables con pinzas o alambre de cobre"
+  - "Cinta aislante"
+  - "Un interruptor casero (un clip y dos tachuelas sobre cartón) opcional"
+  - "Cuaderno y lápiz pasta para registrar"
+preparacion: >
+  Prepara los cables dejando las puntas peladas para hacer contacto. Si usas alambre, un adulto raspa las
+  puntas. Reúne las ampolletas en sus portalámparas y ten la pila a mano.
+pasos:
+  - "Escribe tu hipótesis: si conectas dos ampolletas en fila, ¿brillarán igual, más o menos que una sola?"
+  - "Arma un circuito en serie: conecta la pila, una ampolleta, luego la otra y de vuelta a la pila, todo en una sola línea. Observa el brillo y anótalo."
+  - "Desconecta una ampolleta del circuito en serie y observa qué pasa con la otra. Registra el resultado."
+  - "Ahora arma un circuito en paralelo: cada ampolleta conectada por separado a los dos polos de la pila. Compara el brillo con el caso anterior."
+  - "Desconecta una ampolleta del circuito en paralelo y observa si la otra sigue encendida. Anota la diferencia con el circuito en serie."
+  - "Escribe tu conclusión: explica en cuál circuito las ampolletas brillan más y en cuál una sigue encendida aunque la otra falle."
+aprendizaje: >
+  En un circuito en serie la corriente pasa por todas las ampolletas en fila, así que si una falla se apagan
+  todas y brillan menos. En paralelo cada ampolleta tiene su propio camino, brillan más y funcionan de forma
+  independiente. Es la razón por la que las casas usan circuitos en paralelo.
+variantes: >
+  Agrega un interruptor casero con un clip para encender y apagar el circuito. Suma una tercera ampolleta y
+  predice cómo cambiará el brillo en cada tipo de circuito antes de probarlo.
+seguridad: >
+  Usa solo pilas, nunca el enchufe de la pared. Si los cables o la pila se calientan, desconéctalos. El
+  raspado de los alambres lo hace un adulto.
+imagen: "9a12-18.png"
